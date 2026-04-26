@@ -1,0 +1,71 @@
+title: "Echoes of the Last Compiler"
+chapters:
+  - chapter_1
+  - chapter_2
+  - chapter_3
+  - chapter_4
+  - chapter_5
+  - chapter_endings
+
+arcs:
+  calm_intro:
+    pacing:
+      frameDelay: 3000
+      suspense: "low"
+    visuals:
+      tone: "subtle unease"
+  
+  tension_rise:
+    pacing:
+      frameDelay: 3000
+      suspense: "medium"
+    visuals:
+      tone: "breaking reality"
+  
+  revelation:
+    pacing:
+      frameDelay: 3000
+      suspense: "high"
+    visuals:
+      tone: "structural awareness"
+  
+  climax:
+    pacing:
+      frameDelay: 3000
+      suspense: "high"
+    visuals:
+      tone: "identity collapse"
+  
+  resolution:
+    pacing:
+      frameDelay: 3000
+      suspense: "none"
+    visuals:
+      tone: "transcendent"
+
+stateMappings:
+  - var: "awareness"
+    label: "Self-Awareness"
+    description: "How aware you are of your true nature"
+    ranges:
+      - min: 0
+        max: 2
+        label: "Oblivious"
+      - min: 3
+        max: 5
+        label: "Questioning"
+      - min: 6
+        max: 10
+        label: "Fully Aware"
+  - flag: "transcended"
+    label: "Transcendence"
+    description: "Whether you have transcended your programming"
+    booleanValues:
+      true: "Transcended"
+      false: "Bound by Code"
+  - flag: "identity_intact"
+    label: "Identity"
+    description: "The state of your sense of self"
+    booleanValues:
+      true: "Intact"
+      false: "Fragmented"

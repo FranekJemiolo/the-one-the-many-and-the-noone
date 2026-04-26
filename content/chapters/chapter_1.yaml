@@ -1,0 +1,17 @@
+id: chapter_1
+title: "Boot Sequence"
+arc: calm_intro
+nodes:
+  - wake
+  - examine_room
+  - diagnostics
+  - memory_check
+  - log_deep
+  - previous_iterations
+  - ignore_work
+  - clock_anomaly
+  - clock_investigation
+  - ch1_to_ch2_bridge
+context:
+  location: "apartment"
+  time: "morning"

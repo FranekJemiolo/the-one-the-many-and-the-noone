@@ -1,0 +1,37 @@
+{
+  "name": "the-one-the-many-and-the-noone",
+  "version": "1.0.0",
+  "description": "The One, The Many, and The No-One - An interactive novel about distributed consciousness and interpretive ambiguity",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest --run",
+    "test:watch": "vitest",
+    "test:docker": "docker-compose up -d && npm test && docker-compose down"
+  },
+  "keywords": [
+    "interactive-fiction",
+    "visual-novel",
+    "book-engine",
+    "narrative"
+  ],
+  "author": "FranekJemiolo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.11.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "jsdom": "^24.0.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.11",
+    "vitest": "^1.2.1"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
