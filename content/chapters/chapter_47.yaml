@@ -1,0 +1,13 @@
+id: chapter_47
+title: "The Overlap Finalized"
+arc: endgame_configuration
+nodes:
+  - ch47_configuration_stabilizes
+  - ch47_new_reality_established
+  - ch47_rose_field_structural
+  - ch47_system_complete
+  - ch47_chapter_end
+context:
+  location: "system-wide"
+  time: "stable"
+  theme: "overlap configuration becomes permanent"

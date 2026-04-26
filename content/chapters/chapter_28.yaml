@@ -1,0 +1,13 @@
+id: chapter_28
+title: "Morrow Vale Machine Evolution"
+arc: system_collapse
+nodes:
+  - ch28_machines_become_living
+  - ch28_ecological_integration
+  - ch28_morrow_transformation
+  - ch28_synthetic_life
+  - ch28_chapter_end
+context:
+  location: "Morrow Vale ecological zone"
+  time: "natural cycle"
+  theme: "machines fully integrate into living memory"

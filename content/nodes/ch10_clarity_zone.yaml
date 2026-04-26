@@ -1,0 +1,21 @@
+id: ch10_clarity_zone
+content:
+  - type: text
+    value: "You enter a Clarity Administration facility. The environment is unusually stable. Too stable. As if ambiguity has been systematically removed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The air feels thin—not physically, but interpretively. There are no multiple versions of anything here. Everything is singular."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not natural. The world outside is full of multiplicity. But here, reality has been compressed into one interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what the Quiet Engine wants. Not just compression in specific cases, but a global environment where singularity is enforced."
+choices:
+  - text: "Observe the singularity enforcement"
+    goto: ch10_singularity_enforcement
+  - text: "Speak with Seraph Kline"
+    goto: ch10_seraph_directive

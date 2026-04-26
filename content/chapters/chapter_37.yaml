@@ -1,0 +1,13 @@
+id: chapter_37
+title: "Null Child Containment"
+arc: identity_crystallization
+nodes:
+  - ch37_null_zone_stabilized
+  - ch37_interpretation_restored
+  - ch37_null_child_adapted
+  - ch37_void_management
+  - ch37_chapter_end
+context:
+  location: "Null Zone"
+  time: "stabilized"
+  theme: "interpretation void becomes manageable"

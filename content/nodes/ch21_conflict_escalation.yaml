@@ -1,0 +1,19 @@
+id: ch21_conflict_escalation
+content:
+  - type: text
+    value: "You observe the conflict escalation. Rose and Nemesis are both operating at maximum capacity in the same zone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The zone is oscillating between multiplicity and singularity. When Rose's field dominates, contradictions coexist. When Nemesis's field dominates, contradictions compress."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This oscillation is creating intense tension. The system is being pulled in two directions simultaneously, and neither side is yielding."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is unsustainable. The oscillation will eventually break. The system will be forced to choose between Rose's coexistence and Nemesis's compression."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch21_chapter_end

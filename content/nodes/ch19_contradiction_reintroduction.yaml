@@ -1,0 +1,19 @@
+id: ch19_contradiction_reintroduction
+content:
+  - type: text
+    value: "The Resistance responds to the Engine's Clarity zone expansion with a counterwave: deliberate contradiction reintroduction."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "In areas where the Engine has established singular interpretation, the Resistance injects alternate explanations that cannot be compressed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not random. The Resistance targets specific zones where the Engine's compression is most aggressive, and introduces contradictions that are designed to be uncompressible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the Resistance's strategy: not by fighting the Engine everywhere, but by strategically reintroducing contradiction where the Engine is trying hardest to eliminate it."
+choices:
+  - text: "Observe the Resistance expansion"
+    goto: ch19_resistance_expansion

@@ -1,0 +1,13 @@
+id: chapter_13
+title: "Morrow Vale Ecology Shift"
+arc: interpretation_systems_emerge
+nodes:
+  - ch13_ecological_zone
+  - ch13_machine_behavior
+  - ch13_living_memory
+  - ch13_morrow_appearance
+  - ch13_chapter_end
+context:
+  location: "Morrow Vale ecological zone"
+  time: "natural cycle"
+  theme: "machines behave like living memory"

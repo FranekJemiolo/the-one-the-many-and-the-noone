@@ -1,0 +1,23 @@
+id: ch3_chapter_end
+content:
+  - type: text
+    value: "Your transport departs Geostation Three. The station recedes in the viewport, continuing its work in multiple timelines simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You look at your own watch. It shows a single sequence. For now. But you know this is a choice, not a necessity. Time could be multiple if you allowed it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cracks are accumulating. Memory divergence. Emotional-causal split. Temporal instability. Reality is not just broken—it is reconfiguring itself into something plural."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You don't know what the next crack will be. But you know it's coming. The pattern is clear: each anomaly reveals a new way reality can be multiple."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The question is no longer whether reality is singular. The question is how many versions it can sustain before the system cannot hold them all."
+choices:
+  - text: "Continue to Chapter 4"
+    goto: chapter_4

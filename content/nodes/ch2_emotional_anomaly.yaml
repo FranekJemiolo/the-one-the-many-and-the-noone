@@ -1,0 +1,27 @@
+id: ch2_emotional_anomaly
+content:
+  - type: text
+    value: "The medical facility is quiet. Too quiet. As if the silence has been arranged rather than occurring naturally."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You are here because of a patient. Their physical condition is stable. Their emotional state is... not wrong, exactly. Just mismatched."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The records show: minor injury, routine treatment, expected recovery. Factual. Correct. Unremarkable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the patient reports something different. Not in the facts of what happened. In how it felt. The emotional sequence does not match the causal sequence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the second anomaly. First: memory divergence. Now: emotional misalignment. Reality is not just producing multiple pasts. It's producing incompatible feelings about the same present."
+choices:
+  - text: "Examine the patient directly"
+    goto: ch2_patient_encounter
+  - text: "Review the factual records first"
+    goto: ch2_factual_correctness
+    set:
+      aleksy_dominance: 1

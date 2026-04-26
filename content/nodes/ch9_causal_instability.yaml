@@ -1,0 +1,23 @@
+id: ch9_causal_instability
+content:
+  - type: text
+    value: "You sit with the causal instability. The investigation cannot produce a single sequence because the data contains multiple valid sequences."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Seraph Kline waits for your decision. She is not interested in truth. She is interested in system stability. The Engine requires singular causality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the conflict in microcosm. The Resistance wants multiplicity. The Engine wants singularity. You are caught between them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You write in your notebook: 'Causal breakdown confirmed. Investigation method fails when data contains multiple valid sequences. Seraph Kline enforces singular causality for system stability.'"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the end of Aleksy's dominance. Causal investigation can no longer resolve reality. The world has become too multiple for single sequences."
+choices:
+  - text: "Conclude the investigation"
+    goto: ch9_chapter_end

@@ -1,0 +1,19 @@
+id: ch30_engine_fails_to_control
+content:
+  - type: text
+    value: "You observe that the Engine fails to control the system. The Engine's compression is still operating, but it is no longer dominant."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine can enforce singular interpretation in its layer, but it cannot eliminate the multiplicity layer. Both layers operate simultaneously, and the Engine cannot access or control the multiplicity layer."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a defeat for the Engine. The Engine's layer is still functioning. But the Engine can no longer claim to control the entire system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what the Resistance has achieved. Not by destroying the Engine, but by creating a multiplicity layer that the Engine cannot control but that functions perfectly well alongside it."
+choices:
+  - text: "Observe the new stability"
+    goto: ch30_new_stability

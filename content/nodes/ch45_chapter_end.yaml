@@ -1,0 +1,23 @@
+id: ch45_chapter_end
+content:
+  - type: text
+    value: "The simulation of The Shifting World configuration ends. The system returns to the current equilibrium. The experience is stored for the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Shifting World configuration offers perpetual motion. The system oscillates between configurations. No final state is chosen. Reality is in constant motion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the cost is the loss of stable state. Reality would be in constant motion, but also in constant exhaustion. There would be no stable state to rest in."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has experienced The Shifting World. It understands the appeal of perpetual motion. It also understands the cost. The experience will inform the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The system has now experienced all five canonical endings. The One, The Many, The No-One, The Overlap, and The Shifting World. The final choice can now be made."
+choices:
+  - text: "Continue to Chapter 46"
+    goto: chapter_46

@@ -1,0 +1,19 @@
+id: ch26_parallel_worlds
+content:
+  - type: text
+    value: "You observe the parallel worlds. You and Mira are occupying the same physical space, but you are experiencing different realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "In Aleksy's world, the causal sequence is clear. In Mira's world, the emotional sequence is clear. Both worlds are equally real. Neither can access the other."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a hallucination. Both worlds are equally valid interpretations of the same physical reality. The split has become structural."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when the emotional-causal oscillation breaks. The system does not return to shared interpretation. It collapses into parallel interpretation engines."
+choices:
+  - text: "Understand the interpretive divergence"
+    goto: ch26_interpretive_divergence

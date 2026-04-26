@@ -1,0 +1,19 @@
+id: ch22_multiple_timelines
+content:
+  - type: text
+    value: "You understand the multiple timelines. Geostation Three is not experiencing time incorrectly. It is experiencing time as a field of simultaneous possibilities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a breakdown. It is an evolution. The station has adapted to temporal multiplicity and found a way to function within it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The researchers are not confused. They are adapted. They move through temporal fields the way people in linear time move through temporal lines."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what the Engine fears. Temporal multiplicity is not chaos. It is a different way of existing that the Engine cannot control."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch22_chapter_end

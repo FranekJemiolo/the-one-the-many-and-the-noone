@@ -1,0 +1,19 @@
+id: ch30_new_stability
+content:
+  - type: text
+    value: "You observe the new stability. The system is not collapsing. It is operating in a new configuration with multiple incompatible layers."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's layer provides singular stability. The Resistance's layer provides plural stability. Both are operating simultaneously. The system is stable in a new way."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not chaos. This is plural stability. The system has proven that multiplicity can be stable without requiring singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos. The system has proven that multiplicity can be stable."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch30_chapter_end

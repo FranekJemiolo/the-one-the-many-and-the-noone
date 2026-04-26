@@ -1,0 +1,19 @@
+id: ch12_temporal_anomaly
+content:
+  - type: text
+    value: "You observe the temporal anomaly. The zone is not physically unstable, but temporally fluid. Events are not happening in sequence—they are happening in overlapping layers."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Someone approaches. Not from the past or future, but from the overlapping layers where time is not linear."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Kai Rosen. A future leak node. He exists in the temporal boundary where the future bleeds into the present as memory."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"You are remembering the future,\" Kai says. \"This is not a malfunction. This is what happens when temporal boundaries dissolve. The future is no longer ahead of you. It is already present.\""
+choices:
+  - text: "Speak with Kai Rosen"
+    goto: ch12_kai_appearance

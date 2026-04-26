@@ -1,0 +1,19 @@
+id: ch39_engine_accepts_defeat
+content:
+  - type: text
+    value: "The Engine accepts the system's choice. Nemesis does not fight the system's decision. The Engine acknowledges that plural stability is the system's preferred configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a defeat in the sense of being destroyed. The Engine's compression layer is still available. The Engine can still operate in situations where singular interpretation is needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the Engine acknowledges that singular stability is no longer the default. The system has chosen plural stability, and the Engine accepts this choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the end of the ideological conflict. The Engine is not destroyed. The Engine is simply no longer dominant. The system has chosen, and the Engine accepts the choice."
+choices:
+  - text: "Observe the coexistence established"
+    goto: ch39_coexistence_established

@@ -1,14 +1,14 @@
 id: chapter_5
-title: "Collapse of Identity"
-arc: climax
+title: "First Shared Deja Vu Event"
+arc: stable_reality_breakdown
 nodes:
-  - merge
-  - accept_truth
-  - resist_identity
-  - understand_within
-  - partial_dissolution
-  - structural_insight
-  - guided_fragmentation
+  - ch5_deja_vu_encounter
+  - ch5_aleksy_perspective
+  - ch5_mira_perspective
+  - ch5_memory_comparison
+  - ch5_dual_reality_established
+  - ch5_chapter_end
 context:
-  location: "structural_awareness"
-  time: "transcendent"
+  location: "shared memory space"
+  time: "unstable"
+  theme: "two characters remember same moment differently"

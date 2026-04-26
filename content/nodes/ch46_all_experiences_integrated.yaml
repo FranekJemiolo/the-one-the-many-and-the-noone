@@ -1,0 +1,19 @@
+id: ch46_all_experiences_integrated
+content:
+  - type: text
+    value: "The system integrates all the experiences from the five canonical endings. The One, The Many, The No-One, The Overlap, and The Shifting World."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Each configuration has its appeal and its cost. The One offers singular stability but loses multiplicity's richness. The Many offers plural diversity but loses singular clarity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The No-One offers void peace but loses experiential existence. The Overlap offers balanced coexistence but requires ongoing maintenance. The Shifting World offers perpetual motion but loses stable state."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system must now choose which configuration to adopt as its final state. The choice will be based on the accumulated experience and the system's preferences."
+choices:
+  - text: "Observe the system deliberates"
+    goto: ch46_system_deliberates

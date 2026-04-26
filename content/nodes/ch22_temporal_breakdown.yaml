@@ -1,0 +1,19 @@
+id: ch22_temporal_breakdown
+content:
+  - type: text
+    value: "You observe the temporal breakdown. The station is not functioning normally, but it is not collapsing either. It is adapting to non-linear time."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Researchers complete experiments before they begin. The Guard checkpoints passengers who haven't arrived yet. The station operates in a temporal field rather than a temporal line."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not chaos. The station has found a way to function with time as a field. But it is fundamentally different from linear time operation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when temporal oscillation breaks. The system does not return to linearity. It collapses into a new state where time is a field."
+choices:
+  - text: "Observe the station fragmentation"
+    goto: ch22_station_fragmentation

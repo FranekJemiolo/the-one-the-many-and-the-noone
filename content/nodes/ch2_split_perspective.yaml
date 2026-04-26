@@ -1,0 +1,23 @@
+id: ch2_split_perspective
+content:
+  - type: text
+    value: "You sit with the realization. The facts are correct. The feelings are wrong. Both are true simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a contradiction. It's a split. Causal reality follows one sequence. Emotional reality follows another. They do not need to agree."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Patient watches you. They seem relieved that you understand. Not that you agree—just that you can hold both sequences without forcing them to reconcile."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You write in your notebook: 'Emotional and causal timelines are independent systems. Divergence is not error. It is structural.'"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the second crack. First: memory divergence. Now: emotional-causal split. Reality is not just producing multiple pasts. It's producing multiple ways of experiencing the same present."
+choices:
+  - text: "Conclude the examination"
+    goto: ch2_chapter_end

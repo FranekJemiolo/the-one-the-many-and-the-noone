@@ -1,0 +1,19 @@
+id: ch33_movement_pattern
+content:
+  - type: text
+    value: "You observe the movement pattern. The multiple versions of the Passenger are beginning to require a name for compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system cannot efficiently refer to \"Passenger A, Passenger B, Passenger C\" indefinitely. It needs a compressed identifier for the pattern."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Passenger's signature—moving through the system, experiencing transit, adapting to trajectory multiplicity—becomes the identity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The proto-name is \"Drift.\" Not because the Passenger moves randomly, but because the Passenger moves along multiple trajectories across the multiplicity system. Drift is the pattern of trajectory adaptation that repeats across incompatible interpretations."
+choices:
+  - text: "Observe the Drift crystallization"
+    goto: ch33_drift_crystallization

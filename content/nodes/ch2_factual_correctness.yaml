@@ -1,0 +1,25 @@
+id: ch2_factual_correctness
+content:
+  - type: text
+    value: "You review the medical records. Every detail is precise: time of injury, nature of wound, treatment administered, recovery timeline."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "There is no ambiguity. The facts are correct. The causal chain is clean. From a purely logical perspective, nothing is wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the Patient's emotional account persists. Not as a contradiction to the facts, but as a parallel layer that doesn't align with them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize something unsettling: factual correctness does not guarantee emotional correctness. An event can be true in fact and wrong in feeling simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This breaks the assumption that emotion follows causality. If feelings can have their own timeline, then emotional truth is not dependent on factual truth."
+choices:
+  - text: "Explore the emotional wrongness"
+    goto: ch2_emotional_wrongness
+  - text: "Accept the split and document it"
+    goto: ch2_split_perspective

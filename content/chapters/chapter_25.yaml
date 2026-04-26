@@ -1,0 +1,13 @@
+id: chapter_25
+title: "Passenger Drift Reality"
+arc: system_collapse
+nodes:
+  - ch25_movement_no_destination
+  - ch25_transit_breakdown
+  - ch25_passenger_fragmentation
+  - ch25_trajectory_multiplicity
+  - ch25_chapter_end
+context:
+  location: "transit system"
+  time: "unstable"
+  theme: "movement no longer guarantees destination consistency"

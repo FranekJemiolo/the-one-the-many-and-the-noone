@@ -1,0 +1,19 @@
+id: ch31_guard_multiple_checkpoints
+content:
+  - type: text
+    value: "The Guard is appearing at multiple checkpoints simultaneously. Like the Witness, the Guard has fragmented into multiple versions under system collapse pressure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Guard A is at checkpoint 14:03. Guard B is at checkpoint 14:05. Guard C is at both checkpoints simultaneously. All are the same Guard, but all are different versions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Guard's function is consistent across all versions: controlling access, maintaining security, enforcing boundaries. But the specific implementation varies across the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the next identity crystallization. The Guard is following the same pattern as the Witness: fragmentation under pressure, then crystallization into a named multiplicity."
+choices:
+  - text: "Observe the identity pressure"
+    goto: ch31_identity_pressure

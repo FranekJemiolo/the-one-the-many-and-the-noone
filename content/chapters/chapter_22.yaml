@@ -1,0 +1,13 @@
+id: chapter_22
+title: "Geostation Collapse Event"
+arc: system_collapse
+nodes:
+  - ch22_time_no_longer_linear
+  - ch22_temporal_breakdown
+  - ch22_station_fragmentation
+  - ch22_multiple_timelines
+  - ch22_chapter_end
+context:
+  location: "Geostation Three"
+  time: "collapsed"
+  theme: "time no longer linear locally"

@@ -1,0 +1,13 @@
+id: chapter_36
+title: "Nemesis Final Attempt"
+arc: identity_crystallization
+nodes:
+  - ch36_unification_event_begins
+  - ch36_compression_maximum
+  - ch36_system_resistance
+  - ch36_nemesis_fails
+  - ch36_chapter_end
+context:
+  location: "system-wide"
+  time: "critical"
+  theme: "Nemesis attempts final unification"

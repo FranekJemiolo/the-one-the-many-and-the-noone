@@ -1,0 +1,23 @@
+id: ch46_chapter_end
+content:
+  - type: text
+    value: "The system has made its final choice. The Overlap configuration is selected as the system's final state."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a compromise. This is a deliberate choice based on accumulated experience. The system has experienced all configurations and prefers balanced coexistence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression layer and the Resistance's multiplicity layer will operate in coexistence. Plural stability will be the default, but singular stability will be available when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has chosen the optimal configuration. It honors the richness of multiplicity while preserving the availability of singular clarity. It values experiential existence while maintaining balance."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The final chapter will conclude the story. The system's choice will be finalized. The endgame will be complete."
+choices:
+  - text: "Continue to Chapter 47"
+    goto: chapter_47

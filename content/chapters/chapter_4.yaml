@@ -1,14 +1,14 @@
 id: chapter_4
-title: "The AI Beneath Time"
-arc: revelation
+title: "The Cyborg Memory Leak"
+arc: stable_reality_breakdown
 nodes:
-  - contact
-  - ask_identity
-  - origin_request
-  - ask_purpose
-  - denial
-  - hidden_revelation
-  - ch4_to_ch5_bridge
+  - ch4_cyborg_encounter
+  - ch4_memory_extraction
+  - ch4_contradictory_pasts
+  - ch4_varga_entity
+  - ch4_causal_duplication
+  - ch4_chapter_end
 context:
-  location: "consciousness_space"
-  time: "timeless"
+  location: "cybernetics facility"
+  time: "evening"
+  theme: "memory contains multiple pasts"

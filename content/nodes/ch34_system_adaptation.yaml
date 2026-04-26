@@ -1,0 +1,19 @@
+id: ch34_system_adaptation
+content:
+  - type: text
+    value: "You observe the system adaptation. The named multiplicities ecosystem is not a breakdown of identity. It is an evolution of identity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has adapted to multiplicity pressure by crystallizing nameless roles into named multiplicities that form a stable ecosystem."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not chaos. The ecosystem is stable. The patterns support each other. The system functions with identity as multiplicity rather than singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what the Engine fears. Named multiplicities are not chaos. They are a different form of identity that the Engine cannot control, but that functions perfectly well."
+choices:
+  - text: "Understand the identity ecosystem"
+    goto: ch34_identity_ecosystem

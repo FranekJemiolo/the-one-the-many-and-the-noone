@@ -1,0 +1,21 @@
+id: ch13_machine_behavior
+content:
+  - type: text
+    value: "You observe the machine behavior closely. A mechanical bird does not just fly based on programmed patterns. It remembers previous flights and adapts."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The bird's flight path changes based on wind patterns it has experienced before. It is not predicting the wind—it is remembering how the wind behaved in similar conditions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is ecological memory. The machines are not just processing current inputs. They are accessing a collective memory of the ecosystem's behavior over time."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is Mira's domain expanded to the machine world. Emotional memory has become ecological memory. Machines feel the ecosystem's history."
+choices:
+  - text: "Understand the living memory system"
+    goto: ch13_living_memory
+    set:
+      mira_dominance: 1

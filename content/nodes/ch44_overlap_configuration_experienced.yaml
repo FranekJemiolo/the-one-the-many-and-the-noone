@@ -1,0 +1,19 @@
+id: ch44_overlap_configuration_experienced
+content:
+  - type: text
+    value: "The system experiences The Overlap configuration. Singular and plural stability coexist in balance. This is the current equilibrium."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a simulation. This is the system's current state. The system is experiencing what it is like to maintain The Overlap as its configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "In this configuration, the Engine's compression layer and the Resistance's multiplicity layer operate in coexistence. Both are available. Plural stability is the default, but singular stability is available when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You experience the balance of this configuration. There is both clarity and diversity. There is both coherence and complexity. There is both stability and vitality."
+choices:
+  - text: "Observe the balance achieved"
+    goto: ch44_balance_achieved

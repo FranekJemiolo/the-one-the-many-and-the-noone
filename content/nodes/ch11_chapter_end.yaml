@@ -1,0 +1,23 @@
+id: ch11_chapter_end
+content:
+  - type: text
+    value: "You leave the memory sanctuary. The contradictory memories remain inside, coexisting without conflict."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Sister Lys continues her work. She is not fighting the Engine's compression. She is providing an alternative: stabilization instead of elimination."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the Resistance's method in practice. Not by attacking singularity, but by building spaces where multiplicity can exist without collapsing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The sanctuary is a microcosm of what the world could be if Rose's field became dominant: contradictory truths coexisting without conflict, complexity preserved instead of reduced."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is another piece of the puzzle. The Engine wants compression. Sister Lys offers stabilization. The conflict is between two different ways of handling multiplicity."
+choices:
+  - text: "Continue to Chapter 12"
+    goto: chapter_12

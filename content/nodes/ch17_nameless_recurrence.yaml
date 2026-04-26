@@ -1,0 +1,19 @@
+id: ch17_nameless_recurrence
+content:
+  - type: text
+    value: "You begin to notice a pattern. The same nameless roles are appearing across different interpretation zones."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Witness appears in multiple locations. The Guard appears at different checkpoints. The Teacher appears in various educational settings."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "These are not the same individuals. They are nameless roles that are recurring across incompatible interpretations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the beginning of identity crystallization. Nameless functions are becoming patterns that repeat across the multiplicity system."
+choices:
+  - text: "Observe the pattern formation"
+    goto: ch17_pattern_formation

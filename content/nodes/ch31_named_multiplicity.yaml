@@ -1,0 +1,19 @@
+id: ch31_named_multiplicity
+content:
+  - type: text
+    value: "You understand the named multiplicity. Barrier is not a singular entity. Barrier is a pattern of boundary enforcement that contains multiple versions simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the second named entity to emerge from the nameless role pool. Echo (Witness) and Barrier (Guard) are now stable patterns in the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the future of identity in the multiplicity system. Identity will not be singular. Identity will be multiplicity patterns that have crystallized into named forms."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Engine cannot control Barrier because Barrier is not a singular entity. Barrier is a pattern of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch31_chapter_end

@@ -1,0 +1,25 @@
+id: ch6_koval_appearance
+content:
+  - type: text
+    value: "The report was written by Dr. Irene Koval. You have not met her before, but her name appears in connection with controlled distortion events."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You find her in the administrative wing. She is not what you expect—not a scientist, but someone who understands that truth is a variable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The explanation is clean because it needs to be,\" Dr. Koval says. \"Complex anomalies destabilize the system. Compression restores stability.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You ask about accuracy. She considers this irrelevant. \"The explanation is not about what actually happened. It is about what the system can tolerate.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the first time someone has admitted to intentionally distorting truth for system stability. Dr. Koval is not lying—she is managing reality."
+choices:
+  - text: "Analyze the compression pressure"
+    goto: ch6_compression_pressure
+  - text: "Understand the Engine's influence"
+    goto: ch6_engine_influence

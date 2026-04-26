@@ -1,0 +1,25 @@
+id: ch5_aleksy_perspective
+content:
+  - type: text
+    value: "You approach the problem causally. If two people remember the same moment differently, one of them must be wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You reconstruct the sequence: light changes, you respond about time. This is the logical chain. Light change precedes time reference. Causality is preserved."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But Mira's memory is equally coherent: feeling of room, you respond about emotional weight. This is also a logical chain. Feeling precedes emotional reference."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The problem is not that one memory is wrong. The problem is that both memories are causally consistent within their own frameworks."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is not a memory error. It is a causal divergence. The same moment produced two different causal chains, and both are equally valid."
+choices:
+  - text: "Compare with Mira's emotional perspective"
+    goto: ch5_mira_perspective
+  - text: "Compare the memories directly"
+    goto: ch5_memory_comparison

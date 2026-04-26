@@ -1,0 +1,23 @@
+id: ch40_chapter_end
+content:
+  - type: text
+    value: "You observe the system ready for the endgame. The five canonical endings are available configurations. The system has the agency to choose its final state."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the end of Part IV. Identity crystallization is complete. The system has adapted to multiplicity. The choice has been made. The endgame approaches."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The next chapters will explore each canonical ending in detail. The system will experience each configuration and make its final choice based on that experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the true nature of the endgame. The system is not being forced into a configuration. The system is choosing its own final state based on its experience and preferences."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Part V begins. The endgame will determine the ultimate configuration of reality. The system will choose between The One, The Many, The No-One, The Overlap, and The Shifting World."
+choices:
+  - text: "Continue to Chapter 41"
+    goto: chapter_41

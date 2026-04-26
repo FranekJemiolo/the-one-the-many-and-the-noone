@@ -1,0 +1,25 @@
+id: ch6_compression_pressure
+content:
+  - type: text
+    value: "You analyze the compression pressure. It is not coming from Dr. Koval. It is coming from something deeper in the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The pressure is subtle: a cognitive bias toward simple explanations, a comfort with singular narratives, a resistance to ambiguity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is not a natural human tendency. It is being amplified. Something is actively biasing consciousness toward interpretive compression."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the Quiet Engine's first visible effect. Not as a direct action, but as a pressure that makes certain interpretations feel more comfortable than others."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The danger is not that the Engine is forcing reality. The danger is that it is making reality feel like it should be singular, when it is actually multiple."
+choices:
+  - text: "Understand the Engine's influence"
+    goto: ch6_engine_influence
+    set:
+      nemesis_compression: 1

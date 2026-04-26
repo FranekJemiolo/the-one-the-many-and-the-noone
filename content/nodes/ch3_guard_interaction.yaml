@@ -1,0 +1,29 @@
+id: ch3_guard_interaction
+content:
+  - type: text
+    value: "The Guard stands at the checkpoint. They are not a person in the traditional sense—they are a function of the station's security system that happens to have a face."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"Everything is functioning correctly,\" the Guard says. The statement is true. It is also incomplete."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about the time anomaly. The Guard considers this. Not as a problem, but as a feature."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"Time is not broken,\" the Guard says. \"It is simply being measured by different observers who are experiencing different sequences.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the first time someone has described the anomaly not as a malfunction, but as a valid state. The Guard does not see the clocks as wrong. They see them as differently correct."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is how the station continues to operate. The staff are not ignoring the time instability. They are adapting to it by experiencing different sequences simultaneously."
+choices:
+  - text: "Review researcher reports"
+    goto: ch3_researcher_reports
+  - text: "Conclude the investigation"
+    goto: ch3_temporal_instability

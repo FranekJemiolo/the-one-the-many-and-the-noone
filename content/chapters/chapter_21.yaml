@@ -1,0 +1,13 @@
+id: chapter_21
+title: "Rose vs Nemesis Conflict"
+arc: system_collapse
+nodes:
+  - ch21_coexistence_battle
+  - ch21_rose_stabilization
+  - ch21_nemesis_compression
+  - ch21_conflict_escalation
+  - ch21_chapter_end
+context:
+  location: "contradiction zone"
+  time: "unstable"
+  theme: "coexistence vs compression battle begins"

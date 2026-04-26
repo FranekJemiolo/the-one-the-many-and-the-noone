@@ -1,0 +1,19 @@
+id: ch36_nemesis_fails
+content:
+  - type: text
+    value: "You observe that Nemesis fails. The unification event cannot succeed because the system itself is resisting the compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The structural coherence field is too strong. The system has adapted to plural stability and now actively prefers it. Nemesis's maximum compression cannot overcome the system's choice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a defeat for Nemesis. This is a validation of the system's preference. The system has experienced both singular and plural stability, and it has chosen plural stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the final proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos. The system has proven that plural stability is not only possible, but preferable."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch36_chapter_end

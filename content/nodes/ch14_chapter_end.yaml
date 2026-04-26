@@ -1,0 +1,23 @@
+id: ch14_chapter_end
+content:
+  - type: text
+    value: "You leave the administrative facility. Dr. Koval's controlled falsehood remains in the system, providing stability while the truth waits in the background."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is a dangerous method. If the falsehoods become permanent, the truth will be lost. But Dr. Koval is careful. She maintains the truth as an inactive layer."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is how the Resistance can work within the Engine's constraints. Not by fighting compression directly, but by providing controlled compression that preserves multiplicity in the background."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The interpretation engines are becoming clearer. The Engine wants compression. Dr. Koval provides controlled compression. The Resistance preserves truth in the background."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The conflict is not between truth and falsehood. It is between which interpretation is allowed to be active. The Engine chooses simplicity. The Resistance preserves complexity."
+choices:
+  - text: "Continue to Chapter 15"
+    goto: chapter_15

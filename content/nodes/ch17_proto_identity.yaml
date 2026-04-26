@@ -1,0 +1,19 @@
+id: ch17_proto_identity
+content:
+  - type: text
+    value: "You understand the proto-identity formation. The Witness is not yet a named entity, but the role is becoming stable enough to be recognized across contexts."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the second phase of identity crystallization. First, functional existence as a nameless role. Then, recursive re-appearance across contexts. Now, proto-identity formation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The next phase would be contextual name emergence—the moment when the role becomes stable enough to require a name for compression."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is how the multiplicity system generates identity. Not by assigning names, but by crystallizing patterns that become stable enough to be named."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch17_chapter_end

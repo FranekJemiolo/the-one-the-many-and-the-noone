@@ -1,0 +1,19 @@
+id: ch43_null_child_dominance
+content:
+  - type: text
+    value: "You observe the Null Child dominance. In The No-One configuration, the Null Child is completely dominant. All interpretation has failed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Null Child's domain is the only state. There is no alternative. There is no choice. There is only void."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is what the Null Zone represents. Complete absence of interpretation. Complete dissolution of meaning. Complete collapse of identity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "But you also sense something terrifying. There is no experience at all. There is no self. There is no reality to experience. There is only nothingness."
+choices:
+  - text: "Observe the cost of no-one"
+    goto: ch43_cost_of_no_one

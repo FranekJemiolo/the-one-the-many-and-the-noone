@@ -1,0 +1,19 @@
+id: ch35_rose_adaptation
+content:
+  - type: text
+    value: "Rose adapts to the expansion. The coherence field is no longer a local intervention. It is becoming a structural feature of the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The system is learning to stabilize contradictions,\" Rose says. \"This is not my power expanding. This is the system adopting my method as a general capability.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Rose is not becoming more powerful. Rose is becoming less necessary. The system is internalizing the coherence field so that contradictions can coexist without requiring Rose's direct intervention."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the goal of the Resistance. Not to make Rose dominant, but to make Rose's method structural. The system should be able to stabilize contradictions without requiring Rose to be present."
+choices:
+  - text: "Understand the plural stability"
+    goto: ch35_plural_stability

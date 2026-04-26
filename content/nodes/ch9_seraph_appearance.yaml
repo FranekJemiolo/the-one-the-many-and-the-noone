@@ -1,0 +1,27 @@
+id: ch9_seraph_appearance
+content:
+  - type: text
+    value: "Someone enters the investigation zone. Not a researcher. Not a technician. Someone who represents the enforcement layer."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Seraph Kline. Clarity Administration. Her presence is not accidental. She is here because causal instability has been detected."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The sequence must be resolved,\" Seraph says. \"Multiple causal chains are not acceptable. Choose one. Eliminate the others.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You explain that the data contains multiple valid sequences. Seraph does not care. \"The system requires a single sequence. Choose one. The others will be suppressed.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the first time you have encountered direct enforcement of singular causality. Seraph is not asking for truth. She is asking for system compatibility."
+choices:
+  - text: "Refuse to choose a single sequence"
+    goto: ch9_causal_instability
+  - text: "Comply with the enforcement"
+    goto: ch9_causal_instability
+    set:
+      nemesis_compression: 2

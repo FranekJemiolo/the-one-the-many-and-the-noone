@@ -1,0 +1,23 @@
+id: ch6_engine_influence
+content:
+  - type: text
+    value: "You sit with the realization. The Quiet Engine is not acting directly. It is influencing which interpretations feel comfortable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Dr. Koval's clean explanation is not the truth. It is the version of truth that the system can tolerate. The Engine is biasing consciousness toward compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is more dangerous than direct control. If the Engine can make singular reality feel natural, then multiplicity will feel like error—even when it is accurate."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You write in your notebook: 'Compression pressure detected. System is biasing interpretation toward singular narratives. This is not natural cognitive tendency. This is engineered.'"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the first glimpse of the Quiet Engine. It is not a villain. It is a force that makes one interpretation feel inevitable, even when reality is multiple."
+choices:
+  - text: "Conclude the investigation"
+    goto: ch6_chapter_end

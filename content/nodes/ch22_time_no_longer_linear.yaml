@@ -1,0 +1,19 @@
+id: ch22_time_no_longer_linear
+content:
+  - type: text
+    value: "You return to Geostation Three. The temporal instability has progressed beyond oscillation. Time is no longer linear locally."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The clocks are not just showing different sequences. They are showing all sequences simultaneously. 14:03, 14:04, 14:05—all present at once."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a display malfunction. Time itself has ceased to be linear in this zone. Past, present, and future are coexisting without sequence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The researchers are still working, but they are experiencing time as a field rather than a line. They move through moments without a fixed order."
+choices:
+  - text: "Observe the temporal breakdown"
+    goto: ch22_temporal_breakdown

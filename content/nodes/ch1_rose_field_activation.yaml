@@ -1,0 +1,25 @@
+id: ch1_rose_field_activation
+content:
+  - type: text
+    value: "Something shifts in the room. Not physically. But the tension between the contradictory memories feels suddenly less sharp."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You don't notice it at first. It's not that the disagreement disappears. It's that it becomes survivable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Witness continues speaking, but now their words feel like they belong in the same sentence as the other witness's account. Not reconciled—coexisting."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is more dangerous than contradiction. If incompatible truths can coexist without collapse, then reality has no obligation to choose."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the first time you feel it: a field that stabilizes contradiction rather than resolving it. You don't have a name for it yet. But you will."
+choices:
+  - text: "Document the anomaly and conclude the investigation"
+    goto: ch1_chapter_end
+    set:
+      rose_coherence: 2

@@ -1,0 +1,19 @@
+id: ch41_cost_of_oneness
+content:
+  - type: text
+    value: "You observe the cost of oneness. In The One configuration, reality is completely singular, but the richness of multiplicity is gone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "There is no ambiguity, but there is also no complexity. There is no contradiction, but there is also no diversity. There is no tension, but there is also no vitality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The One configuration is stable, but it is also sterile. Reality has lost its multiplicity, and with it, its richness and diversity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the cost of the Engine's ideal. Singular stability comes at the cost of multiplicity's richness. The system would be stable, but it would also be impoverished."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch41_chapter_end

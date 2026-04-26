@@ -1,0 +1,23 @@
+id: ch10_chapter_end
+content:
+  - type: text
+    value: "You leave the Clarity Administration facility. The environment returns to normal—or what passes for normal in a world of multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Seraph Kline continues her work. She is not malicious. She genuinely believes that singularity is necessary for stability. But she is wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's ideology is based on a false premise. Multiplicity does not lead to chaos. The Resistance proves that multiplicity can be stable. Rose proves that contradiction can coexist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the conflict is not between order and chaos. It is between two different kinds of order: singular order and plural order."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Engine wants singular order. The Resistance wants plural order. Both are valid forms of stability. The Engine just refuses to acknowledge the plural option."
+choices:
+  - text: "Continue to Chapter 11"
+    goto: chapter_11

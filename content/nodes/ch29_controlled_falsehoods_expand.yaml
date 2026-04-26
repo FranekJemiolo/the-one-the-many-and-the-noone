@@ -1,0 +1,19 @@
+id: ch29_controlled_falsehoods_expand
+content:
+  - type: text
+    value: "You observe that Dr. Koval's controlled falsehoods have expanded from a local technique to a system architecture."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system is now operating on multiple layers simultaneously. The active layer is a controlled falsehood that provides stability. The background layer contains the truth that the falsehood is based on."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not deception. The system is aware of the falsehood. The falsehood is a chosen interpretation that allows the system to function while preserving the truth in the background."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what happens when the Engine's compression pressure becomes overwhelming. The system adapts by layering interpretations rather than choosing one."
+choices:
+  - text: "Observe the truth layers"
+    goto: ch29_truth_layers

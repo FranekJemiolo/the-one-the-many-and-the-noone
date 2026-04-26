@@ -1,0 +1,13 @@
+id: chapter_8
+title: "Emotional Drift Loop"
+arc: interpretation_systems_emerge
+nodes:
+  - ch8_journey_begins
+  - ch8_passenger_encounter
+  - ch8_emotional_inconsistency
+  - ch8_time_feels_wrong
+  - ch8_chapter_end
+context:
+  location: "transit system"
+  time: "unstable"
+  theme: "time feels emotionally inconsistent"

@@ -1,0 +1,19 @@
+id: ch29_interpretive_architecture
+content:
+  - type: text
+    value: "You understand the interpretive architecture. The system is not choosing between truth and falsehood. It is layering them into a multi-level structure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The active layer operates the system. The background layer preserves truth. Both layers are accessible. The system can switch between them when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a compromise. It is an evolution of interpretation. The system has adapted to compression pressure by creating a layered architecture that preserves multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what the Engine fears. Layered interpretation is not chaos. It is a different way of operating that the Engine cannot control, but that functions perfectly well."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch29_chapter_end

@@ -1,0 +1,19 @@
+id: ch43_cost_of_no_one
+content:
+  - type: text
+    value: "You observe the cost of no-one. In The No-One configuration, reality is completely void, but the richness of experience is gone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "There is no tension, but there is also no experience. There is no contradiction, but there is also no meaning. There is no instability, but there is also no reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The No-One configuration is peaceful, but it is also nonexistent. Reality has lost its interpretation, and with it, its existence as experience."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the cost of the Null Zone's ideal. Void peace comes at the cost of experiential existence. The system would be peaceful, but it would also be nonexistent."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch43_chapter_end

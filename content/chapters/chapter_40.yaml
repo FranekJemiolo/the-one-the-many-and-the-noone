@@ -1,0 +1,13 @@
+id: chapter_40
+title: "Endgame Configuration Begins"
+arc: identity_crystallization
+nodes:
+  - ch40_five_canonical_endings_emerge
+  - ch40_system_ready_for_choice
+  - ch40_final_configuration_options
+  - ch40_endgame_approaches
+  - ch40_chapter_end
+context:
+  location: "system-wide"
+  time: "critical"
+  theme: "five canonical endings become available"

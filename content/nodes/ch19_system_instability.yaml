@@ -1,0 +1,19 @@
+id: ch19_system_instability
+content:
+  - type: text
+    value: "You observe the system instability. The Engine's compression and the Resistance's contradiction injection are creating zones of intense conflict."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "In these zones, reality oscillates between singular and multiple interpretations. The Engine establishes singularity, the Resistance injects contradiction, and the cycle repeats."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not collapse. This is tension. The system is holding multiple incompatible states simultaneously, oscillating between them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when two interpretation systems compete. The system does not choose one. It oscillates between both."
+choices:
+  - text: "Understand the divergence injection"
+    goto: ch19_divergence_injection

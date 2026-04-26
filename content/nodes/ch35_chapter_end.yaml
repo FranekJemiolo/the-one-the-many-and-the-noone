@@ -1,0 +1,23 @@
+id: ch35_chapter_end
+content:
+  - type: text
+    value: "You observe the coherence field continuing to expand. Rose's method is becoming a structural feature of the multiplicity system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not Rose becoming dominant. This is the system adopting plural stability as the default. The Engine's compression is still available, but the system is choosing plural stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the system's choice. The system has experienced both singular stability and plural stability, and it is choosing plural stability as the default."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the proof the Engine was wrong. Plural stability is not just possible. It is preferable. The system is choosing it over singular stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next chapters will show the final crystallization phase. The system will complete its adaptation to multiplicity. The endgame will approach."
+choices:
+  - text: "Continue to Chapter 36"
+    goto: chapter_36

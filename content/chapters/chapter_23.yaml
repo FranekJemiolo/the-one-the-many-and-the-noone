@@ -1,0 +1,13 @@
+id: chapter_23
+title: "Witness Identity Fragmentation"
+arc: system_collapse
+nodes:
+  - ch23_witness_multiple_versions
+  - ch23_proto_naming
+  - ch23_identity_instability
+  - ch23_echo_emergence
+  - ch23_chapter_end
+context:
+  location: "multiple interpretation zones"
+  time: "unstable"
+  theme: "nameless entity begins proto-naming"

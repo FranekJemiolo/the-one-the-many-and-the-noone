@@ -1,0 +1,19 @@
+id: ch43_no_one_configuration_experienced
+content:
+  - type: text
+    value: "The system experiences The No-One configuration. The Null Zone expands to cover everything. Interpretation fails completely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The No-One as its final configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "In this configuration, there is no interpretation. Objects exist but cannot be understood. Memories exist but cannot become identity. Meaning cannot crystallize."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You experience the void of this configuration. There is no ambiguity because there is no interpretation. There is no contradiction because there is no meaning. There is nothing to understand."
+choices:
+  - text: "Observe the void achieved"
+    goto: ch43_void_achieved

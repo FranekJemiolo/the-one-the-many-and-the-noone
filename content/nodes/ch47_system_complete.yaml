@@ -1,0 +1,19 @@
+id: ch47_system_complete
+content:
+  - type: text
+    value: "You observe the system complete. The Overlap configuration is established. Rose's field is structural. The endgame is complete."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has achieved its optimal state. Plural stability is the default. Singular stability is available when needed. The coherence field is structural."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a compromise. This is a deliberate choice based on accumulated experience. The system has experienced all configurations and chosen balanced coexistence as its optimal state."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the victory of the Resistance's position. The system has chosen plural stability as the default while preserving singular stability as an available option. The Engine is not destroyed, but it is no longer dominant."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch47_chapter_end

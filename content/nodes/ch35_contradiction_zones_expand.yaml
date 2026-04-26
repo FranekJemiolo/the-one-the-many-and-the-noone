@@ -1,0 +1,19 @@
+id: ch35_contradiction_zones_expand
+content:
+  - type: text
+    value: "You observe the contradiction zones expand. As Rose's coherence field spreads, areas that were previously forced into singular interpretation are now allowing contradictions to coexist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Red and blue objects coexist. Past and future memories coexist. Causal and emotional interpretations coexist. The contradictions are not being compressed. They are being stabilized."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not the Engine losing control. This is the system adopting Rose's method as a general capability. The coherence field is becoming structural."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the system choosing plural stability over singular stability. The Engine's compression is still available, but Rose's stabilization is becoming the default."
+choices:
+  - text: "Observe Rose's adaptation"
+    goto: ch35_rose_adaptation

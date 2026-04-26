@@ -1,0 +1,29 @@
+id: ch3_researcher_reports
+content:
+  - type: text
+    value: "The researcher logs are inconsistent in a way that should be impossible. Different researchers describe the same experiment with incompatible timelines."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Researcher A: \"Procedure began at 14:03, completed at 14:07. No anomalies.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Researcher B: \"Procedure began at 14:04, completed at 14:06. Temporal pause observed during 14:05.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Researcher C: \"Procedure began at 14:05, completed at 14:05. Time did not advance during procedure.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "All three reports are internally consistent. All three describe the same experiment. All three are factually incompatible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is not measurement error. The experiment actually happened differently for each observer. Time itself is branching at the moment of observation."
+choices:
+  - text: "Document the temporal instability"
+    goto: ch3_temporal_instability
+    set:
+      aleksy_dominance: 2

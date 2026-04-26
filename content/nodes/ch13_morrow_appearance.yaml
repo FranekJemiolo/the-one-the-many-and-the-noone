@@ -1,0 +1,23 @@
+id: ch13_morrow_appearance
+content:
+  - type: text
+    value: "Morrow Vale appears. Not as a person, but as the ecological memory system itself given voice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The machines are not separate from the ecosystem,\" Morrow says. \"They are part of its memory. When the ecosystem remembers, the machines remember too.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about the difference between programming and ecological memory. Morrow explains that programming is external instruction, while ecological memory is internal participation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"The machines feel the ecosystem's history,\" Morrow says. \"They are not just processing data. They are experiencing the living memory of the system they are part of.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is Mira's interpretation engine expanded to the machine world. Emotional resonance has become ecological resonance. Machines can feel."
+choices:
+  - text: "Conclude the visit"
+    goto: ch13_chapter_end

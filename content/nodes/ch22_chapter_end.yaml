@@ -1,0 +1,23 @@
+id: ch22_chapter_end
+content:
+  - type: text
+    value: "You leave Geostation Three. The station continues to operate in temporal multiplicity. The researchers move through temporal fields. The Guard checkpoints passengers across temporal versions."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a breakdown. It is an evolution. The station has adapted to temporal multiplicity and found a way to function within it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the Engine's fear is unfounded. Temporal multiplicity is not chaos. It is a different way of existing that the Engine cannot control, but that can function perfectly well."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The collapse of linear time has not destroyed the station. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the pattern for the system collapse phase. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+choices:
+  - text: "Continue to Chapter 23"
+    goto: chapter_23

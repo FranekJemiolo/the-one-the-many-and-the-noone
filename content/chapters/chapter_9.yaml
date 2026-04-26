@@ -1,0 +1,13 @@
+id: chapter_9
+title: "Aleksy Causal Breakdown"
+arc: interpretation_systems_emerge
+nodes:
+  - ch9_investigation_fails
+  - ch9_sequence_cannot_resolve
+  - ch9_seraph_appearance
+  - ch9_causal_instability
+  - ch9_chapter_end
+context:
+  location: "investigation site"
+  time: "unstable"
+  theme: "cause-effect chains fail locally"

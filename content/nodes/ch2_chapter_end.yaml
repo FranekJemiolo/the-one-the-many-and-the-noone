@@ -1,0 +1,23 @@
+id: ch2_chapter_end
+content:
+  - type: text
+    value: "You discharge the Patient. The medical record is complete. The facts are documented. The emotional anomaly is noted but not resolved."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Walking out of the facility, you notice something: the world feels different now. Not because it changed, but because you've seen how it can split."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "People around you continue their lives. They assume their feelings match their facts. They don't know that these are separate systems that can disagree without either being wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You are now carrying a secret: reality is not singular. It is multiple. And the splits are not errors—they are structure."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This knowledge changes nothing and everything. The world continues, but you can no longer see it as one thing."
+choices:
+  - text: "Continue to Chapter 3"
+    goto: chapter_3

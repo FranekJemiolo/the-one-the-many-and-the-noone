@@ -1,0 +1,21 @@
+id: ch14_falsehood_stabilizes
+content:
+  - type: text
+    value: "You are reviewing another incident report. This one was written by Dr. Koval. The explanation is not just clean—it is factually incorrect."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But here is the disturbing part: the incorrect explanation stabilizes the system better than the true explanation would have."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The true explanation would have introduced complexity and ambiguity. The false explanation simplifies everything into a single coherent narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system is more stable with the lie than it would be with the truth. This is not an accident. This is Dr. Koval's method."
+choices:
+  - text: "Understand Dr. Koval's method"
+    goto: ch14_koval_method
+  - text: "Analyze the truth-as-variable concept"
+    goto: ch14_truth_as_variable

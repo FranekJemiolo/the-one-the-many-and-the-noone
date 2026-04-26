@@ -1,0 +1,19 @@
+id: ch20_no_resolution
+content:
+  - type: text
+    value: "There is no resolution. You and Mira cannot reconcile your interpretations. Both are equally true, and both are mutually incompatible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem that can be solved. It is a structural feature of the multiplicity system. Causal interpretation and emotional interpretation are fundamentally different engines."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is why the conflict between the Engine and the Resistance cannot be resolved. They are operating on different interpretation engines that cannot be reconciled."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The only way forward is not resolution, but coexistence. Both interpretations must be allowed to exist without trying to eliminate each other."
+choices:
+  - text: "Observe the system oscillation"
+    goto: ch20_system_oscillation

@@ -1,0 +1,23 @@
+id: ch42_chapter_end
+content:
+  - type: text
+    value: "The simulation of The Many configuration ends. The system returns to the current equilibrium. The experience is stored for the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Many configuration offers complete plural diversity. The Resistance is dominant. Singularity is eliminated. Reality is ambiguous, complex, and infinite."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the cost is the loss of singular clarity. Reality would be diverse, but also disorienting. The coherence of experience would be gone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has experienced The Many. It understands the appeal of plural diversity. It also understands the cost. The experience will inform the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next chapter will explore The No-One configuration. The system will experience complete void and understand its appeal and cost."
+choices:
+  - text: "Continue to Chapter 43"
+    goto: chapter_43

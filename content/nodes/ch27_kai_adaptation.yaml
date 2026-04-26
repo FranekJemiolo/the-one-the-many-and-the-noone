@@ -1,0 +1,19 @@
+id: ch27_kai_adaptation
+content:
+  - type: text
+    value: "You observe Kai's adaptation. Kai is not trapped in the causal loop. Kai is adapted to it. Kai exists in the temporal boundary where causality is a field, not a line."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The loop is stable,\" Kai says. \"Causality is not broken. It is just operating in a different structure. The future causes the present, which causes the future. The loop is self-consistent.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize Kai is not experiencing time incorrectly. Kai is experiencing time as a field of causal loops that the Engine cannot recognize as valid, but that functions perfectly well."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the pattern. The Engine fears temporal multiplicity will lead to chaos. Kai proves that temporal multiplicity can be stable in a different structure."
+choices:
+  - text: "Understand the temporal field"
+    goto: ch27_temporal_field

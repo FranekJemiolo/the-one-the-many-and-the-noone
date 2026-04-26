@@ -1,0 +1,23 @@
+id: ch8_time_feels_wrong
+content:
+  - type: text
+    value: "You sit with the realization. Time feels wrong because emotional time is independent of causal time."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Passenger continues their journey. The clock shows forty minutes. But the experience of those minutes varies between iterations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem to be solved. It is a feature of emotional reality. The same duration can feel long or short depending on the emotional state of the observer."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is how Mira experiences reality. Not as a fixed timeline, but as an emotional field where time is variable and subjective."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is another crack in the assumption of singular reality. Causal time is one system. Emotional time is another. They do not need to agree."
+choices:
+  - text: "Conclude the journey"
+    goto: ch8_chapter_end

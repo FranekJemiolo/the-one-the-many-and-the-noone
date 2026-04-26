@@ -1,0 +1,13 @@
+id: chapter_24
+title: "Teacher Loop Anomaly"
+arc: system_collapse
+nodes:
+  - ch24_teaching_event_multiple_truths
+  - ch24_instructional_breakdown
+  - ch24_teacher_fragmentation
+  - ch24_knowledge_multiplicity
+  - ch24_chapter_end
+context:
+  location: "educational zone"
+  time: "unstable"
+  theme: "same teaching event produces multiple truths"

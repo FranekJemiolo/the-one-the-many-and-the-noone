@@ -1,0 +1,13 @@
+id: chapter_16
+title: "Null Child First Appearance"
+arc: interpretation_systems_emerge
+nodes:
+  - ch16_null_zone
+  - ch16_identity_failure
+  - ch16_null_child_appearance
+  - ch16_interpretation_void
+  - ch16_chapter_end
+context:
+  location: "Null Zone"
+  time: "undefined"
+  theme: "identity cannot stabilize in zone"

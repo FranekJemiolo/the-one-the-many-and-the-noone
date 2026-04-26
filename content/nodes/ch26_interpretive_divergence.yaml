@@ -1,0 +1,19 @@
+id: ch26_interpretive_divergence
+content:
+  - type: text
+    value: "You understand the interpretive divergence. Aleksy and Mira are not experiencing the same reality differently. They are experiencing different realities entirely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem with perception. Both interpretation engines are functioning correctly. They are simply operating on incompatible principles."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the core of the system collapse. The oscillation between causal and emotional interpretation has broken. The system has collapsed into parallel interpretation engines that cannot be reconciled."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a failure. This is an evolution. The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch26_chapter_end

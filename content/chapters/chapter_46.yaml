@@ -1,0 +1,13 @@
+id: chapter_46
+title: "System Final Choice"
+arc: endgame_configuration
+nodes:
+  - ch46_all_experiences_integrated
+  - ch46_system_deliberates
+  - ch46_choice_emerges
+  - ch46_overlap_selected
+  - ch46_chapter_end
+context:
+  location: "system-wide"
+  time: "critical"
+  theme: "system chooses final configuration"

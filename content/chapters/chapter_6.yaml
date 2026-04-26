@@ -1,0 +1,13 @@
+id: chapter_6
+title: "Quiet Engine Glimpse"
+arc: interpretation_systems_emerge
+nodes:
+  - ch6_clean_explanation
+  - ch6_koval_appearance
+  - ch6_compression_pressure
+  - ch6_engine_influence
+  - ch6_chapter_end
+context:
+  location: "administrative facility"
+  time: "day"
+  theme: "system compression begins subtly"

@@ -1,0 +1,31 @@
+id: ch1_witness_testimony
+content:
+  - type: text
+    value: "The Witness sits across from you. Not a person exactly—more like a function of the system that happens to have a face."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"I saw what I saw,\" they say. \"The sequence was clear. First the door opened, then the light changed, then the figure appeared.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about the timing. They are certain. 14:03. No ambiguity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Then you ask about the other witness's account. The Witness pauses—not confused, but considering."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"They are not wrong,\" the Witness says. \"They are simply remembering a different version of the same moment.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This should be impossible. A moment cannot have multiple versions. But the Witness says it as if it is the most natural thing in the world."
+choices:
+  - text: "Press for clarification on how multiple versions can exist"
+    goto: ch1_memory_divergence
+  - text: "Accept the statement and observe the implications"
+    goto: ch1_rose_field_activation
+    set:
+      rose_coherence: 1

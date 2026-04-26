@@ -1,0 +1,21 @@
+id: ch8_emotional_inconsistency
+content:
+  - type: text
+    value: "You analyze the emotional inconsistency. The clock is reliable. The distance is fixed. But the emotional experience of time is variable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not psychological distortion. The Passenger is not experiencing time differently. Time itself is being experienced differently by the same observer in different iterations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is Mira's domain. Emotional time is not subordinate to causal time. It is an independent system that can produce multiple experiences of the same duration."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Passenger is not confused. They are demonstrating that emotional reality has its own timeline, independent of the clock."
+choices:
+  - text: "Accept that time feels wrong"
+    goto: ch8_time_feels_wrong
+    set:
+      mira_dominance: 2

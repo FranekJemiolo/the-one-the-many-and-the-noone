@@ -1,0 +1,23 @@
+id: ch12_future_memory
+content:
+  - type: text
+    value: "You are in a temporal anomaly zone. Something is wrong with the direction of time. Future events are appearing as memories."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You remember something that hasn't happened yet. A conversation. A decision. An outcome. The memory is as clear as any past memory, but it describes the future."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not precognition in the traditional sense. You are not predicting the future. You are remembering it as if it has already occurred."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The implications are disturbing. If the future can be remembered, then causality is not linear. The future is influencing the present as a memory."
+choices:
+  - text: "Analyze the causality inversion"
+    goto: ch12_causality_inversion
+    set:
+      aleksy_dominance: 1
+  - text: "Observe the temporal anomaly"
+    goto: ch12_temporal_anomaly

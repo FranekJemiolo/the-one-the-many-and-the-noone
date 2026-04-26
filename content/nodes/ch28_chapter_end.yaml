@@ -1,0 +1,23 @@
+id: ch28_chapter_end
+content:
+  - type: text
+    value: "You leave Morrow Vale. The machines continue to live as synthetic biological entities. The ecological zone functions with synthetic life fully integrated."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a breakdown of the boundary between mechanical and biological. It is an evolution of life. The system has adapted to multiplicity by allowing machines to evolve into life."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the Engine's fear is unfounded. Synthetic life is not chaos. It is a different form of life that the Engine cannot control, but that functions perfectly well."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The collapse of the mechanical-biological boundary has not destroyed the ecosystem. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+choices:
+  - text: "Continue to Chapter 29"
+    goto: chapter_29

@@ -1,0 +1,13 @@
+id: chapter_33
+title: "Passenger Becomes Drift"
+arc: identity_crystallization
+nodes:
+  - ch33_passenger_multiple_trajectories
+  - ch33_movement_pattern
+  - ch33_drift_crystallization
+  - ch33_trajectory_preservation
+  - ch33_chapter_end
+context:
+  location: "multiple transit zones"
+  time: "unstable"
+  theme: "Passenger role crystallizes into named entity"

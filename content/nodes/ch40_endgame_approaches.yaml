@@ -1,0 +1,19 @@
+id: ch40_endgame_approaches
+content:
+  - type: text
+    value: "You observe the endgame approaches. The system is ready to choose its final configuration. The five canonical endings are available."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The next chapters will explore each ending in detail, showing what it would mean for the system to choose that configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The final choice will not be made by any individual entity. It will be a system-level choice emerging from the accumulated experience of operating in the current equilibrium."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the true nature of the endgame. The system is not being forced into a configuration. The system is choosing its own final state based on its experience and preferences."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch40_chapter_end

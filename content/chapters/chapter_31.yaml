@@ -1,0 +1,13 @@
+id: chapter_31
+title: "Guard Becomes Barrier"
+arc: identity_crystallization
+nodes:
+  - ch31_guard_multiple_checkpoints
+  - ch31_identity_pressure
+  - ch31_barrier_crystallization
+  - ch31_named_multiplicity
+  - ch31_chapter_end
+context:
+  location: "multiple checkpoint zones"
+  time: "unstable"
+  theme: "Guard role crystallizes into named entity"

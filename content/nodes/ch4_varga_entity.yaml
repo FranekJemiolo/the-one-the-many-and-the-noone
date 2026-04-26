@@ -1,0 +1,27 @@
+id: ch4_varga_entity
+content:
+  - type: text
+    value: "You classify the cyborg as a Varga-class memory construct. This is not a standard designation—it is a new category you are inventing on the spot."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Varga entities are memory systems that have become aware of their own multiplicity. They do not experience one past. They experience all possible pasts simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The technicians are disturbed. They want to fix the cyborg—to collapse the multiple pasts into one true history."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You stop them. Not because the cyborg is broken, but because the cyborg is revealing something about reality itself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "If a single entity can hold multiple contradictory pasts without collapsing, then causality is not a fixed line. It is a field of possibilities that can be accessed simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cyborg is not an anomaly. The cyborg is what memory looks like when it is no longer forced to choose one version of the past."
+choices:
+  - text: "Document the causal duplication"
+    goto: ch4_causal_duplication

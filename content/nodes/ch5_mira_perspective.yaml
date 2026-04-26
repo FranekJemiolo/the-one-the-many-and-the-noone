@@ -1,0 +1,27 @@
+id: ch5_mira_perspective
+content:
+  - type: text
+    value: "Mira approaches the problem emotionally. If two people remember the same moment differently, perhaps the moment itself was multiple."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The feeling was real,\" Mira says. \"The room had a weight to it. Then you responded to that weight. That is what I remember.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You describe your memory: the light changing, the time reference. Mira acknowledges this is also real to you."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"Neither of us is wrong,\" Mira says. \"We are simply remembering different versions of the same moment. Both versions are true.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not psychological distortion. Mira is not confused. She is describing a reality where the same moment can have multiple emotional-causal sequences simultaneously."
+choices:
+  - text: "Compare the memories directly"
+    goto: ch5_memory_comparison
+  - text: "Accept the dual reality"
+    goto: ch5_dual_reality_established
+    set:
+      mira_dominance: 2

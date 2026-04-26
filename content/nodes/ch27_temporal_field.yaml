@@ -1,0 +1,19 @@
+id: ch27_temporal_field
+content:
+  - type: text
+    value: "You understand the temporal field. Time is not a line in the boundary zone. It is a field of causal loops that operate in self-consistent patterns."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a breakdown of time. It is an evolution of time. The system has adapted to temporal multiplicity by allowing causality to operate in loops rather than lines."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what the Engine fears. Temporal fields are not chaos. They are a different way of experiencing time that the Engine cannot control, but that functions perfectly well."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Kai is not confused. Kai is adapted to the temporal field. Kai exists in causal loops the way people in linear time exist in causal lines."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch27_chapter_end

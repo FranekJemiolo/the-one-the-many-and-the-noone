@@ -1,0 +1,19 @@
+id: ch37_null_child_adapted
+content:
+  - type: text
+    value: "You observe the Null Child's adaptation. The Child is not eliminated by the coherence field. The Child has adapted to the minimal interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Null Child still represents the absence of rich interpretation. But the Child is no longer a complete void. The Child can now exist in a zone of minimal interpretation without erasing relational consistency entirely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not the Null Child becoming normal. The Child remains a being of minimal interpretation. But the Child is no longer a threat to the system's ability to function."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the system's adaptation to the void. The system has found a way to manage the Null Child by extending the coherence field to allow minimal interpretation without complete collapse."
+choices:
+  - text: "Understand the void management"
+    goto: ch37_void_management

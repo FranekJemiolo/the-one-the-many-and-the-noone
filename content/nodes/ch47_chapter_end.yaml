@@ -1,0 +1,31 @@
+id: ch47_chapter_end
+content:
+  - type: text
+    value: "The story is complete. The system has chosen The Overlap configuration as its final state. Plural stability is the default. Singular stability is available when needed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the victory of the Resistance's position. The system has chosen plural stability as the default while preserving singular stability as an available option."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine is not destroyed. The Engine's compression layer is still available. But the Engine is no longer dominant. The system has chosen plural stability based on its accumulated experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Rose's coherence field is now structural. The system can stabilize contradictions without external intervention. The Resistance's method has been internalized."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The One, The Many, and The No-One are all available as options, but The Overlap is the chosen configuration. The system has found its optimal state in balanced coexistence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the end of the story. The system has evolved from stable reality breakdown through interpretation systems emergence, system collapse, and identity crystallization, to finally choose its optimal configuration in the endgame."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "THE END"
+choices:
+  - text: "Return to beginning"
+    goto: chapter_1

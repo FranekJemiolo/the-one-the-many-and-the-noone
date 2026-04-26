@@ -1,0 +1,31 @@
+id: ch2_patient_encounter
+content:
+  - type: text
+    value: "The Patient sits on the examination table. They are calm. Too calm for someone who experienced what the records describe."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"It happened,\" they say. \"The injury, the treatment, the recovery. All of it is factually correct.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about their emotional state. They consider this carefully."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The facts are correct,\" they say. \"But the feeling is wrong. The sequence of emotions does not match the sequence of events.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You ask for clarification. They describe it: fear before the injury, calm during treatment, anxiety after recovery. The emotional timeline is reversed from the causal timeline."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This should be impossible. Emotions follow events. But here, the emotional sequence has its own logic, independent of what actually happened."
+choices:
+  - text: "Analyze the factual correctness of the records"
+    goto: ch2_factual_correctness
+  - text: "Explore the emotional wrongness"
+    goto: ch2_emotional_wrongness
+    set:
+      mira_dominance: 1

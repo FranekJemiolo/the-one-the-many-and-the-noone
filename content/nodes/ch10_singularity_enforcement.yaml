@@ -1,0 +1,21 @@
+id: ch10_singularity_enforcement
+content:
+  - type: text
+    value: "You observe how singularity is enforced in the Clarity zone. It is not about forcing reality. It is about removing alternatives."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "When an event occurs, only one interpretation is allowed to persist. The others are not actively suppressed—they simply never crystallize."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is more efficient than active censorship. If alternatives never form, then there is nothing to suppress. Reality simply becomes singular by default."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the Engine's method. Not by fighting multiplicity, but by preventing it from forming in the first place."
+choices:
+  - text: "Speak with Seraph Kline"
+    goto: ch10_seraph_directive
+    set:
+      nemesis_compression: 1

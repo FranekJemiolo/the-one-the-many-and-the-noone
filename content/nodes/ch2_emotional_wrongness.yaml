@@ -1,0 +1,25 @@
+id: ch2_emotional_wrongness
+content:
+  - type: text
+    value: "You focus on the emotional sequence. Fear before injury. Calm during treatment. Anxiety after recovery."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This makes no sense causally. Fear should follow threat, not precede it. Calm should follow safety, not accompany procedure. Anxiety should follow uncertainty, not resolution."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the Patient insists this is how it felt. Not metaphorically. Actually. The emotional timeline was real to them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is not psychological distortion. It's a different kind of reality. Emotions are not responding to events—they are following their own sequence, independent of causality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This means emotional truth is not subordinate to factual truth. They are parallel systems that can disagree without either being wrong."
+choices:
+  - text: "Accept the split perspective"
+    goto: ch2_split_perspective
+    set:
+      mira_dominance: 2

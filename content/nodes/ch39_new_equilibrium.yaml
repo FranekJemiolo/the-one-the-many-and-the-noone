@@ -1,0 +1,19 @@
+id: ch39_new_equilibrium
+content:
+  - type: text
+    value: "You understand the new equilibrium. The system has found a way to have both singular and plural stability available, with plural stability as the preferred default."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the optimal configuration. The system is not forced to choose between compression and multiplicity. It can have both, with plural stability as the default."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what the Resistance was fighting for. Not to destroy the Engine, but to create a system where both singular and plural stability are available, with plural stability as the default."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Engine is not destroyed. The Engine is simply no longer dominant. The system has chosen plural stability, and the Engine accepts this choice. Both layers operate in coexistence."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch39_chapter_end

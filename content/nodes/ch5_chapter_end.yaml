@@ -1,0 +1,23 @@
+id: ch5_chapter_end
+content:
+  - type: text
+    value: "You and Mira sit in silence. The room feels different now—not because it changed, but because you both know it can be multiple."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the end of Part I. Stable reality has broken down. The cracks are no longer subtle. They are structural."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Memory divergence. Emotional-causal split. Temporal instability. Causal duplication. Shared dual-reality memory. Reality is not just producing anomalies. It is reconfiguring itself into a multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You and Mira are no longer observers of the breakdown. You are participants in it. You have experienced the same moment differently, and you have accepted that both versions are true."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next phase will not be about discovering anomalies. It will be about the systems that emerge to manage them. Interpretation engines are about to become visible."
+choices:
+  - text: "Continue to Chapter 6"
+    goto: chapter_6

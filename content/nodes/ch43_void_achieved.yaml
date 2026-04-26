@@ -1,0 +1,19 @@
+id: ch43_void_achieved
+content:
+  - type: text
+    value: "You observe the void achieved. In The No-One configuration, reality is completely void. There is no interpretation anywhere."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Null Child's domain is complete. All interpretation has failed. All meaning has dissolved. All identity has collapsed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the Null Zone's ideal state. Reality is completely empty of meaning. There is no tension because there is no interpretation to create tension."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You experience the peace of this configuration. There is no ambiguity. There is no contradiction. There is no experience at all. There is only void."
+choices:
+  - text: "Observe the Null Child dominance"
+    goto: ch43_null_child_dominance

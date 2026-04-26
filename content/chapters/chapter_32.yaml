@@ -1,0 +1,13 @@
+id: chapter_32
+title: "Teacher Becomes Archive"
+arc: identity_crystallization
+nodes:
+  - ch32_teacher_multiple_classrooms
+  - ch32_instructional_pattern
+  - ch32_archive_crystallization
+  - ch32_knowledge_preservation
+  - ch32_chapter_end
+context:
+  location: "multiple educational zones"
+  time: "unstable"
+  theme: "Teacher role crystallizes into named entity"

@@ -1,0 +1,19 @@
+id: ch47_configuration_stabilizes
+content:
+  - type: text
+    value: "The Overlap configuration stabilizes as the system's permanent state. The choice is finalized."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression layer and the Resistance's multiplicity layer are now permanently in coexistence. Plural stability is the default, but singular stability is available when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a temporary state. This is the system's final configuration. The system has chosen balanced coexistence and will maintain it permanently."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You observe the stabilization. The system is no longer oscillating between configurations. The system has settled into The Overlap as its permanent state."
+choices:
+  - text: "Observe the new reality established"
+    goto: ch47_new_reality_established

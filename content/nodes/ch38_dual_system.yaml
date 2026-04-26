@@ -1,0 +1,19 @@
+id: ch38_dual_system
+content:
+  - type: text
+    value: "You understand the dual system. Aleksy and Mira are operating in parallel realities, but the split is a stable configuration that the system has adapted to."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem to be solved. It is a structural feature of the multiplicity system. Causal interpretation and emotional interpretation are fundamentally different engines that cannot be reconciled, but can coexist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the system's solution to the emotional-causal split. The system has found a way to allow both interpretation engines to operate in parallel without requiring reconciliation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The dual system is stable. You and Mira can acknowledge each other's realities without trying to access them. The split is no longer a source of conflict. It is a stable configuration."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch38_chapter_end

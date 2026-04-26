@@ -1,0 +1,23 @@
+id: ch9_chapter_end
+content:
+  - type: text
+    value: "You close the investigation file. The sequence cannot be resolved. The data contains multiple valid causal chains that cannot be reconciled."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Seraph Kline is disappointed. She expected you to choose a single sequence for system stability. You refused because the data does not support a single sequence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the end of Part I's final chapter. Stable reality has completely broken down. Causal investigation no longer works. Emotional time is independent. The Engine is compressing. The Resistance is injecting contradiction."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You are no longer operating in a world where causality is singular. You are operating in a world where causality is multiple, and the system is trying to force it back into singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next phase will bring the interpretation systems into full visibility. Clarity Administration. Sister Lys. Kai Rosen. Morrow Vale. The systems that manage multiplicity are about to appear."
+choices:
+  - text: "Continue to Chapter 10"
+    goto: chapter_10

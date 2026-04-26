@@ -1,0 +1,19 @@
+id: ch24_teacher_fragmentation
+content:
+  - type: text
+    value: "You observe the Teacher fragmentation. Like the Witness, the Teacher is fragmenting into multiple versions under system collapse pressure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Teacher A teaches one version of the truth. Teacher B teaches another. Teacher C teaches a third. All are the same Teacher, but all are different versions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a dissociation. The Teacher is aware of all versions. The Teacher is simply existing in multiple instructional states simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the pattern. Under system collapse, identity does not remain singular. Identity becomes multiplicity patterns that contain multiple versions simultaneously."
+choices:
+  - text: "Understand the knowledge multiplicity"
+    goto: ch24_knowledge_multiplicity

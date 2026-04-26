@@ -1,0 +1,23 @@
+id: ch5_dual_reality_established
+content:
+  - type: text
+    value: "You and Mira sit with the realization. The same moment produced two different memories. Both are true. Neither is wrong."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a contradiction. It is a dual-reality memory structure. The moment was not singular. It was multiple, and each of you accessed a different version."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Mira looks at you. Something has changed between you—not in relationship, but in shared understanding. You are no longer experiencing reality as one thing. You are experiencing it as multiple, together."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You write in your notebook: 'Dual-reality memory established. Two observers can experience the same moment differently without either being wrong. This is not error. It is structural.'"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the fifth crack. Memory divergence. Emotional-causal split. Temporal instability. Causal duplication. Now: shared dual-reality memory. Reality is not just producing multiple pasts. It is producing shared experiences of multiplicity."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch5_chapter_end

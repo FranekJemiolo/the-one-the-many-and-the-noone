@@ -1,0 +1,19 @@
+id: ch19_divergence_injection
+content:
+  - type: text
+    value: "You understand the divergence injection. The Resistance is not just reintroducing contradiction. It is doing so in a way that makes the contradictions uncompressible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine tries to compress the contradictions into a single interpretation. But the Resistance designs the contradictions so that compression is impossible without losing essential meaning."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This forces the Engine to either accept multiplicity or lose meaning. The Engine chooses to lose meaning, which creates the instability you observe."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the Resistance's strength. It can force the Engine into a position where compression requires meaning loss, which makes compression unacceptable."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch19_chapter_end

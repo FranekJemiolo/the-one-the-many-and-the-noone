@@ -1,0 +1,29 @@
+id: ch4_contradictory_pasts
+content:
+  - type: text
+    value: "\"How do you experience this?\" you ask the cyborg. \"How can multiple pasts feel real simultaneously?\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cyborg considers this. Not as a philosophical question, but as a technical one about memory architecture."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"I do not choose which past is true,\" the cyborg says. \"All of them are true. I simply access different pasts depending on which question I am answering.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You ask about their origin. The cyborg answers with Memory A. You ask about their purpose. The cyborg answers with Memory B. You ask about their current state. The cyborg answers with Memory C."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not dissociation. The cyborg is not switching between personalities. They are accessing different causal histories as if all of them are equally valid."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what memory has become in this world: not a record of what happened, but a library of what could have happened, all equally accessible."
+choices:
+  - text: "Document the Varga entity"
+    goto: ch4_varga_entity
+    set:
+      mira_dominance: 2

@@ -1,0 +1,23 @@
+id: ch19_chapter_end
+content:
+  - type: text
+    value: "You observe the continued oscillation. The Engine compresses. The Resistance injects contradiction. The system oscillates between singular and multiple interpretations."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not sustainable indefinitely. The oscillation creates tension that will eventually require resolution. But for now, both systems are maintaining their positions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the new normal. The conflict between compression and multiplicity has become a structural feature of the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Resistance has proven it can maintain multiplicity indefinitely. The Engine has proven it can maintain compression indefinitely. The system is caught between two stable states."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next phase will break this stalemate. Something will force the system to choose. That something is the dual memory war between Aleksy and Mira."
+choices:
+  - text: "Continue to Chapter 20"
+    goto: chapter_20

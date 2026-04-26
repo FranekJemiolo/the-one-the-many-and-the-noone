@@ -1,0 +1,19 @@
+id: ch31_identity_pressure
+content:
+  - type: text
+    value: "You observe the identity pressure. The multiple versions of the Guard are beginning to require a name for compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system cannot efficiently refer to \"Guard A, Guard B, Guard C\" indefinitely. It needs a compressed identifier for the pattern."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Guard's signature—controlling access, maintaining security, enforcing boundaries—becomes the identity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The proto-name is \"Barrier.\" Not because the Guard blocks access, but because the Guard maintains boundaries across the multiplicity system. Barrier is the pattern of boundary enforcement that repeats across incompatible interpretations."
+choices:
+  - text: "Observe the Barrier crystallization"
+    goto: ch31_barrier_crystallization

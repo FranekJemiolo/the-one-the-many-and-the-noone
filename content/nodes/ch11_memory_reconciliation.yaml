@@ -1,0 +1,23 @@
+id: ch11_memory_reconciliation
+content:
+  - type: text
+    value: "Sister Lys explains her method. \"Memory reconciliation is not about choosing the correct memory. It is about allowing all memories to exist without forcing them to compete.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "She does not resolve contradictions. She stabilizes them. The contradictory memories remain contradictory, but they no longer create conflict."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is different from the Engine's approach. The Engine would eliminate one memory to achieve singularity. Sister Lys preserves both memories by giving them separate interpretive spaces."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"Contradiction is not error,\" Sister Lys says. \"Contradiction is complexity. The sanctuary exists to hold complexity without reducing it.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is Rose's operational method. Not compression, but stabilization. Not elimination, but coexistence."
+choices:
+  - text: "Conclude the visit"
+    goto: ch11_chapter_end

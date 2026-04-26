@@ -1,0 +1,29 @@
+id: ch5_memory_comparison
+content:
+  - type: text
+    value: "You and Mira write down your memories side by side. The comparison is revealing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Aleksy's memory: Light changes → Time reference → Causal sequence complete."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Mira's memory: Room feeling → Emotional reference → Emotional sequence complete."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Both memories describe the same moment. Both are internally consistent. Both are mutually incompatible."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is not a disagreement about what happened. It is a demonstration that the same moment can have multiple valid sequences depending on which interpretation engine is rendering it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the first time you and Mira have experienced the same divergence simultaneously. It is no longer an abstract anomaly. It is shared reality."
+choices:
+  - text: "Accept the dual reality"
+    goto: ch5_dual_reality_established
+    set:
+      aleksy_dominance: 2

@@ -1,0 +1,27 @@
+id: ch40_five_canonical_endings_emerge
+content:
+  - type: text
+    value: "The five canonical endings emerge as available configurations for the system. The endgame is about to begin."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Ending 1: The One. The Engine achieves complete unification. All interpretation layers collapse into singular reality. Multiplicity is eliminated."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Ending 2: The Many. The Resistance achieves complete multiplicity. All interpretation layers expand into infinite plurality. Singularity is eliminated."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Ending 3: The No-One. The Null Zone expands to cover everything. Interpretation fails completely. Reality becomes void."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Ending 4: The Overlap. The current equilibrium. Singular and plural stability coexist. Both layers operate in balance."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Ending 5: The Shifting World. The system oscillates between configurations. No final state is chosen. Reality remains in perpetual motion."
+choices:
+  - text: "Observe the system ready for choice"
+    goto: ch40_system_ready_for_choice

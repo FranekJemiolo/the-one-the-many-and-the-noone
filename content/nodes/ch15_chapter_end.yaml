@@ -1,0 +1,23 @@
+id: ch15_chapter_end
+content:
+  - type: text
+    value: "You leave the contradiction zone. The red object and the blue object remain, coexisting without conflict."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Rose's field continues to stabilize the contradictions. The zone does not collapse. The system remains stable despite the multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the proof the Engine is wrong. Multiplicity does not lead to chaos. Rose demonstrates that contradictions can coexist without collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's ideology is based on a false premise. The Resistance is not fighting stability. The Resistance is offering a different kind of stability: plural stability instead of singular stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is a pivotal moment. You have seen both systems in action. The Engine's compression produces singular stability. Rose's stabilization produces plural stability. Both work. The Engine just refuses to acknowledge the plural option."
+choices:
+  - text: "Continue to Chapter 16"
+    goto: chapter_16

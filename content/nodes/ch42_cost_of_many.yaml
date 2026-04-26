@@ -1,0 +1,19 @@
+id: ch42_cost_of_many
+content:
+  - type: text
+    value: "You observe the cost of many. In The Many configuration, reality is completely multiple, but the clarity of singularity is gone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "There is infinite diversity, but there is also infinite disorientation. There is infinite complexity, but there is also infinite exhaustion. There is infinite vitality, but there is also infinite instability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Many configuration is diverse, but it is also overwhelming. Reality has lost its singularity, and with it, its clarity and coherence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the cost of the Resistance's ideal. Plural diversity comes at the cost of singular clarity. The system would be diverse, but it would also be disorienting."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch42_chapter_end

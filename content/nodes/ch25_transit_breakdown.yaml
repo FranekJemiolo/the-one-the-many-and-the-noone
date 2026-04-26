@@ -1,0 +1,19 @@
+id: ch25_transit_breakdown
+content:
+  - type: text
+    value: "You observe the transit breakdown. The Passenger is not failing to navigate. The navigation system itself has become multiple."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "When the Passenger moves, the trajectory does not follow a single path. It follows multiple paths that lead to different destinations simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem with the transit technology. This is a structural feature of the multiplicity system. Movement has become inherently multiple."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when the oscillation between singular and multiple spatial interpretation breaks. The system does not return to singular movement. It collapses into trajectory multiplicity."
+choices:
+  - text: "Observe the Passenger fragmentation"
+    goto: ch25_passenger_fragmentation

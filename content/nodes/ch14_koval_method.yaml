@@ -1,0 +1,19 @@
+id: ch14_koval_method
+content:
+  - type: text
+    value: "Dr. Koval explains her method. \"The system cannot tolerate too much ambiguity. When truth is too complex, I provide a controlled falsehood that stabilizes the system.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "She is not lying maliciously. She is managing reality. The falsehood is not random—it is designed to produce system stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The truth is still there,\" Dr. Koval says. \"It is just not the active interpretation. The system is running on the falsehood, but the truth remains accessible if needed.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is a form of controlled distortion. Dr. Koval is not eliminating truth. She is layering a stabilizing falsehood over a destabilizing truth."
+choices:
+  - text: "Understand truth as a variable"
+    goto: ch14_truth_as_variable

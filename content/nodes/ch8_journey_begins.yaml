@@ -1,0 +1,28 @@
+id: ch8_journey_begins
+content:
+  - type: text
+    value: "You are traveling through the transit system. The journey should take forty minutes. But time feels wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Not wrong in the sense of being inaccurate. Wrong in the sense of being emotionally inconsistent. The same journey feels different each time you experience it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "First iteration: the journey feels long, heavy, burdened with unseen weight."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Second iteration: the journey feels short, light, almost instantaneous."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The clock shows the same duration. The distance is the same. But the emotional experience of time is completely different."
+choices:
+  - text: "Observe the Passenger"
+    goto: ch8_passenger_encounter
+  - type: text
+    value: "Analyze the emotional inconsistency"
+    goto: ch8_emotional_inconsistency
+    set:
+      mira_dominance: 1

@@ -1,0 +1,21 @@
+id: ch15_coexistence_without_collapse
+content:
+  - type: text
+    value: "You focus on the coexistence without collapse. The red object and the blue object are both present. Neither is dominant. Neither is trying to eliminate the other."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a stalemate. It is a stable state of multiplicity. The contradictions are not fighting. They are simply existing together."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Rose explains: \"Coherence is not about choosing. It is about allowing. When contradictions are allowed to coexist without pressure to resolve, they become stable.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what Rose does. She is not resolving contradictions. She is stabilizing them so they don't collapse the system."
+choices:
+  - text: "Understand the coherence field"
+    goto: ch15_coherence_field
+    set:
+      rose_coherence: 2

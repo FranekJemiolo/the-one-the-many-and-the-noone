@@ -1,0 +1,23 @@
+id: ch12_chapter_end
+content:
+  - type: text
+    value: "You leave the temporal anomaly zone. The future memory remains in your mind, coexisting with your past memories."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Kai Rosen remains in the leak. He is not trapped there—he is adapted to it. He exists in the temporal boundary where causality is a field, not a line."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is another crack in the assumption of linear time. The future is not ahead of you. In anomaly zones, it is already present as memory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cracks continue: memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory, compression pressure, contradiction injection, emotional time independence, causal breakdown, Clarity enforcement, memory reconciliation, future leak."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Reality is not just breaking. It is revealing that time itself is multiple—linear in normal zones, folded in anomaly zones, and leaking across boundaries."
+choices:
+  - text: "Continue to Chapter 13"
+    goto: chapter_13

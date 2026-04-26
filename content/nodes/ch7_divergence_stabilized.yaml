@@ -1,0 +1,19 @@
+id: ch7_divergence_stabilized
+content:
+  - type: text
+    value: "You sit with both explanations. The official narrative. The injected contradiction. Both feel equally valid."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a choice between truth and falsehood. It is a choice between compression and divergence. The Engine wants you to choose one. The Resistance wants you to hold both."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize something important: divergence is not instability. Divergence is stability of a different kind. When multiple interpretations coexist, reality becomes more resilient, not less."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The injection was not an attack on truth. It was an expansion of truth. The Resistance is not fighting reality—it is preserving multiplicity."
+choices:
+  - text: "Recognize the Resistance network"
+    goto: ch7_resistance_network

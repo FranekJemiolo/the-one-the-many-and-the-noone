@@ -1,0 +1,31 @@
+id: ch3_clock_inconsistency
+content:
+  - type: text
+    value: "You stand before the clock array. Three digital displays. All calibrated. All synchronized. All showing different sequences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Clock A: 14:03 → 14:05 → 14:07. Linear. Normal."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Clock B: 14:04 → 14:03 → 14:06. Reverses briefly, then continues."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Clock C: 14:05 → 14:05 → 14:05. Stuck on one moment, then jumps forward."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The engineer explains: \"The clocks are not malfunctioning. They are measuring time differently. As if time itself has multiple valid sequences.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You check the calibration logs. All three clocks are receiving the same time signal. They are interpreting it differently."
+choices:
+  - text: "Speak with the station Guard"
+    goto: ch3_guard_interaction
+  - text: "Review researcher reports"
+    goto: ch3_researcher_reports
+    set:
+      aleksy_dominance: 1

@@ -1,0 +1,19 @@
+id: ch27_future_causes_present
+content:
+  - type: text
+    value: "You return to the temporal boundary zone. Kai Rosen is there, and the causality inversion has progressed beyond memory. The future is now actively causing the present."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "An event happens in the present. But the cause of that event is in the future. The present is not leading to the future. The future is leading to the present."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a paradox. This is the new structure of time in the boundary zone. Causality has inverted. Future events are the cause of present events."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what happens when temporal oscillation breaks completely. The system does not return to linear causality. It collapses into inverted causality."
+choices:
+  - text: "Observe the causal loop"
+    goto: ch27_causal_loop

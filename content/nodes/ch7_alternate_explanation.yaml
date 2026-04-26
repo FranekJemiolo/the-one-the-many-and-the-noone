@@ -1,0 +1,21 @@
+id: ch7_alternate_explanation
+content:
+  - type: text
+    value: "The alternate explanation is precise: the event did not happen as reported. It happened differently. The causal sequence is reversed. The emotional sequence is shifted."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "What is disturbing is not the content. It is that this explanation feels equally valid. You can hold both versions in your mind without either feeling wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not psychological flexibility. This is structural multiplicity. The injection is not adding a lie. It is adding a parallel truth."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the Resistance's method. Not by fighting the Engine's compression, but by introducing deliberate contradiction that cannot be compressed."
+choices:
+  - text: "Accept the divergence"
+    goto: ch7_divergence_stabilized
+    set:
+      rose_coherence: 1

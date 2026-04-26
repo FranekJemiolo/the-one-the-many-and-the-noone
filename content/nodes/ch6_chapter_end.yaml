@@ -1,0 +1,23 @@
+id: ch6_chapter_end
+content:
+  - type: text
+    value: "You leave the administrative facility. The clean explanation remains in the system, accepted as truth because it is comfortable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Dr. Koval continues her work. She is not malicious—she is managing a system that cannot tolerate too much ambiguity. But she is serving the Quiet Engine's agenda."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is how the Engine operates. Not by forcing reality, but by making certain interpretations feel more natural than others. Compression becomes comfort."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cracks are still there—memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory. But the Engine is making them feel like errors that need to be fixed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the beginning of the conflict. Reality is becoming multiple. The Engine is trying to make it feel singular. The resistance will be about preserving multiplicity."
+choices:
+  - text: "Continue to Chapter 7"
+    goto: chapter_7

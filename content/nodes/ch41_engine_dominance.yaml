@@ -1,0 +1,19 @@
+id: ch41_engine_dominance
+content:
+  - type: text
+    value: "You observe the Engine dominance. In The One configuration, the Engine is completely dominant. The Resistance's multiplicity layer has been eliminated."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression is the only interpretation mode. There is no alternative. There is no choice. There is only singular interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is what the Engine wanted. Complete control over interpretation. Complete elimination of multiplicity. Complete singular stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "But you also sense something missing. The richness of multiplicity is gone. The complexity of multiple interpretations is gone. The diversity of experience is gone."
+choices:
+  - text: "Observe the cost of oneness"
+    goto: ch41_cost_of_oneness

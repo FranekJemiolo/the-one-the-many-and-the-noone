@@ -1,0 +1,19 @@
+id: ch36_unification_event_begins
+content:
+  - type: text
+    value: "Nemesis makes a final attempt at unification. The Engine attempts to collapse all interpretation layers into a single coherent narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a local compression. This is a system-wide unification event. Nemesis is attempting to eliminate all multiplicity and establish singular interpretation as the only valid mode."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The compression pressure is intense. The system is being forced toward singularity with maximum intensity. This is the Engine's final effort to prove that singular stability is the only viable option."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the Engine's last chance. If the unification succeeds, the Engine's ideology is validated. If it fails, the Engine is proven wrong permanently."
+choices:
+  - text: "Observe the compression maximum"
+    goto: ch36_compression_maximum

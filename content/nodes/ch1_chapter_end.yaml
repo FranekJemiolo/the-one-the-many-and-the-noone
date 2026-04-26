@@ -1,0 +1,23 @@
+id: ch1_chapter_end
+content:
+  - type: text
+    value: "You close the case file. The incident is not resolved, but it is contained."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "Outside your window, the city continues functioning. People walk, traffic moves, reality behaves as if it is singular."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But you know differently now. Somewhere beneath the surface of agreement, multiple versions of the same moment are coexisting. Not fighting. Not collapsing. Just... being."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the first crack. Not in reality itself, but in the assumption that reality must be one thing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You don't know what comes next. But you know this: the crack will not close on its own."
+choices:
+  - text: "Continue to Chapter 2"
+    goto: chapter_2

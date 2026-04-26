@@ -1,0 +1,19 @@
+id: ch14_truth_as_variable
+content:
+  - type: text
+    value: "You analyze the concept of truth as a variable. In Dr. Koval's system, truth is not a fixed reference point. It is a functional variable that can be adjusted for system stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not relativism. Dr. Koval is not saying all truths are equal. She is saying that truth can be temporarily replaced with a stabilizing falsehood when the system cannot handle the complexity of the truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The falsehood is not permanent. It is a temporary interpretation that allows the system to function. The truth remains in the background, accessible when the system is ready for it."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is how the Quiet Engine operates. Not by eliminating truth, but by selecting interpretations that are compatible with system stability."
+choices:
+  - text: "Understand the system exploitation"
+    goto: ch14_system_exploitation

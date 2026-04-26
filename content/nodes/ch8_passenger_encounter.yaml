@@ -1,0 +1,23 @@
+id: ch8_passenger_encounter
+content:
+  - type: text
+    value: "The Passenger sits across from you. They are not a person exactly—more like a transient emotional state that happens to have a body."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The journey feels different each time,\" the Passenger says. \"Not in duration. In feeling. Sometimes it takes forever. Sometimes it happens instantly.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about the clock. The Passenger checks their watch. \"The time is correct. Forty minutes. But the experience of those forty minutes changes.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a subjective impression. The Passenger is describing a real phenomenon: emotional time is independent of causal time."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is another form of multiplicity. The same journey can have multiple emotional durations simultaneously, all equally valid."
+choices:
+  - text: "Analyze the emotional inconsistency"
+    goto: ch8_emotional_inconsistency

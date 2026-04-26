@@ -1,0 +1,19 @@
+id: ch17_witness_repetition
+content:
+  - type: text
+    value: "You focus on the Witness's repetition. The Witness has appeared in multiple locations, but there is a recognizable pattern to their testimony."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Witness always reports multiple versions of the same event. The Witness always speaks as if multiplicity is natural. The Witness always has the same emotional signature."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not the same individual appearing in different places. This is a nameless role that is crystallizing into a pattern across the multiplicity system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize the Witness is beginning to form a proto-identity. The role is becoming stable enough to be recognized across different contexts."
+choices:
+  - text: "Understand the proto-identity formation"
+    goto: ch17_proto_identity

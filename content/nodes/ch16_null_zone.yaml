@@ -1,0 +1,19 @@
+id: ch16_null_zone
+content:
+  - type: text
+    value: "You enter a Null Zone. The environment is not unstable. It is empty—not of matter, but of meaning."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Objects exist here, but they cannot be interpreted. You see a chair, but you cannot determine its purpose. You see a door, but you cannot know where it leads."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not sensory deprivation. Your senses work fine. The problem is that interpretation itself fails. Meaning cannot crystallize in this zone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what happens when the interpretation field collapses completely. Reality exists, but it cannot be understood."
+choices:
+  - text: "Observe the identity failure"
+    goto: ch16_identity_failure

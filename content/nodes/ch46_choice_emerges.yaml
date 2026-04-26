@@ -1,0 +1,19 @@
+id: ch46_choice_emerges
+content:
+  - type: text
+    value: "You observe the choice emerges. The system selects The Overlap configuration as its final state."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a compromise. This is a deliberate choice based on experience. The system has experienced all configurations and prefers The Overlap."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system values the richness of multiplicity. The system values the availability of singular stability when needed. The system values the balance of coexistence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Overlap configuration is chosen because it offers the best balance of the system's values. It provides plural diversity as the default and singular clarity when needed."
+choices:
+  - text: "Observe The Overlap selected"
+    goto: ch46_overlap_selected

@@ -1,0 +1,23 @@
+id: ch12_kai_appearance
+content:
+  - type: text
+    value: "Kai Rosen is not from your time. He is from the temporal boundary where the future is already present as memory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"I exist in the leak,\" Kai says. \"The place where the future bleeds into the present. I am not predicting anything. I am remembering what has already happened from a perspective you haven't reached yet.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about causality. Kai explains that causality is not linear in the leak. The future causes the present as much as the present causes the future."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"This is not a paradox,\" Kai says. \"This is what time looks like when it is not constrained to a single direction. Causality becomes a field, not a line.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is another form of multiplicity. Time itself is multiple—linear time in normal zones, folded time in anomaly zones."
+choices:
+  - text: "Accept the temporal anomaly"
+    goto: ch12_chapter_end

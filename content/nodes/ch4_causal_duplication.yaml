@@ -1,0 +1,23 @@
+id: ch4_causal_duplication
+content:
+  - type: text
+    value: "You write your final report. The conclusion is unprecedented: causal timeline duplication has been observed in a living memory system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The cyborg is not malfunctioning. The cyborg is demonstrating that memory can hold multiple contradictory histories without choosing between them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the fourth crack. First: memory divergence. Second: emotional-causal split. Third: temporal instability. Now: causal duplication in memory systems."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Reality is not just producing multiple pasts. It is producing entities that can contain them all simultaneously. The cyborg is not broken—the cyborg is evolved."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You leave the facility with the uncomfortable knowledge that your own memory might be capable of the same multiplicity. You just haven't learned how to access it yet."
+choices:
+  - text: "Conclude the investigation"
+    goto: ch4_chapter_end

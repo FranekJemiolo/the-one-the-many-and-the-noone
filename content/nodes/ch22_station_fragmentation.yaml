@@ -1,0 +1,19 @@
+id: ch22_station_fragmentation
+content:
+  - type: text
+    value: "You observe the station fragmentation. Geostation Three is not a single unified space anymore. It has fragmented into multiple temporal versions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "In one version, the station is at 14:03. In another, it is at 14:05. In another, it is at all times simultaneously. These versions are not separate. They overlap in the same physical space."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The researchers move between versions without noticing. They are adapted to the temporal field. They exist in multiple temporal states simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the collapse of linear time. The station has not returned to normal. It has evolved into a temporal multiplicity system."
+choices:
+  - text: "Understand the multiple timelines"
+    goto: ch22_multiple_timelines

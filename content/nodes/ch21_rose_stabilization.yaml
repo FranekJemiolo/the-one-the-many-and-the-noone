@@ -1,0 +1,19 @@
+id: ch21_rose_stabilization
+content:
+  - type: text
+    value: "You observe Rose's stabilization. The contradictions in the zone are being held in a state of coexistence without collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Red and blue objects coexist. Past and future memories coexist. Causal and emotional interpretations coexist. None are dominant. None are eliminated."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a passive state. Rose is actively maintaining the coherence field that allows contradictions to coexist without collapsing the system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this requires energy. Rose is not just allowing multiplicity. Rose is actively working to preserve it against Nemesis's compression."
+choices:
+  - text: "Observe Nemesis's compression"
+    goto: ch21_nemesis_compression

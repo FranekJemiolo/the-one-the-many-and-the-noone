@@ -1,0 +1,23 @@
+id: ch26_chapter_end
+content:
+  - type: text
+    value: "You and Mira sit in the same physical space, but you are no longer sharing the same reality. The split has become permanent."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a tragedy. It is an evolution. The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what the Engine fears. Parallel interpretation engines are not chaos. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The collapse of shared interpretation has not destroyed your relationship with Mira. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+choices:
+  - text: "Continue to Chapter 27"
+    goto: chapter_27

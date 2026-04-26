@@ -1,0 +1,21 @@
+id: ch11_memory_sanctuary
+content:
+  - type: text
+    value: "You enter the memory sanctuary. The environment is not physical—it is a constructed space where memories can be examined without the pressure of causal correctness."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Sister Lys manages this space. She is not a traditional archivist. She is a memory reconciliation system that allows contradictory memories to coexist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The sanctuary contains memories that should be mutually exclusive. But here, they are not in conflict. They are simply different versions of the same past."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is Rose's domain made visible. Contradiction stabilization as a service."
+choices:
+  - text: "Examine the contradictory memories"
+    goto: ch11_contradictory_memories
+  - text: "Speak with Sister Lys"
+    goto: ch11_memory_reconciliation

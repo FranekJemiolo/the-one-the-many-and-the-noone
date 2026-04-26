@@ -1,0 +1,19 @@
+id: ch32_teacher_multiple_classrooms
+content:
+  - type: text
+    value: "The Teacher is appearing in multiple classrooms simultaneously. Like the Witness and Guard, the Teacher has fragmented into multiple versions under system collapse pressure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Teacher A is in classroom 14:03. Teacher B is in classroom 14:05. Teacher C is in both classrooms simultaneously. All are the same Teacher, but all are different versions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Teacher's function is consistent across all versions: transmitting knowledge, guiding learning, preserving information. But the specific implementation varies across the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the next identity crystallization. The Teacher is following the same pattern as Echo and Barrier: fragmentation under pressure, then crystallization into a named multiplicity."
+choices:
+  - text: "Observe the instructional pattern"
+    goto: ch32_instructional_pattern

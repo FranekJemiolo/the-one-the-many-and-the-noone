@@ -1,0 +1,19 @@
+id: ch42_resistance_dominance
+content:
+  - type: text
+    value: "You observe the Resistance dominance. In The Many configuration, the Resistance is completely dominant. The Engine's compression layer has been eliminated."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Resistance's multiplicity is the only interpretation mode. There is no alternative. There is no choice. There is only plural interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is what the Resistance wanted. Complete freedom of interpretation. Complete expansion of multiplicity. Complete plural diversity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "But you also sense something overwhelming. The infinite ambiguity is disorienting. The infinite contradiction is destabilizing. The infinite diversity is exhausting."
+choices:
+  - text: "Observe the cost of many"
+    goto: ch42_cost_of_many

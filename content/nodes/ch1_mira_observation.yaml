@@ -1,0 +1,30 @@
+id: ch1_mira_observation
+content:
+  - type: text
+    value: "You approach the problem emotionally. If both memories feel true, perhaps truth is not singular."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The first witness remembers fear first, then confusion, then relief. The emotional sequence is coherent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The second witness remembers confusion first, then recognition, then a strange calm. Also coherent."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You notice something unsettling: neither witness is lying. Both are describing what they felt. The contradiction is not in their honesty—it's in reality itself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You write in your notebook: 'Emotional truth diverges without breaking. This is not error. This is multiplicity.'"
+choices:
+  - text: "Interview the witnesses directly"
+    goto: ch1_witness_testimony
+  - text: "Compare with Aleksy's causal analysis"
+    goto: ch1_aleksy_investigation
+    require:
+      all:
+        - var: "aleksy_dominance"
+          op: ">="
+          value: 1

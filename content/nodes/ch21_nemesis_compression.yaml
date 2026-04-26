@@ -1,0 +1,19 @@
+id: ch21_nemesis_compression
+content:
+  - type: text
+    value: "You observe Nemesis's compression. The contradictions in the zone are being forced into a single coherent narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Red objects become dominant. Blue objects fade. Past memories become primary. Future memories become secondary. Causal interpretation becomes default. Emotional interpretation becomes optional."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a passive process. Nemesis is actively compressing the multiplicity field, making singular interpretation feel more natural and correct."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this also requires energy. Nemesis is not just allowing singularity. Nemesis is actively working to enforce it against Rose's stabilization."
+choices:
+  - text: "Observe the conflict escalation"
+    goto: ch21_conflict_escalation

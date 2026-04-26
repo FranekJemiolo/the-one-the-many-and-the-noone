@@ -1,0 +1,19 @@
+id: ch20_system_oscillation
+content:
+  - type: text
+    value: "You observe the system oscillation. The conflict between Aleksy and Mira mirrors the conflict between the Engine and the Resistance."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "When Aleksy's interpretation dominates, the system moves toward causal singularity. When Mira's interpretation dominates, the system moves toward emotional multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system oscillates between these states. Neither can achieve permanent dominance because both are equally valid."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the stalemate that will break in the next phase. The system cannot oscillate indefinitely. Something will force a choice between causal singularity and emotional multiplicity."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch20_chapter_end

@@ -1,0 +1,19 @@
+id: ch47_rose_field_structural
+content:
+  - type: text
+    value: "You observe Rose's field becomes structural. The coherence field is now a permanent feature of the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Rose is no longer needed as an active intervention. The coherence field has been internalized by the system. Contradictions can coexist without requiring Rose's direct presence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the goal the Resistance was fighting for. Not to make Rose dominant, but to make Rose's method structural. The system can now stabilize contradictions without external intervention."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the ultimate victory. The system has internalized plural stability. The coherence field is now structural, not external."
+choices:
+  - text: "Observe the system complete"
+    goto: ch47_system_complete

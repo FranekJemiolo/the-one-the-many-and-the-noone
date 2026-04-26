@@ -1,0 +1,23 @@
+id: ch7_chapter_end
+content:
+  - type: text
+    value: "You leave the unstable reality zone. The injected contradiction remains in your mind, coexisting with the official narrative."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Quiet Engine wants compression. The Resistance wants divergence. The conflict is no longer abstract. It is active."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize you have been experiencing the Resistance's work all along. The anomalies were not breakdowns. They were interventions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This changes everything. You are not just observing reality's breakdown. You are caught in a conflict between two interpretation systems: one that wants singularity, one that wants multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The question is no longer what is happening. The question is which system you will serve."
+choices:
+  - text: "Continue to Chapter 8"
+    goto: chapter_8

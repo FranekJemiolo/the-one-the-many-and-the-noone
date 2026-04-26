@@ -1,0 +1,19 @@
+id: ch20_aleksy_mira_conflict
+content:
+  - type: text
+    value: "You and Mira are experiencing the same moment, but your interpretations are in direct conflict. This is not the gentle dual-reality of Chapter 5. This is war."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Aleksy's interpretation: The causal sequence is clear. The event happened in a specific order. Any other interpretation is incorrect."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Mira's interpretation: The emotional sequence is clear. The event felt a specific way. Any other interpretation is incomplete."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Both interpretations are internally consistent. Both are mutually incompatible. Neither will yield."
+choices:
+  - text: "Observe the interpretation conflict peak"
+    goto: ch20_interpretation_conflict_peaks

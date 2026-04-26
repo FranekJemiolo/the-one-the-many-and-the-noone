@@ -1,0 +1,19 @@
+id: ch46_overlap_selected
+content:
+  - type: text
+    value: "You observe The Overlap selected. The system chooses balanced coexistence as its final configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression layer and the Resistance's multiplicity layer will operate in coexistence. Plural stability will be the default, but singular stability will be available when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the system's final choice based on its accumulated experience. The system values the richness of multiplicity and the availability of singular clarity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the optimal outcome. The system has not chosen extreme singularity or extreme multiplicity. It has chosen balanced coexistence that honors both."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch46_chapter_end

@@ -1,0 +1,19 @@
+id: ch36_system_resistance
+content:
+  - type: text
+    value: "You observe the system resistance. The coherence field that has become structural is actively opposing Nemesis's compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system is not just passively resisting. The system is actively choosing plural stability. The structural coherence field is stabilizing contradictions faster than Nemesis can compress them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not Rose fighting Nemesis. This is the system itself rejecting the Engine's ideology. The system has experienced plural stability and prefers it over singular stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the final proof. The system is not being forced into multiplicity by the Resistance. The system is choosing multiplicity because it prefers plural stability."
+choices:
+  - text: "Observe that Nemesis fails"
+    goto: ch36_nemesis_fails

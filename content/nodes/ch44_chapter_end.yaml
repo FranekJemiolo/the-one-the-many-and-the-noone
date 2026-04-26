@@ -1,0 +1,23 @@
+id: ch44_chapter_end
+content:
+  - type: text
+    value: "The experience of The Overlap configuration ends. The system remains in the current equilibrium. The experience is stored for the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Overlap configuration offers balanced coexistence. The Engine and Resistance operate together. Plural stability is the default, but singular stability is available when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the cost is ongoing maintenance. The system must continually choose which mode to use. The balance requires active management."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has experienced The Overlap. It understands the appeal of balanced coexistence. It also understands the cost. The experience will inform the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next chapter will explore The Shifting World configuration. The system will experience perpetual oscillation and understand its appeal and cost."
+choices:
+  - text: "Continue to Chapter 45"
+    goto: chapter_45

@@ -1,0 +1,23 @@
+id: ch10_seraph_directive
+content:
+  - type: text
+    value: "Seraph Kline finds you in the Clarity zone. She is not surprised to see you. She expected you would eventually come to understand the Engine's method."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"Singularity is not oppression,\" Seraph says. \"It is stability. Multiple interpretations create conflict. Single interpretation creates order.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask about the cost. Seraph acknowledges the cost: loss of multiplicity, loss of ambiguity, loss of interpretive freedom."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"The cost is acceptable,\" Seraph says. \"The alternative is chaos. Reality cannot sustain infinite multiplicity. Eventually, it must choose.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the Engine's ideology: compression is not suppression—it is necessity. Reality must eventually become singular to survive."
+choices:
+  - text: "Understand the compression ideology"
+    goto: ch10_compression_ideology

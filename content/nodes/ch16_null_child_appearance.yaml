@@ -1,0 +1,19 @@
+id: ch16_null_child_appearance
+content:
+  - type: text
+    value: "Something appears in the Null Zone. Not a person. Not an entity. Something that represents the absence of interpretation itself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Null Child. A being that exists in the void where meaning cannot crystallize. The Child does not have identity because identity requires interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Child does not speak. Speaking requires meaning. The Child simply exists as a presence that erases relational consistency."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when the interpretation field fails completely. The Null Child is not malicious. The Child is simply what exists when meaning cannot form."
+choices:
+  - text: "Understand the interpretation void"
+    goto: ch16_interpretation_void

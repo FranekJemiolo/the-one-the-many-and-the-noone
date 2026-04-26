@@ -1,0 +1,19 @@
+id: ch30_multiple_realities_established
+content:
+  - type: text
+    value: "You observe the multiple realities established. The system is now operating in multiple incompatible layers simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Layer A: Engine compression. Singular interpretation. Causal sequences. Linear time. Mechanical-biological separation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Layer B: Resistance multiplicity. Multiple interpretations. Emotional-causal split. Temporal fields. Synthetic life."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Both layers are equally real. Both are operating simultaneously. The system has not chosen one. It has crystallized both into parallel structures."
+choices:
+  - text: "Observe that the Engine fails to control"
+    goto: ch30_engine_fails_to_control

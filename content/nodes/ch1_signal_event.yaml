@@ -1,0 +1,25 @@
+id: ch1_signal_event
+content:
+  - type: text
+    value: "The incident report sits on your desk. Two witnesses. Same event. Incompatible accounts."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This should be impossible. In a singular reality, memory converges on fact. But here, both accounts feel internally consistent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You pick up the first statement. The details are precise, chronological, causal."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Then you read the second. The emotional sequence is different. The timing doesn't match. Yet it feels equally true."
+choices:
+  - text: "Investigate the causal chain (Aleksy perspective)"
+    goto: ch1_aleksy_investigation
+    set:
+      aleksy_dominance: 1
+  - text: "Observe the emotional residue (Mira perspective)"
+    goto: ch1_mira_observation
+    set:
+      mira_dominance: 1

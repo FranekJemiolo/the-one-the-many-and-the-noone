@@ -1,0 +1,13 @@
+id: chapter_20
+title: "Dual Memory War"
+arc: interpretation_systems_emerge
+nodes:
+  - ch20_aleksy_mira_conflict
+  - ch20_interpretation_conflict_peaks
+  - ch20_no_resolution
+  - ch20_system_oscillation
+  - ch20_chapter_end
+context:
+  location: "shared memory space"
+  time: "unstable"
+  theme: "Aleksy vs Mira interpretation conflict peaks"

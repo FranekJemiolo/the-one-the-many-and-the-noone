@@ -1,0 +1,19 @@
+id: ch18_singularity_enforcement
+content:
+  - type: text
+    value: "You observe the singularity enforcement. In the expanding Clarity zones, multiple interpretations are being pruned down to one."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The pruning is not violent. It is subtle. Alternative interpretations simply fail to crystallize. Only the singular interpretation feels natural."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the Engine's method expanded from a local technique to a global strategy. Clarity zones are becoming the default, not the exception."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the escalation phase. The Engine is no longer content with local compression. It is expanding singularity enforcement across the entire system."
+choices:
+  - text: "Observe Seraph's expanded directive"
+    goto: ch18_seraph_directive_expanded

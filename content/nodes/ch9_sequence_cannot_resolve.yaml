@@ -1,0 +1,19 @@
+id: ch9_sequence_cannot_resolve
+content:
+  - type: text
+    value: "You attempt to resolve the sequence using your standard method. Trace the dominant causal chain. Eliminate the branches. Establish the primary sequence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the method fails. Every time you eliminate a branch, it reappears as equally valid. Every time you choose a primary sequence, an alternative sequence presents itself as equally likely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a matter of insufficient data. You have all the data. The data itself contains multiple valid sequences that cannot be reconciled."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is not an investigation problem. This is a reality problem. Causality itself has become multiple in this zone."
+choices:
+  - text: "Accept the causal instability"
+    goto: ch9_causal_instability

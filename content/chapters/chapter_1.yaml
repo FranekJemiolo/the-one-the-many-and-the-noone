@@ -1,17 +1,15 @@
 id: chapter_1
-title: "Boot Sequence"
-arc: calm_intro
+title: "The First Inconsistency"
+arc: stable_reality_breakdown
 nodes:
-  - wake
-  - examine_room
-  - diagnostics
-  - memory_check
-  - log_deep
-  - previous_iterations
-  - ignore_work
-  - clock_anomaly
-  - clock_investigation
-  - ch1_to_ch2_bridge
+  - ch1_signal_event
+  - ch1_aleksy_investigation
+  - ch1_mira_observation
+  - ch1_witness_testimony
+  - ch1_memory_divergence
+  - ch1_rose_field_activation
+  - ch1_chapter_end
 context:
-  location: "apartment"
-  time: "morning"
+  location: "urban investigation site"
+  time: "day"
+  theme: "reality disagreement begins"

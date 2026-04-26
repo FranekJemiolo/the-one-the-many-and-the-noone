@@ -1,0 +1,19 @@
+id: ch45_cost_of_shifting
+content:
+  - type: text
+    value: "You observe the cost of shifting. In The Shifting World configuration, reality is in perpetual motion, but the stability of any state is gone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "There is perpetual novelty, but there is also perpetual disorientation. There is perpetual change, but there is also perpetual exhaustion. There is perpetual motion, but there is also perpetual instability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Shifting World configuration is dynamic, but it is also exhausting. Reality has perpetual motion, but it has no stable state to rest in."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the cost of perpetual motion. Dynamism comes at the cost of stability. The system would be in constant motion, but it would also be in constant exhaustion."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch45_chapter_end

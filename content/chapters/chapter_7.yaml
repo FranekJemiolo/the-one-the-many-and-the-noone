@@ -1,0 +1,13 @@
+id: chapter_7
+title: "Resistance Signal"
+arc: interpretation_systems_emerge
+nodes:
+  - ch7_contradiction_injection
+  - ch7_alternate_explanation
+  - ch7_divergence_stabilized
+  - ch7_resistance_network
+  - ch7_chapter_end
+context:
+  location: "unstable reality zone"
+  time: "unstable"
+  theme: "contradiction injection appears"

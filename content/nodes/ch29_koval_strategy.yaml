@@ -1,0 +1,19 @@
+id: ch29_koval_strategy
+content:
+  - type: text
+    value: "Dr. Koval explains the strategy. \"The Engine demands compression. The system needs truth. The solution is layered interpretation.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The active layer is a controlled falsehood that satisfies the Engine's need for compression. The background layer contains the truth that the system needs for accuracy.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "She is not deceiving the Engine. The Engine is aware of the layered structure. The Engine accepts the active layer as the operating interpretation while knowing the background layer exists."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is a sophisticated form of resistance. Not by fighting the Engine's compression, but by working within it to preserve multiplicity through layering."
+choices:
+  - text: "Understand the interpretive architecture"
+    goto: ch29_interpretive_architecture

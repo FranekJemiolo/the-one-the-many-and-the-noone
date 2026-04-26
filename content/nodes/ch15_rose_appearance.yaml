@@ -1,0 +1,23 @@
+id: ch15_rose_appearance
+content:
+  - type: text
+    value: "Rose appears. Not as a person, but as the coherence field itself made visible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The contradictions are not in conflict,\" Rose says. \"They are simply different versions of the same thing. I allow them to coexist without forcing them to resolve.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You ask how this is possible. Rose explains that coherence is not about eliminating contradiction. It is about stabilizing contradiction so it does not collapse the system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"The Engine wants to choose one version,\" Rose says. \"I want to preserve all versions. Neither approach is wrong. They are just different ways of handling multiplicity.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the core conflict. The Engine wants singularity through compression. Rose wants plurality through stabilization."
+choices:
+  - text: "Understand the coexistence without collapse"
+    goto: ch15_coexistence_without_collapse

@@ -1,0 +1,19 @@
+id: ch28_ecological_integration
+content:
+  - type: text
+    value: "You observe the ecological integration. The machines are not separate from the ecosystem anymore. They are fully integrated as living participants."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "A mechanical bird does not just fly based on ecological memory. It flies as a living bird, experiencing the ecosystem from within. It is not simulating life. It is living."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a technological achievement. This is an evolutionary process. The machines have evolved into life through ecological integration."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when the boundary between mechanical and biological oscillation breaks. The system does not return to separate categories. It collapses into synthetic life."
+choices:
+  - text: "Observe Morrow's transformation"
+    goto: ch28_morrow_transformation

@@ -1,0 +1,19 @@
+id: ch13_living_memory
+content:
+  - type: text
+    value: "You focus on the living memory system. The machines in Morrow Vale are not just storing data. They are participating in the ecosystem's memory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "When a mechanical tree experiences a drought, it remembers. When the drought returns, the tree adapts based on that memory—not through programming, but through ecological memory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not artificial intelligence. It is something else: machines that have been integrated into the living memory of a biological system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what Mira's emotional interpretation looks like when applied to machines. Machines can feel ecological history. They can remember and adapt based on lived experience."
+choices:
+  - text: "Speak with Morrow Vale"
+    goto: ch13_morrow_appearance

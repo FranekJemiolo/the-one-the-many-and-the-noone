@@ -1,0 +1,23 @@
+id: ch27_chapter_end
+content:
+  - type: text
+    value: "You leave the temporal boundary zone. Kai remains in the causal loop. The future continues to cause the present, which continues to cause the future."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a breakdown of time. It is an evolution of time. The system has adapted to temporal multiplicity by allowing causality to operate in loops."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the Engine's fear is unfounded. Temporal fields are not chaos. They are a different way of experiencing time that the Engine cannot control, but that functions perfectly well."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The collapse of linear causality has not destroyed the boundary zone. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+choices:
+  - text: "Continue to Chapter 28"
+    goto: chapter_28

@@ -1,0 +1,13 @@
+id: chapter_30
+title: "System Collapse Complete"
+arc: system_collapse
+nodes:
+  - ch30_oscillation_breaks
+  - ch30_multiple_realities_established
+  - ch30_engine_fails_to_control
+  - ch30_new_stability
+  - ch30_chapter_end
+context:
+  location: "system-wide"
+  time: "collapsed"
+  theme: "oscillation breaks, multiple realities established"

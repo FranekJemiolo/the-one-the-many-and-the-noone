@@ -1,0 +1,19 @@
+id: ch47_new_reality_established
+content:
+  - type: text
+    value: "You observe the new reality established. The Overlap configuration is now the permanent state of the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression layer and the Resistance's multiplicity layer operate in permanent coexistence. Plural stability is the default, but singular stability is available when needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the new reality. Not a compromise, but a deliberate choice. The system has experienced all configurations and chosen balanced coexistence as its optimal state."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the victory of the Resistance's position. The system has chosen plural stability as the default while preserving singular stability as an available option."
+choices:
+  - text: "Observe Rose's field becomes structural"
+    goto: ch47_rose_field_structural

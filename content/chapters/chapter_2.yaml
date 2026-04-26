@@ -1,17 +1,14 @@
 id: chapter_2
-title: "Anomalies in the Code"
-arc: tension_rise
+title: "Emotional Mismatch"
+arc: stable_reality_breakdown
 nodes:
-  - street_glitch
-  - investigate
-  - overlay_interaction
-  - trace_log
-  - ignore_glitch
-  - follow_pedestrian
-  - empty_lot
-  - reflection_anomaly
-  - mirror_touch
-  - ch2_to_ch3_bridge
+  - ch2_emotional_anomaly
+  - ch2_patient_encounter
+  - ch2_factual_correctness
+  - ch2_emotional_wrongness
+  - ch2_split_perspective
+  - ch2_chapter_end
 context:
-  location: "city_street"
-  time: "morning"
+  location: "medical facility"
+  time: "afternoon"
+  theme: "feelings contradict factual events"

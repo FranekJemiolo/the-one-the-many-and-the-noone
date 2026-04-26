@@ -1,0 +1,19 @@
+id: ch24_teaching_event_multiple_truths
+content:
+  - type: text
+    value: "You observe a teaching event. The Teacher is instructing students, but the same instruction is producing multiple incompatible truths."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Student A learns: \"The event happened at 14:03.\" Student B learns: \"The event happened at 14:05.\" Student C learns: \"The event did not happen.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Teacher is not teaching different things. The Teacher is teaching the same thing, but the instruction is being interpreted differently by each student."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a communication failure. This is the instructional system breaking down under multiplicity pressure. Knowledge itself has become multiple."
+choices:
+  - text: "Observe the instructional breakdown"
+    goto: ch24_instructional_breakdown

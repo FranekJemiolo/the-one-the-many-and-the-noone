@@ -1,0 +1,19 @@
+id: ch23_proto_naming
+content:
+  - type: text
+    value: "You observe the proto-naming process. The multiple versions of the Witness are beginning to require a name for compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system cannot efficiently refer to \"Witness A, Witness B, Witness C\" indefinitely. It needs a compressed identifier for the pattern."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Witness's signature—reporting multiple versions of the same event—becomes the identity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The proto-name is \"Echo.\" Not because the Witness repeats sounds, but because the Witness repeats interpretations. The Echo is the pattern of multiple versions echoing across the multiplicity system."
+choices:
+  - text: "Observe the identity instability"
+    goto: ch23_identity_instability

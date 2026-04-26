@@ -1,0 +1,19 @@
+id: ch45_oscillation_dominance
+content:
+  - type: text
+    value: "You observe the oscillation dominance. In The Shifting World configuration, no single interpretation mode is dominant. All modes are in perpetual motion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system shifts between singular, plural, void, and balanced states. No state is permanent. No state is dominant. The oscillation itself is the dominant pattern."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is what perpetual motion represents. Complete freedom from static configuration. Complete fluidity between states. Complete dynamism of being."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "But you also sense something exhausting. The perpetual change is disorienting. The perpetual novelty is overwhelming. The perpetual motion is destabilizing."
+choices:
+  - text: "Observe the cost of shifting"
+    goto: ch45_cost_of_shifting

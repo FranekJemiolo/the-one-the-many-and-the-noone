@@ -1,0 +1,27 @@
+id: ch9_investigation_fails
+content:
+  - type: text
+    value: "You are investigating an anomaly. The investigation should be straightforward: identify the cause, trace the effect, establish the sequence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the sequence cannot be resolved. Each time you trace a causal chain, it branches into multiple incompatible paths."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Cause A leads to Effect B. Cause A also leads to Effect C. Cause D leads to Effect B. Cause D also leads to Effect C."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "All causal chains are internally consistent. All are mutually incompatible. The investigation cannot produce a single sequence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the first time your causal method has failed. You are designed to resolve sequences. But here, sequences cannot be resolved."
+choices:
+  - text: "Attempt to resolve the sequence anyway"
+    goto: ch9_sequence_cannot_resolve
+    set:
+      aleksy_dominance: 1
+  - text: "Accept the causal instability"
+    goto: ch9_causal_instability

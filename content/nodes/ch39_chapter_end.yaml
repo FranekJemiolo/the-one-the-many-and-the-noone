@@ -1,0 +1,23 @@
+id: ch39_chapter_end
+content:
+  - type: text
+    value: "You observe the new equilibrium. The Engine's compression layer and the Resistance's multiplicity layer operate in stable coexistence, with plural stability as the default."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the end of the ideological conflict. The Engine is not destroyed. The Engine is simply no longer dominant. The system has chosen plural stability, and the Engine accepts this choice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what the Resistance was fighting for. Not to destroy the Engine, but to create a system where both singular and plural stability are available, with plural stability as the default."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has made its choice. The endgame can now begin. The final chapters will determine how this choice is finalized and what the ultimate configuration of reality will be."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This completes Part IV. Identity crystallization is complete. The system has adapted to multiplicity. The choice has been made. The endgame approaches."
+choices:
+  - text: "Continue to Chapter 40"
+    goto: chapter_40

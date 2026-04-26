@@ -1,0 +1,19 @@
+id: ch24_instructional_breakdown
+content:
+  - type: text
+    value: "You observe the instructional breakdown. The Teacher is not failing to communicate. The communication system itself has become multiple."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "When the Teacher speaks, the instruction does not travel as a single signal. It travels as multiple signals that are interpreted differently by each receiver."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem with the Teacher's method. This is a structural feature of the multiplicity system. Knowledge transmission has become inherently multiple."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is what happens when the oscillation between singular and multiple interpretation breaks. The system does not return to singular knowledge transmission. It collapses into multiplicity transmission."
+choices:
+  - text: "Observe the Teacher fragmentation"
+    goto: ch24_teacher_fragmentation

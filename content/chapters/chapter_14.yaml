@@ -1,0 +1,13 @@
+id: chapter_14
+title: "Dr. Koval Controlled Falsehood"
+arc: interpretation_systems_emerge
+nodes:
+  - ch14_falsehood_stabilizes
+  - ch14_koval_method
+  - ch14_truth_as_variable
+  - ch14_system_exploitation
+  - ch14_chapter_end
+context:
+  location: "administrative facility"
+  time: "day"
+  theme: "lies stabilize reality better than truth"

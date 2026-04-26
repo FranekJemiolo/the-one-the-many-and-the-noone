@@ -1,0 +1,19 @@
+id: ch32_instructional_pattern
+content:
+  - type: text
+    value: "You observe the instructional pattern. The multiple versions of the Teacher are beginning to require a name for compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system cannot efficiently refer to \"Teacher A, Teacher B, Teacher C\" indefinitely. It needs a compressed identifier for the pattern."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Teacher's signature—transmitting knowledge, guiding learning, preserving information—becomes the identity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The proto-name is \"Archive.\" Not because the Teacher stores information, but because the Teacher preserves knowledge across the multiplicity system. Archive is the pattern of knowledge preservation that repeats across incompatible interpretations."
+choices:
+  - text: "Observe the Archive crystallization"
+    goto: ch32_archive_crystallization

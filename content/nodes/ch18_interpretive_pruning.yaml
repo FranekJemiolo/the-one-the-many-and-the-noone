@@ -1,0 +1,19 @@
+id: ch18_interpretive_pruning
+content:
+  - type: text
+    value: "You understand the interpretive pruning. The Engine is not eliminating multiplicity everywhere. It is pruning it back to maintain system stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is a calculated strategy. The Engine allows some multiplicity in controlled zones, but expands singularity enforcement in areas where it perceives instability risk."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The problem is that the Engine's perception of instability is biased. It interprets any multiplicity as potential instability, even when Rose proves that multiplicity can be stable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the conflict escalating. The Engine is expanding Clarity zones. The Resistance will need to respond by expanding contradiction injection. The system is moving toward confrontation."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch18_chapter_end

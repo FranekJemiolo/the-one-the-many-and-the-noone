@@ -1,0 +1,19 @@
+id: ch25_movement_no_destination
+content:
+  - type: text
+    value: "You observe the transit system. Movement no longer guarantees destination consistency. The Passenger can depart from point A and arrive at multiple different points simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Passenger A departs and arrives at destination B. Passenger B departs from the same point and arrives at destination C. Passenger C departs and arrives at both B and C simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a navigation failure. The transit system itself has become multiple. Movement no longer follows a single trajectory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what happens when spatial oscillation breaks. The system does not return to singular movement. It collapses into trajectory multiplicity."
+choices:
+  - text: "Observe the transit breakdown"
+    goto: ch25_transit_breakdown

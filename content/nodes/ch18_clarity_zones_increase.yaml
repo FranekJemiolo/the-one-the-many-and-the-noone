@@ -1,0 +1,19 @@
+id: ch18_clarity_zones_increase
+content:
+  - type: text
+    value: "You observe that Clarity zones are expanding. The Engine is increasing its enforcement of singular interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Where there were once multiple valid interpretations, now there is only one. The Engine is pruning the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not happening through direct force. The Engine is making singular interpretation feel more natural, more comfortable, more correct."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the Engine's response to the Resistance's expansion. As multiplicity increases, the Engine increases compression to maintain system stability."
+choices:
+  - text: "Observe the singularity enforcement"
+    goto: ch18_singularity_enforcement

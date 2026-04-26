@@ -1,0 +1,19 @@
+id: ch40_system_ready_for_choice
+content:
+  - type: text
+    value: "You observe the system ready for choice. The five canonical endings are available configurations. The system can choose any of them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system is not being forced into any ending. The system has the agency to choose its final configuration. The endgame will be about which configuration the system selects."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a predetermined outcome. The system's choice will depend on the accumulated experience of operating in the current equilibrium and the preferences that have emerged."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the true endgame. The system is not being forced into a configuration by external forces. The system is choosing its own final state based on its experience."
+choices:
+  - text: "Observe the final configuration options"
+    goto: ch40_final_configuration_options

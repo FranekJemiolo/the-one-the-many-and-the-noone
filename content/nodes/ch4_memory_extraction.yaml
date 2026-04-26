@@ -1,0 +1,29 @@
+id: ch4_memory_extraction
+content:
+  - type: text
+    value: "You connect to the cyborg's memory interface. The data stream is overwhelming—not because of volume, but because of structure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Memory A: Born in factory, assigned to sector 7, participated in uprising, deactivated."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Memory B: Born in laboratory, assigned to research, participated in experiment, escaped."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Memory C: Born in civilian household, conscripted, participated in war, survived."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "All three memories are equally detailed. All three are emotionally authentic. All three contradict each other completely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cyborg is not lying. They are not confused. They are literally remembering multiple incompatible pasts as if all of them actually happened."
+choices:
+  - text: "Analyze the contradictory pasts"
+    goto: ch4_contradictory_pasts
+  - text: "Document the Varga entity as a memory anomaly"
+    goto: ch4_varga_entity

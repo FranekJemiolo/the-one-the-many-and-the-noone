@@ -1,0 +1,21 @@
+id: ch21_coexistence_battle
+content:
+  - type: text
+    value: "The conflict between Rose and Nemesis becomes visible. This is not a metaphorical battle. It is a direct conflict between two interpretation systems."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Rose is stabilizing contradictions, allowing multiple interpretations to coexist without collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Nemesis is compressing contradictions, forcing multiple interpretations into a single coherent narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Both systems are operating in the same zone. The contradiction is being simultaneously stabilized and compressed. The result is intense tension."
+choices:
+  - text: "Observe Rose's stabilization"
+    goto: ch21_rose_stabilization
+  - text: "Observe Nemesis's compression"
+    goto: ch21_nemesis_compression

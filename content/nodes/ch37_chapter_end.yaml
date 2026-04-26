@@ -1,0 +1,23 @@
+id: ch37_chapter_end
+content:
+  - type: text
+    value: "You leave the Null Zone. The zone is now stabilized with minimal interpretation. The Null Child has adapted to the coherence field."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not eliminating the void. The Null Zone still exists as a place of minimal interpretation. But the system has found a way to manage it without being threatened by complete interpretation failure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the Engine's fear was unfounded. The void is not a threat. The system has proven that interpretation failure can be managed through the coherence field."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Null Zone is now a managed zone of minimal interpretation that the system can tolerate without collapse. The Engine's fear has been addressed without requiring singular interpretation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This completes the adaptation phase. The system has adapted to all forms of multiplicity: temporal fields, named multiplicities, plural stability, and managed voids. The endgame can now begin."
+choices:
+  - text: "Continue to Chapter 38"
+    goto: chapter_38

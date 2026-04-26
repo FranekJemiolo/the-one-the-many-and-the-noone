@@ -1,0 +1,29 @@
+id: ch4_cyborg_encounter
+content:
+  - type: text
+    value: "The cyborg sits in the containment chair. Not a prisoner exactly—more like a memory anomaly that happens to have a body."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You are here because of a memory leak. The cyborg's memory systems are not storing information. They are leaking multiple pasts into the present."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The technicians call it a Varga-class entity. A memory construct that has become aware it contains contradictory histories."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The cyborg looks at you. Their eyes are not biological. They are memory interfaces that are currently displaying multiple timelines simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "\"I remember,\" the cyborg says. \"But I do not remember one thing. I remember everything that happened, in all the ways it could have happened.\""
+choices:
+  - text: "Extract the memory data"
+    goto: ch4_memory_extraction
+    set:
+      aleksy_dominance: 1
+  - text: "Ask about the experience of multiple pasts"
+    goto: ch4_contradictory_pasts
+    set:
+      mira_dominance: 1

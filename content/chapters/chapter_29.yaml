@@ -1,0 +1,13 @@
+id: chapter_29
+title: "Dr. Koval Falsehood Network"
+arc: system_collapse
+nodes:
+  - ch29_controlled_falsehoods_expand
+  - ch29_truth_layers
+  - ch29_koval_strategy
+  - ch29_interpretive_architecture
+  - ch29_chapter_end
+context:
+  location: "administrative facility"
+  time: "day"
+  theme: "controlled falsehoods become system architecture"

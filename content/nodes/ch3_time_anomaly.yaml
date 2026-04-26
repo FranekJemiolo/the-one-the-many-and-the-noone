@@ -1,0 +1,25 @@
+id: ch3_time_anomaly
+content:
+  - type: text
+    value: "Geostation Three is not a place where time behaves correctly. The researchers have known this for weeks, but they cannot explain it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You arrive at the station to investigate. The transport docks smoothly. Nothing is visibly wrong. That is always the first sign."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The problem is subtle: clocks disagree. Not by seconds. By sequences. One clock shows 14:03, then 14:05, then 14:04. Another shows 14:04, then 14:03, then 14:05."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The engineers insist the clocks are functioning correctly. The physicists insist time is not actually jumping. The researchers insist they are experiencing temporal instability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "All three groups are correct. This is the problem."
+choices:
+  - text: "Examine the clock inconsistency directly"
+    goto: ch3_clock_inconsistency
+  - text: "Speak with the station Guard"
+    goto: ch3_guard_interaction

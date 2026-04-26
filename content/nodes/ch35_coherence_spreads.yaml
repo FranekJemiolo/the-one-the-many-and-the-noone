@@ -1,0 +1,19 @@
+id: ch35_coherence_spreads
+content:
+  - type: text
+    value: "You observe that Rose's coherence field is expanding. The ability to stabilize contradictions is spreading from local zones to system-wide application."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Where Rose's field was once limited to specific contradiction zones, it is now becoming a general capability of the system. Contradictions can coexist without collapse across the entire multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not Rose becoming more powerful. This is the system adapting to Rose's method. The coherence field is becoming a structural feature of the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the next phase of system adaptation. The system is not just creating named multiplicities. It is adopting Rose's stabilization method as a general capability."
+choices:
+  - text: "Observe the contradiction zones expand"
+    goto: ch35_contradiction_zones_expand

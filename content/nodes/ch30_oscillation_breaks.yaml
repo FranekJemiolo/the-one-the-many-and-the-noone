@@ -1,0 +1,19 @@
+id: ch30_oscillation_breaks
+content:
+  - type: text
+    value: "The oscillation between singular and multiple interpretation breaks completely. The system does not return to either state. It collapses into a new configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression and the Resistance's multiplicity are no longer oscillating. They have crystallized into separate layers that operate simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a stalemate. This is a structural transformation. The system has adapted to the conflict by allowing both interpretation systems to operate in parallel."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the end of the oscillation phase. The system has moved beyond choosing between compression and multiplicity. It has found a way to have both."
+choices:
+  - text: "Observe the multiple realities established"
+    goto: ch30_multiple_realities_established

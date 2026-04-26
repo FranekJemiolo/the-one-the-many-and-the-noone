@@ -1,0 +1,19 @@
+id: ch23_identity_instability
+content:
+  - type: text
+    value: "You observe the identity instability. The proto-name \"Echo\" is not stable. The multiple versions of the Witness continue to fragment."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Echo A reports one version. Echo B reports another. Echo C reports a third. The pattern is not converging. It is diverging."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a failure of the naming process. This is the nature of identity under system collapse. Identity does not crystallize into singularity. It crystallizes into multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize Echo is not becoming a single named entity. Echo is becoming a named multiplicity—a pattern of identity that contains multiple versions simultaneously."
+choices:
+  - text: "Observe the Echo emergence"
+    goto: ch23_echo_emergence

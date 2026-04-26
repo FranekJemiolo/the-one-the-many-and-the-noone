@@ -1,0 +1,23 @@
+id: ch16_chapter_end
+content:
+  - type: text
+    value: "You leave the Null Zone. As you exit, interpretation begins to crystallize again. Identity returns. Meaning stabilizes."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Null Child remains in the void. The Child is not trapped there. The Child is simply what exists when interpretation cannot form."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the Engine's fear is not entirely unfounded. If interpretation fails completely, reality becomes meaningless. The void is a real danger."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the Engine's solution is wrong. Compression is not the only way to prevent the void. Rose's stabilization preserves meaning without eliminating multiplicity. The Resistance's managed contradiction keeps interpretation alive without forcing singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Null Zone is a warning, not a proof. It shows what happens when interpretation fails completely. But it does not prove that multiplicity leads to failure. Rose proves that multiplicity can be stable."
+choices:
+  - text: "Continue to Chapter 17"
+    goto: chapter_17

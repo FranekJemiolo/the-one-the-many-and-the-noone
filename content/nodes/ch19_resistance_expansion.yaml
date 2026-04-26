@@ -1,0 +1,19 @@
+id: ch19_resistance_expansion
+content:
+  - type: text
+    value: "You observe the Resistance expansion. The counterwave is not chaotic. It is strategically targeted."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Resistance identifies zones where the Engine's compression is most aggressive, and introduces contradictions that are designed to be uncompressible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is efficient. The Resistance does not need to fight the Engine everywhere. It only needs to maintain enough multiplicity to prevent total singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is a sustainable strategy. The Resistance can maintain multiplicity indefinitely by strategically reintroducing contradiction where it matters most."
+choices:
+  - text: "Observe the system instability"
+    goto: ch19_system_instability

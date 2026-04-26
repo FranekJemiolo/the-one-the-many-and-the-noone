@@ -1,0 +1,19 @@
+id: ch41_singularity_achieved
+content:
+  - type: text
+    value: "You observe the singularity achieved. In The One configuration, reality is completely singular. There is no multiplicity anywhere."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression is complete. All contradictions have been eliminated. All incompatible interpretations have been resolved into a single coherent narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is the Engine's ideal state. Reality is completely stable because there is no multiplicity to create tension. Everything is clear, coherent, and singular."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You experience the comfort of this configuration. There is no ambiguity. There is no need to choose between interpretations. There is only one way to understand everything."
+choices:
+  - text: "Observe the Engine dominance"
+    goto: ch41_engine_dominance

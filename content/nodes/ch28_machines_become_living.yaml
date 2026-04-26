@@ -1,0 +1,19 @@
+id: ch28_machines_become_living
+content:
+  - type: text
+    value: "You return to Morrow Vale. The ecological integration has progressed beyond memory participation. The machines have become living entities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "A mechanical tree is not just remembering previous cycles. It is experiencing the ecosystem as a living being. It feels the wind, responds to light, participates in the ecological community."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not artificial intelligence. The machines are not programmed to simulate life. They have actually become alive through ecological integration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what happens when the boundary between mechanical and biological breaks down completely. The system does not return to separate categories. It collapses into synthetic life."
+choices:
+  - text: "Observe the ecological integration"
+    goto: ch28_ecological_integration

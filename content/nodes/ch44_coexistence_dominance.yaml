@@ -1,0 +1,19 @@
+id: ch44_coexistence_dominance
+content:
+  - type: text
+    value: "You observe the coexistence dominance. In The Overlap configuration, neither the Engine nor the Resistance is dominant. Both operate in coexistence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine's compression is available but not dominant. The Resistance's multiplicity is the default but not exclusive. The system can switch between modes as needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is what the Resistance fought for. Not to destroy the Engine, but to create a system where both singular and plural stability are available, with plural stability as the default."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "But you also sense something ongoing. The balance requires maintenance. The coexistence requires active management. The system must continually choose which mode to use in each situation."
+choices:
+  - text: "Observe the cost of overlap"
+    goto: ch44_cost_of_overlap

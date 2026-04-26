@@ -1,0 +1,19 @@
+id: ch24_knowledge_multiplicity
+content:
+  - type: text
+    value: "You understand the knowledge multiplicity. The teaching event is not producing a single truth that is being interpreted differently. It is producing multiple truths simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a problem with the students' understanding. The knowledge itself has become multiple. The instruction contains incompatible truths that are all equally valid."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is what the Engine fears. Knowledge multiplicity is not chaos. It is a different way of knowing that the Engine cannot control, but that functions perfectly well."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The students are not confused. They are adapted to knowledge multiplicity. They learn multiple truths simultaneously and hold them all as valid."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch24_chapter_end

@@ -1,71 +1,170 @@
-title: "Echoes of the Last Compiler"
+title: "The One, The Many, and The No-One"
 chapters:
   - chapter_1
   - chapter_2
   - chapter_3
   - chapter_4
   - chapter_5
-  - chapter_endings
+  - chapter_6
+  - chapter_7
+  - chapter_8
+  - chapter_9
+  - chapter_10
+  - chapter_11
+  - chapter_12
+  - chapter_13
+  - chapter_14
+  - chapter_15
+  - chapter_16
+  - chapter_17
+  - chapter_18
+  - chapter_19
+  - chapter_20
+  - chapter_21
+  - chapter_22
+  - chapter_23
+  - chapter_24
+  - chapter_25
+  - chapter_26
+  - chapter_27
+  - chapter_28
+  - chapter_29
+  - chapter_30
+  - chapter_31
+  - chapter_32
+  - chapter_33
+  - chapter_34
+  - chapter_35
+  - chapter_36
+  - chapter_37
+  - chapter_38
+  - chapter_39
+  - chapter_40
+  - chapter_41
+  - chapter_42
+  - chapter_43
+  - chapter_44
+  - chapter_45
+  - chapter_46
+  - chapter_47
 
 arcs:
-  calm_intro:
+  stable_reality_breakdown:
     pacing:
-      frameDelay: 3000
+      frameDelay: 500
       suspense: "low"
     visuals:
       tone: "subtle unease"
-  
-  tension_rise:
+
+  interpretation_systems_emerge:
     pacing:
-      frameDelay: 3000
+      frameDelay: 600
       suspense: "medium"
     visuals:
       tone: "breaking reality"
-  
-  revelation:
+
+  system_collapse:
     pacing:
-      frameDelay: 3000
+      frameDelay: 700
       suspense: "high"
     visuals:
       tone: "structural awareness"
-  
-  climax:
+
+  identity_crystallization:
     pacing:
-      frameDelay: 3000
+      frameDelay: 800
       suspense: "high"
     visuals:
       tone: "identity collapse"
-  
-  resolution:
+
+  endgame_configuration:
     pacing:
-      frameDelay: 3000
+      frameDelay: 900
       suspense: "none"
     visuals:
       tone: "transcendent"
 
 stateMappings:
-  - var: "awareness"
-    label: "Self-Awareness"
-    description: "How aware you are of your true nature"
+  - var: "aleksy_dominance"
+    label: "Causal Interpretation"
+    description: "Strength of Aleksy's causal reality layer"
+    ranges:
+      - min: 0
+        max: 3
+        label: "Weak"
+      - min: 4
+        max: 6
+        label: "Moderate"
+      - min: 7
+        max: 10
+        label: "Dominant"
+
+  - var: "mira_dominance"
+    label: "Emotional Interpretation"
+    description: "Strength of Mira's emotional reality layer"
+    ranges:
+      - min: 0
+        max: 3
+        label: "Weak"
+      - min: 4
+        max: 6
+        label: "Moderate"
+      - min: 7
+        max: 10
+        label: "Dominant"
+
+  - var: "nemesis_compression"
+    label: "Interpretive Compression"
+    description: "Level of Nemesis/Engine reality compression"
+    ranges:
+      - min: 0
+        max: 3
+        label: "Minimal"
+      - min: 4
+        max: 6
+        label: "Partial"
+      - min: 7
+        max: 10
+        label: "Maximum"
+
+  - var: "rose_coherence"
+    label: "Coherence Field"
+    description: "Strength of Rose's contradiction stabilization"
+    ranges:
+      - min: 0
+        max: 3
+        label: "Weak"
+      - min: 4
+        max: 6
+        label: "Moderate"
+      - min: 7
+        max: 10
+        label: "Strong"
+
+  - var: "null_exposure"
+    label: "Void Exposure"
+    description: "Exposure to Null Child interpretation failure zones"
     ranges:
       - min: 0
         max: 2
-        label: "Oblivious"
+        label: "None"
       - min: 3
         max: 5
-        label: "Questioning"
+        label: "Limited"
       - min: 6
         max: 10
-        label: "Fully Aware"
-  - flag: "transcended"
-    label: "Transcendence"
-    description: "Whether you have transcended your programming"
+        label: "Severe"
+
+  - flag: "witness_crystallized"
+    label: "Witness Identity"
+    description: "Whether the Witness has crystallized into a named entity"
     booleanValues:
-      true: "Transcended"
-      false: "Bound by Code"
-  - flag: "identity_intact"
-    label: "Identity"
-    description: "The state of your sense of self"
+      true: "Echo Emerged"
+      false: "Nameless"
+
+  - flag: "guard_crystallized"
+    label: "Guard Identity"
+    description: "Whether the Guard has crystallized into a named entity"
     booleanValues:
-      true: "Intact"
-      false: "Fragmented"
+      true: "Identity Formed"
+      false: "Nameless"

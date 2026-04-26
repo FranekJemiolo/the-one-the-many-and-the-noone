@@ -1,0 +1,31 @@
+id: ch1_memory_divergence
+content:
+  - type: text
+    value: "\"How can a moment have multiple versions?\" you ask."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Witness considers this. Not as a philosophical question, but as a technical one."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"The event happened,\" they say. \"But the way it arranged itself in memory depended on who was doing the remembering.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You write this down. It sounds like nonsense until you read it back. Then it sounds like something you almost understand."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The implications are disturbing. If memory does not record reality—if it participates in creating it—then causality is not a fixed line. It is a negotiation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "For the first time, you feel something like fear. Not of danger. Of scale."
+choices:
+  - text: "Observe how reality stabilizes despite the divergence"
+    goto: ch1_rose_field_activation
+  - text: "Document the anomaly formally"
+    goto: ch1_chapter_end
+    set:
+      aleksy_dominance: 2

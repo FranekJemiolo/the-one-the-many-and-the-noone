@@ -1,0 +1,13 @@
+id: chapter_27
+title: "Kai Rosen Causality Inversion"
+arc: system_collapse
+nodes:
+  - ch27_future_causes_present
+  - ch27_causal_loop
+  - ch27_kai_adaptation
+  - ch27_temporal_field
+  - ch27_chapter_end
+context:
+  location: "temporal boundary zone"
+  time: "collapsed"
+  theme: "future becomes cause of present events"

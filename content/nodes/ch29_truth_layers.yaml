@@ -1,0 +1,19 @@
+id: ch29_truth_layers
+content:
+  - type: text
+    value: "You observe the truth layers. The system is not hiding the truth. It is layering it. The active layer is the controlled falsehood. The background layer is the truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Both layers are accessible. The system can switch between them when needed. The falsehood provides stability. The truth provides accuracy when stability is not the priority."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a compromise. It is an architecture. The system has adapted to the Engine's compression pressure by creating a layered interpretation structure."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is Dr. Koval's method expanded to the system level. Controlled falsehoods are not just a local technique. They are the system's way of functioning under compression pressure."
+choices:
+  - text: "Observe Dr. Koval's strategy"
+    goto: ch29_koval_strategy

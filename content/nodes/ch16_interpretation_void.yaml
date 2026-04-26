@@ -1,0 +1,23 @@
+id: ch16_interpretation_void
+content:
+  - type: text
+    value: "You understand the interpretation void. The Null Zone is not a place of nothingness. It is a place where interpretation cannot crystallize."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Reality exists here. Objects exist. Memories exist. But meaning cannot form. Identity cannot stabilize. The field that allows interpretation has collapsed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Null Child is not causing this. The Child is simply what exists in the void. The Child is the absence of interpretation given form."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the danger the Engine is trying to prevent. If interpretation fails completely, reality becomes meaningless. The Engine's compression is an attempt to prevent the void."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But the Engine's method is wrong. Compression is not the only way to prevent the void. Rose's stabilization is another way. The Resistance's multiplicity is another way."
+choices:
+  - text: "Conclude the chapter"
+    goto: ch16_chapter_end

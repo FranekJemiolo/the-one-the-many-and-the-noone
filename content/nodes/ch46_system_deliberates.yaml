@@ -1,0 +1,19 @@
+id: ch46_system_deliberates
+content:
+  - type: text
+    value: "You observe the system deliberates. The choice is not made by any individual entity. It is a system-level choice emerging from accumulated experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system has experienced the richness of multiplicity and the clarity of singularity. It has experienced the peace of void and the vitality of motion. It has experienced the balance of coexistence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The system's preference emerges from this experience. The system values the richness of multiplicity over the clarity of singularity. The system values experiential existence over void peace."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The system values balanced coexistence over perpetual motion. The system prefers The Overlap configuration as its final state."
+choices:
+  - text: "Observe the choice emerges"
+    goto: ch46_choice_emerges

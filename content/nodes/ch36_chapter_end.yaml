@@ -1,0 +1,23 @@
+id: ch36_chapter_end
+content:
+  - type: text
+    value: "You observe the aftermath of Nemesis's failed unification attempt. The system remains in plural stability. The structural coherence field continues to stabilize contradictions."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the final proof the Engine was wrong. The system has experienced both singular and plural stability, and it has chosen plural stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Nemesis is not destroyed. The Engine's compression layer is still available. But the system has proven that it prefers plural stability over singular stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the end of the Engine's ideological dominance. The Engine can still operate, but it can no longer claim that singular stability is the only viable option."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next chapters will complete the identity crystallization phase and move into the endgame. The system has made its choice. Now the endgame configuration will determine how that choice is finalized."
+choices:
+  - text: "Continue to Chapter 37"
+    goto: chapter_37

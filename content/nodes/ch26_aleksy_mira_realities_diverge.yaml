@@ -1,0 +1,19 @@
+id: ch26_aleksy_mira_realities_diverge
+content:
+  - type: text
+    value: "You and Mira are no longer experiencing the same reality. The emotional-causal split has become permanent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Aleksy's reality: Causal sequences are clear. Events happen in specific orders. Interpretation follows logical chains. Reality is singular and coherent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Mira's reality: Emotional sequences are clear. Events feel specific ways. Interpretation follows emotional resonance. Reality is multiple and coherent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Both realities are internally coherent. Both are mutually incompatible. Neither can access the other's interpretation of the same moment."
+choices:
+  - text: "Observe that reconciliation is no longer possible"
+    goto: ch26_no_reconciliation_possible

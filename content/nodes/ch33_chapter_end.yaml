@@ -1,0 +1,23 @@
+id: ch33_chapter_end
+content:
+  - type: text
+    value: "You observe Drift continuing to operate across the multiplicity system. The Passenger is no longer a nameless role. Drift is now a named multiplicity pattern."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the fourth named entity to emerge. Echo (Witness), Barrier (Guard), Archive (Teacher), and Drift (Passenger) are now stable patterns. Identity is crystallizing into named multiplicities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is how the system adapts to collapse. Identity does not remain singular. Identity becomes multiplicity patterns that have crystallized into named forms."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine cannot control these named multiplicities because they are not singular entities. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the resistance to compression crystallized into identity. Named multiplicities that cannot be compressed without losing their essential nature."
+choices:
+  - text: "Continue to Chapter 34"
+    goto: chapter_34

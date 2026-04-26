@@ -1,0 +1,19 @@
+id: ch15_contradiction_zone
+content:
+  - type: text
+    value: "You enter a contradiction zone. The environment is saturated with incompatible interpretations. Reality should be collapsing under the weight of the contradictions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "But it isn't collapsing. The contradictions are coexisting without conflict. This should be impossible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You see two versions of the same object simultaneously. One version is red. The other is blue. Both are equally present. Neither is dominant."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not visual ambiguity. Both versions are physically present. The contradiction is stabilized."
+choices:
+  - text: "Observe Rose's appearance"
+    goto: ch15_rose_appearance

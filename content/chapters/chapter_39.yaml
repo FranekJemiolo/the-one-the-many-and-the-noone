@@ -1,0 +1,13 @@
+id: chapter_39
+title: "System Choice Finalized"
+arc: identity_crystallization
+nodes:
+  - ch39_system_selects_plural
+  - ch39_engine_accepts_defeat
+  - ch39_coexistence_established
+  - ch39_new_equilibrium
+  - ch39_chapter_end
+context:
+  location: "system-wide"
+  time: "stabilized"
+  theme: "system chooses plural stability over singular"

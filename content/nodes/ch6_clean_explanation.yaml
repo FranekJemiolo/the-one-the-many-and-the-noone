@@ -1,0 +1,27 @@
+id: ch6_clean_explanation
+content:
+  - type: text
+    value: "You are reviewing an incident report. The explanation is unusually clean. Too clean."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The anomaly was complex: temporal instability, memory divergence, emotional-causal misalignment. But the report explains it all with a single coherent narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This should be impossible. Complex anomalies require complex explanations. But this report has compressed everything into one simple story."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You notice something unsettling: the explanation feels right. Not because it's accurate, but because it's comfortable. It removes the ambiguity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the first sign of the Quiet Engine. Not as a visible force, but as a pressure toward interpretive simplicity. Something is biasing reality toward single explanations."
+choices:
+  - text: "Investigate the source of the report"
+    goto: ch6_koval_appearance
+  - text: "Analyze the compression pressure"
+    goto: ch6_compression_pressure
+    set:
+      aleksy_dominance: 1

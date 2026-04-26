@@ -1,0 +1,19 @@
+id: ch27_causal_loop
+content:
+  - type: text
+    value: "You observe the causal loop. The future causes the present, which then causes the future, which then causes the present again."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a paradox that creates instability. The loop is stable. The system has adapted to inverted causality and found a way to function within it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Events happen. Their causes are in the future. Their effects create the future that caused them. The loop is self-consistent."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is not a breakdown of causality. It is an evolution of causality. The system has adapted to temporal multiplicity by allowing causality to operate in loops."
+choices:
+  - text: "Observe Kai's adaptation"
+    goto: ch27_kai_adaptation

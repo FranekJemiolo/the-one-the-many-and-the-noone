@@ -1,0 +1,23 @@
+id: ch30_chapter_end
+content:
+  - type: text
+    value: "You observe the system operating in its new configuration. Multiple incompatible layers are operating simultaneously. The Engine's compression layer and the Resistance's multiplicity layer are both functioning."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is the end of Part III. System collapse is complete. The oscillation has broken. The system has crystallized into multiple incompatible layers that operate simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The Engine has not been destroyed. The Engine's layer is still functioning. But the Engine can no longer claim to control the entire system. The multiplicity layer operates alongside it, equally real and equally stable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize this is the proof the Engine was wrong. Multiplicity does not lead to chaos. The system has proven that plural stability is possible without requiring singular control."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The next phase will be identity crystallization. Nameless roles will crystallize into named entities. The Witness has become Echo. The Guard and Teacher will follow. Identity itself will adapt to the multiplicity system."
+choices:
+  - text: "Continue to Chapter 31"
+    goto: chapter_31

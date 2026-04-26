@@ -1,0 +1,27 @@
+id: ch7_contradiction_injection
+content:
+  - type: text
+    value: "You are in an unstable reality zone. The air feels thick with uninterpreted possibilities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Something happens. Not an event exactly—more like an insertion. An alternate explanation appears in your mind, fully formed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The explanation contradicts the official narrative. It is not better or worse—just different. And it feels equally valid."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not your thought. It is being injected. Something is deliberately introducing contradiction into the interpretation field."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "The Quiet Engine wants compression. This force wants divergence. The conflict is becoming visible."
+choices:
+  - text: "Examine the alternate explanation"
+    goto: ch7_alternate_explanation
+  - text: "Reject the injection"
+    goto: ch7_divergence_stabilized
+    set:
+      nemesis_compression: 1

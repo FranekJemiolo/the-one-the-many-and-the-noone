@@ -1,0 +1,19 @@
+id: ch18_seraph_directive_expanded
+content:
+  - type: text
+    value: "Seraph Kline explains the expanded directive. \"The system cannot sustain infinite multiplicity. Clarity zones must expand to maintain stability.\""
+  - type: pause
+    duration: 800
+  - type: text
+    value: "She is not malicious. She genuinely believes that singularity is necessary for the system's survival. But she is expanding enforcement without considering the alternatives."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "\"Rose's stabilization is insufficient,\" Seraph says. \"Contradiction coexistence is too unstable for long-term system survival. Singularity is the only sustainable path.\""
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the core disagreement. The Engine believes multiplicity is unsustainable. Rose proves multiplicity can be stable. Seraph refuses to acknowledge Rose's proof."
+choices:
+  - text: "Understand the interpretive pruning"
+    goto: ch18_interpretive_pruning

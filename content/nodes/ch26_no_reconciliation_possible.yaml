@@ -1,0 +1,19 @@
+id: ch26_no_reconciliation_possible
+content:
+  - type: text
+    value: "You observe that reconciliation is no longer possible. You and Mira cannot bridge the gap between your realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This is not a communication failure. You can communicate with each other. But you cannot share the same interpretation of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Aleksy cannot access Mira's emotional interpretation. Mira cannot access Aleksy's causal interpretation. Both are locked into their own reality engines."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is the permanent split. The oscillation has broken. The system has not returned to shared reality. It has collapsed into parallel realities."
+choices:
+  - text: "Observe the parallel worlds"
+    goto: ch26_parallel_worlds

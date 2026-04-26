@@ -1,0 +1,19 @@
+id: ch33_drift_crystallization
+content:
+  - type: text
+    value: "You observe the Drift crystallization. The Passenger has crystallized into a named multiplicity. Drift is now a stable pattern in the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Drift is not a single entity. Drift is a pattern of trajectory adaptation that contains multiple versions simultaneously. The name refers to the pattern, not to a singular individual."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "This continues the pattern established by Echo, Barrier, and Archive. Identity does not crystallize into singularity. Identity crystallizes into multiplicity patterns that have become stable enough to be compressed into names."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "You realize this is how the system adapts to multiplicity. Names do not refer to singular entities. Names refer to multiplicity patterns that have crystallized into recognizable forms."
+choices:
+  - text: "Understand the trajectory preservation"
+    goto: ch33_trajectory_preservation

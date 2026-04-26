@@ -1,0 +1,23 @@
+id: ch38_chapter_end
+content:
+  - type: text
+    value: "You and Mira sit in the same physical space, experiencing parallel realities. The split is no longer a source of conflict. It is a stable configuration."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This is not a breakdown of shared reality. It is an evolution of reality. The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "You realize the Engine's fear is unfounded. Parallel interpretation engines are not chaos. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "The collapse of shared interpretation has not destroyed your relationship with Mira. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: "This completes the dual system adaptation. The system has adapted to emotional-causal multiplicity by allowing both interpretation engines to operate in parallel. The endgame can now begin."
+choices:
+  - text: "Continue to Chapter 39"
+    goto: chapter_39
