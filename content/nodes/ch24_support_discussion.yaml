@@ -1,0 +1,35 @@
+id: ch24_support_discussion
+content:
+  - type: text
+    value: |
+      "Sava suggested we should face this together," you say. "That I should support you through your perception development, guide you through the multiplicity."
+      Mira considers this. "What does that mean?"
+      "It means talking about what you're experiencing. Helping you understand what's happening. Being your guide through the multiplicity."
+      You pause. "But there's a risk. Your choice might not align with mine. You might choose a different version of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then we'll cross that bridge when we come to it."
+      She takes your hands. "I'm not afraid of the multiplicity. I'm afraid of losing you."
+      "You won't lose me. Even if we end up in different versions, we'll find ways to connect."
+      "How?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't know yet. But Sava said the multiplicity doesn't have to separate us—it can also connect us in new ways."
+      You meet her eyes. "We just have to trust that our connection is strong enough to survive the challenges ahead."
+      She nods. "I trust that. I trust us."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The conversation resolves into commitment. You won't distance yourself from Mira. You'll face the perception development together, supporting each other through whatever comes.
+      The path is uncertain, but at least you're facing it together.
+choices:
+  - text: "Continue to Chapter 25"
+    goto: ch24_chapter_end
+    set:
+      mira_conversation: 1
+      support_interest: 1

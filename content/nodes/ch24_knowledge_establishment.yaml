@@ -2,29 +2,38 @@ id: ch24_knowledge_establishment
 content:
   - type: text
     value: |
-      You support establishing the knowledge training center, helping the students and Teacher develop protocols for systematic knowledge multiplicity adaptation.
-      The center begins operations, bringing people from across the system to experience multiple truths and develop the capacity to hold plural truth.
+      After leaving Sava's office, you go to Mira. You need to tell her what you learned—that her dreams that feel like memories are signs of resonant perception, that your perception is spreading to her.
+      She's cooking dinner when you arrive. The domestic scene makes the conversation harder.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The training is successful," the students report after months of operation. "Hundreds of people have developed knowledge multiplicity perception, and the adaptation is spreading as they return to their home zones."
-      "The system's capacity for plural truth is increasing significantly."
+      "I talked to Sava today," you say. "She asked about you. About whether you've been experiencing anything unusual."
+      Mira pauses, her knife hovering over the vegetables. "Like what?"
+      "Like dreams that feel like memories. Moments that didn't happen in this version."
+      She sets down the knife. "How did she know?"
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The Engine is responding," you observe. "It's trying to suppress the knowledge multiplicity training, attempting to prevent the spread of plural truth."
-      "But the adaptation is self-propagating—once people experience knowledge multiplicity, they retain the capacity even in singular truth zones."
+      "Because it's common. When someone develops unusual perception, it often spreads to close contacts through emotional connection."
+      You take a breath. "Your perception is developing, Mira. You're starting to access the multiplicity through our connection."
+      She's quiet for a long moment. "Is that dangerous?"
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The students agree. "The Engine cannot reverse the adaptation. Knowledge multiplicity perception is becoming widespread, and the system is adapting to plural truth at scale."
-      "The training center is achieving its purpose."
+      "Not necessarily. But it means you might reach a threshold. You might have to make a choice about which version of reality to inhabit."
+      You meet her eyes. "And your choice might not align with mine."
+      The words hang in the air between you. The possibility that you might end up in different versions of reality.
 choices:
-  - text: "Continue the chapter with the knowledge center established"
-    goto: ch24_knowledge_multiplicity
+  - text: "Discuss creating distance to protect her"
+    goto: ch24_distance_discussion
     set:
-      knowledge_establishment: 1
-      adaptation_spreading: 1
+      mira_conversation: 1
+      protection_interest: 1
+  - text: "Discuss supporting her through the development"
+    goto: ch24_support_discussion
+    set:
+      mira_conversation: 1
+      support_interest: 1

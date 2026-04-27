@@ -1,0 +1,35 @@
+id: ch24_distance_discussion
+content:
+  - type: text
+    value: |
+      "Sava said the only way to prevent your perception from developing is to create distance," you say. "To spend less time together. To weaken our emotional connection."
+      Mira stares at you. "You're suggesting we break up?"
+      "No. Not break up. Just... spend less time together. See each other less often."
+      She shakes her head. "That's the same thing. If we're not together, we're not together."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'm trying to protect you. I don't want you to go through what I went through. The legal battle. The institutional pressure. The uncertainty."
+      "I know. But I don't want protection at the cost of us."
+      She meets your eyes. "I fought for you through the legal battle. I supported you through everything. Why would you think I'd want to avoid this now?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Because it's going to get harder. You might have to make choices you never expected to make."
+      "Then let me make them. Let me face them with you, not alone."
+      She takes your hands. "I love you, Aleksy. I'm not going to let perception development scare me away from that."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You realize she's right. The legal battle taught you that fighting for your rights requires allies, not isolation.
+      Trying to protect her by distancing yourself would only hurt both of you—and it would sacrifice the very connection that makes life worth living.
+      "Okay," you say. "No distance. We face this together."
+choices:
+  - text: "Continue to Chapter 25"
+    goto: ch24_chapter_end
+    set:
+      mira_conversation: 1
+      support_interest: 1
