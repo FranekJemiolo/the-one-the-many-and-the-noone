@@ -1,0 +1,49 @@
+id: ch2_rejecting_possibility
+content:
+  - type: text
+    value: |
+      "That's impossible," you say. "Memories from other lives? Other versions of reality? That's not how the world works."
+      "Is it?" Mira challenges. "Because your dreams suggest otherwise. The emotional reversals suggest otherwise. The fact that you're accessing something that doesn't follow normal causality suggests otherwise."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "There has to be another explanation. Stress. Sleep deprivation. Some kind of neurological issue."
+      "Maybe," she says. "But we should at least consider the possibility that what you're experiencing is real. Not a hallucination. Not a symptom. Actual perception of something most people can't access."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You shake your head. "I can't accept that. If I accept that, then everything I thought I knew about reality is wrong."
+      "Maybe it is wrong," Mira says gently. "Maybe reality is more complex than we thought. Maybe you're seeing something that's always been there, but most people filter it out."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You stand up, unable to sit still. "I need to think. I need to process this alone."
+      "Aleksy—"
+      "Not now, Mira. Please."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She watches you, her expression concerned but understanding. "Okay. Take your time. But don't shut me out. We're in this together, whether you accept it or not."
+      She leaves, and you're alone with your documentation, your dreams, and the terrifying possibility that she might be right.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You try to dismiss it. Try to convince yourself it's stress, or fatigue, or something medical.
+      But the dreams are too vivid. The patterns too clear. The recognition too certain.
+      And deep down, you know: you're not crazy. You're perceiving something real.
+choices:
+  - text: "Continue in denial, try to suppress it"
+    goto: ch2_chapter_end
+    set:
+      aleksy_detachment: 35
+      self_denial: 1
+  - text: "Call Mira back and accept her help"
+    goto: ch2_accepting_multiplicity
+    set:
+      aleksy_fracture_level: 35
+      mira_trust: 70

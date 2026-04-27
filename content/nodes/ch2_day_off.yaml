@@ -1,0 +1,65 @@
+id: ch2_day_off
+content:
+  - type: text
+    value: |
+      You call in sick. It's not a lie—you're not well, even if there's nothing physically wrong with you.
+      Your boss accepts it without question. You never call in sick. That's not who you are.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You spend the morning documenting the dreams in detail. Writing down everything you can remember.
+      The sequence of events. The sequence of emotions. The ways they don't match.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      As you write, patterns emerge. The first dream: predator perspective, moment shifted, strike missed.
+      The second dream: prey perspective, emotions shifted, relief before safety.
+      Two perspectives on the same experience. Two ways reality can fracture.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You realize something unsettling: these aren't random dreams. They're connected.
+      The same hunt, viewed from different sides. The same moment, experienced differently.
+      As if your mind is accessing multiple versions of the same event.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira comes over in the afternoon. She brings coffee, sits at your kitchen table, reads through your documentation.
+      "Okay," she says finally. "This is definitely not normal."
+      "That's what I was afraid you'd say."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But here's the thing," she continues. "If these are connected—if they're different perspectives on the same event—then maybe they're not dreams at all."
+      "What are they then?"
+      "Memories."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Memories of what? I've never been a predator. I've never been prey."
+      "Not as Aleksy Wrona. But maybe as something else. In another life. In another version of reality."
+      She meets your eyes. "You said it yourself yesterday—you're remembering something that wasn't human."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The possibility settles over you. If she's right, then you're not just having strange dreams.
+      You're accessing memories from other versions of yourself. Other lives. Other realities.
+      And if that's true, then who are you really?
+choices:
+  - text: "Accept the possibility and explore it further"
+    goto: ch2_accepting_multiplicity
+    set:
+      aleksy_fracture_level: 35
+      self_acceptance: 1
+  - text: "Reject it as impossible"
+    goto: ch2_rejecting_possibility
+    set:
+      aleksy_detachment: 30
+      self_denial: 1

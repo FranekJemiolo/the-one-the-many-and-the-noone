@@ -2,14 +2,20 @@ id: ch2_chapter_end
 content:
   - type: text
     value: |
-      You discharge the Patient from the examination, the medical record complete with all the factual details documented precisely.
-      The emotional anomaly is noted in the file, but not resolved—not because you failed to resolve it, but because you have come to understand that it is not something that can be resolved.
+      The day ends with you sitting at your kitchen table, the documentation spread out before you.
+      Two dreams. Two perspectives. The same event, experienced differently.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Walking out of the facility, you notice something unsettling: the world feels different now. Not because the world itself has changed, but because you have seen how it can split.
-      The buildings, the streets, the people—all of it looks the same, but you know now that beneath the surface of apparent unity, reality contains multiple layers that operate independently.
+      Mira has gone home, but her presence lingers—the coffee cup she left, the way she listened without judgment, the certainty that you're not alone in this.
+      Whatever is happening to you, you don't have to face it alone.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Walking to your bedroom, you notice something unsettling: the world feels different now. Not because the world itself has changed, but because you have seen how it can split.
+      The hallway, the doors, the shadows—all of it looks the same, but you know now that beneath the surface of apparent unity, reality contains multiple layers that operate independently.
   - type: pause
     duration: 800
   - type: text
@@ -17,17 +23,24 @@ content:
       People around you continue their lives, moving through their days with the unexamined assumption that their feelings match their facts, that their emotional experience aligns with causal events.
       They don't know that these are separate systems that can disagree without either being wrong, that the emotional timeline can operate independently of the causal timeline.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
       You are now carrying a secret that changes everything: reality is not singular. It is multiple. And the splits are not errors—they are structure.
       The world contains multiple layers of truth, multiple ways of experiencing the same events, and these layers do not need to agree to be valid.
   - type: pause
-    duration: 1000
+    duration: 800
   - type: text
     value: |
       This knowledge changes nothing and everything. The world continues to operate as if it is singular, but you can no longer see it that way.
       You have seen the cracks in the assumption of unity, and once seen, they cannot be unseen.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But for the second day in a row, you're not sure that's all you are.
+      And for the first time, you're not sure that's a bad thing.
 choices:
   - text: "Continue to Chapter 3"
     goto: chapter_3

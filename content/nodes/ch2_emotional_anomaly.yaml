@@ -1,39 +1,51 @@
 id: ch2_emotional_anomaly
 content:
   - type: text
-    value: "The medical facility is quiet. Too quiet. As if the silence has been arranged rather than occurring naturally."
-  - type: pause
-    duration: 800
-  - type: text
-    value: "You are here because of a patient. Their physical condition is stable. Their emotional state is... not wrong, exactly. Just mismatched."
-  - type: pause
-    duration: 800
-  - type: text
-    value: "The records show: minor injury, routine treatment, expected recovery. Factual. Correct. Unremarkable."
-  - type: pause
-    duration: 800
-  - type: text
-    value: "But the patient reports something different. Not in the facts of what happened. In how it felt. The emotional sequence does not match the causal sequence."
+    value: |
+      The next morning, you wake up with the memory of another hunt. This time you were running—not hunting, but being hunted.
+      The fear was primal, instinctual, the kind that bypasses thought entirely. You were prey.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the second anomaly. First: memory divergence. Now: emotional misalignment. Reality is not just producing multiple pasts. It's producing incompatible feelings about the same present."
+    value: |
+      You lie in bed, your heart racing, the dream so vivid you can still feel the adrenaline. The cold. The darkness. the sense of being watched by something you couldn't see.
+      And then the moment when you escaped—when you found a hiding place and the predator passed you by.
   - type: pause
     duration: 800
   - type: text
-    value: "Mira would understand this immediately. She's been telling you from the beginning that emotional truth operates on its own logic, independent of causal sequence. This patient's experience would confirm everything she's been saying."
+    value: |
+      But here's the thing that doesn't make sense: in the dream, you felt relief before you escaped. The fear lifted before you were safe.
+      The emotional sequence was reversed—calm before safety, relief before escape.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You get up, shower, try to shake the feeling. But the pattern is becoming impossible to ignore.
+      First the hunt where the moment itself changed. Now the hunt where emotions anticipated events.
+      Your mind is accessing something that doesn't follow normal causality.
   - type: pause
     duration: 800
   - type: text
-    value: "Aleksy would be deeply troubled. To him, if the facts are correct, then the emotional experience should align. The mismatch would feel like an error in the patient's perception—or worse, evidence that reality itself is breaking down in ways that make no sense."
+    value: |
+      Mira would understand this immediately. She's been telling you from the beginning that emotional truth operates on its own logic, independent of causal sequence.
+      This dream would confirm everything she's been saying—that feelings have their own timeline, their own causality, that doesn't match what happens in the physical world.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      But you're Aleksy. You believe in cause and effect, in linear chains of events that make sense according to logical progression.
+      The mismatch between emotional sequence and causal sequence feels like an error—or worse, evidence that your mind is breaking down in ways that make no sense.
 choices:
-  - text: "Examine the patient directly"
-    goto: ch2_patient_encounter
-  - text: "Review the factual records first"
-    goto: ch2_factual_correctness
+  - text: "Call Mira and tell her about the dream"
+    goto: ch2_mira_second_dream
     set:
-      aleksy_dominance: 1
-  - text: "Explore the facility first"
-    goto: ch2_facility_exploration
+      mira_trust: 60
+      relationship_focus: true
+  - text: "Document the dream in your notes"
+    goto: ch2_documenting_dreams
     set:
-      investigation_thoroughness: 1
+      aleksy_fracture_level: 25
+  - text: "Try to ignore it and go to work"
+    goto: ch2_work_distraction
+    set:
+      aleksy_detachment: 20

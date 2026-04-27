@@ -1,0 +1,45 @@
+id: ch2_accepting_multiplicity
+content:
+  - type: text
+    value: |
+      "Memories from other lives," you say, testing the words. "Other versions of reality."
+      "It sounds insane when you say it out loud," Mira agrees. "But it fits the data. Two dreams, two perspectives, same event. Emotional sequences that don't match causal sequences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If I'm accessing memories from other versions of myself," you say slowly, "then what does that mean? Who am I really?"
+      "You're Aleksy Wrona," Mira says firmly. "That hasn't changed. You're the person I've known for years. The person who drinks too much coffee and watches exits unconsciously and has terrible taste in music."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She pauses. "But maybe you're also something else. Maybe we're all multiple versions of ourselves, and most people just don't have access to the other parts."
+      "And I do?"
+      "Apparently. And we need to figure out why."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You think about this. It's terrifying—the idea that you're not who you thought you were, that your identity is more complex than you understood.
+      But it's also strangely comforting. If you're accessing other versions of yourself, then you're not crazy. You're perceiving something real.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So what do we do?" you ask.
+      "We keep documenting. We keep watching for patterns. And we figure out if this is getting worse or if it's stable."
+      She reaches across the table, takes your hand. "And we do it together. You're not alone in this, Aleksy."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Her hand is warm. Solid. Real.
+      For the first time since the dreams started, you feel like you might actually be able to handle this.
+choices:
+  - text: "Continue documenting and monitoring"
+    goto: ch2_chapter_end
+    set:
+      aleksy_fracture_level: 40
+      mira_trust: 80
+      self_acceptance: 1

@@ -1,0 +1,49 @@
+id: ch2_work_distraction
+content:
+  - type: text
+    value: |
+      You go to work. You try to focus. You try to be normal.
+      But the dream keeps intruding—the fear, the escape, the impossible reversal of emotions.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Throughout the day, you catch yourself watching exits. Tracking movement in your peripheral vision.
+      These are things you've always done—habits from years of being observant, careful.
+      But today they feel different. More urgent. As if you're still being hunted.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      A coworker drops a stack of papers. The sound is sharp, sudden.
+      You react before you think—turning toward the sound, muscles coiling, heart racing.
+      The reaction is too fast. Too intense. You're not just startled—you're responding as if you're still in the dream.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Your coworker looks at you strangely. "You okay?"
+      "Fine," you say. "Just... tired."
+      They don't believe you. You can see it in their expression. But they don't push.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      For the rest of the day, you feel like you're performing normalcy. Going through the motions of being Aleksy Wrona, office worker, normal person.
+      But underneath, something is shifting. The dreams are bleeding into your waking life. The hunt is becoming part of who you are.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      By the time you leave work, you're exhausted—not from the work, but from the effort of maintaining the illusion that everything is fine.
+      You need to talk to someone. You need to tell Mira about the second dream.
+choices:
+  - text: "Call Mira on your way home"
+    goto: ch2_mira_second_dream
+    set:
+      mira_trust: 60
+      relationship_focus: true
+  - text: "Go home and document the dream first"
+    goto: ch2_documenting_dreams
+    set:
+      aleksy_fracture_level: 25

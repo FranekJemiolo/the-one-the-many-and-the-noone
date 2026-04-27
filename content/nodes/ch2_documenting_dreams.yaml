@@ -1,0 +1,47 @@
+id: ch2_documenting_dreams
+content:
+  - type: text
+    value: |
+      You open your phone, pull up the note you created yesterday. "Dream 1: The Hunt."
+      Below it, you add: "Dream 2: The Hunted."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You write down everything you can remember. The cold. The darkness. The sense of being watched.
+      The fear. The escape. The reversal—relief before safety, calm before escape.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      As you write, you notice something. The first dream was about hunting—the predator's perspective.
+      The second dream was about being hunted—the prey's perspective.
+      Two sides of the same experience. Two perspectives on the same moment.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      And in both dreams, the moment itself changed. In the first, the moment shifted so you missed. In the second, the emotions shifted so you felt relief before you were safe.
+      Reality is not just multiple. It's fluid. It responds to something you don't understand.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You finish documenting, set your phone down. The office is quiet. The morning light filters through the blinds.
+      For a moment, you feel like you're in a different room than the one you woke up in—as if the space around you has shifted while you were writing.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You blink, and the feeling passes. But it leaves you unsettled.
+      The dreams are getting more vivid. The patterns are becoming clearer. Whatever is happening to you, it's not going away.
+choices:
+  - text: "Call Mira and tell her about the second dream"
+    goto: ch2_mira_second_dream
+    set:
+      mira_trust: 60
+      relationship_focus: true
+  - text: "Go to work and try to focus"
+    goto: ch2_work_distraction
+    set:
+      aleksy_detachment: 20

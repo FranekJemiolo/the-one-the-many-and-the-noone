@@ -1,0 +1,80 @@
+id: ch2_mira_second_dream
+content:
+  - type: text
+    value: |
+      You dial Mira before you can talk yourself out of it. She picks up on the second ring.
+      "Another one?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How did you know?"
+      "It's 7:30 AM, Aleksy. You don't call this early unless something's wrong."
+      She pauses. "What was it this time?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You tell her about the second dream. Being hunted. The fear. The escape.
+      And the reversal—feeling relief before you were safe, calm before you escaped.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is quiet for a long moment. When she speaks, her voice is thoughtful.
+      "Emotions anticipating events. That's... interesting."
+      "Interesting? It's insane."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "No, listen. If feelings have their own timeline, their own causality, then maybe they're not responding to what happens. Maybe they're predicting what happens."
+      She pauses. "Or maybe they're causing what happens."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "That doesn't make sense."
+      "Neither does your dream. But if we're going to take this seriously—if we're going to actually figure out what's happening—we need to consider possibilities that don't make sense according to normal rules."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So what? Emotions are psychic now?"
+      "I didn't say psychic. I said they operate on their own logic. Their own causality. That doesn't mean they predict the future. It means they follow rules we don't understand."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You think about this. It's not comforting—the idea that your emotions might operate on rules you don't understand is terrifying.
+      But it's also not dismissive. Mira isn't telling you you're crazy. She's trying to understand.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Document it," she says. "Write down everything. The sequence of events in the dream. The sequence of emotions. How they didn't match."
+      "I already started doing that after the first one."
+      "Good. Keep doing it. We need data."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And Aleksy?"
+      "Yeah?"
+      "Don't go to work like this. Take the day. Process this. We can meet later if you want."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You consider this. You have work to do. Deadlines. Responsibilities.
+      But the dream is still with you, the adrenaline still fading, the sense of being hunted still lingering at the edge of your consciousness.
+choices:
+  - text: "Take the day off and process"
+    goto: ch2_day_off
+    set:
+      aleksy_fracture_level: 30
+      mira_trust: 70
+  - text: "Go to work anyway"
+    goto: ch2_work_distraction
+    set:
+      aleksy_detachment: 25
