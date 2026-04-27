@@ -342,9 +342,9 @@ export const ReactBookRenderer: React.FC<ReactBookRendererProps> = ({
     
     return (
       <div className="home-screen" style={{ textAlign: 'center', padding: '3rem 1rem', backgroundColor: '#1a1a2e', minHeight: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
-        <h1 style={{ fontSize: '3rem', fontWeight: 'bold', marginBottom: '1rem', color: '#4a9eff' }}>Echoes of the Last Compiler</h1>
+        <h1 style={{ fontSize: '3rem', fontWeight: 'bold', marginBottom: '1rem', color: '#4a9eff' }}>The One, The Many, and The No-One</h1>
         <p style={{ fontSize: '1.2rem', color: '#e0e0e0', marginBottom: '3rem', maxWidth: '600px' }}>
-          An interactive narrative exploring identity, consciousness, and the boundaries between human and artificial intelligence.
+          An interactive narrative exploring the nature of reality, interpretation, and identity in a world where multiple truths can coexist without resolution.
         </p>
         
         {/* Start/Continue Reading Button */}
