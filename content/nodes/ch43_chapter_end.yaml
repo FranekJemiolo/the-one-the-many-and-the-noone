@@ -1,23 +1,33 @@
 id: ch43_chapter_end
 content:
   - type: text
-    value: "The simulation of The No-One configuration ends. The system returns to the current equilibrium. The experience is stored for the final choice."
+    value: |
+      The simulation of The No-One configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The No-One configuration would mean.
+      The simulation is complete, the system ready to consider the next configuration.
   - type: pause
     duration: 1000
   - type: text
-    value: "The No-One configuration offers complete void peace. The Null Child is dominant. Interpretation has failed. Reality is empty of meaning."
+    value: |
+      The No-One configuration offers complete void peace, the Null Child dominant and interpretation failed. Reality is empty of meaning, no coherent descriptions possible anywhere in the system.
+      The peace is genuine, the absence of tension absolute.
   - type: pause
     duration: 800
   - type: text
-    value: "But the cost is the loss of experiential existence. Reality would be peaceful, but also nonexistent. The experience of reality would be gone."
+    value: |
+      But the cost is the loss of experiential existence, the elimination of reality as experience. Reality would be peaceful, but also nonexistent, the experience of reality gone entirely.
+      The system would be peaceful but absent, tension-free but nonexistent.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has experienced The No-One. It understands the appeal of void peace. It also understands the cost. The experience will inform the final choice."
+    value: |
+      The system has experienced The No-One, understanding both the appeal of void peace and the cost of that peace. The experience will inform the final choice, the system weighing the benefits of peace against the costs of nonexistence.
+      The understanding is comprehensive, the system ready to consider the next option.
   - type: pause
     duration: 1000
   - type: text
-    value: "The next chapter will explore The Overlap configuration. The system will experience the current equilibrium and understand its appeal and cost."
+    value: |
+      The next chapter will explore The Overlap configuration, the system experiencing the current equilibrium and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
+      The endgame continues.
 choices:
   - text: "Continue to Chapter 44"
     goto: chapter_44

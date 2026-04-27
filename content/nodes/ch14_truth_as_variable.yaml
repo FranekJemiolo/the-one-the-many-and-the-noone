@@ -1,19 +1,27 @@
 id: ch14_truth_as_variable
 content:
   - type: text
-    value: "You analyze the concept of truth as a variable. In Dr. Koval's system, truth is not a fixed reference point. It is a functional variable that can be adjusted for system stability."
+    value: |
+      You analyze the concept of truth as a variable, trying to understand how Dr. Koval's system operates. In her system, truth is not a fixed reference point, not an absolute that must be preserved at all costs.
+      Truth is a functional variable that can be adjusted for system stability, something that can be temporarily replaced when the actual truth would cause the system to collapse.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not relativism. Dr. Koval is not saying all truths are equal. She is saying that truth can be temporarily replaced with a stabilizing falsehood when the system cannot handle the complexity of the truth."
+    value: |
+      This is not relativism. Dr. Koval is not saying all truths are equal, not suggesting that any interpretation is as good as any other. She is saying that truth can be temporarily replaced with a stabilizing falsehood when the system cannot handle the complexity of the truth.
+      The falsehood is not presented as truth—it is presented as a necessary compromise to allow the system to continue functioning.
   - type: pause
     duration: 800
   - type: text
-    value: "The falsehood is not permanent. It is a temporary interpretation that allows the system to function. The truth remains in the background, accessible when the system is ready for it."
+    value: |
+      The falsehood is not permanent. It is a temporary interpretation that allows the system to function, a placeholder that maintains stability until the system is ready to handle the actual complexity of reality.
+      The truth remains in the background, accessible when the system is ready for it, preserved even while it is not being actively used.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is how the Quiet Engine operates. Not by eliminating truth, but by selecting interpretations that are compatible with system stability."
+    value: |
+      You realize this is how the Quiet Engine operates. Not by eliminating truth, not by destroying the actual complexity of reality. By selecting interpretations that are compatible with system stability, even when those interpretations are not fully true.
+      The Engine prioritizes stability over accuracy, choosing the interpretation that allows the system to function rather than the interpretation that describes reality most accurately.
 choices:
   - text: "Understand the system exploitation"
     goto: ch14_system_exploitation

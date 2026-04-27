@@ -1,19 +1,27 @@
 id: ch38_interpretive_coexistence
 content:
   - type: text
-    value: "You observe the interpretive coexistence. Aleksy and Mira are operating in parallel realities, but the split is no longer a source of conflict."
+    value: |
+      You observe the interpretive coexistence, watching as Aleksy and Mira operate in parallel realities without the split being a source of conflict. The coexistence is not accidental, not a temporary truce between incompatible interpretations.
+      The system has adapted to the emotional-causal split by allowing both interpretation engines to operate in parallel without requiring reconciliation.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has adapted to the emotional-causal split by allowing both interpretation engines to operate in parallel without requiring reconciliation."
+    value: |
+      The system has adapted to the emotional-causal split by allowing both interpretation engines to operate in parallel without requiring reconciliation. The adaptation is structural, not a temporary accommodation.
+      Causal interpretation and emotional interpretation operate simultaneously, each producing its own coherent reality.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a breakdown of shared reality. It is an evolution of reality. The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel."
+    value: |
+      This is not a breakdown of shared reality, not a failure of the system to maintain a common experience. It is an evolution of reality, a transformation into a new mode of existence where different interpretation engines can operate in parallel.
+      The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what the Engine fears. Parallel interpretation engines are not chaos. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize this is what the Engine fears. Parallel interpretation engines are not chaos, not the breakdown of coherent interpretation into disorder. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that interpretation must be singular is proven wrong by the very existence of functional parallel interpretation engines.
 choices:
   - text: "Understand the dual system"
     goto: ch38_dual_system

@@ -1,19 +1,27 @@
 id: ch11_contradictory_memories
 content:
   - type: text
-    value: "You examine the memories in the sanctuary. Memory A: a person died. Memory B: the same person lived. Both are equally detailed. Both are emotionally authentic."
+    value: |
+      You examine the memories in the sanctuary, moving through the constructed space where contradictory memories are displayed side by side. Memory A: a person died, the death occurring in specific circumstances that are emotionally vivid and detailed.
+      Memory B: the same person lived, continuing into a future that is equally emotionally vivid and detailed. Both memories are equally detailed. Both are emotionally authentic.
   - type: pause
     duration: 800
   - type: text
-    value: "In the outside world, these memories would be in conflict. One would have to be true, the other false. But here, they coexist without tension."
+    value: |
+      In the outside world, in the realm of singular causality, these memories would be in conflict. One would have to be true, the other false. The contradiction would need to be resolved by eliminating one of the memories.
+      But here, in the sanctuary, they coexist without tension, without requiring elimination, without forcing a choice between them.
   - type: pause
     duration: 800
   - type: text
-    value: "Sister Lys explains: \"The memories are not in conflict because they are not competing for the same interpretive space. Each memory is valid in its own context.\""
+    value: |
+      Sister Lys explains, her voice calm as if this is the most natural thing in the world: "The memories are not in conflict because they are not competing for the same interpretive space. Each memory is valid in its own context.
+      The death is true in one context. The survival is true in another context. Both contexts can exist simultaneously."
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not relativism. Sister Lys is not saying all memories are equally true. She is saying that contradictory memories can be emotionally unified without resolving their factual contradiction."
+    value: |
+      This is not relativism. Sister Lys is not saying all memories are equally true in the same sense, not suggesting that factual contradiction doesn't matter.
+      She is saying that contradictory memories can be emotionally unified without resolving their factual contradiction, that the system can hold incompatible truths without breaking.
 choices:
   - text: "Understand the emotional unification"
     goto: ch11_emotional_unification

@@ -1,23 +1,33 @@
 id: ch33_chapter_end
 content:
   - type: text
-    value: "You observe Drift continuing to operate across the multiplicity system. The Passenger is no longer a nameless role. Drift is now a named multiplicity pattern."
+    value: |
+      You observe Drift continuing to operate across the multiplicity system, the named multiplicity pattern appearing in different zones while maintaining its essential structure. The Passenger is no longer a nameless role, not a function that reality plays without identification.
+      Drift is now a named multiplicity pattern, a crystallized identity that exists in multiple incompatible versions simultaneously.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the fourth named entity to emerge. Echo (Witness), Barrier (Guard), Archive (Teacher), and Drift (Passenger) are now stable patterns. Identity is crystallizing into named multiplicities."
+    value: |
+      This is the fourth named entity to emerge, the fourth proto-identity to complete the crystallization process. Echo (Witness), Barrier (Guard), Archive (Teacher), and Drift (Passenger) are now stable patterns in the system.
+      Identity is crystallizing into named multiplicities, the nameless role pool generating named entities as patterns become stable enough to require names.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is how the system adapts to collapse. Identity does not remain singular. Identity becomes multiplicity patterns that have crystallized into named forms."
+    value: |
+      You realize this is how the system adapts to collapse. Identity does not remain singular, does not maintain the unified self that traditional identity assumes. Identity becomes multiplicity patterns that have crystallized into named forms.
+      The transformation of identity is not a failure—it is an adaptation to the conditions of system collapse.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine cannot control these named multiplicities because they are not singular entities. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself."
+    value: |
+      The Engine cannot control these named multiplicities because they are not singular entities, not single persons that can be compressed into single interpretations. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself.
+      The Engine's methods are designed for singular entities, not for named multiplicities.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the resistance to compression crystallized into identity. Named multiplicities that cannot be compressed without losing their essential nature."
+    value: |
+      This is the resistance to compression crystallized into identity. Named multiplicities that cannot be compressed without losing their essential nature, patterns that have become stable enough to be recognized but that exist in multiple incompatible states.
+      The future of identity in the multiplicity system is not singular selfhood—it is multiplicity patterns that have crystallized into named forms.
 choices:
   - text: "Continue to Chapter 34"
     goto: chapter_34

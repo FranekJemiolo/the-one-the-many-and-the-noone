@@ -1,23 +1,33 @@
 id: ch10_compression_ideology
 content:
   - type: text
-    value: "You sit with the compression ideology. The Engine believes that reality cannot sustain infinite multiplicity. Eventually, it must choose singularity to survive."
+    value: |
+      You sit with the compression ideology, letting it settle into your understanding. The Engine believes that reality cannot sustain infinite multiplicity, that the weight of contradictory truths would eventually cause reality to collapse.
+      Eventually, it must choose singularity to survive, must collapse the multiplicity into a single coherent narrative or face destruction.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not a malicious belief. It is a pragmatic one. The Engine is not trying to oppress interpretation—it is trying to prevent reality from collapsing under the weight of multiplicity."
+    value: |
+      This is not a malicious belief, not an ideology born of the desire to control or oppress. It is a pragmatic one, born of fear that reality will break under the weight of its own complexity.
+      The Engine is not trying to oppress interpretation—it is trying to prevent reality from collapsing under the weight of multiplicity, trying to save the system from chaos.
   - type: pause
     duration: 800
   - type: text
-    value: "But you have seen the alternative. The Resistance demonstrates that multiplicity can be stable. Rose shows that contradiction can coexist without collapse."
+    value: |
+      But you have seen the alternative. The Resistance demonstrates that multiplicity can be stable, that contradictory truths can coexist without causing collapse. Rose shows that contradiction can coexist without breaking the system.
+      The Engine's fear is based on a false premise, on the assumption that multiplicity inevitably leads to chaos.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's ideology is based on a false premise: that multiplicity leads to chaos. The Resistance proves that multiplicity can lead to resilience."
+    value: |
+      The Engine's ideology is based on a false premise: that multiplicity leads to chaos. The Resistance proves that multiplicity can lead to resilience, that systems containing multiple truths can be more stable than systems containing only one.
+      The Engine is operating on a false assumption, compressing reality to prevent a collapse that would never actually happen.
   - type: pause
     duration: 1000
   - type: text
-    value: "You write in your notebook: 'Compression ideology identified. Premise: multiplicity is unsustainable. Counter-evidence: Resistance stability, Rose coherence. Engine is operating on false assumption.'"
+    value: |
+      You write in your notebook with deliberate precision, the words capturing the structural insight: 'Compression ideology identified. Premise: multiplicity is unsustainable.
+      Counter-evidence: Resistance stability, Rose coherence. Engine is operating on false assumption. Compression is not necessity—it is fear.'
 choices:
   - text: "Conclude the chapter"
     goto: ch10_chapter_end

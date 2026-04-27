@@ -1,19 +1,27 @@
 id: ch30_engine_fails_to_control
 content:
   - type: text
-    value: "You observe that the Engine fails to control the system. The Engine's compression is still operating, but it is no longer dominant."
+    value: |
+      You observe that the Engine fails to control the system, the Engine's compression no longer able to dominate the entire system. The Engine's compression is still operating, still enforcing singular interpretation within its own layer.
+      But it is no longer dominant, no longer able to eliminate or control the multiplicity layer.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine can enforce singular interpretation in its layer, but it cannot eliminate the multiplicity layer. Both layers operate simultaneously, and the Engine cannot access or control the multiplicity layer."
+    value: |
+      The Engine can enforce singular interpretation in its layer, can maintain the compression that provides stability for that particular reality. But it cannot eliminate the multiplicity layer, cannot prevent the Resistance's interpretation from operating alongside it.
+      Both layers operate simultaneously, and the Engine cannot access or control the multiplicity layer.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a defeat for the Engine. The Engine's layer is still functioning. But the Engine can no longer claim to control the entire system."
+    value: |
+      This is not a defeat for the Engine, not a failure of the Engine's compression mechanisms. The Engine's layer is still functioning, still providing the stability that the Engine was designed to ensure.
+      But the Engine can no longer claim to control the entire system, can no longer assert that its interpretation is the only valid one.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what the Resistance has achieved. Not by destroying the Engine, but by creating a multiplicity layer that the Engine cannot control but that functions perfectly well alongside it."
+    value: |
+      You realize this is what the Resistance has achieved. Not by destroying the Engine, not by eliminating compression entirely. By creating a multiplicity layer that the Engine cannot control but that functions perfectly well alongside it.
+      The Resistance has not defeated the Engine—it has created a space where the Engine's control is no longer total.
 choices:
   - text: "Observe the new stability"
     goto: ch30_new_stability

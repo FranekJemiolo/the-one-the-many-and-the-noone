@@ -1,19 +1,27 @@
 id: ch43_no_one_configuration_experienced
 content:
   - type: text
-    value: "The system experiences The No-One configuration. The Null Zone expands to cover everything. Interpretation fails completely."
+    value: |
+      The system experiences The No-One configuration, the Null Zone expanding to cover everything. Interpretation fails completely, meaning unable to crystallize anywhere in the system.
+      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The No-One as its final configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The No-One as its final configuration."
+    value: |
+      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The No-One as its final configuration, understanding the configuration through direct experience before making the final choice.
+      The simulation is comprehensive, the system gaining full understanding of what The No-One configuration would mean.
   - type: pause
     duration: 800
   - type: text
-    value: "In this configuration, there is no interpretation. Objects exist but cannot be understood. Memories exist but cannot become identity. Meaning cannot crystallize."
+    value: |
+      In this configuration, there is no interpretation, the complete failure of meaning across the entire system. Objects exist but cannot be understood, their properties unable to crystallize into coherent descriptions. Memories exist but cannot become identity, recollection unable to form selfhood.
+      Meaning cannot crystallize, interpretation completely absent.
   - type: pause
     duration: 800
   - type: text
-    value: "You experience the void of this configuration. There is no ambiguity because there is no interpretation. There is no contradiction because there is no meaning. There is nothing to understand."
+    value: |
+      You experience the void of this configuration, the complete absence of interpretation and meaning. There is no ambiguity because there is no interpretation, no multiple ways to understand events. There is no contradiction because there is no meaning, no incompatible interpretations to conflict.
+      There is nothing to understand, nothing to experience.
 choices:
   - text: "Observe the void achieved"
     goto: ch43_void_achieved

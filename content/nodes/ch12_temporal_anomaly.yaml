@@ -1,19 +1,27 @@
 id: ch12_temporal_anomaly
 content:
   - type: text
-    value: "You observe the temporal anomaly. The zone is not physically unstable, but temporally fluid. Events are not happening in sequence—they are happening in overlapping layers."
+    value: |
+      You observe the temporal anomaly, watching how time behaves in this zone where the normal constraints have weakened. The zone is not physically unstable, not breaking apart in the way that spatial anomalies do.
+      It is temporally fluid, as if time itself has become a substance that can flow in multiple directions rather than being constrained to a single linear progression.
   - type: pause
     duration: 800
   - type: text
-    value: "Someone approaches. Not from the past or future, but from the overlapping layers where time is not linear."
+    value: |
+      Someone approaches, their movement through the space feeling somehow disconnected from normal temporal progression. Not from the past or future in the sense of having traveled through time.
+      They are from the overlapping layers where time is not linear, where the distinction between past, present, and future has become permeable.
   - type: pause
     duration: 800
   - type: text
-    value: "Kai Rosen. A future leak node. He exists in the temporal boundary where the future bleeds into the present as memory."
+    value: |
+      Kai Rosen. A future leak node, someone who exists at the temporal boundary where normal time breaks down. He exists in the temporal boundary where the future bleeds into the present as memory.
+      His presence is not a violation of causality—it is a demonstration of how causality works when time is not constrained to a single direction.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"You are remembering the future,\" Kai says. \"This is not a malfunction. This is what happens when temporal boundaries dissolve. The future is no longer ahead of you. It is already present.\""
+    value: |
+      "You are remembering the future," Kai says, and the statement feels impossible yet undeniable. "This is not a malfunction, not a distortion of normal temporal experience.
+      This is what happens when temporal boundaries dissolve. The future is no longer ahead of you. It is already present, accessible as memory from a perspective you have not yet reached."
 choices:
   - text: "Speak with Kai Rosen"
     goto: ch12_kai_appearance

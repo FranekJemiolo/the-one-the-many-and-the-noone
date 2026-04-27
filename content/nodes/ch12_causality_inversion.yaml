@@ -1,19 +1,27 @@
 id: ch12_causality_inversion
 content:
   - type: text
-    value: "You analyze the causality inversion. Normally, the present causes the future. But here, the future is appearing as a memory in the present."
+    value: |
+      You analyze the causality inversion, trying to understand how cause and effect can operate when the future is already present as memory. Normally, the present causes the future, actions taken now determine what happens later.
+      But here, the future is appearing as a memory in the present, which means the future is influencing the present before the present has created the future.
   - type: pause
     duration: 800
   - type: text
-    value: "This creates a causal loop: the future memory influences present decisions, which then create the future that was remembered. The future is causing itself."
+    value: |
+      This creates a causal loop that should be impossible according to normal causality: the future memory influences present decisions, which then create the future that was remembered.
+      The future is causing itself, creating a self-referential loop where cause and effect cannot be separated into a linear sequence.
   - type: pause
     duration: 800
   - type: text
-    value: "This should be impossible. Causality requires linear time. But in this zone, time is not linear—it is circular or folded."
+    value: |
+      This should be impossible. Causality requires linear time, requires that cause precede effect in a single direction. But in this zone, time is not linear—it is circular or folded, allowing influence to move in multiple directions.
+      The normal constraints that prevent paradoxes have been weakened, allowing causal structures that would be impossible in normal time.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when temporal boundaries break down. The future is not ahead of you. It is already present as memory."
+    value: |
+      You realize this is what happens when temporal boundaries break down. The future is not ahead of you, not something that has not yet happened. It is already present as memory, accessible from the present moment.
+      The distinction between past, present, and future has become permeable, allowing time to fold back on itself in ways that violate normal causality.
 choices:
   - text: "Observe the temporal anomaly"
     goto: ch12_temporal_anomaly

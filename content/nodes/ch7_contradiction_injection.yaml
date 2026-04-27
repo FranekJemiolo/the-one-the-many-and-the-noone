@@ -1,23 +1,33 @@
 id: ch7_contradiction_injection
 content:
   - type: text
-    value: "You are in an unstable reality zone. The air feels thick with uninterpreted possibilities."
+    value: |
+      You are in an unstable reality zone, a location where the normal constraints of singular reality have weakened. The air feels thick with uninterpreted possibilities, as if the space itself contains multiple versions of what is happening.
+      The quality of the atmosphere is difficult to describe—not quite physical, not quite psychological, but something in between, like the pressure of multiple realities pressing against each other.
   - type: pause
     duration: 800
   - type: text
-    value: "Something happens. Not an event exactly—more like an insertion. An alternate explanation appears in your mind, fully formed."
+    value: |
+      Something happens. Not an event exactly—more like an insertion, a deliberate addition to the interpretive field. An alternate explanation appears in your mind, fully formed, complete and coherent.
+      The explanation does not feel like a thought you generated yourself. It feels like something that was placed there, like information being downloaded rather than discovered.
   - type: pause
     duration: 800
   - type: text
-    value: "The explanation contradicts the official narrative. It is not better or worse—just different. And it feels equally valid."
+    value: |
+      The explanation contradicts the official narrative, the clean compressed version that the system prefers. It is not better or worse in any objective sense—just different.
+      And it feels equally valid, equally authentic, equally true in its own domain, as if it describes a version of reality that is just as real as the official one.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not your thought. It is being injected. Something is deliberately introducing contradiction into the interpretation field."
+    value: |
+      This is not your thought. It is being injected. Something is deliberately introducing contradiction into the interpretation field, ensuring that multiple versions of truth remain accessible even as the Engine tries to compress them into singularity.
+      The injection is precise, targeted, deliberate—it is not random multiplicity but controlled contradiction.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Quiet Engine wants compression. This force wants divergence. The conflict is becoming visible."
+    value: |
+      The Quiet Engine wants compression, wants to make singular reality feel natural. This force wants divergence, wants to preserve multiplicity even when it feels uncomfortable.
+      The conflict is becoming visible—not as open warfare, but as a struggle over which version of reality gets to feel natural.
 choices:
   - text: "Examine the alternate explanation"
     goto: ch7_alternate_explanation

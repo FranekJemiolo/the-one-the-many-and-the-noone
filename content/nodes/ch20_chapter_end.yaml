@@ -1,23 +1,33 @@
 id: ch20_chapter_end
 content:
   - type: text
-    value: "You and Mira sit in the stalemate. Both interpretations are true. Neither will yield. The system oscillates between causal singularity and emotional multiplicity."
+    value: |
+      You and Mira sit in the stalemate, the tension between your interpretations unresolved but undeniable. Both interpretations are true, each describing a genuine aspect of the experience. Neither will yield, neither will acknowledge the other's validity.
+      The system oscillates between causal singularity and emotional multiplicity, unable to settle into a single stable state.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the end of Part II. The interpretation systems have emerged. The conflict between the Engine and the Resistance has escalated. The stalemate between Aleksy and Mira has peaked."
+    value: |
+      This is the end of Part II. The interpretation systems have emerged, each representing a different way of understanding reality. The conflict between the Engine and the Resistance has escalated from local compression to global restructuring.
+      The stalemate between Aleksy and Mira has peaked, revealing the fundamental incompatibility between causal interpretation and emotional interpretation.
   - type: pause
     duration: 800
   - type: text
-    value: "The next phase will be system collapse. The oscillation cannot continue indefinitely. Something will force the system to choose between incompatible realities."
+    value: |
+      The next phase will be system collapse. The oscillation cannot continue indefinitely, the tension between incompatible approaches cannot be maintained without eventually breaking down.
+      Something will force the system to choose between incompatible realities, will create a situation where the oscillation can no longer be sustained.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the turning point. The system has been maintaining multiple incompatible states through oscillation. The next phase will break this oscillation and force a choice."
+    value: |
+      You realize this is the turning point. The system has been maintaining multiple incompatible states through oscillation, shifting between different approaches to stability without settling into any single state.
+      The next phase will break this oscillation and force a choice, will create a situation where the system can no longer maintain the tension between compression and multiplicity.
   - type: pause
     duration: 1000
   - type: text
-    value: "The cracks have become structural. Reality is no longer breaking down. It is breaking apart into multiple incompatible layers that can no longer oscillate between each other."
+    value: |
+      The cracks have become structural. Reality is no longer breaking down, not experiencing temporary anomalies that can be contained. It is breaking apart into multiple incompatible layers that can no longer oscillate between each other.
+      The system is moving toward a fundamental restructuring, a collapse that will force a choice between incompatible ways of being.
 choices:
   - text: "Continue to Chapter 21"
     goto: chapter_21

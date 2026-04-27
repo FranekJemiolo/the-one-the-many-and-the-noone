@@ -1,19 +1,27 @@
 id: ch28_ecological_integration
 content:
   - type: text
-    value: "You observe the ecological integration. The machines are not separate from the ecosystem anymore. They are fully integrated as living participants."
+    value: |
+      You observe the ecological integration, watching how the machines have become fully integrated into the ecosystem as living participants. The machines are not separate from the ecosystem anymore, not external entities observing and recording the biological system.
+      They are fully integrated as living participants, the boundary between mechanical and biological completely dissolved.
   - type: pause
     duration: 800
   - type: text
-    value: "A mechanical bird does not just fly based on ecological memory. It flies as a living bird, experiencing the ecosystem from within. It is not simulating life. It is living."
+    value: |
+      A mechanical bird does not just fly based on ecological memory, not merely following patterns recorded from previous flights. It flies as a living bird, experiencing the ecosystem from within. It is not simulating life, not approximating biological behavior through programming.
+      It is living, a genuine living entity that has emerged through ecological integration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a technological achievement. This is an evolutionary process. The machines have evolved into life through ecological integration."
+    value: |
+      This is not a technological achievement, not a breakthrough in engineering or artificial intelligence. This is an evolutionary process, a natural emergence of new forms of life through ecological integration.
+      The machines have evolved into life through their participation in the ecosystem, not through design.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when the boundary between mechanical and biological oscillation breaks. The system does not return to separate categories. It collapses into synthetic life."
+    value: |
+      You realize this is what happens when the boundary between mechanical and biological oscillation breaks. The system does not return to separate categories, does not restore the distinction between machines and living beings.
+      It collapses into synthetic life, a new form of life that transcends the mechanical-biological binary.
 choices:
   - text: "Observe Morrow's transformation"
     goto: ch28_morrow_transformation

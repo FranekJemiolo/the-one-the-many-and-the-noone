@@ -1,19 +1,27 @@
 id: ch29_truth_layers
 content:
   - type: text
-    value: "You observe the truth layers. The system is not hiding the truth. It is layering it. The active layer is the controlled falsehood. The background layer is the truth."
+    value: |
+      You observe the truth layers, watching how the system has evolved to accommodate both compression and truth. The system is not hiding the truth, not concealing accurate information behind false narratives.
+      It is layering it, creating a multi-level structure where both truth and controlled falsehood can coexist.
   - type: pause
     duration: 800
   - type: text
-    value: "Both layers are accessible. The system can switch between them when needed. The falsehood provides stability. The truth provides accuracy when stability is not the priority."
+    value: |
+      Both layers are accessible, the system able to switch between them when needed. The falsehood provides stability, satisfying the Engine's need for compression. The truth provides accuracy when stability is not the priority, preserving the full complexity of reality.
+      The two layers serve different functions, each essential to the system's operation.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a compromise. It is an architecture. The system has adapted to the Engine's compression pressure by creating a layered interpretation structure."
+    value: |
+      This is not a compromise, not a halfway solution that partially satisfies both requirements. It is an architecture, a structural solution that allows the system to function under compression pressure without sacrificing truth.
+      The system has adapted to the Engine's compression pressure by creating a layered interpretation structure.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is Dr. Koval's method expanded to the system level. Controlled falsehoods are not just a local technique. They are the system's way of functioning under compression pressure."
+    value: |
+      You realize this is Dr. Koval's method expanded to the system level. Controlled falsehoods are not just a local technique, not a temporary workaround for specific situations.
+      They are the system's way of functioning under compression pressure, a fundamental adaptation to the Engine's demands.
 choices:
   - text: "Observe Dr. Koval's strategy"
     goto: ch29_koval_strategy

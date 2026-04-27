@@ -1,23 +1,33 @@
 id: ch2_emotional_wrongness
 content:
   - type: text
-    value: "You focus on the emotional sequence. Fear before injury. Calm during treatment. Anxiety after recovery."
+    value: |
+      You focus on the emotional sequence, trying to understand how it could possibly make sense. Fear before injury. Calm during treatment. Anxiety after recovery.
+      The pattern is clear, but it violates every assumption about how emotions work, how they relate to events, how they follow causality.
   - type: pause
     duration: 800
   - type: text
-    value: "This makes no sense causally. Fear should follow threat, not precede it. Calm should follow safety, not accompany procedure. Anxiety should follow uncertainty, not resolution."
+    value: |
+      This makes no sense causally. Fear should follow threat, not precede it. Calm should follow safety, not accompany procedure. Anxiety should follow uncertainty, not resolution.
+      The emotional sequence is not just different from the causal sequence—it is inverted, as if emotions are operating in reverse time.
   - type: pause
     duration: 800
   - type: text
-    value: "But the Patient insists this is how it felt. Not metaphorically. Actually. The emotional timeline was real to them."
+    value: |
+      But the Patient insists this is how it felt. Not metaphorically, not as a way of describing something else. Actually. The emotional timeline was real to them, as real as the physical events.
+      They are not confused about what happened. They are describing a different kind of experience that happened alongside the physical events.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is not psychological distortion. It's a different kind of reality. Emotions are not responding to events—they are following their own sequence, independent of causality."
+    value: |
+      You realize this is not psychological distortion, not a misremembering, not a coping mechanism. It is a different kind of reality.
+      Emotions are not responding to events—they are following their own sequence, their own causality, completely independent of the physical timeline.
   - type: pause
     duration: 800
   - type: text
-    value: "This means emotional truth is not subordinate to factual truth. They are parallel systems that can disagree without either being wrong."
+    value: |
+      This means emotional truth is not subordinate to factual truth. They are parallel systems that can disagree without either being wrong.
+      The emotional experience can be true in its own domain even when it contradicts the causal sequence, and this suggests that reality itself contains multiple layers that operate on different principles.
 choices:
   - text: "Accept the split perspective"
     goto: ch2_split_perspective

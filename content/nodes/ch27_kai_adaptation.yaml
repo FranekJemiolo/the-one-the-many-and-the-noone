@@ -1,19 +1,27 @@
 id: ch27_kai_adaptation
 content:
   - type: text
-    value: "You observe Kai's adaptation. Kai is not trapped in the causal loop. Kai is adapted to it. Kai exists in the temporal boundary where causality is a field, not a line."
+    value: |
+      You observe Kai's adaptation, watching how the boundary zone has transformed Kai's experience of time. Kai is not trapped in the causal loop, not suffering from the breakdown of linear causality.
+      Kai is adapted to it, their consciousness restructured to accommodate the temporal field where causality operates as a field rather than a line.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The loop is stable,\" Kai says. \"Causality is not broken. It is just operating in a different structure. The future causes the present, which causes the future. The loop is self-consistent.\""
+    value: |
+      "The loop is stable," Kai says, their voice calm as they explain the structure of temporal multiplicity. "Causality is not broken. It is just operating in a different structure. The future causes the present, which causes the future.
+      The loop is self-consistent, the circular causality maintaining coherence without requiring linear sequence."
   - type: pause
     duration: 800
   - type: text
-    value: "You realize Kai is not experiencing time incorrectly. Kai is experiencing time as a field of causal loops that the Engine cannot recognize as valid, but that functions perfectly well."
+    value: |
+      You realize Kai is not experiencing time incorrectly, not malfunctioning in their perception of temporal sequence. Kai is experiencing time as a field of causal loops that the Engine cannot recognize as valid, but that functions perfectly well.
+      The Engine's assumption that causality must be linear is proven wrong by Kai's very existence in the boundary zone.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the pattern. The Engine fears temporal multiplicity will lead to chaos. Kai proves that temporal multiplicity can be stable in a different structure."
+    value: |
+      This is the pattern. The Engine fears temporal multiplicity will lead to chaos, assumes that circular causality must break down into disorder. Kai proves that temporal multiplicity can be stable in a different structure.
+      The boundary zone demonstrates that causality can operate in loops without breaking, that time can be a field without collapsing.
 choices:
   - text: "Understand the temporal field"
     goto: ch27_temporal_field

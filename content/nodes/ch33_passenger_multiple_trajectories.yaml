@@ -1,19 +1,27 @@
 id: ch33_passenger_multiple_trajectories
 content:
   - type: text
-    value: "The Passenger is moving along multiple trajectories simultaneously. Like the Witness, Guard, and Teacher, the Passenger has fragmented into multiple versions under system collapse pressure."
+    value: |
+      The Passenger is moving along multiple trajectories simultaneously, the nameless role that has appeared at various transit points now fragmenting under system collapse pressure. Like the Witness, Guard, and Teacher before them, the Passenger has fragmented into multiple versions.
+      The fragmentation is not a failure of identity—it is a transformation into a new mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "Passenger A is on trajectory 14:03. Passenger B is on trajectory 14:05. Passenger C is on both trajectories simultaneously. All are the same Passenger, but all are different versions."
+    value: |
+      Passenger A is on trajectory 14:03, moving through the system at a specific temporal location. Passenger B is on trajectory 14:05, moving through the system at a different temporal location. Passenger C is on both trajectories simultaneously, existing in multiple locations at once.
+      All are the same Passenger, sharing the same essential pattern of movement behavior. But all are different versions, existing in incompatible states.
   - type: pause
     duration: 800
   - type: text
-    value: "The Passenger's function is consistent across all versions: moving through the system, experiencing transit, adapting to trajectory multiplicity. But the specific implementation varies across the multiplicity system."
+    value: |
+      The Passenger's function is consistent across all versions: moving through the system, experiencing transit, adapting to trajectory multiplicity. The pattern of movement remains stable across the multiplicity system.
+      But the specific implementation varies across the multiplicity system, each version moving along different paths.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the next identity crystallization. The Passenger is following the same pattern as Echo, Barrier, and Archive: fragmentation under pressure, then crystallization into a named multiplicity."
+    value: |
+      You realize this is the next identity crystallization. The Passenger is following the same pattern as Echo, Barrier, and Archive: fragmentation under pressure, then crystallization into a named multiplicity.
+      The process is systematic, the system generating named multiplicities from nameless roles through the pressure of system collapse.
 choices:
   - text: "Observe the movement pattern"
     goto: ch33_movement_pattern

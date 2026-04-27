@@ -1,19 +1,27 @@
 id: ch37_null_zone_stabilized
 content:
   - type: text
-    value: "You return to the Null Zone. The interpretation void has been stabilized. The zone is no longer a place where meaning cannot crystallize."
+    value: |
+      You return to the Null Zone, watching as the interpretation void has been stabilized by the structural coherence field. The zone is no longer a place where meaning cannot crystallize, not a complete failure of interpretation.
+      The transformation is complete, the Null Zone now capable of minimal interpretation.
   - type: pause
     duration: 800
   - type: text
-    value: "The structural coherence field has extended even to the Null Zone. Contradictions can now coexist even in the place where interpretation previously failed completely."
+    value: |
+      The structural coherence field has extended even to the Null Zone, the general capability for stabilizing contradictions now operating even in the zone where interpretation previously failed completely. Contradictions can now coexist even in the place where meaning was previously absent.
+      The extension is complete, the coherence field covering the entire system.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not the Null Zone being eliminated. The Null Zone still exists as a place of minimal interpretation. But it is no longer a place where interpretation fails completely."
+    value: |
+      This is not the Null Zone being eliminated, not the complete removal of the zone where interpretation is minimal. The Null Zone still exists as a place of minimal interpretation, a zone where meaning is reduced rather than rich.
+      But it is no longer a place where interpretation fails completely, no longer a void that threatens the system's ability to function.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the system's adaptation to the void. The system has found a way to manage the interpretation failure zone by extending the coherence field to it."
+    value: |
+      You realize this is the system's adaptation to the void. The system has found a way to manage the interpretation failure zone by extending the coherence field to it, allowing minimal interpretation without requiring complete collapse.
+      The adaptation is structural, not temporary.
 choices:
   - text: "Observe the interpretation restoration"
     goto: ch37_interpretation_restored

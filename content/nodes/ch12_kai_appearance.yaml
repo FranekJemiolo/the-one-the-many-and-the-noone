@@ -1,23 +1,33 @@
 id: ch12_kai_appearance
 content:
   - type: text
-    value: "Kai Rosen is not from your time. He is from the temporal boundary where the future is already present as memory."
+    value: |
+      Kai Rosen is not from your time, not from the present moment that you are experiencing. He is from the temporal boundary where the future is already present as memory, where time has folded back on itself in ways that normal causality cannot explain.
+      His presence feels displaced, as if he exists in a relationship to time that is fundamentally different from your own.
   - type: pause
     duration: 800
   - type: text
-    value: "\"I exist in the leak,\" Kai says. \"The place where the future bleeds into the present. I am not predicting anything. I am remembering what has already happened from a perspective you haven't reached yet.\""
+    value: |
+      "I exist in the leak," Kai says, using a term that suggests a breach in the normal boundaries of temporal experience. "The place where the future bleeds into the present, where what has not yet happened from your perspective is already memory from mine.
+      I am not predicting anything. I am remembering what has already happened from a perspective you haven't reached yet."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about causality. Kai explains that causality is not linear in the leak. The future causes the present as much as the present causes the future."
+    value: |
+      You ask about causality, about how cause and effect can operate when the future is already known. Kai explains that causality is not linear in the leak, does not flow only from past to future.
+      The future causes the present as much as the present causes the future, creating a causal field where influence moves in multiple directions simultaneously.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"This is not a paradox,\" Kai says. \"This is what time looks like when it is not constrained to a single direction. Causality becomes a field, not a line.\""
+    value: |
+      "This is not a paradox," Kai says, and there is a calm certainty in his voice that suggests he has explained this many times. "This is what time looks like when it is not constrained to a single direction.
+      Causality becomes a field, not a line. The future influences the present just as the present influences the future, and both are equally real."
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is another form of multiplicity. Time itself is multiple—linear time in normal zones, folded time in anomaly zones."
+    value: |
+      You realize this is another form of multiplicity. Time itself is multiple—linear time in normal zones, where cause precedes effect in a single direction; folded time in anomaly zones, where causality operates as a field rather than a line.
+      The leak represents a different temporal modality, a way time can work when it is not constrained by the requirement of unidirectional flow.
 choices:
   - text: "Accept the temporal anomaly"
     goto: ch12_chapter_end

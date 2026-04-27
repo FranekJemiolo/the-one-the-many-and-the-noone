@@ -1,19 +1,27 @@
 id: ch46_overlap_selected
 content:
   - type: text
-    value: "You observe The Overlap selected. The system chooses balanced coexistence as its final configuration."
+    value: |
+      You observe The Overlap selected, the system choosing balanced coexistence as its final configuration. The choice is final, the system having completed its deliberation and made its decision based on accumulated experience.
+      The Overlap configuration will be the system's permanent mode of operation.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression layer and the Resistance's multiplicity layer will operate in coexistence. Plural stability will be the default, but singular stability will be available when needed."
+    value: |
+      The Engine's compression layer and the Resistance's multiplicity layer will operate in coexistence, both available as structural capabilities of the system. Plural stability will be the default, the coherence field operating as the preferred mode of handling contradictions.
+      But singular stability will be available when needed, the compression layer functional for situations where singular interpretation is required.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the system's final choice based on its accumulated experience. The system values the richness of multiplicity and the availability of singular clarity."
+    value: |
+      This is the system's final choice based on its accumulated experience, the decision emerging from genuine understanding of all options. The system values the richness of multiplicity, preferring plural diversity as the default mode of operation.
+      The system values the availability of singular clarity, preserving the ability to access singular interpretation when needed.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the optimal outcome. The system has not chosen extreme singularity or extreme multiplicity. It has chosen balanced coexistence that honors both."
+    value: |
+      You realize this is the optimal outcome, the best possible resolution of the conflict between compression and multiplicity. The system has not chosen extreme singularity or extreme multiplicity, avoiding the impoverishment of The One and the chaos of The Many.
+      It has chosen balanced coexistence that honors both, the optimal balance of the system's values.
 choices:
   - text: "Conclude the chapter"
     goto: ch46_chapter_end

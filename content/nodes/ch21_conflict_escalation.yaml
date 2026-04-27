@@ -1,19 +1,27 @@
 id: ch21_conflict_escalation
 content:
   - type: text
-    value: "You observe the conflict escalation. Rose and Nemesis are both operating at maximum capacity in the same zone."
+    value: |
+      You observe the conflict escalation, watching how Rose and Nemesis are both operating at maximum capacity in the same zone. The two interpretation engines are no longer coexisting peacefully, no longer maintaining a stable tension between their approaches.
+      They are actively competing, each trying to impose its interpretation on the same territory.
   - type: pause
     duration: 800
   - type: text
-    value: "The zone is oscillating between multiplicity and singularity. When Rose's field dominates, contradictions coexist. When Nemesis's field dominates, contradictions compress."
+    value: |
+      The zone is oscillating between multiplicity and singularity, shifting between the two states as the balance of power between Rose and Nemesis shifts. When Rose's field dominates, contradictions coexist, incompatible truths held in a stable state of plural reality.
+      When Nemesis's field dominates, contradictions compress, multiple interpretations forced into a single coherent narrative.
   - type: pause
     duration: 800
   - type: text
-    value: "This oscillation is creating intense tension. The system is being pulled in two directions simultaneously, and neither side is yielding."
+    value: |
+      This oscillation is creating intense tension, the system being pulled in two directions simultaneously. Neither side is yielding, neither willing to acknowledge the validity of the other's approach.
+      The tension is increasing with each oscillation, the system straining under the competing demands of two incompatible interpretations.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is unsustainable. The oscillation will eventually break. The system will be forced to choose between Rose's coexistence and Nemesis's compression."
+    value: |
+      You realize this is unsustainable. The oscillation will eventually break, the system unable to maintain the tension between Rose's coexistence and Nemesis's compression indefinitely.
+      The system will be forced to choose, will break down in a way that makes one approach dominant and eliminates the other.
 choices:
   - text: "Conclude the chapter"
     goto: ch21_chapter_end

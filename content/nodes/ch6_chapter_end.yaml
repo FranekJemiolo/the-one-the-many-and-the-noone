@@ -1,23 +1,33 @@
 id: ch6_chapter_end
 content:
   - type: text
-    value: "You leave the administrative facility. The clean explanation remains in the system, accepted as truth because it is comfortable."
+    value: |
+      You leave the administrative facility, the doors closing behind you as you step out into the corridor. The clean explanation remains in the system, accepted as truth because it is comfortable, because it removes the ambiguity that reality actually contains.
+      The system has chosen comfort over accuracy, simplicity over complexity, singularity over multiplicity.
   - type: pause
     duration: 1000
   - type: text
-    value: "Dr. Koval continues her work. She is not malicious—she is managing a system that cannot tolerate too much ambiguity. But she is serving the Quiet Engine's agenda."
+    value: |
+      Dr. Koval continues her work, managing anomalies by compressing them into explanations the system can tolerate. She is not malicious—she is managing a system that cannot tolerate too much ambiguity, that would collapse if forced to confront the full complexity of reality.
+      But she is serving the Quiet Engine's agenda, whether she realizes it or not, by making singularity feel natural and multiplicity feel like error.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is how the Engine operates. Not by forcing reality, but by making certain interpretations feel more natural than others. Compression becomes comfort."
+    value: |
+      You realize this is how the Engine operates. Not by forcing reality, not by overtly controlling what people think, but by making certain interpretations feel more natural than others.
+      Compression becomes comfort. Singularity becomes truth. The Engine's influence is not visible as power—it is visible as preference.
   - type: pause
     duration: 800
   - type: text
-    value: "The cracks are still there—memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory. But the Engine is making them feel like errors that need to be fixed."
+    value: |
+      The cracks are still there—memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory. Reality is still fundamentally multiple.
+      But the Engine is making them feel like errors that need to be fixed, like anomalies that should be compressed into singular narratives rather than accepted as structural features.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the beginning of the conflict. Reality is becoming multiple. The Engine is trying to make it feel singular. The resistance will be about preserving multiplicity."
+    value: |
+      This is the beginning of the conflict. Reality is becoming multiple, revealing its true nature as fundamentally plural. The Engine is trying to make it feel singular, to compress multiplicity into singularity for the sake of stability.
+      The resistance will be about preserving multiplicity, about refusing to let comfort dictate what counts as truth.
 choices:
   - text: "Continue to Chapter 7"
     goto: chapter_7

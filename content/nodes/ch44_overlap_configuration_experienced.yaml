@@ -1,19 +1,27 @@
 id: ch44_overlap_configuration_experienced
 content:
   - type: text
-    value: "The system experiences The Overlap configuration. Singular and plural stability coexist in balance. This is the current equilibrium."
+    value: |
+      The system experiences The Overlap configuration, singular and plural stability coexisting in balance. This is not a simulation but the system's current state, the equilibrium that has been established through the adaptation phase.
+      The system is experiencing what it is like to maintain The Overlap as its configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a simulation. This is the system's current state. The system is experiencing what it is like to maintain The Overlap as its configuration."
+    value: |
+      This is not a simulation, not a hypothetical exploration of a different configuration. This is the system's current state, the equilibrium that has been established through the adaptation to multiplicity.
+      The system is experiencing what it is like to maintain The Overlap as its configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "In this configuration, the Engine's compression layer and the Resistance's multiplicity layer operate in coexistence. Both are available. Plural stability is the default, but singular stability is available when needed."
+    value: |
+      In this configuration, the Engine's compression layer and the Resistance's multiplicity layer operate in coexistence. Both are available, the system able to switch between them as needed. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions.
+      But singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
   - type: pause
     duration: 800
   - type: text
-    value: "You experience the balance of this configuration. There is both clarity and diversity. There is both coherence and complexity. There is both stability and vitality."
+    value: |
+      You experience the balance of this configuration, the coexistence of clarity and diversity. There is both clarity, the singular interpretation available when needed, and diversity, the plural interpretation available as the default. There is both coherence, the stability of singular interpretation, and complexity, the richness of plural interpretation.
+      There is both stability and vitality.
 choices:
   - text: "Observe the balance achieved"
     goto: ch44_balance_achieved

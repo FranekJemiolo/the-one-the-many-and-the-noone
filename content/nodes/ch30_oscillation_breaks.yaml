@@ -1,19 +1,27 @@
 id: ch30_oscillation_breaks
 content:
   - type: text
-    value: "The oscillation between singular and multiple interpretation breaks completely. The system does not return to either state. It collapses into a new configuration."
+    value: |
+      The oscillation between singular and multiple interpretation breaks completely, the back-and-forth movement between compression and multiplicity reaching its terminal point. The system does not return to either state, does not restore the oscillation that maintained the tension between the two approaches.
+      It collapses into a new configuration, a structural transformation that transcends the binary.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression and the Resistance's multiplicity are no longer oscillating. They have crystallized into separate layers that operate simultaneously."
+    value: |
+      The Engine's compression and the Resistance's multiplicity are no longer oscillating, no longer competing for dominance in a shifting balance of power. They have crystallized into separate layers that operate simultaneously, each interpretation system maintaining its own complete reality.
+      The conflict has transformed from competition to coexistence.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a stalemate. This is a structural transformation. The system has adapted to the conflict by allowing both interpretation systems to operate in parallel."
+    value: |
+      This is not a stalemate, not a temporary balance that will eventually break in favor of one side or the other. This is a structural transformation, a fundamental reorganization of how the system operates.
+      The system has adapted to the conflict by allowing both interpretation systems to operate in parallel.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the end of the oscillation phase. The system has moved beyond choosing between compression and multiplicity. It has found a way to have both."
+    value: |
+      You realize this is the end of the oscillation phase. The system has moved beyond choosing between compression and multiplicity, beyond the assumption that only one approach can be valid.
+      It has found a way to have both, to accommodate incompatible interpretations without requiring reconciliation.
 choices:
   - text: "Observe the multiple realities established"
     goto: ch30_multiple_realities_established

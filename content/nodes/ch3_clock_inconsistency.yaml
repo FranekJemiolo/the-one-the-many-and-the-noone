@@ -1,27 +1,39 @@
 id: ch3_clock_inconsistency
 content:
   - type: text
-    value: "You stand before the clock array. Three digital displays. All calibrated. All synchronized. All showing different sequences."
+    value: |
+      You stand before the clock array in the central monitoring station, three digital displays mounted side by side on the wall, each one showing a different sequence of time.
+      All three clocks are calibrated to the same standard, synchronized to the same reference signal, maintained by the same engineering protocols. Yet they show different sequences.
   - type: pause
     duration: 800
   - type: text
-    value: "Clock A: 14:03 → 14:05 → 14:07. Linear. Normal."
+    value: |
+      Clock A displays a linear progression: 14:03 → 14:05 → 14:07. Normal. Expected. This is how time should behave, moving forward in consistent increments.
+      Watching this clock, you feel a momentary reassurance, as if this one display represents how time is supposed to work.
   - type: pause
     duration: 800
   - type: text
-    value: "Clock B: 14:04 → 14:03 → 14:06. Reverses briefly, then continues."
+    value: |
+      Clock B tells a different story: 14:04 → 14:03 → 14:06. The sequence reverses briefly, jumping backward one minute before continuing forward.
+      The reversal is not a glitch—the clock does not flicker or reset. It simply shows 14:03 after showing 14:04, as if this sequence is perfectly valid.
   - type: pause
     duration: 800
   - type: text
-    value: "Clock C: 14:05 → 14:05 → 14:05. Stuck on one moment, then jumps forward."
+    value: |
+      Clock C is stranger still: 14:05 → 14:05 → 14:05. It remains stuck on one moment for three cycles, then jumps forward to 14:08 as if the intervening minutes never happened.
+      The clock is not frozen—it is actively displaying the same time repeatedly, as if that moment is being experienced multiple times before moving on.
   - type: pause
     duration: 1000
   - type: text
-    value: "The engineer explains: \"The clocks are not malfunctioning. They are measuring time differently. As if time itself has multiple valid sequences.\""
+    value: |
+      The engineer explains with a calm that disturbs you: "The clocks are not malfunctioning. They are measuring time differently. As if time itself has multiple valid sequences in this location.
+      Each clock is receiving the same time signal, but the interpretation of that signal produces different temporal sequences depending on which clock is doing the interpreting."
   - type: pause
     duration: 800
   - type: text
-    value: "You check the calibration logs. All three clocks are receiving the same time signal. They are interpreting it differently."
+    value: |
+      You check the calibration logs yourself, looking for the technical explanation that would make sense of this. All three clocks are receiving the same time signal from the same source.
+      They are not malfunctioning, not receiving corrupted data, not experiencing hardware failure. They are interpreting the same signal differently, as if the signal contains multiple valid temporal sequences.
 choices:
   - text: "Speak with the station Guard"
     goto: ch3_guard_interaction

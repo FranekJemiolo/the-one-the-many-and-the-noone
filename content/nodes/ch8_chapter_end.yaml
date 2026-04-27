@@ -1,23 +1,33 @@
 id: ch8_chapter_end
 content:
   - type: text
-    value: "You arrive at your destination. The journey took forty minutes according to the clock. But emotionally, it was multiple journeys simultaneously."
+    value: |
+      You arrive at your destination, the transport coming to a smooth halt at the station. The journey took forty minutes according to the clock, objective and unambiguous.
+      But emotionally, it was multiple journeys simultaneously—long and heavy in one iteration, short and light in another, as if the same duration contained multiple experiences of time.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Passenger continues their transit. They are not experiencing time incorrectly. They are experiencing emotional time as an independent system."
+    value: |
+      The Passenger continues their transit, moving through the system with the ease of someone who has accepted the multiplicity of emotional time. They are not experiencing time incorrectly, not distorting reality through misperception.
+      They are experiencing emotional time as an independent system, valid in its own domain, operating according to principles that have nothing to do with clocks or objective measurement.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is how the Resistance operates—not by fighting causal time, but by expanding emotional time into a multiplicity system."
+    value: |
+      You realize this is how the Resistance operates—not by fighting causal time, not by denying the reality of objective measurement, but by expanding emotional time into a multiplicity system.
+      The Resistance ensures that emotional time remains independent, that the subjective experience of time is not collapsed into the objective measurement of time.
   - type: pause
     duration: 800
   - type: text
-    value: "The cracks continue: memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory, compression pressure, contradiction injection, emotional time independence."
+    value: |
+      The cracks continue to accumulate in the foundation of singular reality: memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory, compression pressure, contradiction injection, emotional time independence.
+      Each crack reveals another way reality can be multiple, another layer of truth that operates independently of the others.
   - type: pause
     duration: 1000
   - type: text
-    value: "Reality is not just breaking. It is revealing that time itself is multiple—causal time and emotional time, operating independently."
+    value: |
+      Reality is not just breaking. It is revealing that time itself is multiple—causal time and emotional time, operating independently, each valid in its own domain, each describing a different aspect of how time is experienced.
+      The assumption that time must be singular, that objective and subjective time must agree, is being shattered by the very experience of living through multiple temporal realities.
 choices:
   - text: "Continue to Chapter 9"
     goto: chapter_9

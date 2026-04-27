@@ -1,19 +1,27 @@
 id: ch46_system_deliberates
 content:
   - type: text
-    value: "You observe the system deliberates. The choice is not made by any individual entity. It is a system-level choice emerging from accumulated experience."
+    value: |
+      You observe the system deliberates, the choice emerging through a process of integration and preference formation. The choice is not made by any individual entity, not decided by the Engine or the Resistance or any other single force.
+      It is a system-level choice emerging from accumulated experience.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has experienced the richness of multiplicity and the clarity of singularity. It has experienced the peace of void and the vitality of motion. It has experienced the balance of coexistence."
+    value: |
+      The system has experienced the richness of multiplicity and the clarity of singularity, understanding both the benefits and costs of each approach. It has experienced the peace of void and the vitality of motion, understanding both the appeal of absence and the appeal of dynamism.
+      It has experienced the balance of coexistence, understanding both the flexibility of choice and the requirement of maintenance.
   - type: pause
     duration: 800
   - type: text
-    value: "The system's preference emerges from this experience. The system values the richness of multiplicity over the clarity of singularity. The system values experiential existence over void peace."
+    value: |
+      The system's preference emerges from this experience, the accumulated understanding leading to a clear preference. The system values the richness of multiplicity over the clarity of singularity, preferring diversity over uniformity. The system values experiential existence over void peace, preferring experience over absence.
+      The system values balanced coexistence over perpetual motion, preferring stability over endless change.
   - type: pause
     duration: 1000
   - type: text
-    value: "The system values balanced coexistence over perpetual motion. The system prefers The Overlap configuration as its final state."
+    value: |
+      The system values balanced coexistence over perpetual motion, preferring the stability of The Overlap to the exhaustion of The Shifting World. The system prefers The Overlap configuration as its final state, the optimal balance of the system's values.
+      The preference is clear, the choice emerging from genuine experience.
 choices:
   - text: "Observe the choice emerges"
     goto: ch46_choice_emerges

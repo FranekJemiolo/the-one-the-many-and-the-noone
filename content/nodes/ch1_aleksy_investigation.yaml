@@ -1,23 +1,35 @@
 id: ch1_aleksy_investigation
 content:
   - type: text
-    value: "You approach the problem causally. If two timelines cannot both be true, one must contain an error."
+    value: |
+      You approach the problem causally, your mind trained to seek the single thread of truth that must exist beneath the surface of contradiction.
+      If two timelines cannot both be true, then by logical necessity, one must contain an error—a misperception, a misremembering, a deliberate fabrication.
   - type: pause
     duration: 800
   - type: text
-    value: "You map the first witness's sequence: 14:03 arrival, 14:05 confrontation, 14:07 departure. Clean. Linear. No gaps."
+    value: |
+      You map the first witness's sequence with meticulous precision: 14:03 arrival, 14:05 confrontation, 14:07 departure.
+      Clean. Linear. No gaps. Every moment follows the one before it in an unbroken chain of cause and effect.
+      This is how reality operates—this is how it must operate.
   - type: pause
     duration: 800
   - type: text
-    value: "The second witness: 14:04 arrival, 14:06 confrontation, 14:08 departure. Also clean. Also linear."
+    value: |
+      The second witness tells a different story: 14:04 arrival, 14:06 confrontation, 14:08 departure.
+      Also clean. Also linear. Also internally consistent in its own right.
+      The problem is not that one sequence is flawed; the problem is that both sequences are internally perfect.
   - type: pause
     duration: 1000
   - type: text
-    value: "The problem is not inconsistency. It's that both sequences are internally perfect. As if reality branched at the moment of observation."
+    value: |
+      The problem is not inconsistency. It's that both sequences are internally perfect, each one complete and unbroken in its causality.
+      As if reality itself branched at the moment of observation, creating two parallel timelines that cannot be reconciled because neither is false.
   - type: pause
     duration: 800
   - type: text
-    value: "You write in your notebook: 'Temporal overlap without contradiction. Requires further investigation.'"
+    value: |
+      You write in your notebook with deliberate strokes, the ink sinking into the paper: 'Temporal overlap without contradiction.
+      Both sequences internally consistent. Neither contains logical error. Requires further investigation into the nature of observation itself.'
 choices:
   - text: "Interview the witnesses directly"
     goto: ch1_witness_testimony

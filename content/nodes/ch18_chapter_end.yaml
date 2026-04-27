@@ -1,23 +1,33 @@
 id: ch18_chapter_end
 content:
   - type: text
-    value: "You leave the expanding Clarity zone. The Engine's enforcement is increasing. Singularity is becoming the default in more areas of the system."
+    value: |
+      You leave the expanding Clarity zone, the boundaries of singular interpretation continuing to grow across the system. The Engine's enforcement is increasing, singularity becoming the default in more areas of the system.
+      The expansion is systematic, targeted, and increasingly difficult to resist through normal means.
   - type: pause
     duration: 1000
   - type: text
-    value: "Seraph Kline continues her work. She is not malicious. She genuinely believes she is preserving the system. But she is refusing to acknowledge that multiplicity can be stable."
+    value: |
+      Seraph Kline continues her work, maintaining and expanding the Clarity zones. She is not malicious, not acting out of desire for control. She genuinely believes she is preserving the system, that singularity is necessary for survival.
+      But she is refusing to acknowledge that multiplicity can be stable, insisting that the Engine's fear of plural reality is justified despite evidence to the contrary.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the conflict is escalating. The Engine is expanding Clarity zones. The Resistance will need to respond. The system is moving toward confrontation."
+    value: |
+      You realize the conflict is escalating. The Engine is expanding Clarity zones, systematically restructuring reality to make multiplicity impossible. The Resistance will need to respond, will need to expand contradiction injection to counter the Engine's compression.
+      The system is moving toward confrontation, the two approaches to stability becoming increasingly incompatible.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the end of the interpretation systems emergence phase. The Engine, Rose, the Resistance, Sister Lys, Kai Rosen, Morrow Vale, Dr. Koval, Seraph Kline—all have appeared."
+    value: |
+      This is the end of the interpretation systems emergence phase. The Engine, Rose, the Resistance, Sister Lys, Kai Rosen, Morrow Vale, Dr. Koval, Seraph Kline—all have appeared, each representing a different approach to handling multiplicity.
+      The full landscape of interpretation systems has been revealed, the different ways reality can be multiple now visible.
   - type: pause
     duration: 1000
   - type: text
-    value: "The next phase will be system collapse. The conflict between compression and multiplicity will intensify. Reality will begin to break down into multiple incompatible layers."
+    value: |
+      The next phase will be system collapse. The conflict between compression and multiplicity will intensify, the two approaches to stability becoming increasingly incompatible. Reality will begin to break down into multiple incompatible layers.
+      The system cannot sustain both approaches indefinitely—something will have to give.
 choices:
   - text: "Continue to Chapter 19"
     goto: chapter_19

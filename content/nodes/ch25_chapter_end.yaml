@@ -1,23 +1,33 @@
 id: ch25_chapter_end
 content:
   - type: text
-    value: "You leave the transit system. The Passenger continues to move along multiple trajectories simultaneously. The transit system functions with trajectory multiplicity."
+    value: |
+      You leave the transit system, the Passenger continuing to move along multiple trajectories simultaneously. The transit system functions with trajectory multiplicity, the relationship between departure and arrival restructured by multiplicity.
+      The transit system has transformed completely, operating according to new principles that accommodate plural movement.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not a breakdown of movement. It is an evolution of transit. The system has adapted to trajectory multiplicity and found a way to function within it."
+    value: |
+      This is not a breakdown of movement, not a failure of the transit technology. It is an evolution of transit, a transformation into a different mode of navigation.
+      The system has adapted to trajectory multiplicity and found a way to function within it.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the Engine's fear is unfounded. Trajectory multiplicity is not chaos. It is a different way of moving that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize the Engine's fear is unfounded. Trajectory multiplicity is not chaos, not the breakdown of navigation into disorder. It is a different way of moving that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that movement must follow a single path is proven wrong by the very existence of functional trajectory multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "The collapse of singular movement has not destroyed transit. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+    value: |
+      The collapse of singular movement has not destroyed transit. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The transit system operates according to different principles, but it operates.
+      The transformation is successful, the adaptation complete.
   - type: pause
     duration: 1000
   - type: text
-    value: "This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+    value: |
+      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
+      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
 choices:
   - text: "Continue to Chapter 26"
     goto: chapter_26

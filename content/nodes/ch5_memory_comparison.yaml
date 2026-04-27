@@ -1,27 +1,39 @@
 id: ch5_memory_comparison
 content:
   - type: text
-    value: "You and Mira write down your memories side by side. The comparison is revealing."
+    value: |
+      You and Mira write down your memories side by side, the ink flowing onto the paper as you try to capture something that defies normal documentation. The comparison is revealing in ways neither of you expected.
+      Seeing the two memories written out, side by side, makes the divergence undeniable—these are not variations on the same theme, but fundamentally different accounts of the same moment.
   - type: pause
     duration: 800
   - type: text
-    value: "Aleksy's memory: Light changes → Time reference → Causal sequence complete."
+    value: |
+      Aleksy's memory: Light changes → Time reference → Causal sequence complete. The chain is logical, linear, unbroken. Observation leads to response, response follows naturally from observation.
+      This is how memory should work—this is how causality should operate.
   - type: pause
     duration: 800
   - type: text
-    value: "Mira's memory: Room feeling → Emotional reference → Emotional sequence complete."
+    value: |
+      Mira's memory: Room feeling → Emotional reference → Emotional sequence complete. The chain is equally logical, equally linear, equally unbroken in its own domain.
+      Feeling leads to response, response follows naturally from feeling. This is also how memory should work—just in a different mode.
   - type: pause
     duration: 800
   - type: text
-    value: "Both memories describe the same moment. Both are internally consistent. Both are mutually incompatible."
+    value: |
+      Both memories describe the same moment in time. Both are internally consistent. Both are mutually incompatible. They cannot both be true in a singular timeline.
+      Yet both feel equally authentic, equally real, equally undeniable to the person experiencing them.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is not a disagreement about what happened. It is a demonstration that the same moment can have multiple valid sequences depending on which interpretation engine is rendering it."
+    value: |
+      You realize this is not a disagreement about what happened. It is a demonstration that the same moment can have multiple valid sequences depending on which interpretation engine is rendering it.
+      The moment itself contains multiple versions, and different observers access different versions depending on whether they are operating in causal mode or emotional mode.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the first time you and Mira have experienced the same divergence simultaneously. It is no longer an abstract anomaly. It is shared reality."
+    value: |
+      This is the first time you and Mira have experienced the same divergence simultaneously. It is no longer an abstract anomaly that you read about in reports or observed in others.
+      It is shared reality, experienced together, making the multiplicity impossible to dismiss or explain away.
 choices:
   - text: "Accept the dual reality"
     goto: ch5_dual_reality_established

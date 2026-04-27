@@ -1,23 +1,33 @@
 id: ch45_chapter_end
 content:
   - type: text
-    value: "The simulation of The Shifting World configuration ends. The system returns to the current equilibrium. The experience is stored for the final choice."
+    value: |
+      The simulation of The Shifting World configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The Shifting World configuration would mean.
+      The simulation is complete, the system ready to make the final choice.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Shifting World configuration offers perpetual motion. The system oscillates between configurations. No final state is chosen. Reality is in constant motion."
+    value: |
+      The Shifting World configuration offers perpetual motion, the system oscillating between configurations without choosing a final state. No final state is chosen, the system perpetually shifting between different modes of existence.
+      Reality is in constant motion, never settling into any fixed configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "But the cost is the loss of stable state. Reality would be in constant motion, but also in constant exhaustion. There would be no stable state to rest in."
+    value: |
+      But the cost is the loss of stable state, the elimination of any fixed mode of existence. Reality would be in constant motion, but also in constant exhaustion, the perpetual transition between states becoming overwhelming. There would be no stable state to rest in, no fixed configuration to provide stability.
+      The perpetual motion would be exciting but exhausting.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has experienced The Shifting World. It understands the appeal of perpetual motion. It also understands the cost. The experience will inform the final choice."
+    value: |
+      The system has experienced The Shifting World, understanding both the appeal of perpetual motion and the cost of that motion. The experience will inform the final choice, the system weighing the benefits of dynamism against the costs of exhaustion.
+      The understanding is comprehensive, the system ready to make the final choice.
   - type: pause
     duration: 1000
   - type: text
-    value: "The system has now experienced all five canonical endings. The One, The Many, The No-One, The Overlap, and The Shifting World. The final choice can now be made."
+    value: |
+      The system has now experienced all five canonical endings. The One, The Many, The No-One, The Overlap, and The Shifting World. The system has gained full understanding of each configuration, experiencing the appeal and cost of each.
+      The final choice can now be made.
 choices:
   - text: "Continue to Chapter 46"
     goto: chapter_46

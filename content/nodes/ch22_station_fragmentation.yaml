@@ -1,19 +1,27 @@
 id: ch22_station_fragmentation
 content:
   - type: text
-    value: "You observe the station fragmentation. Geostation Three is not a single unified space anymore. It has fragmented into multiple temporal versions."
+    value: |
+      You observe the station fragmentation, watching how Geostation Three has ceased to be a single unified space. The station has fragmented into multiple temporal versions, each existing in its own temporal state while occupying the same physical space.
+      The fragmentation is not spatial—it is temporal, the same location existing in multiple times simultaneously.
   - type: pause
     duration: 800
   - type: text
-    value: "In one version, the station is at 14:03. In another, it is at 14:05. In another, it is at all times simultaneously. These versions are not separate. They overlap in the same physical space."
+    value: |
+      In one version, the station is at 14:03, the midday routine proceeding according to the normal schedule. In another, it is at 14:05, two minutes ahead in the linear sequence. In another, it is at all times simultaneously, the entire timeline present in a single moment.
+      These versions are not separate, not isolated in different dimensions. They overlap in the same physical space, coexisting as layers of temporal multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "The researchers move between versions without noticing. They are adapted to the temporal field. They exist in multiple temporal states simultaneously."
+    value: |
+      The researchers move between versions without noticing, their consciousness adapted to the temporal field. They exist in multiple temporal states simultaneously, able to access different moments without experiencing the transition as movement.
+      The fragmentation is not experienced as disruption—it has become the normal mode of existence for those adapted to the temporal field.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the collapse of linear time. The station has not returned to normal. It has evolved into a temporal multiplicity system."
+    value: |
+      You realize this is the collapse of linear time. The station has not returned to normal, not restored the linear sequence that once governed its operation. It has evolved into a temporal multiplicity system, a new configuration where time is a field rather than a line.
+      The breakdown of linear time is not a failure but a transformation, the emergence of a different way of experiencing temporality.
 choices:
   - text: "Understand the multiple timelines"
     goto: ch22_multiple_timelines

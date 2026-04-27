@@ -1,19 +1,27 @@
 id: ch36_compression_maximum
 content:
   - type: text
-    value: "You observe the compression maximum. Nemesis is applying maximum pressure to collapse all interpretation layers into singularity."
+    value: |
+      You observe the compression maximum, watching as Nemesis applies maximum pressure to collapse all interpretation layers into singularity. The compression is not gradual, not a gentle persuasion toward singular interpretation.
+      It is maximum intensity, the Engine committing all its resources to forcing the system into singularity.
   - type: pause
     duration: 800
   - type: text
-    value: "The multiple realities are being forced together. The temporal fields are being compressed into linear time. The named multiplicities are being forced into singular entities."
+    value: |
+      The multiple realities are being forced together, the parallel layers that have crystallized into stable configurations being pushed toward unification. The temporal fields are being compressed into linear time, the causal loops being forced into linear sequences.
+      The named multiplicities are being forced into singular entities, the patterns of multiplicity being compressed into unified identities.
   - type: pause
     duration: 800
   - type: text
-    value: "The resistance is intense. The system is fighting back. The coherence field that has become structural is actively opposing the compression."
+    value: |
+      The resistance is intense, the system fighting back against the compression with equal force. The coherence field that has become structural is actively opposing the compression, stabilizing contradictions faster than Nemesis can compress them.
+      The system is not passive in this conflict—it is actively choosing plural stability.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is not a battle between Nemesis and Rose. This is a battle between the Engine's ideology and the system's demonstrated preference for plural stability."
+    value: |
+      You realize this is not a battle between Nemesis and Rose, not a personal conflict between two individuals. This is a battle between the Engine's ideology and the system's demonstrated preference for plural stability.
+      The system is making its choice clear through its resistance.
 choices:
   - text: "Observe the system resistance"
     goto: ch36_system_resistance

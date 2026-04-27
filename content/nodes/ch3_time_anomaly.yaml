@@ -1,23 +1,33 @@
 id: ch3_time_anomaly
 content:
   - type: text
-    value: "Geostation Three is not a place where time behaves correctly. The researchers have known this for weeks, but they cannot explain it."
+    value: |
+      Geostation Three is not a place where time behaves correctly. The researchers stationed here have known this for weeks, but they cannot explain it, cannot measure it, cannot fix it.
+      Time here is not a constant flow—it is something that behaves unpredictably, as if the fundamental structure of temporal sequence has become unstable in this region of space.
   - type: pause
     duration: 800
   - type: text
-    value: "You arrive at the station to investigate. The transport docks smoothly. Nothing is visibly wrong. That is always the first sign."
+    value: |
+      You arrive at the station to investigate the reports of temporal anomaly. The transport docks smoothly, the connection seals with a satisfying hiss, and you step onto the station with the expectation of finding something visibly wrong.
+      But nothing is visibly wrong. The corridors are clean, the systems are operational, the crew is going about their duties. That is always the first sign—the anomaly is not visible, only experienced.
   - type: pause
     duration: 800
   - type: text
-    value: "The problem is subtle: clocks disagree. Not by seconds. By sequences. One clock shows 14:03, then 14:05, then 14:04. Another shows 14:04, then 14:03, then 14:05."
+    value: |
+      The problem is subtle, almost invisible to casual observation: clocks disagree. Not by seconds or minutes, which would be a calibration error. By sequences.
+      One clock shows 14:03, then 14:05, then 14:04—the moments appear out of order. Another clock shows 14:04, then 14:03, then 14:05—a different sequence entirely.
   - type: pause
     duration: 1000
   - type: text
-    value: "The engineers insist the clocks are functioning correctly. The physicists insist time is not actually jumping. The researchers insist they are experiencing temporal instability."
+    value: |
+      The engineers insist the clocks are functioning correctly, their mechanisms precise, their calibration perfect. The physicists insist time is not actually jumping, that the fundamental laws of causality remain intact.
+      The researchers insist they are experiencing temporal instability, that moments are occurring in the wrong order, that the sequence of time has become unreliable.
   - type: pause
     duration: 800
   - type: text
-    value: "All three groups are correct. This is the problem."
+    value: |
+      All three groups are correct. The clocks are functioning correctly. Time is not actually jumping in a way that violates physics. The researchers are experiencing temporal instability.
+      This is the problem—three mutually exclusive statements are all true simultaneously, and the contradiction cannot be resolved by choosing one over the others.
 choices:
   - text: "Examine the clock inconsistency directly"
     goto: ch3_clock_inconsistency

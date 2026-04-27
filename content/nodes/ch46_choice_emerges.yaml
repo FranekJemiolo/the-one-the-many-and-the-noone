@@ -1,19 +1,27 @@
 id: ch46_choice_emerges
 content:
   - type: text
-    value: "You observe the choice emerges. The system selects The Overlap configuration as its final state."
+    value: |
+      You observe the choice emerges, the system selecting The Overlap configuration as its final state. The choice is deliberate, not accidental, emerging from the system's accumulated experience and genuine preference.
+      The system has made its decision based on full understanding of all options.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a compromise. This is a deliberate choice based on experience. The system has experienced all configurations and prefers The Overlap."
+    value: |
+      This is not a compromise, not a halfway solution that partially satisfies conflicting values. This is a deliberate choice based on experience, the system having experienced all configurations and preferring The Overlap based on that experience.
+      The choice is genuine, not forced.
   - type: pause
     duration: 800
   - type: text
-    value: "The system values the richness of multiplicity. The system values the availability of singular stability when needed. The system values the balance of coexistence."
+    value: |
+      The system values the richness of multiplicity, preferring the diversity of plural interpretation over the uniformity of singular interpretation. The system values the availability of singular stability when needed, preferring the flexibility of choice over the restriction to a single mode.
+      The system values the balance of coexistence, preferring the stability of The Overlap to the extremes of other configurations.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Overlap configuration is chosen because it offers the best balance of the system's values. It provides plural diversity as the default and singular clarity when needed."
+    value: |
+      The Overlap configuration is chosen because it offers the best balance of the system's values, the optimal arrangement given the system's experience and preferences. It provides plural diversity as the default, honoring the system's preference for multiplicity.
+      It provides singular clarity when needed, preserving the system's ability to access singular interpretation when required.
 choices:
   - text: "Observe The Overlap selected"
     goto: ch46_overlap_selected

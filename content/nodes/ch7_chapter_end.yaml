@@ -1,23 +1,33 @@
 id: ch7_chapter_end
 content:
   - type: text
-    value: "You leave the unstable reality zone. The injected contradiction remains in your mind, coexisting with the official narrative."
+    value: |
+      You leave the unstable reality zone, the boundary between multiple versions of reality fading as you move into more stable territory. The injected contradiction remains in your mind, coexisting with the official narrative.
+      Both versions of truth are still present, still accessible, still equally valid in their own domains. The injection was not temporary—it was permanent.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Quiet Engine wants compression. The Resistance wants divergence. The conflict is no longer abstract. It is active."
+    value: |
+      The Quiet Engine wants compression, wants to make singular reality feel natural, wants to eliminate ambiguity for the sake of stability. The Resistance wants divergence, wants to preserve multiplicity even when it feels uncomfortable.
+      The conflict is no longer abstract, no longer a theoretical possibility. It is active, happening now, operating through the very mechanisms of interpretation and perception.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize you have been experiencing the Resistance's work all along. The anomalies were not breakdowns. They were interventions."
+    value: |
+      You realize you have been experiencing the Resistance's work all along. The anomalies were not natural breakdowns of reality, not random occurrences of multiplicity.
+      They were interventions, deliberate injections of contradiction designed to preserve multiplicity against the Engine's pressure toward compression.
   - type: pause
     duration: 800
   - type: text
-    value: "This changes everything. You are not just observing reality's breakdown. You are caught in a conflict between two interpretation systems: one that wants singularity, one that wants multiplicity."
+    value: |
+      This changes everything. You are not just observing reality's breakdown, not documenting anomalies as they occur. You are caught in a conflict between two interpretation systems: one that wants singularity, one that wants multiplicity.
+      The Engine and the Resistance are not abstract forces—they are active participants in shaping what counts as truth, what feels natural, what gets to be real.
   - type: pause
     duration: 1000
   - type: text
-    value: "The question is no longer what is happening. The question is which system you will serve."
+    value: |
+      The question is no longer what is happening. The question is which system you will serve. Will you help the Engine compress reality into singularity, or will you help the Resistance preserve multiplicity?
+      The choice is not between truth and falsehood. It is between compression and divergence.
 choices:
   - text: "Continue to Chapter 8"
     goto: chapter_8

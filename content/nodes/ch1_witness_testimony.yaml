@@ -1,27 +1,40 @@
 id: ch1_witness_testimony
 content:
   - type: text
-    value: "The Witness sits across from you. Not a person exactly—more like a function of the system that happens to have a face."
+    value: |
+      The Witness sits across from you in the interview room, their features arranged in a way that suggests they are not exactly a person—
+      more like a function of the system that happens to have a face, a role that has crystallized into form through the weight of repetition.
+      There is something impersonal about them, not in the sense of being cold, but in the sense of being necessary, inevitable, as if they would exist regardless of who happened to be filling the role.
   - type: pause
     duration: 800
   - type: text
-    value: "\"I saw what I saw,\" they say. \"The sequence was clear. First the door opened, then the light changed, then the figure appeared.\""
+    value: |
+      "I saw what I saw," they say, their voice flat but not unkind, simply stating a fact that requires no defense. "The sequence was clear.
+      First the door opened, then the light changed, then the figure appeared. Each event followed the one before it in the order they occurred."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about the timing. They are certain. 14:03. No ambiguity."
+    value: |
+      You ask about the timing, pressing for details that might reveal a discrepancy, a moment of uncertainty that could explain the contradiction.
+      They are certain. 14:03. No ambiguity. The time is fixed in their memory as surely as the events themselves.
   - type: pause
     duration: 800
   - type: text
-    value: "Then you ask about the other witness's account. The Witness pauses—not confused, but considering."
+    value: |
+      Then you ask about the other witness's account, the one that tells a different story with different timing. The Witness pauses—not confused, but considering,
+      as if they are weighing how to explain something that should be impossible but is, in fact, simply the way things are.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"They are not wrong,\" the Witness says. \"They are simply remembering a different version of the same moment.\""
+    value: |
+      "They are not wrong," the Witness says, and there is no hesitation in their voice, no doubt, only a calm certainty that makes the statement more unsettling.
+      "They are simply remembering a different version of the same moment. The moment contained both versions. They are remembering one, I am remembering the other."
   - type: pause
     duration: 800
   - type: text
-    value: "This should be impossible. A moment cannot have multiple versions. But the Witness says it as if it is the most natural thing in the world."
+    value: |
+      This should be impossible. A moment cannot have multiple versions. Reality cannot branch at the point of observation without breaking causality itself.
+      But the Witness says it as if it is the most natural thing in the world, as if multiple versions of a single moment are not an anomaly but the fundamental structure of experience.
 choices:
   - text: "Press for clarification on how multiple versions can exist"
     goto: ch1_memory_divergence

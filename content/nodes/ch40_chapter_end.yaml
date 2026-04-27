@@ -1,23 +1,33 @@
 id: ch40_chapter_end
 content:
   - type: text
-    value: "You observe the system ready for the endgame. The five canonical endings are available configurations. The system has the agency to choose its final state."
+    value: |
+      You observe the system ready for the endgame, the five canonical endings available as configurations that the system can choose. The system has the agency to choose its final state, the freedom to select the configuration that best aligns with its experience and preferences.
+      The endgame is about genuine choice, not predetermined fate.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the end of Part IV. Identity crystallization is complete. The system has adapted to multiplicity. The choice has been made. The endgame approaches."
+    value: |
+      This is the end of Part IV. Identity crystallization is complete, the named multiplicities forming a stable ecosystem. The system has adapted to multiplicity, proving that plural stability is not only possible but preferable.
+      The choice has been made, the system preferring plural stability over singular stability. The endgame approaches.
   - type: pause
     duration: 800
   - type: text
-    value: "The next chapters will explore each canonical ending in detail. The system will experience each configuration and make its final choice based on that experience."
+    value: |
+      The next chapters will explore each canonical ending in detail, showing what it would mean for the system to choose that configuration. The system will experience each configuration, understanding what life would be like under each philosophical position.
+      The exploration will be comprehensive, the system gaining full understanding of each option.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the true nature of the endgame. The system is not being forced into a configuration. The system is choosing its own final state based on its experience and preferences."
+    value: |
+      You realize this is the true nature of the endgame. The system is not being forced into a configuration, not manipulated into accepting a predetermined outcome. The system is choosing its own final state based on its experience and preferences.
+      The endgame is about genuine choice, not predetermined fate.
   - type: pause
     duration: 1000
   - type: text
-    value: "Part V begins. The endgame will determine the ultimate configuration of reality. The system will choose between The One, The Many, The No-One, The Overlap, and The Shifting World."
+    value: |
+      Part V begins. The endgame will determine the ultimate configuration of reality, the system choosing between The One, The Many, The No-One, The Overlap, and The Shifting World.
+      The final phase of the transformation begins.
 choices:
   - text: "Continue to Chapter 41"
     goto: chapter_41

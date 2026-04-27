@@ -1,19 +1,28 @@
 id: ch21_nemesis_compression
 content:
   - type: text
-    value: "You observe Nemesis's compression. The contradictions in the zone are being forced into a single coherent narrative."
+    value: |
+      You observe Nemesis's compression, watching how the contradictions in the zone are being forced into a single coherent narrative. The multiplicity that Rose has stabilized is being actively compressed, the incompatible truths being forced into a single shape.
+      The compression is systematic, targeted, and increasingly difficult to resist.
   - type: pause
     duration: 800
   - type: text
-    value: "Red objects become dominant. Blue objects fade. Past memories become primary. Future memories become secondary. Causal interpretation becomes default. Emotional interpretation becomes optional."
+    value: |
+      Red objects become dominant, their presence feeling more natural and more correct. Blue objects fade, becoming less substantial, less real. Past memories become primary, the established timeline feeling more authoritative.
+      Future memories become secondary, the anticipation of what has not yet happened feeling less significant. Causal interpretation becomes default, the linear sequence of events feeling more fundamental.
+      Emotional interpretation becomes optional, the felt experience of events feeling less essential.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a passive process. Nemesis is actively compressing the multiplicity field, making singular interpretation feel more natural and correct."
+    value: |
+      This is not a passive process, not the natural settling of reality into a single shape. Nemesis is actively compressing the multiplicity field, making singular interpretation feel more natural and correct through deliberate manipulation of what feels normal.
+      The compression operates at the level of intuition, shaping perception before conscious choice can intervene.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this also requires energy. Nemesis is not just allowing singularity. Nemesis is actively working to enforce it against Rose's stabilization."
+    value: |
+      You realize this also requires energy. Nemesis is not just allowing singularity, not simply stepping back and letting reality collapse into a single shape. Nemesis is actively working to enforce it against Rose's stabilization.
+      The compression requires active effort, a sustained expenditure of energy to maintain singularity in the face of Rose's contradictory stabilization.
 choices:
   - text: "Observe the conflict escalation"
     goto: ch21_conflict_escalation

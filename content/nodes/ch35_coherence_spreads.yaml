@@ -1,19 +1,27 @@
 id: ch35_coherence_spreads
 content:
   - type: text
-    value: "You observe that Rose's coherence field is expanding. The ability to stabilize contradictions is spreading from local zones to system-wide application."
+    value: |
+      You observe that Rose's coherence field is expanding, watching as the ability to stabilize contradictions spreads from local zones to system-wide application. The coherence field is no longer limited to specific contradiction zones where Rose intervenes directly.
+      It is becoming a general capability of the system, the method of stabilization spreading through the multiplicity system.
   - type: pause
     duration: 800
   - type: text
-    value: "Where Rose's field was once limited to specific contradiction zones, it is now becoming a general capability of the system. Contradictions can coexist without collapse across the entire multiplicity system."
+    value: |
+      Where Rose's field was once limited to specific contradiction zones, areas where Rose had to be present to stabilize contradictions, it is now becoming a general capability of the system. Contradictions can coexist without collapse across the entire multiplicity system.
+      The stabilization is becoming structural, not dependent on Rose's direct intervention.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not Rose becoming more powerful. This is the system adapting to Rose's method. The coherence field is becoming a structural feature of the multiplicity system."
+    value: |
+      This is not Rose becoming more powerful, not an expansion of Rose's personal influence over the system. This is the system adapting to Rose's method, internalizing the capability to stabilize contradictions without requiring Rose to be present.
+      The coherence field is becoming a structural feature of the multiplicity system.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the next phase of system adaptation. The system is not just creating named multiplicities. It is adopting Rose's stabilization method as a general capability."
+    value: |
+      You realize this is the next phase of system adaptation. The system is not just creating named multiplicities, not just crystallizing identity into new forms. It is adopting Rose's stabilization method as a general capability.
+      The transformation is deepening, the system internalizing the Resistance's methods.
 choices:
   - text: "Observe the contradiction zones expand"
     goto: ch35_contradiction_zones_expand

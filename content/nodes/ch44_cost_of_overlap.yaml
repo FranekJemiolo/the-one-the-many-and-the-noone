@@ -1,19 +1,27 @@
 id: ch44_cost_of_overlap
 content:
   - type: text
-    value: "You observe the cost of overlap. In The Overlap configuration, singular and plural stability coexist, but the balance requires ongoing maintenance."
+    value: |
+      You observe the cost of overlap, singular and plural stability coexisting in The Overlap configuration but the balance requiring ongoing maintenance. The coexistence is genuine, the system having achieved the optimal state.
+      But the cost is the continuous effort required to maintain that balance.
   - type: pause
     duration: 800
   - type: text
-    value: "There is both clarity and diversity, but the system must continually choose which mode to use. There is both coherence and complexity, but the system must continually manage the tension between them."
+    value: |
+      There is both clarity and diversity, the system having access to both singular and plural interpretation. But the system must continually choose which mode to use, the balance not automatic but requiring active decision-making. There is both coherence and complexity, the system able to access both stability and richness.
+      But the system must continually manage the tension between them, the coexistence not self-maintaining.
   - type: pause
     duration: 800
   - type: text
-    value: "The Overlap configuration is balanced, but it is also ongoing. Reality has both singular and plural stability, but the system must actively maintain the balance."
+    value: |
+      The Overlap configuration is balanced, the system having achieved the optimal state. But it is also ongoing, the balance not permanently established but requiring continuous maintenance. Reality has both singular and plural stability, the system having access to both approaches.
+      But the system must actively maintain the balance, the coexistence not automatic.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the cost of the optimal state. Plural balance comes at the cost of ongoing maintenance. The system would be balanced, but it would also require continual effort to maintain that balance."
+    value: |
+      You realize this is the cost of the optimal state. Plural balance comes at the cost of ongoing maintenance, the flexibility of choice purchased with the requirement of continuous decision-making. The system would be balanced, but it would also require continual effort to maintain that balance.
+      The optimal state is not effortless—it requires ongoing attention.
 choices:
   - text: "Conclude the chapter"
     goto: ch44_chapter_end

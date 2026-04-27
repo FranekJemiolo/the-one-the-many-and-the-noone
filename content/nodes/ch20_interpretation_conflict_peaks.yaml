@@ -1,19 +1,27 @@
 id: ch20_interpretation_conflict_peaks
 content:
   - type: text
-    value: "The interpretation conflict peaks. You and Mira cannot agree on how to render the moment. Both interpretations feel equally true, and both refuse to yield."
+    value: |
+      The interpretation conflict peaks, the tension between the two approaches reaching its maximum intensity. You and Mira cannot agree on how to render the moment, cannot find a way to reconcile your different interpretations of the same event.
+      Both interpretations feel equally true, both refuse to yield, both insist that the other is fundamentally mistaken.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a disagreement about facts. It is a fundamental conflict between causal interpretation and emotional interpretation."
+    value: |
+      This is not a disagreement about facts, not a dispute about what actually happened. It is a fundamental conflict between causal interpretation and emotional interpretation, between two different ways of understanding what it means for something to be true.
+      The conflict is not about the event itself—it is about how the event should be interpreted.
   - type: pause
     duration: 800
   - type: text
-    value: "Aleksy cannot accept that emotional truth can override causal truth. Mira cannot accept that causal truth can override emotional truth."
+    value: |
+      Aleksy cannot accept that emotional truth can override causal truth, that how something felt can be more important than what actually happened. Mira cannot accept that causal truth can override emotional truth, that the sequence of events can be more important than the experience of living through them.
+      Each interpretation requires the other to be secondary, to be less fundamental than the preferred approach.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the microcosm of the larger conflict. The Engine represents Aleksy's preference for causal singularity. The Resistance represents Mira's preference for emotional multiplicity."
+    value: |
+      You realize this is the microcosm of the larger conflict. The Engine represents Aleksy's preference for causal singularity, the insistence that there must be a single correct causal sequence.
+      The Resistance represents Mira's preference for emotional multiplicity, the insistence that multiple emotional truths can coexist without requiring reconciliation.
 choices:
   - text: "Observe that there is no resolution"
     goto: ch20_no_resolution

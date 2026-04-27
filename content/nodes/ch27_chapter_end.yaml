@@ -1,23 +1,33 @@
 id: ch27_chapter_end
 content:
   - type: text
-    value: "You leave the temporal boundary zone. Kai remains in the causal loop. The future continues to cause the present, which continues to cause the future."
+    value: |
+      You leave the temporal boundary zone, Kai remaining in the causal loop. The future continues to cause the present, which continues to cause the future, the circular causality maintaining coherence without requiring linear sequence.
+      The boundary zone has transformed completely, operating according to new principles of temporal relationship.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not a breakdown of time. It is an evolution of time. The system has adapted to temporal multiplicity by allowing causality to operate in loops."
+    value: |
+      This is not a breakdown of time, not a failure of temporal systems. It is an evolution of time, a transformation into a different mode of temporality. The system has adapted to temporal multiplicity by allowing causality to operate in loops.
+      The adaptation is complete, the transformation successful.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the Engine's fear is unfounded. Temporal fields are not chaos. They are a different way of experiencing time that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize the Engine's fear is unfounded. Temporal fields are not chaos, not the breakdown of causality into disorder. They are a different way of experiencing time that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that time must be linear is proven wrong by the very existence of functional temporal fields.
   - type: pause
     duration: 800
   - type: text
-    value: "The collapse of linear causality has not destroyed the boundary zone. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+    value: |
+      The collapse of linear causality has not destroyed the boundary zone. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The boundary zone operates according to different principles, but it operates.
+      The transformation is successful, the adaptation complete.
   - type: pause
     duration: 1000
   - type: text
-    value: "This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+    value: |
+      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
+      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
 choices:
   - text: "Continue to Chapter 28"
     goto: chapter_28

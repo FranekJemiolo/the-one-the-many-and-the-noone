@@ -1,19 +1,27 @@
 id: ch15_coherence_field
 content:
   - type: text
-    value: "You understand the coherence field. Rose is not a person in the traditional sense. She is the field that allows contradictions to coexist without collapse."
+    value: |
+      You understand the coherence field, seeing how Rose operates not as an individual but as a structural feature of reality. Rose is not a person in the traditional sense, not an entity with a separate identity.
+      She is the field that allows contradictions to coexist without collapse, the mechanism that stabilizes incompatible truths.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine would eliminate one version of the object to achieve singularity. Rose preserves both versions by stabilizing their coexistence."
+    value: |
+      The Engine would eliminate one version of the object to achieve singularity, would force reality into a single shape by eliminating the contradiction. Rose preserves both versions by stabilizing their coexistence, by creating conditions where incompatible truths can exist without conflict.
+      The Engine achieves stability through elimination. Rose achieves stability through preservation.
   - type: pause
     duration: 800
   - type: text
-    value: "\"This is not about truth,\" Rose says. \"This is about stability. Both versions are true. Both can coexist. The system does not need to choose.\""
+    value: |
+      "This is not about truth," Rose says, and there is a calm certainty in the voice that suggests this is a fundamental insight. "This is about stability. Both versions are true. Both can coexist.
+      The system does not need to choose. The system can hold multiple truths without breaking."
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the alternative to the Engine's compression. Not by fighting singularity, but by demonstrating that plurality can be stable."
+    value: |
+      You realize this is the alternative to the Engine's compression. Not by fighting singularity, not by opposing the Engine's approach through direct conflict. By demonstrating that plurality can be stable, that the system can hold multiple truths without collapse.
+      Rose does not need to destroy the Engine's approach—she simply needs to demonstrate that there is another way, that stability can be achieved through plural order rather than singular order.
 choices:
   - text: "Conclude the chapter"
     goto: ch15_chapter_end

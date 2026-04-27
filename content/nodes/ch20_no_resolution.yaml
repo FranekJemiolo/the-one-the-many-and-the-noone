@@ -1,19 +1,27 @@
 id: ch20_no_resolution
 content:
   - type: text
-    value: "There is no resolution. You and Mira cannot reconcile your interpretations. Both are equally true, and both are mutually incompatible."
+    value: |
+      There is no resolution. You and Mira cannot reconcile your interpretations, cannot find a way to make your different approaches compatible. Both are equally true, each describing a genuine aspect of the experience.
+      Both are mutually incompatible, each requiring the other to be false in order to be fully true.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem that can be solved. It is a structural feature of the multiplicity system. Causal interpretation and emotional interpretation are fundamentally different engines."
+    value: |
+      This is not a problem that can be solved, not a disagreement that can be mediated through compromise. It is a structural feature of the multiplicity system. Causal interpretation and emotional interpretation are fundamentally different engines.
+      They operate according to different principles, prioritize different aspects of experience, and cannot be reduced to a single framework.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is why the conflict between the Engine and the Resistance cannot be resolved. They are operating on different interpretation engines that cannot be reconciled."
+    value: |
+      You realize this is why the conflict between the Engine and the Resistance cannot be resolved. They are operating on different interpretation engines that cannot be reconciled, not through compromise and not through elimination.
+      The Engine's preference for causal singularity and the Resistance's preference for emotional multiplicity are not different positions on the same question—they are different questions entirely.
   - type: pause
     duration: 1000
   - type: text
-    value: "The only way forward is not resolution, but coexistence. Both interpretations must be allowed to exist without trying to eliminate each other."
+    value: |
+      The only way forward is not resolution, but coexistence. Both interpretations must be allowed to exist without trying to eliminate each other, must be recognized as valid in their own domains without requiring reconciliation.
+      The system must learn to hold incompatible truths without breaking, to maintain multiple interpretation engines without forcing them into a single framework.
 choices:
   - text: "Observe the system oscillation"
     goto: ch20_system_oscillation

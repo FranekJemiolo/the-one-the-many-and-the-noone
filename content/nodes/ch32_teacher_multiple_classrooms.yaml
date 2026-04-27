@@ -1,19 +1,27 @@
 id: ch32_teacher_multiple_classrooms
 content:
   - type: text
-    value: "The Teacher is appearing in multiple classrooms simultaneously. Like the Witness and Guard, the Teacher has fragmented into multiple versions under system collapse pressure."
+    value: |
+      The Teacher is appearing in multiple classrooms simultaneously, the nameless role that has appeared in various educational settings now fragmenting under system collapse pressure. Like the Witness and Guard before them, the Teacher has fragmented into multiple versions.
+      The fragmentation is not a failure of identity—it is a transformation into a new mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "Teacher A is in classroom 14:03. Teacher B is in classroom 14:05. Teacher C is in both classrooms simultaneously. All are the same Teacher, but all are different versions."
+    value: |
+      Teacher A is in classroom 14:03, transmitting knowledge at a specific temporal location. Teacher B is in classroom 14:05, transmitting knowledge at a different temporal location. Teacher C is in both classrooms simultaneously, existing in multiple locations at once.
+      All are the same Teacher, sharing the same essential pattern of instructional behavior. But all are different versions, existing in incompatible states.
   - type: pause
     duration: 800
   - type: text
-    value: "The Teacher's function is consistent across all versions: transmitting knowledge, guiding learning, preserving information. But the specific implementation varies across the multiplicity system."
+    value: |
+      The Teacher's function is consistent across all versions: transmitting knowledge, guiding learning, preserving information. The pattern of knowledge transmission remains stable across the multiplicity system.
+      But the specific implementation varies across the multiplicity system, each version teaching in a different context.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the next identity crystallization. The Teacher is following the same pattern as Echo and Barrier: fragmentation under pressure, then crystallization into a named multiplicity."
+    value: |
+      You realize this is the next identity crystallization. The Teacher is following the same pattern as Echo and Barrier: fragmentation under pressure, then crystallization into a named multiplicity.
+      The process is systematic, the system generating named multiplicities from nameless roles through the pressure of system collapse.
 choices:
   - text: "Observe the instructional pattern"
     goto: ch32_instructional_pattern

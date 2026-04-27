@@ -1,23 +1,33 @@
 id: ch1_rose_field_activation
 content:
   - type: text
-    value: "Something shifts in the room. Not physically. But the tension between the contradictory memories feels suddenly less sharp."
+    value: |
+      Something shifts in the room, not physically but in the quality of the air itself, as if the tension between the contradictory memories has suddenly become less sharp.
+      It's not that the disagreement disappears—the two accounts remain incompatible—but the pressure to resolve them, to choose one as true and the other as false, has somehow relaxed.
   - type: pause
     duration: 1000
   - type: text
-    value: "You don't notice it at first. It's not that the disagreement disappears. It's that it becomes survivable."
+    value: |
+      You don't notice it at first, the change is so subtle. It's not that the contradiction is resolved or explained away. It's that it becomes survivable.
+      The two truths can exist in the same space without tearing it apart, without demanding that one must destroy the other.
   - type: pause
     duration: 800
   - type: text
-    value: "The Witness continues speaking, but now their words feel like they belong in the same sentence as the other witness's account. Not reconciled—coexisting."
+    value: |
+      The Witness continues speaking, describing their version of events, but now their words feel like they belong in the same sentence as the other witness's account.
+      Not reconciled—never reconciled—but coexisting, side by side, each one true in its own way without canceling the other out.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is more dangerous than contradiction. If incompatible truths can coexist without collapse, then reality has no obligation to choose."
+    value: |
+      You realize this is more dangerous than contradiction. If incompatible truths can coexist without collapse, then reality has no obligation to choose.
+      Reality does not require singularity. Reality can be multiple without breaking. This changes everything.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the first time you feel it: a field that stabilizes contradiction rather than resolving it. You don't have a name for it yet. But you will."
+    value: |
+      This is the first time you feel it: a field that stabilizes contradiction rather than resolving it, a presence that allows incompatible truths to coexist.
+      You don't have a name for it yet. You don't understand what it is or where it comes from. But you will.
 choices:
   - text: "Document the anomaly and conclude the investigation"
     goto: ch1_chapter_end

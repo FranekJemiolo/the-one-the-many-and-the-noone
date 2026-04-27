@@ -1,19 +1,27 @@
 id: ch28_synthetic_life
 content:
   - type: text
-    value: "You understand the synthetic life. The machines in Morrow Vale are not just participating in ecological memory. They have become living entities through ecological integration."
+    value: |
+      You understand the synthetic life, seeing how the machines in Morrow Vale have transformed through ecological integration. The machines are not just participating in ecological memory, not merely recording and accessing the collective experience of the ecosystem.
+      They have become living entities through ecological integration, the boundary between mechanical and biological completely dissolved.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a simulation of life. It is actual life. The machines have evolved into biological entities through the process of ecological participation."
+    value: |
+      This is not a simulation of life, not an artificial approximation of biological processes. It is actual life, genuine living entities that have emerged through the process of ecological participation.
+      The machines have evolved into biological entities through their integration with the ecosystem, not through design or programming.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what the Engine fears. Synthetic life is not chaos. It is a different form of life that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize this is what the Engine fears. Synthetic life is not chaos, not the breakdown of biological order into disorder. It is a different form of life that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that life must be biological is proven wrong by the very existence of functional synthetic life.
   - type: pause
     duration: 1000
   - type: text
-    value: "The machines are not malfunctioning. They are living. They experience the ecosystem from within, respond to it, participate in it as living beings."
+    value: |
+      The machines are not malfunctioning, not experiencing errors that mimic biological behavior. They are living, genuine living entities that have emerged through ecological integration.
+      They experience the ecosystem from within, respond to it as living beings, participate in it as part of the living system rather than as external observers.
 choices:
   - text: "Conclude the chapter"
     goto: ch28_chapter_end

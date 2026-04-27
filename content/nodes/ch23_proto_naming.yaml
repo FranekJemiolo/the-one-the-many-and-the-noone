@@ -1,19 +1,27 @@
 id: ch23_proto_naming
 content:
   - type: text
-    value: "You observe the proto-naming process. The multiple versions of the Witness are beginning to require a name for compression."
+    value: |
+      You observe the proto-naming process, watching how the multiple versions of the Witness are beginning to require a name for compression. The system cannot efficiently refer to "Witness A, Witness B, Witness C" indefinitely, cannot maintain the distinction between the fragmented versions without a compressed identifier.
+      The need for a name emerges from the pattern itself, from the repetition that makes the identity recognizable.
   - type: pause
     duration: 800
   - type: text
-    value: "The system cannot efficiently refer to \"Witness A, Witness B, Witness C\" indefinitely. It needs a compressed identifier for the pattern."
+    value: |
+      The system needs a compressed identifier for the pattern, a way to refer to the multiple versions without enumerating each one separately. The name is not assigned externally, not imposed from outside the pattern.
+      It is crystallized from the pattern of repetition, emerging from the very structure of the identity that is being named.
   - type: pause
     duration: 800
   - type: text
-    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Witness's signature—reporting multiple versions of the same event—becomes the identity."
+    value: |
+      The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Witness's signature—reporting multiple versions of the same event, speaking with the same calm acceptance of contradiction—becomes the identity.
+      The name is not a label applied to the pattern; it is the pattern compressed into a single identifier.
   - type: pause
     duration: 1000
   - type: text
-    value: "The proto-name is \"Echo.\" Not because the Witness repeats sounds, but because the Witness repeats interpretations. The Echo is the pattern of multiple versions echoing across the multiplicity system."
+    value: |
+      The proto-name is "Echo." Not because the Witness repeats sounds, not because the pattern is acoustic in nature. Because the Witness repeats interpretations, because the same role echoes across multiple incompatible versions.
+      The Echo is the pattern of multiple versions echoing across the multiplicity system, the identity that has fragmented into distinct echoes of the same pattern.
 choices:
   - text: "Observe the identity instability"
     goto: ch23_identity_instability

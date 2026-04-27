@@ -1,19 +1,27 @@
 id: ch47_configuration_stabilizes
 content:
   - type: text
-    value: "The Overlap configuration stabilizes as the system's permanent state. The choice is finalized."
+    value: |
+      The Overlap configuration stabilizes as the system's permanent state, the choice finalized and the transformation complete. The system has settled into balanced coexistence, the Engine's compression layer and the Resistance's multiplicity layer operating in permanent coexistence.
+      The choice is permanent, the system having completed its deliberation and committed to The Overlap as its final configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression layer and the Resistance's multiplicity layer are now permanently in coexistence. Plural stability is the default, but singular stability is available when needed."
+    value: |
+      The Engine's compression layer and the Resistance's multiplicity layer are now permanently in coexistence, both available as structural capabilities of the system. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions.
+      But singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a temporary state. This is the system's final configuration. The system has chosen balanced coexistence and will maintain it permanently."
+    value: |
+      This is not a temporary state, not a transient equilibrium that will eventually break. This is the system's final configuration, the permanent mode of operation that the system has chosen based on its accumulated experience.
+      The system has chosen balanced coexistence and will maintain it permanently.
   - type: pause
     duration: 800
   - type: text
-    value: "You observe the stabilization. The system is no longer oscillating between configurations. The system has settled into The Overlap as its permanent state."
+    value: |
+      You observe the stabilization, the system no longer oscillating between configurations or experiencing the tension of unresolved choice. The system has settled into The Overlap as its permanent state, the optimal configuration established as the system's mode of existence.
+      The transformation is complete.
 choices:
   - text: "Observe the new reality established"
     goto: ch47_new_reality_established

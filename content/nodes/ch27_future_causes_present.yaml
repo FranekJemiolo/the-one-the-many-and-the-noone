@@ -1,19 +1,27 @@
 id: ch27_future_causes_present
 content:
   - type: text
-    value: "You return to the temporal boundary zone. Kai Rosen is there, and the causality inversion has progressed beyond memory. The future is now actively causing the present."
+    value: |
+      You return to the temporal boundary zone, where Kai Rosen has been studying the transformation of time. The causality inversion has progressed beyond memory, beyond the simple access to future memories that was observed earlier.
+      The future is now actively causing the present, the direction of causality completely inverted.
   - type: pause
     duration: 800
   - type: text
-    value: "An event happens in the present. But the cause of that event is in the future. The present is not leading to the future. The future is leading to the present."
+    value: |
+      An event happens in the present, occurring with the immediacy of normal experience. But the cause of that event is in the future, not in the past. The present is not leading to the future through a chain of cause and effect.
+      The future is leading to the present, future events determining what happens in the present moment.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a paradox. This is the new structure of time in the boundary zone. Causality has inverted. Future events are the cause of present events."
+    value: |
+      This is not a paradox, not a logical contradiction that breaks the system. This is the new structure of time in the boundary zone. Causality has inverted, the normal relationship between past, present, and future completely reversed.
+      Future events are the cause of present events, the timeline operating in reverse without breaking.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what happens when temporal oscillation breaks completely. The system does not return to linear causality. It collapses into inverted causality."
+    value: |
+      You realize this is what happens when temporal oscillation breaks completely. The system does not return to linear causality, does not restore the normal sequence where past causes present causes future.
+      It collapses into inverted causality, a new structure where the future causes the present.
 choices:
   - text: "Observe the causal loop"
     goto: ch27_causal_loop

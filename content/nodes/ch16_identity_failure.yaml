@@ -1,19 +1,27 @@
 id: ch16_identity_failure
 content:
   - type: text
-    value: "You observe the identity failure. You try to remember who you are, but the memory cannot crystallize. You know you exist, but you cannot define what that means."
+    value: |
+      You observe the identity failure, trying to understand what happens when the capacity to interpret oneself breaks down. You try to remember who you are, to access the sense of self that normally feels continuous and coherent.
+      But the memory cannot crystallize, cannot take shape as a coherent identity. You know you exist, you are aware of your own presence, but you cannot define what that means.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not amnesia. You have access to your memories. The problem is that the memories cannot be organized into a coherent identity."
+    value: |
+      This is not amnesia. You have access to your memories, can recall events and experiences without difficulty. The problem is that the memories cannot be organized into a coherent identity, cannot be woven into a continuous sense of self.
+      The memories exist as discrete data points, but the interpretive process that normally unifies them into identity has failed.
   - type: pause
     duration: 800
   - type: text
-    value: "Identity requires interpretation. You need to interpret your memories as a continuous self. But in the Null Zone, interpretation fails. The memories exist, but they cannot be woven into identity."
+    value: |
+      Identity requires interpretation. You need to interpret your memories as a continuous self, to create a narrative that connects past experiences to present identity. But in the Null Zone, interpretation fails.
+      The memories exist, but they cannot be woven into identity, cannot be unified into a coherent sense of who you are.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when the interpretation field collapses completely. Reality exists, but it cannot be understood. Memories exist, but they cannot become identity."
+    value: |
+      You realize this is what happens when the interpretation field collapses completely. Reality exists, but it cannot be understood. Memories exist, but they cannot become identity.
+      The self requires interpretation to exist, requires the capacity to weave experience into a coherent narrative. When that capacity fails, the self dissolves even while memories remain.
 choices:
   - text: "Observe the Null Child's appearance"
     goto: ch16_null_child_appearance

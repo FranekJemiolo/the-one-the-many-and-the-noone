@@ -1,19 +1,27 @@
 id: ch41_cost_of_oneness
 content:
   - type: text
-    value: "You observe the cost of oneness. In The One configuration, reality is completely singular, but the richness of multiplicity is gone."
+    value: |
+      You observe the cost of oneness, reality completely singular in The One configuration but the richness of multiplicity gone. The stability is genuine, the absence of tension real.
+      But the cost is the loss of multiplicity's richness, the elimination of diversity and complexity.
   - type: pause
     duration: 800
   - type: text
-    value: "There is no ambiguity, but there is also no complexity. There is no contradiction, but there is also no diversity. There is no tension, but there is also no vitality."
+    value: |
+      There is no ambiguity, the clarity of singular interpretation absolute. But there is also no complexity, the richness of multiple incompatible interpretations eliminated. There is no contradiction, the absence of tension complete.
+      But there is also no diversity, the variation of experience compressed into a single way of being.
   - type: pause
     duration: 800
   - type: text
-    value: "The One configuration is stable, but it is also sterile. Reality has lost its multiplicity, and with it, its richness and diversity."
+    value: |
+      There is no tension, the absence of conflict between incompatible interpretations complete. But there is also no vitality, the energy of multiplicity eliminated. The One configuration is stable, but it is also sterile.
+      Reality has lost its multiplicity, and with it, its richness and diversity.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the cost of the Engine's ideal. Singular stability comes at the cost of multiplicity's richness. The system would be stable, but it would also be impoverished."
+    value: |
+      You realize this is the cost of the Engine's ideal. Singular stability comes at the cost of multiplicity's richness, the clarity of singular interpretation purchased with the elimination of diversity.
+      The system would be stable, but it would also be impoverished, a stable but sterile reality.
 choices:
   - text: "Conclude the chapter"
     goto: ch41_chapter_end

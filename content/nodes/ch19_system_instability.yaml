@@ -1,19 +1,27 @@
 id: ch19_system_instability
 content:
   - type: text
-    value: "You observe the system instability. The Engine's compression and the Resistance's contradiction injection are creating zones of intense conflict."
+    value: |
+      You observe the system instability, watching how the Engine's compression and the Resistance's contradiction injection are creating zones of intense conflict. The two approaches to stability are no longer coexisting peacefully.
+      They are actively competing, each trying to impose its interpretation on the same territory.
   - type: pause
     duration: 800
   - type: text
-    value: "In these zones, reality oscillates between singular and multiple interpretations. The Engine establishes singularity, the Resistance injects contradiction, and the cycle repeats."
+    value: |
+      In these zones, reality oscillates between singular and multiple interpretations. The Engine establishes singularity, compressing the zone to eliminate multiplicity. The Resistance injects contradiction, reintroducing multiple incompatible truths.
+      The cycle repeats, the zone oscillating between the two states as each side attempts to assert its approach.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not collapse. This is tension. The system is holding multiple incompatible states simultaneously, oscillating between them."
+    value: |
+      This is not collapse, not the breakdown of the system into meaninglessness. This is tension, the system holding multiple incompatible states simultaneously, oscillating between them without settling into either.
+      The system is becoming a battlefield where two different versions of reality compete for dominance.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when two interpretation systems compete. The system does not choose one. It oscillates between both."
+    value: |
+      You realize this is what happens when two interpretation systems compete. The system does not choose one, does not settle into a stable state. It oscillates between both, the tension between the approaches creating a new kind of instability.
+      The conflict between compression and multiplicity is no longer theoretical—it is actively reshaping reality.
 choices:
   - text: "Understand the divergence injection"
     goto: ch19_divergence_injection

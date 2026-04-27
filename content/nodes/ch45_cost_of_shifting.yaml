@@ -1,19 +1,27 @@
 id: ch45_cost_of_shifting
 content:
   - type: text
-    value: "You observe the cost of shifting. In The Shifting World configuration, reality is in perpetual motion, but the stability of any state is gone."
+    value: |
+      You observe the cost of shifting, reality in perpetual motion in The Shifting World configuration but the stability of any state gone. The dynamism is genuine, the perpetual motion absolute.
+      But the cost is the loss of stable state, the elimination of any fixed mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "There is perpetual novelty, but there is also perpetual disorientation. There is perpetual change, but there is also perpetual exhaustion. There is perpetual motion, but there is also perpetual instability."
+    value: |
+      There is perpetual novelty, each transition bringing a new way of experiencing reality. But there is also perpetual disorientation, the absence of any stable state creating confusion. There is perpetual change, no state ever remaining the same for long.
+      But there is also perpetual exhaustion, the constant transition between different modes becoming tiring.
   - type: pause
     duration: 800
   - type: text
-    value: "The Shifting World configuration is dynamic, but it is also exhausting. Reality has perpetual motion, but it has no stable state to rest in."
+    value: |
+      There is perpetual motion, the system never settling into any final configuration. But there is also perpetual instability, the absence of stability creating anxiety. The Shifting World configuration is dynamic, the perpetual motion creating endless novelty.
+      But it is also exhausting, the constant transition between states becoming overwhelming.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the cost of perpetual motion. Dynamism comes at the cost of stability. The system would be in constant motion, but it would also be in constant exhaustion."
+    value: |
+      You realize this is the cost of perpetual motion. Dynamism comes at the cost of stability, the freedom of perpetual motion purchased with the elimination of any stable state. The system would be in constant motion, but it would also be in constant exhaustion.
+      The perpetual motion would be exciting but exhausting.
 choices:
   - text: "Conclude the chapter"
     goto: ch45_chapter_end

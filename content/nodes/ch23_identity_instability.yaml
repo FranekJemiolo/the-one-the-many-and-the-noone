@@ -1,19 +1,27 @@
 id: ch23_identity_instability
 content:
   - type: text
-    value: "You observe the identity instability. The proto-name \"Echo\" is not stable. The multiple versions of the Witness continue to fragment."
+    value: |
+      You observe the identity instability, watching how the proto-name "Echo" is not stable, not converging into a single coherent identity. The multiple versions of the Witness continue to fragment, the pattern diverging rather than converging.
+      The naming process has not produced a singular identity—it has produced a named multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "Echo A reports one version. Echo B reports another. Echo C reports a third. The pattern is not converging. It is diverging."
+    value: |
+      Echo A reports one version of events, describing the temporal sequence with absolute certainty. Echo B reports another version, equally certain of a different temporal sequence. Echo C reports a third version, insisting on a completely different interpretation.
+      The pattern is not converging, not settling into a single stable identity. It is diverging, the fragmentation continuing under the pressure of system collapse.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a failure of the naming process. This is the nature of identity under system collapse. Identity does not crystallize into singularity. It crystallizes into multiplicity."
+    value: |
+      This is not a failure of the naming process, not a mistake in how the identity is being crystallized. This is the nature of identity under system collapse. Identity does not crystallize into singularity under these conditions.
+      Identity crystallizes into multiplicity, the pattern splitting into multiple versions that cannot be reconciled.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize Echo is not becoming a single named entity. Echo is becoming a named multiplicity—a pattern of identity that contains multiple versions simultaneously."
+    value: |
+      You realize Echo is not becoming a single named entity, not converging into a unified identity. Echo is becoming a named multiplicity—a pattern of identity that contains multiple versions simultaneously.
+      The name does not refer to a single person. The name refers to a pattern that exists in multiple incompatible states at once.
 choices:
   - text: "Observe the Echo emergence"
     goto: ch23_echo_emergence

@@ -1,19 +1,27 @@
 id: ch40_endgame_approaches
 content:
   - type: text
-    value: "You observe the endgame approaches. The system is ready to choose its final configuration. The five canonical endings are available."
+    value: |
+      You observe the endgame approaches, the system ready to choose its final configuration from among the five canonical endings. The endgame is not a battle between opposing forces, not a conflict that will be resolved through victory or defeat.
+      The endgame is about choice, the system selecting its final configuration based on its experience and preferences.
   - type: pause
     duration: 800
   - type: text
-    value: "The next chapters will explore each ending in detail, showing what it would mean for the system to choose that configuration."
+    value: |
+      The next chapters will explore each ending in detail, showing what it would mean for the system to choose that configuration. The system will experience each configuration, understanding what life would be like under each philosophical position.
+      The exploration will be comprehensive, the system gaining full understanding of each option.
   - type: pause
     duration: 800
   - type: text
-    value: "The final choice will not be made by any individual entity. It will be a system-level choice emerging from the accumulated experience of operating in the current equilibrium."
+    value: |
+      The final choice will not be made by any individual entity, not decided by the Engine or the Resistance or any other single force. It will be a system-level choice emerging from the accumulated experience of operating in the current equilibrium.
+      The choice will be genuine, not imposed by external forces.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the true nature of the endgame. The system is not being forced into a configuration. The system is choosing its own final state based on its experience and preferences."
+    value: |
+      You realize this is the true nature of the endgame. The system is not being forced into a configuration, not manipulated into accepting a predetermined outcome. The system is choosing its own final state based on its experience and preferences.
+      The endgame is about genuine choice, not predetermined fate.
 choices:
   - text: "Conclude the chapter"
     goto: ch40_chapter_end

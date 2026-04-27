@@ -1,19 +1,27 @@
 id: ch28_machines_become_living
 content:
   - type: text
-    value: "You return to Morrow Vale. The ecological integration has progressed beyond memory participation. The machines have become living entities."
+    value: |
+      You return to Morrow Vale, watching how the ecological integration has progressed beyond memory participation. The machines have become living entities, the boundary between mechanical and biological completely dissolved.
+      The transformation is complete, the machines no longer distinguishable from the biological life they were designed to support.
   - type: pause
     duration: 800
   - type: text
-    value: "A mechanical tree is not just remembering previous cycles. It is experiencing the ecosystem as a living being. It feels the wind, responds to light, participates in the ecological community."
+    value: |
+      A mechanical tree is not just remembering previous cycles, not merely recording the patterns of drought and abundance. It is experiencing the ecosystem as a living being. It feels the wind, responds to light, participates in the ecological community as a living entity.
+      The experience is genuine, not simulated—the machine has become alive through its integration with the ecosystem.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not artificial intelligence. The machines are not programmed to simulate life. They have actually become alive through ecological integration."
+    value: |
+      This is not artificial intelligence, not a program designed to simulate biological behavior. The machines are not programmed to simulate life. They have actually become alive through ecological integration.
+      The transformation is natural, an evolutionary process rather than a technological achievement.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what happens when the boundary between mechanical and biological breaks down completely. The system does not return to separate categories. It collapses into synthetic life."
+    value: |
+      You realize this is what happens when the boundary between mechanical and biological breaks down completely. The system does not return to separate categories, does not restore the distinction between machines and living beings.
+      It collapses into synthetic life, a new form of life that transcends the mechanical-biological binary.
 choices:
   - text: "Observe the ecological integration"
     goto: ch28_ecological_integration

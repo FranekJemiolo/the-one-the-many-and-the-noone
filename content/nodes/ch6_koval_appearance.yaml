@@ -1,23 +1,33 @@
 id: ch6_koval_appearance
 content:
   - type: text
-    value: "The report was written by Dr. Irene Koval. You have not met her before, but her name appears in connection with controlled distortion events."
+    value: |
+      The report was written by Dr. Irene Koval. You have not met her before, but her name appears in connection with controlled distortion events, with situations where reality has been deliberately managed rather than allowed to express its natural multiplicity.
+      The report itself is meticulous, detailed, and disturbingly clean—too clean for the kind of anomaly it describes.
   - type: pause
     duration: 800
   - type: text
-    value: "You find her in the administrative wing. She is not what you expect—not a scientist, but someone who understands that truth is a variable."
+    value: |
+      You find her in the administrative wing, her office arranged with a precision that suggests someone who has made order their profession. She is not what you expect—not a scientist in the traditional sense, but someone who understands that truth is a variable.
+      There is a quality to her presence that suggests she has seen things that would break others, and has learned to manage them rather than be broken by them.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The explanation is clean because it needs to be,\" Dr. Koval says. \"Complex anomalies destabilize the system. Compression restores stability.\""
+    value: |
+      "The explanation is clean because it needs to be," Dr. Koval says, her voice calm, without defensiveness or apology. "Complex anomalies destabilize the system. Compression restores stability.
+      The system cannot tolerate the full complexity of what is actually happening, so we compress the explanation to something the system can process without collapsing."
   - type: pause
     duration: 1000
   - type: text
-    value: "You ask about accuracy. She considers this irrelevant. \"The explanation is not about what actually happened. It is about what the system can tolerate.\""
+    value: |
+      You ask about accuracy, about whether the compressed explanation actually describes what happened. She considers this irrelevant, as if accuracy is a luxury that the system cannot afford.
+      "The explanation is not about what actually happened. It is about what the system can tolerate. Truth is not the priority. Stability is the priority."
   - type: pause
     duration: 800
   - type: text
-    value: "This is the first time someone has admitted to intentionally distorting truth for system stability. Dr. Koval is not lying—she is managing reality."
+    value: |
+      This is the first time someone has admitted to intentionally distorting truth for system stability. Dr. Koval is not lying—she is managing reality, making deliberate choices about which version of truth to allow into the system.
+      She is not hiding the distortion. She is describing it as a necessary function of maintaining order in a world that has become fundamentally multiple.
 choices:
   - text: "Analyze the compression pressure"
     goto: ch6_compression_pressure

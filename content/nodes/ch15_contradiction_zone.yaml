@@ -1,19 +1,26 @@
 id: ch15_contradiction_zone
 content:
   - type: text
-    value: "You enter a contradiction zone. The environment is saturated with incompatible interpretations. Reality should be collapsing under the weight of the contradictions."
+    value: |
+      You enter a contradiction zone, the boundaries of normal reality weakening as you cross into a space where incompatible interpretations saturate the environment. The environment is saturated with incompatible interpretations, with multiple versions of reality coexisting in the same space.
+      Reality should be collapsing under the weight of the contradictions, should be unable to sustain the tension between mutually exclusive truths.
   - type: pause
     duration: 800
   - type: text
-    value: "But it isn't collapsing. The contradictions are coexisting without conflict. This should be impossible."
+    value: |
+      But it isn't collapsing. The contradictions are coexisting without conflict, without requiring one version to eliminate the others. This should be impossible according to normal causality, which requires that contradictory truths cannot both be true.
+      Yet here, the contradictions are stable, the system functioning despite containing incompatible versions of reality.
   - type: pause
     duration: 800
   - type: text
-    value: "You see two versions of the same object simultaneously. One version is red. The other is blue. Both are equally present. Neither is dominant."
+    value: |
+      You see two versions of the same object simultaneously. One version is red, the color vivid and undeniable. The other is blue, equally vivid, equally undeniable. Both are equally present. Neither is dominant.
+      The object does not flicker between states, does not alternate between red and blue. Both states are present simultaneously, occupying the same space without requiring elimination.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not visual ambiguity. Both versions are physically present. The contradiction is stabilized."
+    value: |
+      This is not visual ambiguity, not a matter of uncertain perception. Both versions are physically present, equally real in their own domains. The contradiction is stabilized, maintained by some force that allows incompatible truths to coexist without collapse.
 choices:
   - text: "Observe Rose's appearance"
     goto: ch15_rose_appearance

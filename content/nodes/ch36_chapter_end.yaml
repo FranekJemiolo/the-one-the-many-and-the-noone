@@ -1,23 +1,33 @@
 id: ch36_chapter_end
 content:
   - type: text
-    value: "You observe the aftermath of Nemesis's failed unification attempt. The system remains in plural stability. The structural coherence field continues to stabilize contradictions."
+    value: |
+      You observe the aftermath of Nemesis's failed unification attempt, the system remaining in plural stability despite the maximum compression applied. The structural coherence field continues to stabilize contradictions, the system operating according to its preferred mode of stability.
+      The transformation is complete, the system's choice irreversible.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the final proof the Engine was wrong. The system has experienced both singular and plural stability, and it has chosen plural stability."
+    value: |
+      This is the final proof the Engine was wrong. The system has experienced both singular and plural stability, has functioned under both approaches. And it has chosen plural stability, preferring the stabilization of contradictions over their compression.
+      The choice is deliberate, not accidental.
   - type: pause
     duration: 800
   - type: text
-    value: "Nemesis is not destroyed. The Engine's compression layer is still available. But the system has proven that it prefers plural stability over singular stability."
+    value: |
+      Nemesis is not destroyed, not eliminated by the system's resistance. The Engine's compression layer is still available, still functional for situations where singular interpretation is needed. But the system has proven that it prefers plural stability over singular stability.
+      The Engine's methods are still available, but they are no longer the default.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the end of the Engine's ideological dominance. The Engine can still operate, but it can no longer claim that singular stability is the only viable option."
+    value: |
+      You realize this is the end of the Engine's ideological dominance. The Engine can still operate, can still provide singular interpretation when needed. But it can no longer claim that singular stability is the only viable option, can no longer assert that multiplicity leads to chaos.
+      The Engine's ideology has been proven wrong by the system's own choice.
   - type: pause
     duration: 1000
   - type: text
-    value: "The next chapters will complete the identity crystallization phase and move into the endgame. The system has made its choice. Now the endgame configuration will determine how that choice is finalized."
+    value: |
+      The next chapters will complete the identity crystallization phase and move into the endgame. The system has made its choice, preferring plural stability over singular stability. Now the endgame configuration will determine how that choice is finalized, how the system will operate in its new mode of existence.
+      The transformation is entering its final phase.
 choices:
   - text: "Continue to Chapter 37"
     goto: chapter_37

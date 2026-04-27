@@ -1,19 +1,27 @@
 id: ch36_system_resistance
 content:
   - type: text
-    value: "You observe the system resistance. The coherence field that has become structural is actively opposing Nemesis's compression."
+    value: |
+      You observe the system resistance, watching as the coherence field that has become structural actively opposes Nemesis's compression. The resistance is not passive, not a simple failure to respond to the compression.
+      The system is actively choosing plural stability, the structural coherence field stabilizing contradictions faster than Nemesis can compress them.
   - type: pause
     duration: 800
   - type: text
-    value: "The system is not just passively resisting. The system is actively choosing plural stability. The structural coherence field is stabilizing contradictions faster than Nemesis can compress them."
+    value: |
+      The system is not just passively resisting, not merely failing to respond to the compression. The system is actively choosing plural stability, the structural coherence field that has become a general capability of the system now operating independently of Rose's direct intervention.
+      The system has internalized the capability to stabilize contradictions.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not Rose fighting Nemesis. This is the system itself rejecting the Engine's ideology. The system has experienced plural stability and prefers it over singular stability."
+    value: |
+      This is not Rose fighting Nemesis, not a personal conflict between two individuals with different approaches to interpretation. This is the system itself rejecting the Engine's ideology, the system that has experienced plural stability and prefers it over singular stability.
+      The system is making its choice clear through its active resistance.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the final proof. The system is not being forced into multiplicity by the Resistance. The system is choosing multiplicity because it prefers plural stability."
+    value: |
+      You realize this is the final proof. The system is not being forced into multiplicity by the Resistance, not manipulated into choosing plural stability through external influence. The system is choosing multiplicity because it prefers plural stability, because it has experienced both approaches and chosen the one it prefers.
+      The choice is genuine, not imposed.
 choices:
   - text: "Observe that Nemesis fails"
     goto: ch36_nemesis_fails

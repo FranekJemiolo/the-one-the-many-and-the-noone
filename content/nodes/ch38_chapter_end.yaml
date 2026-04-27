@@ -1,23 +1,33 @@
 id: ch38_chapter_end
 content:
   - type: text
-    value: "You and Mira sit in the same physical space, experiencing parallel realities. The split is no longer a source of conflict. It is a stable configuration."
+    value: |
+      You and Mira sit in the same physical space, experiencing parallel realities that are mutually incompatible but internally coherent. The split is no longer a source of conflict, not a battle between incompatible interpretations that must be resolved.
+      It is a stable configuration, the system having adapted to the coexistence of incompatible realities.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not a breakdown of shared reality. It is an evolution of reality. The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel."
+    value: |
+      This is not a breakdown of shared reality, not a failure of the system to maintain a common experience. It is an evolution of reality, a transformation into a new mode of existence where different interpretation engines can operate in parallel.
+      The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the Engine's fear is unfounded. Parallel interpretation engines are not chaos. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize the Engine's fear is unfounded. Parallel interpretation engines are not chaos, not the breakdown of coherent interpretation into disorder. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that interpretation must be singular is proven wrong by the very existence of functional parallel interpretation engines.
   - type: pause
     duration: 800
   - type: text
-    value: "The collapse of shared interpretation has not destroyed your relationship with Mira. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+    value: |
+      The collapse of shared interpretation has not destroyed your relationship with Mira. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The relationship operates according to different principles, but it operates.
+      The transformation is successful, the adaptation complete.
   - type: pause
     duration: 1000
   - type: text
-    value: "This completes the dual system adaptation. The system has adapted to emotional-causal multiplicity by allowing both interpretation engines to operate in parallel. The endgame can now begin."
+    value: |
+      This completes the dual system adaptation. The system has adapted to emotional-causal multiplicity by allowing both interpretation engines to operate in parallel. The endgame can now begin, the system ready for the final phase of its transformation.
+      The adaptation phase is complete.
 choices:
   - text: "Continue to Chapter 39"
     goto: chapter_39

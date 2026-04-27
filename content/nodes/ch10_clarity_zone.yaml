@@ -1,19 +1,27 @@
 id: ch10_clarity_zone
 content:
   - type: text
-    value: "You enter a Clarity Administration facility. The environment is unusually stable. Too stable. As if ambiguity has been systematically removed."
+    value: |
+      You enter a Clarity Administration facility, the doors sliding open to reveal an environment that is unusually stable. Too stable. As if ambiguity has been systematically removed, as if the very air has been filtered to eliminate multiple interpretations.
+      The quality of the space is difficult to describe—not quite physical, but interpretive, as if the environment itself has been engineered to prevent the emergence of multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "The air feels thin—not physically, but interpretively. There are no multiple versions of anything here. Everything is singular."
+    value: |
+      The air feels thin—not physically, but interpretively. There are no multiple versions of anything here. Everything is singular, everything is clear, everything has been resolved into a single interpretation.
+      Outside these walls, reality is multiple, full of branching possibilities and contradictory truths. But here, reality has been compressed into one interpretation, one truth, one way of seeing.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not natural. The world outside is full of multiplicity. But here, reality has been compressed into one interpretation."
+    value: |
+      This is not natural. The world outside is full of multiplicity, of memory divergence and emotional-causal split and temporal instability. But here, all of that has been eliminated.
+      The facility represents a controlled environment where singularity is enforced, where the complexity of reality has been stripped away for the sake of clarity.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what the Quiet Engine wants. Not just compression in specific cases, but a global environment where singularity is enforced."
+    value: |
+      You realize this is what the Quiet Engine wants. Not just compression in specific cases, not just occasional simplification of complex anomalies. A global environment where singularity is enforced, where multiplicity is systematically eliminated.
+      This facility is not managing reality—it is reshaping it to fit the Engine's preference for singularity.
 choices:
   - text: "Observe the singularity enforcement"
     goto: ch10_singularity_enforcement

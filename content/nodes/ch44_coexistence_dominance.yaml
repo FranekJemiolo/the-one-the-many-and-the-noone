@@ -1,19 +1,27 @@
 id: ch44_coexistence_dominance
 content:
   - type: text
-    value: "You observe the coexistence dominance. In The Overlap configuration, neither the Engine nor the Resistance is dominant. Both operate in coexistence."
+    value: |
+      You observe the coexistence dominance, neither the Engine nor the Resistance dominant in The Overlap configuration. Both operate in coexistence, each serving its function without attempting to eliminate the other.
+      The dominance is shared, the system having moved beyond the ideological conflict that required one side to win.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression is available but not dominant. The Resistance's multiplicity is the default but not exclusive. The system can switch between modes as needed."
+    value: |
+      The Engine's compression is available but not dominant, the compression capability functional when needed but not imposed as the only valid mode. The Resistance's multiplicity is the default but not exclusive, the coherence field operating as the preferred mode but not eliminating the possibility of singular interpretation.
+      The system can switch between modes as needed.
   - type: pause
     duration: 800
   - type: text
-    value: "This is what the Resistance fought for. Not to destroy the Engine, but to create a system where both singular and plural stability are available, with plural stability as the default."
+    value: |
+      This is what the Resistance fought for, the goal that motivated the struggle against the Engine's dominance. Not to destroy the Engine, not to eliminate the capability for singular interpretation. To create a system where both singular and plural stability are available, with plural stability as the default.
+      The Resistance's goal was to create choice, not to eliminate options.
   - type: pause
     duration: 1000
   - type: text
-    value: "But you also sense something ongoing. The balance requires maintenance. The coexistence requires active management. The system must continually choose which mode to use in each situation."
+    value: |
+      But you also sense something ongoing, the balance requiring continuous attention rather than being permanently established. The balance requires maintenance, the system must actively manage the coexistence of incompatible approaches. The coexistence requires active management, the system must continually choose which mode to use in each situation.
+      The balance is not automatic—it requires ongoing effort.
 choices:
   - text: "Observe the cost of overlap"
     goto: ch44_cost_of_overlap

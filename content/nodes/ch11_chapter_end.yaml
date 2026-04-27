@@ -1,23 +1,33 @@
 id: ch11_chapter_end
 content:
   - type: text
-    value: "You leave the memory sanctuary. The contradictory memories remain inside, coexisting without conflict."
+    value: |
+      You leave the memory sanctuary, the boundaries of the constructed space fading as you return to the world outside. The contradictory memories remain inside, coexisting without conflict, demonstrating that the system can hold incompatible truths without breaking.
+      The sanctuary has shown you a different way of being with memory, a different approach to contradiction that does not require elimination.
   - type: pause
     duration: 1000
   - type: text
-    value: "Sister Lys continues her work. She is not fighting the Engine's compression. She is providing an alternative: stabilization instead of elimination."
+    value: |
+      Sister Lys continues her work, maintaining the space where contradictory memories can coexist. She is not fighting the Engine's compression, not directly opposing Seraph Kline's enforcement of singularity.
+      She is providing an alternative: stabilization instead of elimination, coexistence instead of compression, a different way of achieving stability that does not require the elimination of multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the Resistance's method in practice. Not by attacking singularity, but by building spaces where multiplicity can exist without collapsing."
+    value: |
+      You realize this is the Resistance's method in practice. Not by attacking singularity, not by fighting the Engine directly, but by building spaces where multiplicity can exist without collapsing.
+      The Resistance does not need to destroy the Engine's approach—it simply needs to demonstrate that there is another way, that stability can be achieved through plural order rather than singular order.
   - type: pause
     duration: 800
   - type: text
-    value: "The sanctuary is a microcosm of what the world could be if Rose's field became dominant: contradictory truths coexisting without conflict, complexity preserved instead of reduced."
+    value: |
+      The sanctuary is a microcosm of what the world could be if Rose's field became dominant: contradictory truths coexisting without conflict, complexity preserved instead of reduced, multiple versions of the past accessible without requiring elimination.
+      It is a preview of a reality where multiplicity is not a problem to be solved but a feature to be embraced.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is another piece of the puzzle. The Engine wants compression. Sister Lys offers stabilization. The conflict is between two different ways of handling multiplicity."
+    value: |
+      This is another piece of the puzzle. The Engine wants compression, wants to eliminate multiplicity to achieve stability. Sister Lys offers stabilization, wants to preserve multiplicity to achieve a different kind of stability.
+      The conflict is not between order and chaos—it is between two different ways of handling multiplicity, two different approaches to achieving stability in a fundamentally plural reality.
 choices:
   - text: "Continue to Chapter 12"
     goto: chapter_12

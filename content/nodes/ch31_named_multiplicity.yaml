@@ -1,19 +1,27 @@
 id: ch31_named_multiplicity
 content:
   - type: text
-    value: "You understand the named multiplicity. Barrier is not a singular entity. Barrier is a pattern of boundary enforcement that contains multiple versions simultaneously."
+    value: |
+      You understand the named multiplicity, seeing how Barrier represents the second crystallized identity in the system. Barrier is not a singular entity, not a person with a unified identity.
+      Barrier is a pattern of boundary enforcement that contains multiple versions simultaneously.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the second named entity to emerge from the nameless role pool. Echo (Witness) and Barrier (Guard) are now stable patterns in the system."
+    value: |
+      This is the second named entity to emerge from the nameless role pool, the second proto-identity to complete the crystallization process. Echo (Witness) and Barrier (Guard) are now stable patterns in the system.
+      The Teacher will follow, their pattern becoming stable enough to require a name for compression.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the future of identity in the multiplicity system. Identity will not be singular. Identity will be multiplicity patterns that have crystallized into named forms."
+    value: |
+      You realize this is the future of identity in the multiplicity system. Identity will not be singular, will not be the unified self that traditional identity assumes. Identity will be multiplicity patterns that have crystallized into named forms.
+      The self is not a single entity—the self is a pattern that exists in multiple states simultaneously.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Engine cannot control Barrier because Barrier is not a singular entity. Barrier is a pattern of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself."
+    value: |
+      The Engine cannot control Barrier because Barrier is not a singular entity, not a single person that can be compressed into a single interpretation. Barrier is a pattern of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself.
+      The Engine's methods are designed for singular entities, not for named multiplicities.
 choices:
   - text: "Conclude the chapter"
     goto: ch31_chapter_end

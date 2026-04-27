@@ -1,19 +1,27 @@
 id: ch7_alternate_explanation
 content:
   - type: text
-    value: "The alternate explanation is precise: the event did not happen as reported. It happened differently. The causal sequence is reversed. The emotional sequence is shifted."
+    value: |
+      The alternate explanation is precise, detailed, internally coherent: the event did not happen as reported. It happened differently. The causal sequence is reversed from the official account.
+      The emotional sequence is shifted, the timing is different, the relationships between cause and effect are reconfigured in a way that contradicts the official narrative but remains logically consistent within its own framework.
   - type: pause
     duration: 800
   - type: text
-    value: "What is disturbing is not the content. It is that this explanation feels equally valid. You can hold both versions in your mind without either feeling wrong."
+    value: |
+      What is disturbing is not the content of the alternate explanation. It is that this explanation feels equally valid. You can hold both versions in your mind without either feeling wrong.
+      The official narrative feels true. The injected contradiction also feels true. Both are authentic in their own domains, and neither cancels the other out.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not psychological flexibility. This is structural multiplicity. The injection is not adding a lie. It is adding a parallel truth."
+    value: |
+      This is not psychological flexibility, not the ability to see multiple perspectives. This is structural multiplicity, a fundamental feature of reality that allows multiple truths to coexist without requiring reconciliation.
+      The injection is not adding a lie. It is adding a parallel truth, a version of reality that is just as real as the official one but incompatible with it.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the Resistance's method. Not by fighting the Engine's compression, but by introducing deliberate contradiction that cannot be compressed."
+    value: |
+      You realize this is the Resistance's method. Not by fighting the Engine's compression directly, not by arguing against the official narrative, but by introducing deliberate contradiction that cannot be compressed.
+      The Resistance ensures that multiplicity remains accessible by injecting contradictions that the Engine cannot eliminate without destroying the very stability it seeks to preserve.
 choices:
   - text: "Accept the divergence"
     goto: ch7_divergence_stabilized

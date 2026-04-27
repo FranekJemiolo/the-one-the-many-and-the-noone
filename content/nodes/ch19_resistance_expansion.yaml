@@ -1,19 +1,27 @@
 id: ch19_resistance_expansion
 content:
   - type: text
-    value: "You observe the Resistance expansion. The counterwave is not chaotic. It is strategically targeted."
+    value: |
+      You observe the Resistance expansion, watching how the counterwave responds to the Engine's compression. The counterwave is not chaotic, not a random scattering of contradictions across the system.
+      It is strategically targeted, focused on areas where the Engine's compression is most aggressive.
   - type: pause
     duration: 800
   - type: text
-    value: "The Resistance identifies zones where the Engine's compression is most aggressive, and introduces contradictions that are designed to be uncompressible."
+    value: |
+      The Resistance identifies zones where the Engine's compression is most aggressive, where Clarity zones are expanding most rapidly, and introduces contradictions that are designed to be uncompressible.
+      The contradictions are not random—they are carefully constructed to resist the Engine's methods, to maintain multiplicity even in areas where the Engine is trying to eliminate it.
   - type: pause
     duration: 800
   - type: text
-    value: "This is efficient. The Resistance does not need to fight the Engine everywhere. It only needs to maintain enough multiplicity to prevent total singularity."
+    value: |
+      This is efficient. The Resistance does not need to fight the Engine everywhere, does not need to maintain multiplicity in every zone. It only needs to maintain enough multiplicity to prevent total singularity.
+      By targeting the most aggressive compression zones, the Resistance can preserve plural reality with minimal effort.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is a sustainable strategy. The Resistance can maintain multiplicity indefinitely by strategically reintroducing contradiction where it matters most."
+    value: |
+      You realize this is a sustainable strategy. The Resistance can maintain multiplicity indefinitely by strategically reintroducing contradiction where it matters most, by focusing its efforts on the areas where the Engine's compression would do the most damage.
+      The Resistance does not need to win everywhere—it only needs to prevent the Engine from winning everywhere.
 choices:
   - text: "Observe the system instability"
     goto: ch19_system_instability

@@ -1,27 +1,39 @@
 id: ch40_five_canonical_endings_emerge
 content:
   - type: text
-    value: "The five canonical endings emerge as available configurations for the system. The endgame is about to begin."
+    value: |
+      The five canonical endings emerge as available configurations for the system, the endgame about to begin. These are not predetermined outcomes, not fates that the system is forced to accept.
+      They are available configurations, options that the system can choose based on its experience and preferences.
   - type: pause
     duration: 800
   - type: text
-    value: "Ending 1: The One. The Engine achieves complete unification. All interpretation layers collapse into singular reality. Multiplicity is eliminated."
+    value: |
+      Ending 1: The One. The Engine achieves complete unification, all interpretation layers collapsing into singular reality. Multiplicity is eliminated, all incompatible interpretations compressed into a single coherent narrative.
+      This is the Engine's ideal, the configuration the Engine has always fought for.
   - type: pause
     duration: 800
   - type: text
-    value: "Ending 2: The Many. The Resistance achieves complete multiplicity. All interpretation layers expand into infinite plurality. Singularity is eliminated."
+    value: |
+      Ending 2: The Many. The Resistance achieves complete multiplicity, all interpretation layers expanding into infinite plurality. Singularity is eliminated, all interpretations allowed to exist without compression.
+      This is the Resistance's ideal, the configuration the Resistance has always fought for.
   - type: pause
     duration: 800
   - type: text
-    value: "Ending 3: The No-One. The Null Zone expands to cover everything. Interpretation fails completely. Reality becomes void."
+    value: |
+      Ending 3: The No-One. The Null Zone expands to cover everything, interpretation failing completely. Reality becomes void, meaning absent across the entire system.
+      This is the void's ideal, the configuration that represents the complete absence of interpretation.
   - type: pause
     duration: 800
   - type: text
-    value: "Ending 4: The Overlap. The current equilibrium. Singular and plural stability coexist. Both layers operate in balance."
+    value: |
+      Ending 4: The Overlap. The current equilibrium, singular and plural stability coexisting. Both layers operate in balance, the Engine's compression and the Resistance's multiplicity available as needed.
+      This is the current configuration, the equilibrium the system has established.
   - type: pause
     duration: 800
   - type: text
-    value: "Ending 5: The Shifting World. The system oscillates between configurations. No final state is chosen. Reality remains in perpetual motion."
+    value: |
+      Ending 5: The Shifting World. The system oscillates between configurations, no final state chosen. Reality remains in perpetual motion, the system continuously transforming between different modes.
+      This is the configuration of perpetual change, the system refusing to settle into any final state.
 choices:
   - text: "Observe the system ready for choice"
     goto: ch40_system_ready_for_choice

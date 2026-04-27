@@ -1,19 +1,27 @@
 id: ch18_singularity_enforcement
 content:
   - type: text
-    value: "You observe the singularity enforcement. In the expanding Clarity zones, multiple interpretations are being pruned down to one."
+    value: |
+      You observe the singularity enforcement, watching how the Engine's method has expanded from local application to a global strategy. In the expanding Clarity zones, multiple interpretations are being pruned down to one, the multiplicity being eliminated before it can even crystallize.
+      The enforcement is becoming more systematic, more comprehensive, more difficult to resist.
   - type: pause
     duration: 800
   - type: text
-    value: "The pruning is not violent. It is subtle. Alternative interpretations simply fail to crystallize. Only the singular interpretation feels natural."
+    value: |
+      The pruning is not violent, not overt suppression of contradictory interpretations. It is subtle, operating at the level of what feels natural. Alternative interpretations simply fail to crystallize, never become substantial enough to be considered real.
+      Only the singular interpretation feels natural, only one version of truth is accessible to consciousness.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the Engine's method expanded from a local technique to a global strategy. Clarity zones are becoming the default, not the exception."
+    value: |
+      This is the Engine's method expanded from a local technique to a global strategy. Clarity zones are becoming the default, not the exception. The Engine is no longer content with compressing anomalies as they appear.
+      It is restructuring the entire system to prevent multiplicity from emerging in the first place.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the escalation phase. The Engine is no longer content with local compression. It is expanding singularity enforcement across the entire system."
+    value: |
+      You realize this is the escalation phase. The Engine is no longer content with local compression, no longer responding to anomalies as they occur. It is expanding singularity enforcement across the entire system, restructuring reality to make multiplicity impossible.
+      The conflict is intensifying, the Engine moving from defensive compression to offensive restructuring.
 choices:
   - text: "Observe Seraph's expanded directive"
     goto: ch18_seraph_directive_expanded

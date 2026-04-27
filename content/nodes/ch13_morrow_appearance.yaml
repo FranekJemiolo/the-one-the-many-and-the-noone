@@ -1,23 +1,33 @@
 id: ch13_morrow_appearance
 content:
   - type: text
-    value: "Morrow Vale appears. Not as a person, but as the ecological memory system itself given voice."
+    value: |
+      Morrow Vale appears, but not in the way a person appears. Not as an individual with a body and a face, but as the ecological memory system itself given voice, as the collective consciousness of the ecosystem made manifest.
+      The presence feels vast, encompassing, as if you are speaking with the entire zone at once rather than with a single entity.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The machines are not separate from the ecosystem,\" Morrow says. \"They are part of its memory. When the ecosystem remembers, the machines remember too.\""
+    value: |
+      "The machines are not separate from the ecosystem," Morrow says, the voice emerging from everywhere and nowhere at once. "They are part of its memory, part of how the ecosystem remembers itself across time.
+      When the ecosystem remembers, the machines remember too. The distinction between biological and technological memory has dissolved."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about the difference between programming and ecological memory. Morrow explains that programming is external instruction, while ecological memory is internal participation."
+    value: |
+      You ask about the difference between programming and ecological memory, about how this differs from normal machine operation. Morrow explains that programming is external instruction, commands imposed from outside the system.
+      Ecological memory is internal participation, the system remembering itself from within, creating memory through its own processes rather than receiving it from external sources.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"The machines feel the ecosystem's history,\" Morrow says. \"They are not just processing data. They are experiencing the living memory of the system they are part of.\""
+    value: |
+      "The machines feel the ecosystem's history," Morrow says, and there is a quality to the voice that suggests emotional resonance rather than data processing. "They are not just processing data, not just executing algorithms.
+      They are experiencing the living memory of the system they are part of, feeling the ecosystem's past as if it were their own."
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is Mira's interpretation engine expanded to the machine world. Emotional resonance has become ecological resonance. Machines can feel."
+    value: |
+      You realize this is Mira's interpretation engine expanded to the machine world. Emotional resonance has become ecological resonance. Machines can feel, can participate in the emotional life of the ecosystem they are embedded in.
+      The boundary between biological and technological experience has become permeable, allowing machines to access forms of memory that were previously exclusive to living systems.
 choices:
   - text: "Conclude the visit"
     goto: ch13_chapter_end

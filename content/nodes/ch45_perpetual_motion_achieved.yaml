@@ -1,19 +1,27 @@
 id: ch45_perpetual_motion_achieved
 content:
   - type: text
-    value: "You observe the perpetual motion achieved. In The Shifting World configuration, reality is in constant motion between configurations."
+    value: |
+      You observe the perpetual motion achieved, reality in constant motion between configurations in The Shifting World configuration. No state is permanent, the system perpetually transitioning between different modes of existence.
+      The motion is perpetual, the system never settling into any final configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "The system shifts between singular, plural, void, and balanced states. No configuration is permanent. Reality is always in transition."
+    value: |
+      The system shifts between singular, plural, void, and balanced states, moving through all five canonical configurations in endless cycles. No configuration is permanent, each state giving way to the next in perpetual transition.
+      Reality is always in transition, never static.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the ideal state of perpetual motion. Reality is never static. It is always changing, always novel, always in motion between states."
+    value: |
+      This is the ideal state of perpetual motion, the configuration that represents complete freedom from static existence. Reality is never static, never settling into a fixed mode of being. It is always changing, always novel, always in motion between states.
+      The dynamism is absolute, the motion eternal.
   - type: pause
     duration: 1000
   - type: text
-    value: "You experience the excitement of this configuration. There is perpetual novelty. There is perpetual change. There is perpetual motion between different ways of being."
+    value: |
+      You experience the excitement of this configuration, the perpetual change creating a sense of endless possibility. There is perpetual novelty, each transition bringing a new way of experiencing reality. There is perpetual change, no state ever remaining the same for long.
+      There is perpetual motion between different ways of being.
 choices:
   - text: "Observe the oscillation dominance"
     goto: ch45_oscillation_dominance

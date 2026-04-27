@@ -1,23 +1,33 @@
 id: ch4_causal_duplication
 content:
   - type: text
-    value: "You write your final report. The conclusion is unprecedented: causal timeline duplication has been observed in a living memory system."
+    value: |
+      You write your final report, the words forming slowly as you try to capture something that defies normal documentation. The conclusion is unprecedented: causal timeline duplication has been observed in a living memory system.
+      This is not a theoretical possibility anymore. It is an observed phenomenon, documented in the cyborg's memory architecture.
   - type: pause
     duration: 1000
   - type: text
-    value: "The cyborg is not malfunctioning. The cyborg is demonstrating that memory can hold multiple contradictory histories without choosing between them."
+    value: |
+      The cyborg is not malfunctioning. The cyborg is demonstrating that memory can hold multiple contradictory histories without choosing between them, without experiencing conflict, without collapsing into a single coherent narrative.
+      The cyborg is not broken—the cyborg is demonstrating a capability that normal memory systems suppress but that is now becoming accessible.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the fourth crack. First: memory divergence. Second: emotional-causal split. Third: temporal instability. Now: causal duplication in memory systems."
+    value: |
+      This is the fourth crack in the foundation of singular reality. First: memory divergence, where multiple versions of the same moment coexist. Second: emotional-causal split, where different ways of experiencing the present operate independently.
+      Third: temporal instability, where multiple timelines exist simultaneously. Now: causal duplication in memory systems, where a single entity can contain multiple contradictory pasts.
   - type: pause
     duration: 800
   - type: text
-    value: "Reality is not just producing multiple pasts. It is producing entities that can contain them all simultaneously. The cyborg is not broken—the cyborg is evolved."
+    value: |
+      Reality is not just producing multiple pasts. It is producing entities that can contain them all simultaneously. The cyborg is not broken—the cyborg is evolved.
+      The cyborg represents what memory becomes when it is no longer constrained by the requirement of singularity, when it is allowed to access all possible histories.
   - type: pause
     duration: 1000
   - type: text
-    value: "You leave the facility with the uncomfortable knowledge that your own memory might be capable of the same multiplicity. You just haven't learned how to access it yet."
+    value: |
+      You leave the facility with the uncomfortable knowledge that your own memory might be capable of the same multiplicity. You just haven't learned how to access it yet.
+      The cyborg is not an anomaly—it is a preview of what memory could become for everyone, if the constraints of singular reality were released.
 choices:
   - text: "Conclude the investigation"
     goto: ch4_chapter_end

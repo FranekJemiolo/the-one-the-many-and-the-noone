@@ -1,19 +1,27 @@
 id: ch11_memory_sanctuary
 content:
   - type: text
-    value: "You enter the memory sanctuary. The environment is not physical—it is a constructed space where memories can be examined without the pressure of causal correctness."
+    value: |
+      You enter the memory sanctuary, the boundaries between physical space and constructed reality blurring as you cross the threshold. The environment is not physical in the traditional sense—it is a constructed space where memories can be examined without the pressure of causal correctness.
+      The quality of the sanctuary is difficult to describe, existing somewhere between a library and a meditation space, designed to allow contradictory memories to coexist without forcing them into a single narrative.
   - type: pause
     duration: 800
   - type: text
-    value: "Sister Lys manages this space. She is not a traditional archivist. She is a memory reconciliation system that allows contradictory memories to coexist."
+    value: |
+      Sister Lys manages this space, her presence calm and unhurried. She is not a traditional archivist, not someone who catalogs memories according to a single chronological order.
+      She is a memory reconciliation system that allows contradictory memories to coexist, that creates space for multiple versions of the same past to exist without requiring them to be reconciled.
   - type: pause
     duration: 800
   - type: text
-    value: "The sanctuary contains memories that should be mutually exclusive. But here, they are not in conflict. They are simply different versions of the same past."
+    value: |
+      The sanctuary contains memories that should be mutually exclusive, memories that contradict each other in ways that would normally require one to be false. But here, they are not in conflict.
+      They are simply different versions of the same past, each one valid in its own domain, each one accessible without needing to eliminate the others.
   - type: pause
     duration: 800
   - type: text
-    value: "This is Rose's domain made visible. Contradiction stabilization as a service."
+    value: |
+      This is Rose's domain made visible, the contradiction stabilization that Rose represents expanded into a full service. Contradiction stabilization as a service, as a way of being with memory that does not require the elimination of multiplicity.
+      The sanctuary demonstrates that contradictory memories can coexist without causing collapse, that the system can hold multiple truths without breaking.
 choices:
   - text: "Examine the contradictory memories"
     goto: ch11_contradictory_memories

@@ -1,19 +1,27 @@
 id: ch24_teaching_event_multiple_truths
 content:
   - type: text
-    value: "You observe a teaching event. The Teacher is instructing students, but the same instruction is producing multiple incompatible truths."
+    value: |
+      You observe a teaching event, watching as the Teacher instructs students in a setting that has been transformed by system collapse. The Teacher is instructing students, but the same instruction is producing multiple incompatible truths.
+      The teaching event is no longer transmitting a single truth that all students receive—it is generating multiple truths that are all equally valid.
   - type: pause
     duration: 800
   - type: text
-    value: "Student A learns: \"The event happened at 14:03.\" Student B learns: \"The event happened at 14:05.\" Student C learns: \"The event did not happen.\""
+    value: |
+      Student A learns: "The event happened at 14:03," receiving this temporal sequence as absolute truth. Student B learns: "The event happened at 14:05," equally certain of a different temporal sequence.
+      Student C learns: "The event did not happen," insisting that the event never occurred in any timeline.
   - type: pause
     duration: 800
   - type: text
-    value: "The Teacher is not teaching different things. The Teacher is teaching the same thing, but the instruction is being interpreted differently by each student."
+    value: |
+      The Teacher is not teaching different things, not presenting multiple lessons to different students. The Teacher is teaching the same thing, using the same words and the same instructional approach.
+      But the instruction is being interpreted differently by each student, the same input producing incompatible outputs.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a communication failure. This is the instructional system breaking down under multiplicity pressure. Knowledge itself has become multiple."
+    value: |
+      This is not a communication failure, not a breakdown in the transmission of information from Teacher to student. This is the instructional system breaking down under multiplicity pressure.
+      Knowledge itself has become multiple, the very concept of truth transforming under system collapse.
 choices:
   - text: "Observe the instructional breakdown"
     goto: ch24_instructional_breakdown

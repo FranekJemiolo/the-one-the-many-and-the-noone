@@ -1,19 +1,27 @@
 id: ch39_coexistence_established
 content:
   - type: text
-    value: "You observe the coexistence established. The Engine's compression layer and the Resistance's multiplicity layer are now operating in a stable coexistence."
+    value: |
+      You observe the coexistence established, watching as the Engine's compression layer and the Resistance's multiplicity layer operate in a stable coexistence. The coexistence is not temporary, not a truce that will eventually break.
+      It is a stable configuration, the system having found a way to accommodate both approaches.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine provides singular stability when needed. The Resistance provides plural stability as the default. Both layers are available, and the system can switch between them as needed."
+    value: |
+      The Engine provides singular stability when needed, the compression layer available for situations where singular interpretation is required. The Resistance provides plural stability as the default, the coherence field operating as the preferred mode of handling contradictions.
+      Both layers are available, and the system can switch between them as needed.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a compromise. It is a new equilibrium. The system has found a way to have both singular and plural stability available, with plural stability as the default."
+    value: |
+      This is not a compromise, not a halfway solution that partially satisfies both approaches. It is a new equilibrium, a structural configuration that allows both singular and plural stability to coexist with plural stability as the default.
+      The system has found a way to have both singular and plural stability available.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the optimal configuration. The system is not forced to choose between compression and multiplicity. It can have both, with plural stability as the preferred default."
+    value: |
+      You realize this is the optimal configuration. The system is not forced to choose between compression and multiplicity, not required to sacrifice one approach for the other. It can have both, with plural stability as the preferred default.
+      The configuration is optimal, not temporary.
 choices:
   - text: "Understand the new equilibrium"
     goto: ch39_new_equilibrium

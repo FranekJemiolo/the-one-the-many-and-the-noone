@@ -1,23 +1,33 @@
 id: ch1_mira_observation
 content:
   - type: text
-    value: "You approach the problem emotionally. If both memories feel true, perhaps truth is not singular."
+    value: |
+      You approach the problem emotionally, letting your intuition guide you where logic cannot. If both memories feel true, perhaps truth itself is not singular.
+      Perhaps the nature of experience is fundamentally multiple, and the insistence on a single coherent narrative is the error, not the divergence of memories.
   - type: pause
     duration: 800
   - type: text
-    value: "The first witness remembers fear first, then confusion, then relief. The emotional sequence is coherent."
+    value: |
+      The first witness remembers fear first, then confusion, then relief. The emotional sequence is coherent, each feeling flowing naturally into the next.
+      There is no break in the emotional logic—fear leading to confusion leading to relief makes sense as a human experience, regardless of whether the timing matches external events.
   - type: pause
     duration: 800
   - type: text
-    value: "The second witness remembers confusion first, then recognition, then a strange calm. Also coherent."
+    value: |
+      The second witness remembers confusion first, then recognition, then a strange calm. Also coherent in its own way.
+      The emotional progression is different, but equally valid as a sequence of human feeling. The calm that follows recognition is not the relief that follows fear, but it is no less real.
   - type: pause
     duration: 1000
   - type: text
-    value: "You notice something unsettling: neither witness is lying. Both are describing what they felt. The contradiction is not in their honesty—it's in reality itself."
+    value: |
+      You notice something unsettling: neither witness is lying. Both are describing what they felt, what they experienced in their bodies and their hearts.
+      The contradiction is not in their honesty—it's in reality itself, which seems to contain multiple emotional truths that cannot be reduced to a single sequence.
   - type: pause
     duration: 800
   - type: text
-    value: "You write in your notebook: 'Emotional truth diverges without breaking. This is not error. This is multiplicity.'"
+    value: |
+      You write in your notebook with flowing script, the words capturing your intuition: 'Emotional truth diverges without breaking.
+      Both sequences internally coherent. Neither contains fabrication. This is not error. This is multiplicity.'
 choices:
   - text: "Interview the witnesses directly"
     goto: ch1_witness_testimony

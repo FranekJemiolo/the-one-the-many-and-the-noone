@@ -1,27 +1,39 @@
 id: ch1_memory_divergence
 content:
   - type: text
-    value: "\"How can a moment have multiple versions?\" you ask."
+    value: |
+      "How can a moment have multiple versions?" you ask, the question hanging in the air between you, demanding an answer that logic cannot provide.
+      "A moment is a point in time. It either happened one way or it didn't. It cannot be both 14:03 and 14:04. It cannot be both fear and confusion first."
   - type: pause
     duration: 800
   - type: text
-    value: "The Witness considers this. Not as a philosophical question, but as a technical one."
+    value: |
+      The Witness considers this, their expression unchanged, as if they are not hearing a philosophical challenge but responding to a technical inquiry.
+      There is no defensiveness in their posture, no sense that they are being asked to defend the impossible. They are simply explaining how the system works.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The event happened,\" they say. \"But the way it arranged itself in memory depended on who was doing the remembering.\""
+    value: |
+      "The event happened," they say, as if this settles the matter. "But the way it arranged itself in memory depended on who was doing the remembering.
+      Memory is not a recording device. It is a participation device. The observer shapes what is observed, not by changing the event, but by selecting which version of the event to remember."
   - type: pause
     duration: 1000
   - type: text
-    value: "You write this down. It sounds like nonsense until you read it back. Then it sounds like something you almost understand."
+    value: |
+      You write this down in your notebook, the words feeling strange under your pen, as if they belong to a language you are only beginning to learn.
+      It sounds like nonsense until you read it back. Then it sounds like something you almost understand, something that hovers at the edge of comprehension.
   - type: pause
     duration: 800
   - type: text
-    value: "The implications are disturbing. If memory does not record reality—if it participates in creating it—then causality is not a fixed line. It is a negotiation."
+    value: |
+      The implications are disturbing, more disturbing than you want to admit. If memory does not record reality—if it participates in creating it—then causality is not a fixed line.
+      It is a negotiation, a collaboration between observer and observed, a process that produces truth rather than discovering it.
   - type: pause
     duration: 800
   - type: text
-    value: "For the first time, you feel something like fear. Not of danger. Of scale."
+    value: |
+      For the first time, you feel something like fear. Not of danger, not of threat, but of scale. The world is larger than you thought, more complex, more fundamentally strange.
+      If moments can have multiple versions, then everything you thought you knew about reality is wrong.
 choices:
   - text: "Observe how reality stabilizes despite the divergence"
     goto: ch1_rose_field_activation

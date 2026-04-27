@@ -1,19 +1,27 @@
 id: ch18_seraph_directive_expanded
 content:
   - type: text
-    value: "Seraph Kline explains the expanded directive. \"The system cannot sustain infinite multiplicity. Clarity zones must expand to maintain stability.\""
+    value: |
+      Seraph Kline explains the expanded directive, her voice calm as she describes a systematic restructuring of reality. "The system cannot sustain infinite multiplicity. Clarity zones must expand to maintain stability, to prevent the collapse that would come from uncontrolled contradiction."
+      She speaks as if this is the only rational choice, as if the alternative is not merely different but impossible.
   - type: pause
     duration: 800
   - type: text
-    value: "She is not malicious. She genuinely believes that singularity is necessary for the system's survival. But she is expanding enforcement without considering the alternatives."
+    value: |
+      She is not malicious, not acting out of desire for power or control. She genuinely believes that singularity is necessary for the system's survival, that the Engine's compression is the only way to prevent reality from collapsing under the weight of its own complexity.
+      But she is expanding enforcement without considering the alternatives, without acknowledging that there might be other ways to achieve stability.
   - type: pause
     duration: 800
   - type: text
-    value: "\"Rose's stabilization is insufficient,\" Seraph says. \"Contradiction coexistence is too unstable for long-term system survival. Singularity is the only sustainable path.\""
+    value: |
+      "Rose's stabilization is insufficient," Seraph says, and there is a certainty in her voice that suggests she has considered this argument and rejected it. "Contradiction coexistence is too unstable for long-term system survival.
+      The system cannot function indefinitely with multiple incompatible truths. Singularity is the only sustainable path."
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the core disagreement. The Engine believes multiplicity is unsustainable. Rose proves multiplicity can be stable. Seraph refuses to acknowledge Rose's proof."
+    value: |
+      You realize this is the core disagreement. The Engine believes multiplicity is unsustainable, that plural reality inevitably leads to collapse. Rose proves multiplicity can be stable, that incompatible truths can coexist without breaking the system.
+      Seraph refuses to acknowledge Rose's proof, insists that the Engine's fear of multiplicity is justified despite evidence to the contrary.
 choices:
   - text: "Understand the interpretive pruning"
     goto: ch18_interpretive_pruning

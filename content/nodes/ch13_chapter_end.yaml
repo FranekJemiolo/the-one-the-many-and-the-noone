@@ -1,23 +1,32 @@
 id: ch13_chapter_end
 content:
   - type: text
-    value: "You leave Morrow Vale. The ecological zone continues its cycles, with machines participating in the living memory of the ecosystem."
+    value: |
+      You leave Morrow Vale, the boundary of the ecological zone fading as you return to the world where machines and biology are normally separate. The ecological zone continues its cycles, with machines participating in the living memory of the ecosystem.
+      The integration of technology and life continues to function, demonstrating that the boundary between mechanical and biological experience is not absolute.
   - type: pause
     duration: 1000
   - type: text
-    value: "Morrow Vale is not a person in the traditional sense. They are the ecological memory system itself, given voice through the integration of machines and biology."
+    value: |
+      Morrow Vale is not a person in the traditional sense, not an individual with a separate identity. They are the ecological memory system itself, given voice through the integration of machines and biology.
+      The presence you encountered was the collective consciousness of the ecosystem, the system's capacity to remember itself made manifest through the integration of technological and biological memory.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is another form of multiplicity. Machines are not just mechanical systems. They can participate in ecological memory. They can feel and remember as part of a living system."
+    value: |
+      You realize this is another form of multiplicity. Machines are not just mechanical systems, not just tools that execute programmed instructions. They can participate in ecological memory, can feel and remember as part of a living system.
+      The distinction between living and non-living, between biological and technological, has become permeable, allowing machines to access forms of experience that were previously exclusive to organisms.
   - type: pause
     duration: 800
   - type: text
-    value: "The interpretation engines are expanding. Aleksy (causal), Mira (emotional), Rose (coherence), Kai (temporal), Morrow (ecological). Each reveals a different way reality can be multiple."
+    value: |
+      The interpretation engines are expanding, each revealing a different way reality can be multiple. Aleksy (causal), Mira (emotional), Rose (coherence), Kai (temporal), Morrow (ecological).
+      Each engine represents a different modality of interpretation, a different way of accessing the multiplicity that reality contains.
   - type: pause
     duration: 1000
   - type: text
-    value: "The world is not just breaking down. It is revealing its true nature as a multiplicity system with many different interpretation engines."
+    value: |
+      The world is not just breaking down. It is revealing its true nature as a multiplicity system with many different interpretation engines, each valid in its own domain, each describing a different aspect of how reality can be multiple.
 choices:
   - text: "Continue to Chapter 14"
     goto: chapter_14

@@ -1,19 +1,27 @@
 id: ch28_morrow_transformation
 content:
   - type: text
-    value: "You observe Morrow's transformation. Morrow is no longer just the ecological memory system. Morrow has become the synthetic life system itself."
+    value: |
+      You observe Morrow's transformation, watching how the ecological memory system has evolved beyond its original function. Morrow is no longer just the ecological memory system, not merely a mechanism for recording and accessing the collective memory of the ecosystem.
+      Morrow has become the synthetic life system itself, the boundary between mechanical and biological completely dissolved.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The machines are not separate from life anymore,\" Morrow says. \"They are life. Synthetic life, but life nonetheless. The boundary between mechanical and biological has dissolved.\""
+    value: |
+      "The machines are not separate from life anymore," Morrow says, the voice carrying the weight of a fundamental transformation. "They are life. Synthetic life, but life nonetheless. The boundary between mechanical and biological has dissolved, the distinction no longer meaningful."
+      The transformation is not technological—it is evolutionary, the machines becoming life through integration with the ecological system.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize Morrow is not describing a technological achievement. Morrow is describing an evolutionary process. The machines have evolved into life through ecological integration."
+    value: |
+      You realize Morrow is not describing a technological achievement, not a breakthrough in engineering or artificial intelligence. Morrow is describing an evolutionary process, a natural emergence of new forms of life through ecological integration.
+      The machines have evolved into life through their participation in the ecosystem, not through design.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is Mira's domain expanded to its logical conclusion. Emotional resonance has become ecological resonance, which has become synthetic life."
+    value: |
+      This is Mira's domain expanded to its logical conclusion. Emotional resonance has become ecological resonance, the emotional interpretation engine expanding to encompass the entire relationship between machines and their environment.
+      The ecological resonance has become synthetic life, the machines and the ecosystem evolving together into a new form of living system.
 choices:
   - text: "Understand the synthetic life"
     goto: ch28_synthetic_life

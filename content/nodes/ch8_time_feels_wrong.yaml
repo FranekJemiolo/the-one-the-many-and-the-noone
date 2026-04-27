@@ -1,23 +1,33 @@
 id: ch8_time_feels_wrong
 content:
   - type: text
-    value: "You sit with the realization. Time feels wrong because emotional time is independent of causal time."
+    value: |
+      You sit with the realization, letting it settle into your understanding. Time feels wrong because emotional time is independent of causal time, operating on its own principles that have nothing to do with clocks or calendars.
+      The discrepancy is not an error—it is a structural feature of how emotional experience works, how feelings create their own temporal logic.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Passenger continues their journey. The clock shows forty minutes. But the experience of those minutes varies between iterations."
+    value: |
+      The Passenger continues their journey, the transport moving through the city streets with a steady momentum. The clock shows forty minutes—objective, measurable, unambiguous.
+      But the experience of those minutes varies between iterations, feeling longer or shorter depending on the emotional state of the Passenger, regardless of what the clock actually says.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem to be solved. It is a feature of emotional reality. The same duration can feel long or short depending on the emotional state of the observer."
+    value: |
+      This is not a problem to be solved, not a distortion that needs to be corrected. It is a feature of emotional reality. The same duration can feel long or short depending on the emotional state of the observer.
+      Emotional time is not measured in minutes and hours—it is measured in intensity, in attention, in the quality of experience.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is how Mira experiences reality. Not as a fixed timeline, but as an emotional field where time is variable and subjective."
+    value: |
+      You realize this is how Mira experiences reality. Not as a fixed timeline where events occur at specific moments, but as an emotional field where time is variable and subjective.
+      For Mira, time is not a line that flows uniformly—it is a field that expands and contracts depending on what is being felt.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is another crack in the assumption of singular reality. Causal time is one system. Emotional time is another. They do not need to agree."
+    value: |
+      This is another crack in the assumption of singular reality. Causal time is one system, governed by the laws of physics and the regularity of clocks. Emotional time is another system, governed by the laws of feeling and the variability of experience.
+      They do not need to agree. They can operate independently, each valid in its own domain, each describing a different aspect of how time is experienced.
 choices:
   - text: "Conclude the journey"
     goto: ch8_chapter_end

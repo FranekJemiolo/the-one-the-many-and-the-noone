@@ -1,19 +1,27 @@
 id: ch25_transit_breakdown
 content:
   - type: text
-    value: "You observe the transit breakdown. The Passenger is not failing to navigate. The navigation system itself has become multiple."
+    value: |
+      You observe the transit breakdown, watching how the navigation system has transformed under system collapse. The Passenger is not failing to navigate, not making errors in trajectory calculation that cause them to arrive at the wrong destination.
+      The navigation system itself has become multiple, the very mechanism of movement restructured by multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "When the Passenger moves, the trajectory does not follow a single path. It follows multiple paths that lead to different destinations simultaneously."
+    value: |
+      When the Passenger moves, the trajectory does not follow a single path that leads to a single destination. It follows multiple paths that lead to different destinations simultaneously.
+      The same movement produces multiple outcomes, the Passenger arriving at multiple locations at once.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem with the transit technology. This is a structural feature of the multiplicity system. Movement has become inherently multiple."
+    value: |
+      This is not a problem with the transit technology, not a failure of the navigation systems. This is a structural feature of the multiplicity system. Movement has become inherently multiple.
+      The breakdown is not a failure—it is a transformation into a new mode of navigation.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when the oscillation between singular and multiple spatial interpretation breaks. The system does not return to singular movement. It collapses into trajectory multiplicity."
+    value: |
+      You realize this is what happens when the oscillation between singular and multiple spatial interpretation breaks. The system does not return to singular movement, does not restore the normal relationship between trajectory and destination.
+      It collapses into trajectory multiplicity, where movement is inherently multiple and a single action produces multiple outcomes.
 choices:
   - text: "Observe the Passenger fragmentation"
     goto: ch25_passenger_fragmentation

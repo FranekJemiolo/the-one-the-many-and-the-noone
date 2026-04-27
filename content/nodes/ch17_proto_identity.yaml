@@ -1,19 +1,27 @@
 id: ch17_proto_identity
 content:
   - type: text
-    value: "You understand the proto-identity formation. The Witness is not yet a named entity, but the role is becoming stable enough to be recognized across contexts."
+    value: |
+      You understand the proto-identity formation, seeing how identity emerges from the multiplicity system through a process of crystallization. The Witness is not yet a named entity, not a person with a fixed identity.
+      But the role is becoming stable enough to be recognized across contexts, coherent enough to be identified as the same pattern even when manifested through different instances.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the second phase of identity crystallization. First, functional existence as a nameless role. Then, recursive re-appearance across contexts. Now, proto-identity formation."
+    value: |
+      This is the second phase of identity crystallization. First, functional existence as a nameless role, a pattern that reality plays without requiring a name. Then, recursive re-appearance across contexts, the pattern manifesting in multiple locations while maintaining consistency.
+      Now, proto-identity formation, the pattern becoming stable enough to be recognized as a distinct entity even without a name.
   - type: pause
     duration: 800
   - type: text
-    value: "The next phase would be contextual name emergence—the moment when the role becomes stable enough to require a name for compression."
+    value: |
+      The next phase would be contextual name emergence—the moment when the role becomes stable enough to require a name for compression, when the pattern becomes so consistent that the system needs a way to refer to it efficiently.
+      Naming is not the beginning of identity—it is the compression of identity that happens once the pattern has already stabilized.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is how the multiplicity system generates identity. Not by assigning names, but by crystallizing patterns that become stable enough to be named."
+    value: |
+      You realize this is how the multiplicity system generates identity. Not by assigning names first and then crystallizing patterns around them. By crystallizing patterns that become stable enough to be named.
+      Identity emerges from multiplicity, not the other way around. The name comes after the pattern, not before.
 choices:
   - text: "Conclude the chapter"
     goto: ch17_chapter_end

@@ -1,23 +1,33 @@
 id: ch10_chapter_end
 content:
   - type: text
-    value: "You leave the Clarity Administration facility. The environment returns to normal—or what passes for normal in a world of multiplicity."
+    value: |
+      You leave the Clarity Administration facility, the doors closing behind you as you step back into the world outside. The environment returns to normal—or what passes for normal in a world of multiplicity.
+      The air feels thicker again, full of uninterpreted possibilities, full of the multiple versions of reality that the Clarity zone had eliminated.
   - type: pause
     duration: 1000
   - type: text
-    value: "Seraph Kline continues her work. She is not malicious. She genuinely believes that singularity is necessary for stability. But she is wrong."
+    value: |
+      Seraph Kline continues her work, maintaining the Clarity zone, enforcing singularity in the name of stability. She is not malicious, not acting out of desire for power or control.
+      She genuinely believes that singularity is necessary for stability, that she is saving reality from chaos. But she is wrong.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's ideology is based on a false premise. Multiplicity does not lead to chaos. The Resistance proves that multiplicity can be stable. Rose proves that contradiction can coexist."
+    value: |
+      The Engine's ideology is based on a false premise. Multiplicity does not lead to chaos. The Resistance proves that multiplicity can be stable, that systems containing multiple truths can function without collapsing.
+      Rose proves that contradiction can coexist, that incompatible truths can exist side by side without breaking the system.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the conflict is not between order and chaos. It is between two different kinds of order: singular order and plural order."
+    value: |
+      You realize the conflict is not between order and chaos. It is between two different kinds of order: singular order and plural order.
+      The Engine wants singular order, where one truth eliminates all others. The Resistance wants plural order, where multiple truths coexist without requiring reconciliation.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Engine wants singular order. The Resistance wants plural order. Both are valid forms of stability. The Engine just refuses to acknowledge the plural option."
+    value: |
+      The Engine wants singular order. The Resistance wants plural order. Both are valid forms of stability. Both can produce functional systems.
+      The Engine just refuses to acknowledge the plural option, insisting that singularity is the only way to prevent chaos.
 choices:
   - text: "Continue to Chapter 11"
     goto: chapter_11

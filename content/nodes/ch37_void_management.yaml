@@ -1,19 +1,27 @@
 id: ch37_void_management
 content:
   - type: text
-    value: "You understand the void management. The system has found a way to manage the interpretation failure zone by extending the coherence field to allow minimal interpretation without complete collapse."
+    value: |
+      You understand the void management, seeing how the system has found a way to manage the interpretation failure zone by extending the coherence field to allow minimal interpretation without complete collapse. The system has not eliminated the void, not removed the zone where interpretation is minimal.
+      The system has found a way to manage the void without being threatened by complete interpretation failure.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not eliminating the void. The Null Zone still exists as a place of minimal interpretation. But the system has found a way to manage it without being threatened by complete interpretation failure."
+    value: |
+      This is not eliminating the void, not the complete removal of the Null Zone. The Null Zone still exists as a place of minimal interpretation, a zone where meaning is reduced rather than rich.
+      But the system has found a way to manage it without being threatened by complete interpretation failure, without the void causing system collapse.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the system's adaptation to the Engine's fear. The Engine feared that interpretation failure would destroy the system. The system has proven that interpretation failure can be managed."
+    value: |
+      You realize this is the system's adaptation to the Engine's fear. The Engine feared that interpretation failure would destroy the system, that the void represented an existential threat. The system has proven that interpretation failure can be managed, that the void can be tolerated without collapse.
+      The Engine's fear was based on a false premise.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Null Zone is not a threat anymore. It is a managed zone of minimal interpretation that the system can tolerate without collapse."
+    value: |
+      The Null Zone is not a threat anymore, not a source of existential danger to the system. It is a managed zone of minimal interpretation that the system can tolerate without collapse.
+      The system has adapted to the void, transforming a threat into a manageable condition.
 choices:
   - text: "Conclude the chapter"
     goto: ch37_chapter_end

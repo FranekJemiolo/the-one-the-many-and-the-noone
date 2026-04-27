@@ -1,23 +1,33 @@
 id: ch42_chapter_end
 content:
   - type: text
-    value: "The simulation of The Many configuration ends. The system returns to the current equilibrium. The experience is stored for the final choice."
+    value: |
+      The simulation of The Many configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The Many configuration would mean.
+      The simulation is complete, the system ready to consider the next configuration.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Many configuration offers complete plural diversity. The Resistance is dominant. Singularity is eliminated. Reality is ambiguous, complex, and infinite."
+    value: |
+      The Many configuration offers complete plural diversity, the Resistance dominant and singularity eliminated. Reality is ambiguous, complex, and infinite, no single interpretation that encompasses all possibilities.
+      The diversity is genuine, the richness of multiplicity absolute.
   - type: pause
     duration: 800
   - type: text
-    value: "But the cost is the loss of singular clarity. Reality would be diverse, but also disorienting. The coherence of experience would be gone."
+    value: |
+      But the cost is the loss of singular clarity, the elimination of coherence and orientation. Reality would be diverse, but also disorienting, the coherence of experience gone.
+      The system would be diverse but chaotic, rich but confusing.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has experienced The Many. It understands the appeal of plural diversity. It also understands the cost. The experience will inform the final choice."
+    value: |
+      The system has experienced The Many, understanding both the appeal of plural diversity and the cost of that diversity. The experience will inform the final choice, the system weighing the benefits of richness against the costs of disorientation.
+      The understanding is comprehensive, the system ready to consider the next option.
   - type: pause
     duration: 1000
   - type: text
-    value: "The next chapter will explore The No-One configuration. The system will experience complete void and understand its appeal and cost."
+    value: |
+      The next chapter will explore The No-One configuration, the system experiencing complete void and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
+      The endgame continues.
 choices:
   - text: "Continue to Chapter 43"
     goto: chapter_43

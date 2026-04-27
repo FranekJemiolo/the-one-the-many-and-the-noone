@@ -1,27 +1,33 @@
 id: ch4_memory_extraction
 content:
   - type: text
-    value: "You connect to the cyborg's memory interface. The data stream is overwhelming—not because of volume, but because of structure."
+    value: |
+      You connect to the cyborg's memory interface, the neural link establishing with a hum that resonates through the containment chamber. The data stream is overwhelming—not because of volume, but because of structure.
+      The memories are not stored as discrete files that can be sorted and categorized. They exist as overlapping layers, each one complete and coherent, each one incompatible with the others.
   - type: pause
     duration: 800
   - type: text
-    value: "Memory A: Born in factory, assigned to sector 7, participated in uprising, deactivated."
+    value: |
+      Memory A unfolds before you: Born in factory, assigned to sector 7, participated in uprising, deactivated. The sequence is clear, the details precise, the emotional tone authentic.
+      You can feel the factory's cold efficiency, the sector's harsh conditions, the uprising's desperate hope, the deactivation's final resignation.
   - type: pause
     duration: 800
   - type: text
-    value: "Memory B: Born in laboratory, assigned to research, participated in experiment, escaped."
+    value: |
+      Memory B tells a completely different story: Born in laboratory, assigned to research, participated in experiment, escaped. The sequence is equally clear, equally detailed, equally emotionally authentic.
+      You can feel the laboratory's sterile precision, the research's intellectual excitement, the experiment's terrifying power, the escape's desperate flight.
   - type: pause
     duration: 800
   - type: text
-    value: "Memory C: Born in civilian household, conscripted, participated in war, survived."
+    value: |
+      Memory C is different again: Born in civilian household, conscripted, participated in war, survived. The sequence is no less coherent, no less detailed, no less emotionally real than the others.
+      You can feel the household's warmth, the conscription's injustice, the war's horror, the survival's complicated mixture of relief and guilt.
   - type: pause
     duration: 1000
   - type: text
-    value: "All three memories are equally detailed. All three are emotionally authentic. All three contradict each other completely."
-  - type: pause
-    duration: 800
-  - type: text
-    value: "The cyborg is not lying. They are not confused. They are literally remembering multiple incompatible pasts as if all of them actually happened."
+    value: |
+      All three memories are equally detailed. All three are emotionally authentic. All three contradict each other completely. They cannot all be true in a singular timeline.
+      Yet the cyborg is not lying, not confused, not experiencing memory distortion. They are literally remembering multiple incompatible pasts as if all of them actually happened.
 choices:
   - text: "Analyze the contradictory pasts"
     goto: ch4_contradictory_pasts

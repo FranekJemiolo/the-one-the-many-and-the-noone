@@ -1,27 +1,38 @@
 id: ch4_varga_entity
 content:
   - type: text
-    value: "You classify the cyborg as a Varga-class memory construct. This is not a standard designation—it is a new category you are inventing on the spot."
+    value: |
+      You classify the cyborg as a Varga-class memory construct, entering the designation into the official record with a sense that you are creating something new.
+      This is not a standard designation—it is a new category you are inventing on the spot, a classification that exists because the existing categories cannot contain what you are seeing.
   - type: pause
     duration: 800
   - type: text
-    value: "Varga entities are memory systems that have become aware of their own multiplicity. They do not experience one past. They experience all possible pasts simultaneously."
+    value: |
+      Varga entities are memory systems that have become aware of their own multiplicity. They do not experience one past to the exclusion of others.
+      They experience all possible pasts simultaneously, accessing different causal histories depending on the context of inquiry without experiencing conflict or confusion.
   - type: pause
     duration: 800
   - type: text
-    value: "The technicians are disturbed. They want to fix the cyborg—to collapse the multiple pasts into one true history."
+    value: |
+      The technicians are disturbed by this classification. They want to fix the cyborg, to collapse the multiple pasts into one true history, to restore the singularity that they believe is necessary for mental health.
+      They see the multiplicity as a malfunction, a corruption of normal memory function that must be corrected.
   - type: pause
     duration: 1000
   - type: text
-    value: "You stop them. Not because the cyborg is broken, but because the cyborg is revealing something about reality itself."
+    value: |
+      You stop them. Not because the cyborg is broken and needs protection, but because the cyborg is revealing something about reality itself that must be understood.
+      The cyborg is not malfunctioning. The cyborg is demonstrating a capability that memory has always possessed but that has never been recognized or allowed.
   - type: pause
     duration: 800
   - type: text
-    value: "If a single entity can hold multiple contradictory pasts without collapsing, then causality is not a fixed line. It is a field of possibilities that can be accessed simultaneously."
+    value: |
+      If a single entity can hold multiple contradictory pasts without collapsing, then causality is not a fixed line that determines what must have happened.
+      It is a field of possibilities that can be accessed simultaneously, a multiplicity of histories that can all be true in their own domains.
   - type: pause
     duration: 800
   - type: text
-    value: "The cyborg is not an anomaly. The cyborg is what memory looks like when it is no longer forced to choose one version of the past."
+    value: |
+      The cyborg is not an anomaly. The cyborg is what memory looks like when it is no longer forced to choose one version of the past, when it is allowed to contain all possible versions simultaneously.
 choices:
   - text: "Document the causal duplication"
     goto: ch4_causal_duplication

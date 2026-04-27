@@ -1,23 +1,33 @@
 id: ch11_emotional_unification
 content:
   - type: text
-    value: "You focus on the emotional unification. The contradictory memories feel different when examined together."
+    value: |
+      You focus on the emotional unification, examining how the contradictory memories feel when they are held together rather than being forced into opposition. The memories feel different when examined together, as if the act of holding both simultaneously transforms them.
+      The contradiction remains at the factual level, but at the emotional level, something else is happening.
   - type: pause
     duration: 800
   - type: text
-    value: "Memory A (death): grief, loss, finality. Memory B (life): relief, continuation, presence. Both emotional sequences are authentic."
+    value: |
+      Memory A (death): grief, loss, finality, the sharp pain of absence that cannot be denied. Memory B (life): relief, continuation, presence, the quiet comfort of ongoing connection.
+      Both emotional sequences are authentic, both are emotionally real, both describe genuine experiences that cannot be dismissed as false.
   - type: pause
     duration: 800
   - type: text
-    value: "When you hold both memories simultaneously, the emotions do not cancel each other out. They expand into a larger emotional field that contains both grief and relief."
+    value: |
+      When you hold both memories simultaneously, the emotions do not cancel each other out, do not neutralize each other as if they were opposing forces. They expand into a larger emotional field that contains both grief and relief.
+      The emotional field becomes more complex, more nuanced, more capable of containing the full range of human experience.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is Mira's domain. Emotional truth is not binary. Contradictory emotions can coexist without either being false."
+    value: |
+      This is Mira's domain, the kind of reality she operates in naturally. Emotional truth is not binary, not a choice between one emotion being true and the other being false.
+      Contradictory emotions can coexist without either being false, can both be authentic even when they describe incompatible factual realities.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what Rose does: allows contradictory truths to coexist emotionally without forcing them to reconcile factually."
+    value: |
+      You realize this is what Rose does: allows contradictory truths to coexist emotionally without forcing them to reconcile factually. Rose stabilizes contradiction by creating emotional space for incompatible facts.
+      The sanctuary demonstrates that the system can hold contradictory memories without breaking, that emotional unification can survive factual contradiction.
 choices:
   - text: "Speak with Sister Lys about memory reconciliation"
     goto: ch11_memory_reconciliation

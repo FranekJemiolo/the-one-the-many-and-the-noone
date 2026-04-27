@@ -1,19 +1,27 @@
 id: ch29_interpretive_architecture
 content:
   - type: text
-    value: "You understand the interpretive architecture. The system is not choosing between truth and falsehood. It is layering them into a multi-level structure."
+    value: |
+      You understand the interpretive architecture, seeing how the system has evolved to accommodate both compression and truth. The system is not choosing between truth and falsehood, not forced to sacrifice accuracy for stability.
+      It is layering them into a multi-level structure that preserves both.
   - type: pause
     duration: 800
   - type: text
-    value: "The active layer operates the system. The background layer preserves truth. Both layers are accessible. The system can switch between them when needed."
+    value: |
+      The active layer operates the system, providing the compressed interpretation that the Engine needs for stability. The background layer preserves truth, maintaining the full complexity of reality that the system needs for accuracy.
+      Both layers are accessible, the system able to switch between them when needed.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a compromise. It is an evolution of interpretation. The system has adapted to compression pressure by creating a layered architecture that preserves multiplicity."
+    value: |
+      This is not a compromise, not a halfway solution that partially satisfies both requirements. It is an evolution of interpretation, a transformation into a new mode of operation.
+      The system has adapted to compression pressure by creating a layered architecture that preserves multiplicity.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what the Engine fears. Layered interpretation is not chaos. It is a different way of operating that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize this is what the Engine fears. Layered interpretation is not chaos, not the breakdown of coherent interpretation into disorder. It is a different way of operating that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that interpretation must be singular is proven wrong by the very existence of functional layered interpretation.
 choices:
   - text: "Conclude the chapter"
     goto: ch29_chapter_end

@@ -1,19 +1,27 @@
 id: ch27_causal_loop
 content:
   - type: text
-    value: "You observe the causal loop. The future causes the present, which then causes the future, which then causes the present again."
+    value: |
+      You observe the causal loop, watching how causality has transformed in the boundary zone. The future causes the present, which then causes the future, which then causes the present again.
+      The linear sequence of cause and effect has been replaced by circular causality, events related through loops rather than lines.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a paradox that creates instability. The loop is stable. The system has adapted to inverted causality and found a way to function within it."
+    value: |
+      This is not a paradox that creates instability, not a logical contradiction that breaks the system. The loop is stable, the circular causality maintaining coherence without requiring linear sequence.
+      The system has adapted to inverted causality and found a way to function within it.
   - type: pause
     duration: 800
   - type: text
-    value: "Events happen. Their causes are in the future. Their effects create the future that caused them. The loop is self-consistent."
+    value: |
+      Events happen, their causes located in the future rather than the past. Their effects create the future that caused them, the loop closing in on itself in a self-consistent pattern.
+      The causality is not broken—it is simply operating in a different structure.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is not a breakdown of causality. It is an evolution of causality. The system has adapted to temporal multiplicity by allowing causality to operate in loops."
+    value: |
+      You realize this is not a breakdown of causality, not a failure of temporal systems. It is an evolution of causality, a transformation into a different mode of temporal relationship.
+      The system has adapted to temporal multiplicity by allowing causality to operate in loops rather than lines.
 choices:
   - text: "Observe Kai's adaptation"
     goto: ch27_kai_adaptation

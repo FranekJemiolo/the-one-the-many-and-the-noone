@@ -1,19 +1,27 @@
 id: ch42_cost_of_many
 content:
   - type: text
-    value: "You observe the cost of many. In The Many configuration, reality is completely multiple, but the clarity of singularity is gone."
+    value: |
+      You observe the cost of many, reality completely multiple in The Many configuration but the clarity of singularity gone. The diversity is genuine, the richness of multiplicity absolute.
+      But the cost is the loss of singular clarity, the elimination of coherence and orientation.
   - type: pause
     duration: 800
   - type: text
-    value: "There is infinite diversity, but there is also infinite disorientation. There is infinite complexity, but there is also infinite exhaustion. There is infinite vitality, but there is also infinite instability."
+    value: |
+      There is infinite diversity, the variation of experience without limit. But there is also infinite disorientation, the absence of any single way to understand events creating confusion. There is infinite complexity, the richness of incompatible interpretations absolute.
+      But there is also infinite exhaustion, the energy required to navigate infinite multiplicity overwhelming.
   - type: pause
     duration: 800
   - type: text
-    value: "The Many configuration is diverse, but it is also overwhelming. Reality has lost its singularity, and with it, its clarity and coherence."
+    value: |
+      There is infinite vitality, the energy of unrestricted multiplicity boundless. But there is also infinite instability, the absence of any coherent framework creating chaos. The Many configuration is diverse, but it is also overwhelming.
+      Reality has lost its singularity, and with it, its clarity and coherence.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the cost of the Resistance's ideal. Plural diversity comes at the cost of singular clarity. The system would be diverse, but it would also be disorienting."
+    value: |
+      You realize this is the cost of the Resistance's ideal. Plural diversity comes at the cost of singular clarity, the freedom of incompatible interpretations purchased with the elimination of coherence.
+      The system would be diverse, but it would also be disorienting, a diverse but chaotic reality.
 choices:
   - text: "Conclude the chapter"
     goto: ch42_chapter_end

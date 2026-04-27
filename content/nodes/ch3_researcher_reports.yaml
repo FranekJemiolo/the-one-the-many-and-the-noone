@@ -1,27 +1,39 @@
 id: ch3_researcher_reports
 content:
   - type: text
-    value: "The researcher logs are inconsistent in a way that should be impossible. Different researchers describe the same experiment with incompatible timelines."
+    value: |
+      The researcher logs are inconsistent in a way that should be impossible. Different researchers describe the same experiment with incompatible timelines, as if they conducted different versions of the same procedure.
+      The logs are detailed, precise, meticulously documented—but they cannot all be true, because they contradict each other on fundamental facts about when events occurred.
   - type: pause
     duration: 800
   - type: text
-    value: "Researcher A: \"Procedure began at 14:03, completed at 14:07. No anomalies.\""
+    value: |
+      Researcher A's log reads: "Procedure began at 14:03, completed at 14:07. No anomalies observed. All steps executed in sequence. Results consistent with expected parameters."
+      The account is straightforward, unremarkable, exactly what you would expect from a routine experimental procedure.
   - type: pause
     duration: 800
   - type: text
-    value: "Researcher B: \"Procedure began at 14:04, completed at 14:06. Temporal pause observed during 14:05.\""
+    value: |
+      Researcher B's log tells a different story: "Procedure began at 14:04, completed at 14:06. Temporal pause observed during 14:05. Time appeared to stop for approximately one minute, then resumed."
+      The pause is described not as a subjective experience but as an objective phenomenon—the clock stopped, the equipment froze, time itself seemed to halt.
   - type: pause
     duration: 800
   - type: text
-    value: "Researcher C: \"Procedure began at 14:05, completed at 14:05. Time did not advance during procedure.\""
+    value: |
+      Researcher C's log is stranger still: "Procedure began at 14:05, completed at 14:05. Time did not advance during procedure. The entire experiment occurred within a single moment."
+      The researcher describes completing a multi-step procedure in zero elapsed time, as if the procedure existed outside of temporal sequence entirely.
   - type: pause
     duration: 1000
   - type: text
-    value: "All three reports are internally consistent. All three describe the same experiment. All three are factually incompatible."
+    value: |
+      All three reports are internally consistent. All three describe the same experiment. All three are factually incompatible. They cannot all be true in a singular timeline.
+      Yet each researcher is certain of their account, each log is meticulously documented, and none of the researchers show any sign of confusion or error.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is not measurement error. The experiment actually happened differently for each observer. Time itself is branching at the moment of observation."
+    value: |
+      You realize this is not measurement error, not misremembering, not a failure of documentation. The experiment actually happened differently for each observer.
+      Time itself is branching at the moment of observation, creating multiple temporal realities that different researchers access differently.
 choices:
   - text: "Document the temporal instability"
     goto: ch3_temporal_instability

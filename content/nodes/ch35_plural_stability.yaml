@@ -1,19 +1,27 @@
 id: ch35_plural_stability
 content:
   - type: text
-    value: "You understand the plural stability. The system is adopting Rose's method as a general capability. Contradictions can coexist without collapse across the entire multiplicity system."
+    value: |
+      You understand the plural stability, seeing how the system is adopting Rose's method as a general capability. The system is not just allowing contradictions to coexist in specific zones—it is internalizing the capability to stabilize contradictions across the entire multiplicity system.
+      Contradictions can coexist without collapse across the entire multiplicity system.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not replacing the Engine's compression. The Engine's layer is still available for situations where singular interpretation is needed. But the default is now plural stability."
+    value: |
+      This is not replacing the Engine's compression, not eliminating the capability for singular interpretation. The Engine's layer is still available for situations where singular interpretation is needed, where compression provides the most appropriate approach.
+      But the default is now plural stability, the system choosing to stabilize contradictions rather than compress them.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the system's choice. The system has experienced both singular stability and plural stability, and it is choosing plural stability as the default."
+    value: |
+      You realize this is the system's choice. The system has experienced both singular stability and plural stability, has functioned under both approaches. And it is choosing plural stability as the default, preferring the stabilization of contradictions over their compression.
+      The choice is deliberate, not accidental.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the proof the Engine was wrong. Plural stability is not just possible. It is preferable. The system is choosing it over singular stability."
+    value: |
+      This is the proof the Engine was wrong. Plural stability is not just possible, not merely functional under specific conditions. It is preferable, the system choosing it over singular stability when both options are available.
+      The Engine's assumption that singular stability is the only valid form of stability is proven wrong by the system's own choice.
 choices:
   - text: "Conclude the chapter"
     goto: ch35_chapter_end

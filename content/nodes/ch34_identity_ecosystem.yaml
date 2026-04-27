@@ -1,19 +1,27 @@
 id: ch34_identity_ecosystem
 content:
   - type: text
-    value: "You understand the identity ecosystem. The named multiplicities are not singular entities. They are patterns of multiplicity that have crystallized into named forms and now form a stable ecosystem."
+    value: |
+      You understand the identity ecosystem, seeing how the named multiplicities represent a new form of collective identity. The named multiplicities are not singular entities, not individual persons with unified identities.
+      They are patterns of multiplicity that have crystallized into named forms and now form a stable ecosystem.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the future of identity in the multiplicity system. Identity will not be singular. Identity will be multiplicity patterns that have crystallized into named forms and form complementary ecosystems."
+    value: |
+      This is the future of identity in the multiplicity system. Identity will not be singular, will not be the unified self that traditional identity assumes. Identity will be multiplicity patterns that have crystallized into named forms and form complementary ecosystems.
+      The self is not a single entity—the self is a pattern within a network of patterns.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is how the system adapts to collapse. Identity does not remain singular. Identity becomes multiplicity patterns that crystallize into named forms and form stable ecosystems."
+    value: |
+      You realize this is how the system adapts to collapse. Identity does not remain singular, does not maintain the unified self that traditional identity assumes. Identity becomes multiplicity patterns that crystallize into named forms and form stable ecosystems.
+      The transformation of identity is not a failure—it is an adaptation to the conditions of system collapse.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Engine cannot control this ecosystem because the entities are not singular. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the ecosystem itself."
+    value: |
+      The Engine cannot control this ecosystem because the entities are not singular, not individual persons that can be compressed into single interpretations. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the ecosystem itself.
+      The Engine's methods are designed for singular entities, not for ecosystems of named multiplicities.
 choices:
   - text: "Conclude the chapter"
     goto: ch34_chapter_end

@@ -1,19 +1,27 @@
 id: ch21_rose_stabilization
 content:
   - type: text
-    value: "You observe Rose's stabilization. The contradictions in the zone are being held in a state of coexistence without collapse."
+    value: |
+      You observe Rose's stabilization, watching how the contradictions in the zone are being held in a state of coexistence without collapse. The incompatible truths that Nemesis is trying to compress are being preserved, maintained in a state where none is dominant and none is eliminated.
+      The stabilization creates a space where multiplicity can exist without breaking the system.
   - type: pause
     duration: 800
   - type: text
-    value: "Red and blue objects coexist. Past and future memories coexist. Causal and emotional interpretations coexist. None are dominant. None are eliminated."
+    value: |
+      Red and blue objects coexist, both equally present and equally real. Past and future memories coexist, both equally accessible and equally valid. Causal and emotional interpretations coexist, each describing a genuine aspect of the experience.
+      None are dominant, none are eliminated, none are required to be false in order for the others to be true.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a passive state. Rose is actively maintaining the coherence field that allows contradictions to coexist without collapsing the system."
+    value: |
+      This is not a passive state, not the natural equilibrium of a system left to its own devices. Rose is actively maintaining the coherence field that allows contradictions to coexist without collapsing the system.
+      The stabilization requires continuous effort, a sustained application of energy to maintain the conditions for plural reality.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this requires energy. Rose is not just allowing multiplicity. Rose is actively working to preserve it against Nemesis's compression."
+    value: |
+      You realize this requires energy. Rose is not just allowing multiplicity, not simply stepping back and letting contradictions exist. Rose is actively working to preserve it against Nemesis's compression.
+      The stabilization requires active effort, a sustained expenditure of energy to maintain multiplicity in the face of Nemesis's contradictory compression.
 choices:
   - text: "Observe Nemesis's compression"
     goto: ch21_nemesis_compression

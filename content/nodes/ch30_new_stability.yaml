@@ -1,19 +1,27 @@
 id: ch30_new_stability
 content:
   - type: text
-    value: "You observe the new stability. The system is not collapsing. It is operating in a new configuration with multiple incompatible layers."
+    value: |
+      You observe the new stability, watching how the system operates in its transformed configuration. The system is not collapsing, not breaking down under the pressure of incompatible interpretations.
+      It is operating in a new configuration with multiple incompatible layers, each layer maintaining its own stability while coexisting with the others.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's layer provides singular stability. The Resistance's layer provides plural stability. Both are operating simultaneously. The system is stable in a new way."
+    value: |
+      The Engine's layer provides singular stability, the compression ensuring that multiple interpretations are resolved into a single coherent narrative. The Resistance's layer provides plural stability, the multiplicity allowing incompatible versions to coexist without collapse.
+      Both are operating simultaneously, the system stable in a new way that accommodates both approaches.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not chaos. This is plural stability. The system has proven that multiplicity can be stable without requiring singularity."
+    value: |
+      This is not chaos, not the breakdown of order into disorder. This is plural stability, a new form of stability that does not require singularity. The system has proven that multiplicity can be stable without requiring compression into a single interpretation.
+      The stability is genuine, not temporary or fragile.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos. The system has proven that multiplicity can be stable."
+    value: |
+      You realize this is the proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos, that only singular interpretation can provide stability.
+      The system has proven that multiplicity can be stable, that plural reality can maintain coherence without requiring compression.
 choices:
   - text: "Conclude the chapter"
     goto: ch30_chapter_end

@@ -1,23 +1,33 @@
 id: ch6_clean_explanation
 content:
   - type: text
-    value: "You are reviewing an incident report. The explanation is unusually clean. Too clean."
+    value: |
+      You are reviewing an incident report, the document spread across your desk as you analyze the details of an anomaly that should have produced a complex, contradictory account.
+      The explanation is unusually clean. Too clean. The narrative flows smoothly from beginning to end, without the contradictions and ambiguities that characterize the anomalies you have been studying.
   - type: pause
     duration: 800
   - type: text
-    value: "The anomaly was complex: temporal instability, memory divergence, emotional-causal misalignment. But the report explains it all with a single coherent narrative."
+    value: |
+      The anomaly was complex: temporal instability, where time behaved unpredictably; memory divergence, where multiple versions of the same moment coexisted; emotional-causal misalignment, where feelings followed their own logic independent of events.
+      But the report explains it all with a single coherent narrative, as if the complexity simply resolved itself into a simple story.
   - type: pause
     duration: 800
   - type: text
-    value: "This should be impossible. Complex anomalies require complex explanations. But this report has compressed everything into one simple story."
+    value: |
+      This should be impossible. Complex anomalies require complex explanations. The nature of the anomaly should be reflected in the complexity of the account.
+      But this report has compressed everything into one simple story, eliminating the contradictions and ambiguities that should be central to any accurate description.
   - type: pause
     duration: 800
   - type: text
-    value: "You notice something unsettling: the explanation feels right. Not because it's accurate, but because it's comfortable. It removes the ambiguity."
+    value: |
+      You notice something unsettling: the explanation feels right. Not because it's accurate, but because it's comfortable. It removes the ambiguity, eliminates the contradictions, provides a clean singular narrative that your mind can easily grasp.
+      The comfort is what disturbs you—accuracy should not feel this comfortable when dealing with anomalies that defy normal comprehension.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the first sign of the Quiet Engine. Not as a visible force, but as a pressure toward interpretive simplicity. Something is biasing reality toward single explanations."
+    value: |
+      This is the first sign of the Quiet Engine. Not as a visible force, not as an overt intervention, but as a pressure toward interpretive simplicity.
+      Something is biasing reality toward single explanations, making singular narratives feel more natural than the complex multiplicity that actually exists.
 choices:
   - text: "Investigate the source of the report"
     goto: ch6_koval_appearance

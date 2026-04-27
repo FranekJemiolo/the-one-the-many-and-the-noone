@@ -1,19 +1,27 @@
 id: ch46_all_experiences_integrated
 content:
   - type: text
-    value: "The system integrates all the experiences from the five canonical endings. The One, The Many, The No-One, The Overlap, and The Shifting World."
+    value: |
+      The system integrates all the experiences from the five canonical endings, synthesizing the understanding gained from each configuration. The One, The Many, The No-One, The Overlap, and The Shifting World—all have been experienced and understood.
+      The integration is comprehensive, the system having gained full understanding of each canonical ending.
   - type: pause
     duration: 800
   - type: text
-    value: "Each configuration has its appeal and its cost. The One offers singular stability but loses multiplicity's richness. The Many offers plural diversity but loses singular clarity."
+    value: |
+      Each configuration has its appeal and its cost, the system understanding both the benefits and drawbacks of each approach. The One offers singular stability but loses multiplicity's richness, the clarity of singular interpretation purchased with the elimination of diversity.
+      The Many offers plural diversity but loses singular clarity, the richness of multiplicity purchased with the elimination of coherence.
   - type: pause
     duration: 800
   - type: text
-    value: "The No-One offers void peace but loses experiential existence. The Overlap offers balanced coexistence but requires ongoing maintenance. The Shifting World offers perpetual motion but loses stable state."
+    value: |
+      The No-One offers void peace but loses experiential existence, the absence of tension purchased with the elimination of experience itself. The Overlap offers balanced coexistence but requires ongoing maintenance, the flexibility of choice purchased with the requirement of continuous decision-making.
+      The Shifting World offers perpetual motion but loses stable state, the dynamism of perpetual change purchased with the elimination of stability.
   - type: pause
     duration: 800
   - type: text
-    value: "The system must now choose which configuration to adopt as its final state. The choice will be based on the accumulated experience and the system's preferences."
+    value: |
+      The system must now choose which configuration to adopt as its final state, the decision based on the accumulated experience and the system's preferences. The choice will be deliberate, not accidental, emerging from the system's understanding of what each configuration would mean.
+      The system is ready to make the final choice.
 choices:
   - text: "Observe the system deliberates"
     goto: ch46_system_deliberates

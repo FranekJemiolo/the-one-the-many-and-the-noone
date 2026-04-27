@@ -1,19 +1,27 @@
 id: ch47_rose_field_structural
 content:
   - type: text
-    value: "You observe Rose's field becomes structural. The coherence field is now a permanent feature of the system."
+    value: |
+      You observe Rose's field becomes structural, the coherence field now a permanent feature of the system. The transformation is complete, the system having internalized the capability to stabilize contradictions without requiring Rose's direct intervention.
+      Rose's method has become structural, the system operating according to the Resistance's approach without external support.
   - type: pause
     duration: 800
   - type: text
-    value: "Rose is no longer needed as an active intervention. The coherence field has been internalized by the system. Contradictions can coexist without requiring Rose's direct presence."
+    value: |
+      Rose is no longer needed as an active intervention, not required to be present to stabilize contradictions. The coherence field has been internalized by the system, becoming a general capability that operates independently of Rose's direct presence.
+      Contradictions can coexist without requiring Rose's direct intervention.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the goal the Resistance was fighting for. Not to make Rose dominant, but to make Rose's method structural. The system can now stabilize contradictions without external intervention."
+    value: |
+      This is the goal the Resistance was fighting for, the ultimate objective of the struggle against the Engine's dominance. Not to make Rose dominant, not to replace the Engine's authority with Rose's personal influence. To make Rose's method structural, to internalize the capability to stabilize contradictions.
+      The system can now stabilize contradictions without external intervention.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the ultimate victory. The system has internalized plural stability. The coherence field is now structural, not external."
+    value: |
+      You realize this is the ultimate victory, the complete success of the Resistance's position. The system has internalized plural stability, the coherence field now structural rather than external. The Resistance's method has been internalized, the system operating according to the Resistance's approach without requiring the Resistance's continued presence.
+      The victory is complete.
 choices:
   - text: "Observe the system complete"
     goto: ch47_system_complete

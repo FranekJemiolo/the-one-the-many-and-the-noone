@@ -1,27 +1,38 @@
 id: ch5_deja_vu_encounter
 content:
   - type: text
-    value: "You and Mira are sitting in the same room. This is not unusual. What is unusual is that you are both experiencing deja vu about the same moment."
+    value: |
+      You and Mira are sitting in the same room, the afternoon light filtering through the blinds in patterns that feel familiar in a way that goes beyond ordinary recognition.
+      This is not unusual—you and Mira have spent countless hours in this room, in conversation, in contemplation, in the comfortable silence of shared work. What is unusual is that you are both experiencing deja vu about the same moment simultaneously.
   - type: pause
     duration: 800
   - type: text
-    value: "The feeling is precise: you have been here before. Not in a general sense. Specifically. This exact conversation. This exact configuration of light and shadow."
+    value: |
+      The feeling is precise, specific, undeniable: you have been here before. Not in a general sense, not in the way that all moments echo other moments. Specifically.
+      This exact conversation. This exact configuration of light and shadow. This exact position of Mira's hands on the table. This exact quality of silence between words.
   - type: pause
     duration: 800
   - type: text
-    value: "Mira looks at you. She feels it too. But when you compare notes, something impossible emerges."
+    value: |
+      Mira looks at you, her expression mirroring your own recognition. She feels it too—the sense that this moment has occurred before, that you are living through a repetition of something that already happened.
+      But when you compare notes, when you try to articulate what you remember about the previous iteration of this moment, something impossible emerges.
   - type: pause
     duration: 800
   - type: text
-    value: "\"I remember this,\" you say. \"You said something about the light changing. Then I responded about the time.\""
+    value: |
+      "I remember this," you say, the words feeling like they have been spoken before in this exact sequence. "You said something about the light changing, how the shadows were moving across the table.
+      Then I responded about the time, about how it felt like the afternoon was stretching itself thin."
   - type: pause
     duration: 1000
   - type: text
-    value: "Mira shakes her head. \"I remember this too. But I said something about the feeling of the room. Then you responded about the emotional weight.\""
+    value: |
+      Mira shakes her head slowly, her brow furrowing in confusion. "I remember this too. But I said something about the feeling of the room, how the air seemed to hold its breath.
+      Then you responded about the emotional weight, about how the silence felt heavy with something unsaid."
   - type: pause
     duration: 800
   - type: text
-    value: "Both memories feel equally authentic. Both describe the same moment. But they are incompatible."
+    value: |
+      Both memories feel equally authentic. Both describe the same moment in time. But they are incompatible—you cannot both be remembering correctly, unless the moment itself contains multiple versions that different observers access differently.
 choices:
   - text: "Analyze from Aleksy's causal perspective"
     goto: ch5_aleksy_perspective

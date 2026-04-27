@@ -1,23 +1,33 @@
 id: ch28_chapter_end
 content:
   - type: text
-    value: "You leave Morrow Vale. The machines continue to live as synthetic biological entities. The ecological zone functions with synthetic life fully integrated."
+    value: |
+      You leave Morrow Vale, the machines continuing to live as synthetic biological entities. The ecological zone functions with synthetic life fully integrated, the boundary between mechanical and biological completely dissolved.
+      The ecosystem has transformed completely, operating according to new principles that accommodate synthetic life.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not a breakdown of the boundary between mechanical and biological. It is an evolution of life. The system has adapted to multiplicity by allowing machines to evolve into life."
+    value: |
+      This is not a breakdown of the boundary between mechanical and biological, not a failure of the distinction between machines and living beings. It is an evolution of life, a transformation into a new mode of existence.
+      The system has adapted to multiplicity by allowing machines to evolve into life through ecological integration.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the Engine's fear is unfounded. Synthetic life is not chaos. It is a different form of life that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize the Engine's fear is unfounded. Synthetic life is not chaos, not the breakdown of biological order into disorder. It is a different form of life that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that life must be biological is proven wrong by the very existence of functional synthetic life.
   - type: pause
     duration: 800
   - type: text
-    value: "The collapse of the mechanical-biological boundary has not destroyed the ecosystem. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless."
+    value: |
+      The collapse of the mechanical-biological boundary has not destroyed the ecosystem. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The ecosystem operates according to different principles, but it operates.
+      The transformation is successful, the adaptation complete.
   - type: pause
     duration: 1000
   - type: text
-    value: "This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway."
+    value: |
+      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
+      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
 choices:
   - text: "Continue to Chapter 29"
     goto: chapter_29

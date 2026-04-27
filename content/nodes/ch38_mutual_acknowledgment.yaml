@@ -1,19 +1,27 @@
 id: ch38_mutual_acknowledgment
 content:
   - type: text
-    value: "You and Mira acknowledge each other's realities. You cannot access Mira's emotional interpretation, and Mira cannot access your causal interpretation. But you acknowledge that both are equally valid."
+    value: |
+      You and Mira acknowledge each other's realities, accepting that you cannot access each other's interpretation engines. You cannot access Mira's emotional interpretation, cannot experience reality through the emotional engine that structures her experience.
+      Mira cannot access your causal interpretation, cannot experience reality through the causal engine that structures your experience. But you acknowledge that both are equally valid.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a compromise. It is an acknowledgment of structural difference. You and Mira are operating on different interpretation engines, and both engines are equally valid."
+    value: |
+      This is not a compromise, not a halfway solution that partially satisfies both engines. It is an acknowledgment of structural difference, an acceptance that causal interpretation and emotional interpretation are fundamentally different engines that cannot be reconciled.
+      You and Mira are operating on different interpretation engines, and both engines are equally valid.
   - type: pause
     duration: 800
   - type: text
-    value: "The split is no longer a source of conflict. It is a stable configuration that allows both interpretation engines to operate without trying to eliminate each other."
+    value: |
+      The split is no longer a source of conflict, not a battle between incompatible interpretations that must be resolved. It is a stable configuration that allows both interpretation engines to operate without trying to eliminate each other.
+      The system has adapted to the coexistence of incompatible engines.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the system's adaptation to the emotional-causal split. The system has found a way to allow both interpretation engines to operate in parallel without requiring reconciliation."
+    value: |
+      You realize this is the system's adaptation to the emotional-causal split. The system has found a way to allow both interpretation engines to operate in parallel without requiring reconciliation, without forcing one engine to submit to the other.
+      The adaptation is structural, not temporary.
 choices:
   - text: "Observe the interpretive coexistence"
     goto: ch38_interpretive_coexistence

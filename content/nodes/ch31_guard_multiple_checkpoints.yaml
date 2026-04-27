@@ -1,19 +1,27 @@
 id: ch31_guard_multiple_checkpoints
 content:
   - type: text
-    value: "The Guard is appearing at multiple checkpoints simultaneously. Like the Witness, the Guard has fragmented into multiple versions under system collapse pressure."
+    value: |
+      The Guard is appearing at multiple checkpoints simultaneously, the nameless role that has appeared at various security points now fragmenting under system collapse pressure. Like the Witness before them, the Guard has fragmented into multiple versions.
+      The fragmentation is not a failure of identity—it is a transformation into a new mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "Guard A is at checkpoint 14:03. Guard B is at checkpoint 14:05. Guard C is at both checkpoints simultaneously. All are the same Guard, but all are different versions."
+    value: |
+      Guard A is at checkpoint 14:03, controlling access at a specific temporal location. Guard B is at checkpoint 14:05, controlling access at a different temporal location. Guard C is at both checkpoints simultaneously, existing in multiple locations at once.
+      All are the same Guard, sharing the same essential pattern of boundary enforcement. But all are different versions, existing in incompatible states.
   - type: pause
     duration: 800
   - type: text
-    value: "The Guard's function is consistent across all versions: controlling access, maintaining security, enforcing boundaries. But the specific implementation varies across the multiplicity system."
+    value: |
+      The Guard's function is consistent across all versions: controlling access, maintaining security, enforcing boundaries. The pattern of boundary enforcement remains stable across the multiplicity system.
+      But the specific implementation varies across the multiplicity system, each version enforcing boundaries in a different context.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the next identity crystallization. The Guard is following the same pattern as the Witness: fragmentation under pressure, then crystallization into a named multiplicity."
+    value: |
+      You realize this is the next identity crystallization. The Guard is following the same pattern as the Witness: fragmentation under pressure, then crystallization into a named multiplicity.
+      The process is systematic, the system generating named multiplicities from nameless roles through the pressure of system collapse.
 choices:
   - text: "Observe the identity pressure"
     goto: ch31_identity_pressure

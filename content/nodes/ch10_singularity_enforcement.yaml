@@ -1,19 +1,27 @@
 id: ch10_singularity_enforcement
 content:
   - type: text
-    value: "You observe how singularity is enforced in the Clarity zone. It is not about forcing reality. It is about removing alternatives."
+    value: |
+      You observe how singularity is enforced in the Clarity zone, watching the mechanisms that maintain this environment of absolute clarity. It is not about forcing reality into a single shape through overt control.
+      It is about removing alternatives, preventing multiple interpretations from ever forming in the first place.
   - type: pause
     duration: 800
   - type: text
-    value: "When an event occurs, only one interpretation is allowed to persist. The others are not actively suppressed—they simply never crystallize."
+    value: |
+      When an event occurs, only one interpretation is allowed to persist, only one version of truth is permitted to crystallize. The others are not actively suppressed, not censored or eliminated after they appear.
+      They simply never crystallize, never become substantial enough to be considered real interpretations.
   - type: pause
     duration: 800
   - type: text
-    value: "This is more efficient than active censorship. If alternatives never form, then there is nothing to suppress. Reality simply becomes singular by default."
+    value: |
+      This is more efficient than active censorship. If alternatives never form, then there is nothing to suppress. Reality simply becomes singular by default, as if multiplicity were not even a possibility.
+      The system does not have to fight contradiction because contradiction never has the chance to emerge.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the Engine's method. Not by fighting multiplicity, but by preventing it from forming in the first place."
+    value: |
+      You realize this is the Engine's method. Not by fighting multiplicity once it appears, not by actively suppressing contradictory interpretations. By preventing multiplicity from forming in the first place.
+      The Engine creates environments where singularity is the default state, where the very possibility of multiple interpretations has been engineered out of existence.
 choices:
   - text: "Speak with Seraph Kline"
     goto: ch10_seraph_directive

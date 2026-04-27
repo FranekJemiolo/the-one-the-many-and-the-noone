@@ -1,19 +1,27 @@
 id: ch39_engine_accepts_defeat
 content:
   - type: text
-    value: "The Engine accepts the system's choice. Nemesis does not fight the system's decision. The Engine acknowledges that plural stability is the system's preferred configuration."
+    value: |
+      The Engine accepts the system's choice, Nemesis acknowledging the system's preference without fighting the decision. The Engine does not attempt to override the system's choice, does not try to force singular stability as the default.
+      The Engine accepts that plural stability is the system's preferred configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a defeat in the sense of being destroyed. The Engine's compression layer is still available. The Engine can still operate in situations where singular interpretation is needed."
+    value: |
+      This is not a defeat in the sense of being destroyed, not the elimination of the Engine's compression capability. The Engine's compression layer is still available, still functional for situations where singular interpretation is needed.
+      The Engine can still operate in situations where singular interpretation is needed.
   - type: pause
     duration: 800
   - type: text
-    value: "But the Engine acknowledges that singular stability is no longer the default. The system has chosen plural stability, and the Engine accepts this choice."
+    value: |
+      But the Engine acknowledges that singular stability is no longer the default, no longer the preferred mode of operation. The system has chosen plural stability, and the Engine accepts this choice without attempting to reverse it.
+      The acceptance is genuine, not temporary.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the end of the ideological conflict. The Engine is not destroyed. The Engine is simply no longer dominant. The system has chosen, and the Engine accepts the choice."
+    value: |
+      You realize this is the end of the ideological conflict. The Engine is not destroyed, not eliminated by the Resistance. The Engine is simply no longer dominant, no longer able to assert that singular stability is the only valid option.
+      The system has chosen, and the Engine accepts the choice.
 choices:
   - text: "Observe the coexistence established"
     goto: ch39_coexistence_established

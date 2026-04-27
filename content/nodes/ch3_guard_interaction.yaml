@@ -1,27 +1,39 @@
 id: ch3_guard_interaction
 content:
   - type: text
-    value: "The Guard stands at the checkpoint. They are not a person in the traditional sense—they are a function of the station's security system that happens to have a face."
+    value: |
+      The Guard stands at the security checkpoint, their posture perfect, their expression neutral, their presence somehow more architectural than human.
+      They are not a person in the traditional sense—they are a function of the station's security system that happens to have a face, a role that has crystallized into form through the necessity of maintaining order in a place where order is difficult to maintain.
   - type: pause
     duration: 800
   - type: text
-    value: "\"Everything is functioning correctly,\" the Guard says. The statement is true. It is also incomplete."
+    value: |
+      "Everything is functioning correctly," the Guard says, and the statement is true in a way that makes it more unsettling than if it were false.
+      The station's systems are operational, the crew is performing their duties, the security protocols are being followed. The statement is true. It is also incomplete.
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about the time anomaly. The Guard considers this. Not as a problem, but as a feature."
+    value: |
+      You ask about the time anomaly, about the clocks showing different sequences, about the researchers experiencing temporal instability.
+      The Guard considers this, not as a problem that needs to be solved, but as a feature of the environment that needs to be acknowledged.
   - type: pause
     duration: 800
   - type: text
-    value: "\"Time is not broken,\" the Guard says. \"It is simply being measured by different observers who are experiencing different sequences.\""
+    value: |
+      "Time is not broken," the Guard says, with the same calm they would use to describe any routine operational detail. "It is simply being measured by different observers who are experiencing different sequences.
+      The anomaly is not a malfunction of time. It is a multiplicity of temporal experience that different observers access differently."
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the first time someone has described the anomaly not as a malfunction, but as a valid state. The Guard does not see the clocks as wrong. They see them as differently correct."
+    value: |
+      This is the first time someone has described the anomaly not as a malfunction, but as a valid state. The Guard does not see the clocks as wrong. They see them as differently correct.
+      Each clock is showing a valid temporal sequence, and the fact that the sequences differ does not mean any of them is incorrect.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is how the station continues to operate. The staff are not ignoring the time instability. They are adapting to it by experiencing different sequences simultaneously."
+    value: |
+      You realize this is how the station continues to operate despite the temporal instability. The staff are not ignoring the anomaly. They are adapting to it by experiencing different sequences simultaneously.
+      The station functions because each person experiences their own temporal sequence, and the station's operations accommodate this multiplicity rather than trying to eliminate it.
 choices:
   - text: "Review researcher reports"
     goto: ch3_researcher_reports

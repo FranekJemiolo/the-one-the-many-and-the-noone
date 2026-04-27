@@ -1,23 +1,33 @@
 id: ch11_memory_reconciliation
 content:
   - type: text
-    value: "Sister Lys explains her method. \"Memory reconciliation is not about choosing the correct memory. It is about allowing all memories to exist without forcing them to compete.\""
+    value: |
+      Sister Lys explains her method, her voice calm as she describes an approach to memory that is fundamentally different from the causal investigation you are used to. "Memory reconciliation is not about choosing the correct memory, not about determining which one is true.
+      It is about allowing all memories to exist without forcing them to compete, without requiring them to reconcile into a single narrative."
   - type: pause
     duration: 800
   - type: text
-    value: "She does not resolve contradictions. She stabilizes them. The contradictory memories remain contradictory, but they no longer create conflict."
+    value: |
+      She does not resolve contradictions, does not try to eliminate the incompatibility between memories. She stabilizes them, creates a space where contradictory memories can coexist without causing conflict.
+      The contradictory memories remain contradictory at the factual level, but they no longer create conflict at the emotional or systemic level.
   - type: pause
     duration: 800
   - type: text
-    value: "This is different from the Engine's approach. The Engine would eliminate one memory to achieve singularity. Sister Lys preserves both memories by giving them separate interpretive spaces."
+    value: |
+      This is different from the Engine's approach. The Engine would eliminate one memory to achieve singularity, would suppress the contradiction to maintain system stability.
+      Sister Lys preserves both memories by giving them separate interpretive spaces, allowing each to be valid in its own context without requiring them to agree.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"Contradiction is not error,\" Sister Lys says. \"Contradiction is complexity. The sanctuary exists to hold complexity without reducing it.\""
+    value: |
+      "Contradiction is not error," Sister Lys says, and there is a certainty in her voice that suggests she has explained this many times. "Contradiction is complexity. The sanctuary exists to hold complexity without reducing it.
+      The Engine reduces complexity to achieve stability. I hold complexity to achieve a different kind of stability."
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is Rose's operational method. Not compression, but stabilization. Not elimination, but coexistence."
+    value: |
+      You realize this is Rose's operational method. Not compression, but stabilization. Not elimination, but coexistence. Rose does not force reality to be singular—Rose creates the conditions for multiplicity to exist without collapse.
+      The sanctuary is Rose's method made visible, a demonstration that contradiction can be stabilized rather than eliminated.
 choices:
   - text: "Conclude the visit"
     goto: ch11_chapter_end

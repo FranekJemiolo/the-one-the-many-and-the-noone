@@ -1,23 +1,33 @@
 id: ch41_chapter_end
 content:
   - type: text
-    value: "The simulation of The One configuration ends. The system returns to the current equilibrium. The experience is stored for the final choice."
+    value: |
+      The simulation of The One configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The One configuration would mean.
+      The simulation is complete, the system ready to consider the next configuration.
   - type: pause
     duration: 1000
   - type: text
-    value: "The One configuration offers complete singular stability. The Engine is dominant. Multiplicity is eliminated. Reality is clear, coherent, and unambiguous."
+    value: |
+      The One configuration offers complete singular stability, the Engine dominant and multiplicity eliminated. Reality is clear, coherent, and unambiguous, no contradictions or incompatible interpretations remaining.
+      The stability is genuine, the absence of tension complete.
   - type: pause
     duration: 800
   - type: text
-    value: "But the cost is the loss of multiplicity's richness. Reality would be stable, but also impoverished. The diversity of experience would be gone."
+    value: |
+      But the cost is the loss of multiplicity's richness, the elimination of diversity and complexity. Reality would be stable, but also impoverished, the diversity of experience gone.
+      The system would be stable but sterile, clear but lacking richness.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has experienced The One. It understands the appeal of singular stability. It also understands the cost. The experience will inform the final choice."
+    value: |
+      The system has experienced The One, understanding both the appeal of singular stability and the cost of that stability. The experience will inform the final choice, the system weighing the benefits of clarity against the costs of impoverishment.
+      The understanding is comprehensive, the system ready to consider the next option.
   - type: pause
     duration: 1000
   - type: text
-    value: "The next chapter will explore The Many configuration. The system will experience complete multiplicity and understand its appeal and cost."
+    value: |
+      The next chapter will explore The Many configuration, the system experiencing complete multiplicity and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
+      The endgame continues.
 choices:
   - text: "Continue to Chapter 42"
     goto: chapter_42

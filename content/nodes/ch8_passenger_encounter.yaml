@@ -1,23 +1,33 @@
 id: ch8_passenger_encounter
 content:
   - type: text
-    value: "The Passenger sits across from you. They are not a person exactly—more like a transient emotional state that happens to have a body."
+    value: |
+      The Passenger sits across from you in the transport, their presence somehow less substantial than a normal person, as if they are not entirely anchored to physical reality.
+      They are not a person exactly—more like a transient emotional state that happens to have a body, a feeling that has crystallized into form for the duration of the journey.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The journey feels different each time,\" the Passenger says. \"Not in duration. In feeling. Sometimes it takes forever. Sometimes it happens instantly.\""
+    value: |
+      "The journey feels different each time," the Passenger says, their voice carrying a quality that suggests they have made this trip many times before. "Not in duration. In feeling.
+      Sometimes it takes forever, the minutes stretching out into what feels like hours. Sometimes it happens instantly, the journey passing in what seems like moments."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about the clock. The Passenger checks their watch. \"The time is correct. Forty minutes. But the experience of those forty minutes changes.\""
+    value: |
+      You ask about the clock, about whether the actual time varies between these different experiences. The Passenger checks their watch, the display showing a precise measurement.
+      "The time is correct. Forty minutes. Always forty minutes. But the experience of those forty minutes changes, sometimes feeling long, sometimes feeling short, regardless of what the clock says."
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not a subjective impression. The Passenger is describing a real phenomenon: emotional time is independent of causal time."
+    value: |
+      This is not a subjective impression, not a matter of perception distorting reality. The Passenger is describing a real phenomenon: emotional time is independent of causal time.
+      The clock measures objective duration, but emotional experience operates on its own temporal logic, expanding and contracting depending on the quality of feeling rather than the passage of minutes.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is another form of multiplicity. The same journey can have multiple emotional durations simultaneously, all equally valid."
+    value: |
+      You realize this is another form of multiplicity. The same journey can have multiple emotional durations simultaneously, all equally valid, all describing different aspects of how time is experienced.
+      The objective time remains constant, but the subjective time varies, and both are real in their own domains.
 choices:
   - text: "Analyze the emotional inconsistency"
     goto: ch8_emotional_inconsistency

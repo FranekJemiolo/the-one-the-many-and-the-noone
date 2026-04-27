@@ -1,19 +1,27 @@
 id: ch20_system_oscillation
 content:
   - type: text
-    value: "You observe the system oscillation. The conflict between Aleksy and Mira mirrors the conflict between the Engine and the Resistance."
+    value: |
+      You observe the system oscillation, watching how the conflict between Aleksy and Mira mirrors the larger conflict between the Engine and the Resistance. The two interpretation engines are competing for dominance, each trying to impose its approach on the system.
+      The oscillation between them has become a structural feature of reality, the system unable to settle into a single stable state.
   - type: pause
     duration: 800
   - type: text
-    value: "When Aleksy's interpretation dominates, the system moves toward causal singularity. When Mira's interpretation dominates, the system moves toward emotional multiplicity."
+    value: |
+      When Aleksy's interpretation dominates, the system moves toward causal singularity, compressing multiple causal sequences into a single linear narrative. When Mira's interpretation dominates, the system moves toward emotional multiplicity, allowing multiple emotional truths to coexist without requiring reconciliation.
+      The two approaches are fundamentally incompatible, each representing a different way of understanding reality.
   - type: pause
     duration: 800
   - type: text
-    value: "The system oscillates between these states. Neither can achieve permanent dominance because both are equally valid."
+    value: |
+      The system oscillates between these states, shifting between causal singularity and emotional multiplicity as the balance of power between the two interpretation engines shifts.
+      Neither can achieve permanent dominance because both are equally valid, each describing a genuine aspect of how reality works.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the stalemate that will break in the next phase. The system cannot oscillate indefinitely. Something will force a choice between causal singularity and emotional multiplicity."
+    value: |
+      You realize this is the stalemate that will break in the next phase. The system cannot oscillate indefinitely, cannot maintain the tension between causal singularity and emotional multiplicity without eventually breaking down.
+      Something will force a choice between the two approaches, will create a situation where the system can no longer maintain both.
 choices:
   - text: "Conclude the chapter"
     goto: ch20_chapter_end

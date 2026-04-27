@@ -1,19 +1,27 @@
 id: ch41_one_configuration_experienced
 content:
   - type: text
-    value: "The system experiences The One configuration. All interpretation layers collapse into singular reality. Multiplicity is eliminated."
+    value: |
+      The system experiences The One configuration, all interpretation layers collapsing into singular reality. Multiplicity is eliminated, all incompatible interpretations compressed into a single coherent narrative.
+      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The One as its final configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The One as its final configuration."
+    value: |
+      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The One as its final configuration, understanding the configuration through direct experience before making the final choice.
+      The simulation is comprehensive, the system gaining full understanding of what The One configuration would mean.
   - type: pause
     duration: 800
   - type: text
-    value: "In this configuration, there is only one version of every event. Causal sequences are clear. Emotional interpretations align with causal interpretations. Time is linear."
+    value: |
+      In this configuration, there is only one version of every event, no multiple incompatible interpretations of the same occurrence. Causal sequences are clear, events happening in a single linear order. Emotional interpretations align with causal interpretations, no conflict between different ways of understanding.
+      Time is linear, no temporal fields or causal loops.
   - type: pause
     duration: 800
   - type: text
-    value: "You experience the clarity of singular reality. There is no ambiguity. There is no contradiction. There is only one way to understand everything."
+    value: |
+      You experience the clarity of singular reality, the absence of ambiguity and contradiction. There is no ambiguity, no multiple ways to understand the same event. There is no contradiction, no incompatible interpretations that must be reconciled.
+      There is only one way to understand everything, a single coherent narrative that encompasses all of reality.
 choices:
   - text: "Observe the singularity achieved"
     goto: ch41_singularity_achieved

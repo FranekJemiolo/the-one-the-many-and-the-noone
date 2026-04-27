@@ -1,19 +1,27 @@
 id: ch8_emotional_inconsistency
 content:
   - type: text
-    value: "You analyze the emotional inconsistency. The clock is reliable. The distance is fixed. But the emotional experience of time is variable."
+    value: |
+      You analyze the emotional inconsistency, trying to understand how the same objective duration can produce such different subjective experiences. The clock is reliable, measuring time with precision. The distance is fixed, the route is constant.
+      But the emotional experience of time is variable, expanding and contracting depending on factors that have nothing to do with the physical journey.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not psychological distortion. The Passenger is not experiencing time differently. Time itself is being experienced differently by the same observer in different iterations."
+    value: |
+      This is not psychological distortion, not a matter of the Passenger misperceiving time. The Passenger is not experiencing time differently in the sense of being mistaken.
+      Time itself is being experienced differently by the same observer in different iterations, as if emotional reality has its own temporal logic that operates independently of causal time.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is Mira's domain. Emotional time is not subordinate to causal time. It is an independent system that can produce multiple experiences of the same duration."
+    value: |
+      You realize this is Mira's domain, the kind of reality she operates in naturally. Emotional time is not subordinate to causal time, not a distortion of objective measurement.
+      It is an independent system that can produce multiple experiences of the same duration, each one valid in its own emotional domain.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Passenger is not confused. They are demonstrating that emotional reality has its own timeline, independent of the clock."
+    value: |
+      The Passenger is not confused, not experiencing a cognitive error, not misremembering how long the journey took. They are demonstrating that emotional reality has its own timeline, independent of the clock.
+      The journey takes forty minutes in causal time, but it can feel like hours or moments in emotional time, and both measurements are accurate in their respective domains.
 choices:
   - text: "Accept that time feels wrong"
     goto: ch8_time_feels_wrong

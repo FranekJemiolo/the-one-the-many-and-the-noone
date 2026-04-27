@@ -1,19 +1,27 @@
 id: ch26_aleksy_mira_realities_diverge
 content:
   - type: text
-    value: "You and Mira are no longer experiencing the same reality. The emotional-causal split has become permanent."
+    value: |
+      You and Mira are no longer experiencing the same reality, the stalemate between causal and emotional interpretation transforming into a permanent structural split. The emotional-causal split has become permanent, the two interpretation engines no longer able to communicate or reconcile their different versions of reality.
+      The oscillation has broken, the system collapsing into parallel worlds that cannot access each other.
   - type: pause
     duration: 800
   - type: text
-    value: "Aleksy's reality: Causal sequences are clear. Events happen in specific orders. Interpretation follows logical chains. Reality is singular and coherent."
+    value: |
+      Aleksy's reality: Causal sequences are clear, events following a linear chain of cause and effect that makes sense according to the rules of logical progression. Events happen in specific orders, the timeline unambiguous and coherent.
+      Interpretation follows logical chains, reality singular and coherent according to the principles of causal analysis.
   - type: pause
     duration: 800
   - type: text
-    value: "Mira's reality: Emotional sequences are clear. Events feel specific ways. Interpretation follows emotional resonance. Reality is multiple and coherent."
+    value: |
+      Mira's reality: Emotional sequences are clear, events following a pattern of feeling and meaning that makes sense according to the rules of emotional experience. Events feel specific ways, the emotional truth of the experience more significant than the temporal sequence.
+      Interpretation follows emotional resonance, reality multiple and coherent according to the principles of emotional understanding.
   - type: pause
     duration: 800
   - type: text
-    value: "Both realities are internally coherent. Both are mutually incompatible. Neither can access the other's interpretation of the same moment."
+    value: |
+      Both realities are internally coherent, each making complete sense within its own framework. Both are mutually incompatible, each requiring the other to be false in order to be fully true.
+      Neither can access the other's interpretation of the same moment, each interpretation engine generating a complete world that excludes the other.
 choices:
   - text: "Observe that reconciliation is no longer possible"
     goto: ch26_no_reconciliation_possible

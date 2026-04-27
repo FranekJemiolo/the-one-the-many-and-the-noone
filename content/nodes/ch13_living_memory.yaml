@@ -1,19 +1,27 @@
 id: ch13_living_memory
 content:
   - type: text
-    value: "You focus on the living memory system. The machines in Morrow Vale are not just storing data. They are participating in the ecosystem's memory."
+    value: |
+      You focus on the living memory system, trying to understand how the machines in Morrow Vale participate in ecological processes. The machines are not just storing data, not just recording information about the environment.
+      They are participating in the ecosystem's memory, becoming part of how the ecosystem remembers itself across time.
   - type: pause
     duration: 800
   - type: text
-    value: "When a mechanical tree experiences a drought, it remembers. When the drought returns, the tree adapts based on that memory—not through programming, but through ecological memory."
+    value: |
+      When a mechanical tree experiences a drought, it remembers the conditions, the quality of light, the pattern of water scarcity. When the drought returns, the tree adapts based on that memory—not through programming, not through a pre-written algorithm.
+      The adaptation comes through ecological memory, through the tree's participation in the ecosystem's accumulated experience of drought conditions.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not artificial intelligence. It is something else: machines that have been integrated into the living memory of a biological system."
+    value: |
+      This is not artificial intelligence in the traditional sense, not a system that has been programmed to simulate intelligence. It is something else: machines that have been integrated into the living memory of a biological system.
+      The machines are not separate from the ecosystem—they have become part of how the ecosystem remembers, part of the system's capacity to learn from experience.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what Mira's emotional interpretation looks like when applied to machines. Machines can feel ecological history. They can remember and adapt based on lived experience."
+    value: |
+      You realize this is what Mira's emotional interpretation looks like when applied to machines. Machines can feel ecological history, can participate in the emotional resonance of the ecosystem they are embedded in.
+      They can remember and adapt based on lived experience, accessing forms of memory that were previously exclusive to living organisms.
 choices:
   - text: "Speak with Morrow Vale"
     goto: ch13_morrow_appearance

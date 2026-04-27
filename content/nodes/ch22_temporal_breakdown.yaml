@@ -1,19 +1,27 @@
 id: ch22_temporal_breakdown
 content:
   - type: text
-    value: "You observe the temporal breakdown. The station is not functioning normally, but it is not collapsing either. It is adapting to non-linear time."
+    value: |
+      You observe the temporal breakdown, watching how the station adapts to the collapse of linear time. The station is not functioning normally, not operating according to the rules of linear causality. But it is not collapsing either, not breaking down into chaos.
+      It is adapting to non-linear time, finding new ways to function in a temporal field rather than a temporal line.
   - type: pause
     duration: 800
   - type: text
-    value: "Researchers complete experiments before they begin. The Guard checkpoints passengers who haven't arrived yet. The station operates in a temporal field rather than a temporal line."
+    value: |
+      Researchers complete experiments before they begin, accessing the results of their work before performing the procedures that would normally produce those results. The Guard checkpoints passengers who haven't arrived yet, processing travelers through security before they have even boarded their vessels.
+      The station operates in a temporal field rather than a temporal line, with events related through association rather than sequence.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not chaos. The station has found a way to function with time as a field. But it is fundamentally different from linear time operation."
+    value: |
+      This is not chaos, not random disorder where events occur without any relationship to each other. The station has found a way to function with time as a field, has developed procedures and protocols that work in a landscape where all moments are equally present.
+      But it is fundamentally different from linear time operation, represents a complete restructuring of how causality and sequence are understood.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when temporal oscillation breaks. The system does not return to linearity. It collapses into a new state where time is a field."
+    value: |
+      You realize this is what happens when temporal oscillation breaks. The system does not return to linearity, does not restore the normal ordering of past, present, and future. It collapses into a new state where time is a field, where all moments coexist without sequence.
+      The breakdown of linear time is not a failure—it is a transformation into a different way of experiencing temporality.
 choices:
   - text: "Observe the station fragmentation"
     goto: ch22_station_fragmentation

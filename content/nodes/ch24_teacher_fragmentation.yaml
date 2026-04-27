@@ -1,19 +1,27 @@
 id: ch24_teacher_fragmentation
 content:
   - type: text
-    value: "You observe the Teacher fragmentation. Like the Witness, the Teacher is fragmenting into multiple versions under system collapse pressure."
+    value: |
+      You observe the Teacher fragmentation, watching as the nameless role that has appeared in various educational settings begins to split under the pressure of system collapse. Like the Witness before them, the Teacher is fragmenting into multiple versions.
+      The fragmentation is not a failure of identity—it is a transformation into a new mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "Teacher A teaches one version of the truth. Teacher B teaches another. Teacher C teaches a third. All are the same Teacher, but all are different versions."
+    value: |
+      Teacher A teaches one version of the truth, explaining multiplicity through a specific framework with absolute certainty. Teacher B teaches another version, equally certain of a different framework. Teacher C teaches a third version, insisting on a completely different approach to understanding reality.
+      All are the same Teacher, sharing the same essential pattern of instructional behavior. But all are different versions, existing in incompatible states.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a dissociation. The Teacher is aware of all versions. The Teacher is simply existing in multiple instructional states simultaneously."
+    value: |
+      This is not a dissociation, not a psychological splitting where the Teacher loses awareness of the other versions. The Teacher is aware of all versions, conscious of the multiplicity of their own identity.
+      The Teacher is simply existing in multiple instructional states simultaneously, teaching different truths in different contexts while maintaining awareness of the entire pattern.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the pattern. Under system collapse, identity does not remain singular. Identity becomes multiplicity patterns that contain multiple versions simultaneously."
+    value: |
+      You realize this is the pattern. Under system collapse, identity does not remain singular, does not maintain the unified self that traditional identity assumes. Identity becomes multiplicity patterns that contain multiple versions simultaneously.
+      The fragmentation is not a breakdown—it is the emergence of a new form of identity.
 choices:
   - text: "Understand the knowledge multiplicity"
     goto: ch24_knowledge_multiplicity

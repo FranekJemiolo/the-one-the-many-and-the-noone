@@ -1,31 +1,44 @@
 id: ch47_chapter_end
 content:
   - type: text
-    value: "The story is complete. The system has chosen The Overlap configuration as its final state. Plural stability is the default. Singular stability is available when needed."
+    value: |
+      The story is complete, the system having chosen The Overlap configuration as its final state. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions. Singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
+      The transformation is complete, the system having found its optimal mode of existence.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the victory of the Resistance's position. The system has chosen plural stability as the default while preserving singular stability as an available option."
+    value: |
+      This is the victory of the Resistance's position, the complete validation of the struggle against the Engine's dominance. The system has chosen plural stability as the default while preserving singular stability as an available option.
+      The Resistance's goal has been achieved without requiring the destruction of the Engine.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine is not destroyed. The Engine's compression layer is still available. But the Engine is no longer dominant. The system has chosen plural stability based on its accumulated experience."
+    value: |
+      The Engine is not destroyed, not eliminated by the Resistance's victory. The Engine's compression layer is still available, still functional for situations where singular interpretation is needed. But the Engine is no longer dominant, no longer able to assert that singular stability is the only valid option.
+      The system has chosen plural stability based on its accumulated experience.
   - type: pause
     duration: 800
   - type: text
-    value: "Rose's coherence field is now structural. The system can stabilize contradictions without external intervention. The Resistance's method has been internalized."
+    value: |
+      Rose's coherence field is now structural, the system having internalized the capability to stabilize contradictions without external intervention. The Resistance's method has been internalized, the system operating according to the Resistance's approach without requiring the Resistance's continued presence.
+      The victory is complete, the transformation successful.
   - type: pause
     duration: 1000
   - type: text
-    value: "The One, The Many, and The No-One are all available as options, but The Overlap is the chosen configuration. The system has found its optimal state in balanced coexistence."
+    value: |
+      The One, The Many, and The No-One are all available as options, the system capable of accessing any of these configurations if needed. But The Overlap is the chosen configuration, the system having selected balanced coexistence as its optimal state.
+      The system has found its optimal state in balanced coexistence, the best possible resolution of the conflict between compression and multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the end of the story. The system has evolved from stable reality breakdown through interpretation systems emergence, system collapse, and identity crystallization, to finally choose its optimal configuration in the endgame."
+    value: |
+      This is the end of the story, the conclusion of the transformation that began with the system's collapse. The system has evolved from stable reality breakdown through interpretation systems emergence, system collapse, and identity crystallization, to finally choose its optimal configuration in the endgame.
+      The journey is complete, the system having found its way to balanced coexistence.
   - type: pause
     duration: 1000
   - type: text
-    value: "THE END"
+    value: |
+      THE END
 choices:
   - text: "Return to beginning"
     goto: chapter_1

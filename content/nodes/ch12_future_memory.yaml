@@ -1,19 +1,27 @@
 id: ch12_future_memory
 content:
   - type: text
-    value: "You are in a temporal anomaly zone. Something is wrong with the direction of time. Future events are appearing as memories."
+    value: |
+      You are in a temporal anomaly zone, a location where the normal constraints of time have weakened in ways that are difficult to describe. Something is wrong with the direction of time, with the way past, present, and future relate to each other.
+      Future events are appearing as memories, as if the temporal boundary between what has happened and what will happen has become permeable.
   - type: pause
     duration: 800
   - type: text
-    value: "You remember something that hasn't happened yet. A conversation. A decision. An outcome. The memory is as clear as any past memory, but it describes the future."
+    value: |
+      You remember something that hasn't happened yet. A conversation, specific words spoken in a specific tone. A decision, a choice made under circumstances that have not yet occurred. An outcome, a result that has not yet been reached.
+      The memory is as clear as any past memory, as vivid and detailed as any recollection of actual events. But it describes the future, not the past.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not precognition in the traditional sense. You are not predicting the future. You are remembering it as if it has already occurred."
+    value: |
+      This is not precognition in the traditional sense, not a vague intuition or a probabilistic prediction about what might happen. You are not predicting the future.
+      You are remembering it as if it has already occurred, as if from a perspective where the future is already past.
   - type: pause
     duration: 800
   - type: text
-    value: "The implications are disturbing. If the future can be remembered, then causality is not linear. The future is influencing the present as a memory."
+    value: |
+      The implications are disturbing. If the future can be remembered, then causality is not linear, does not flow only from past to future. The future is influencing the present as a memory, as something that has already been experienced.
+      The normal assumption that cause precedes effect is being violated by the very experience of remembering what has not yet happened.
 choices:
   - text: "Analyze the causality inversion"
     goto: ch12_causality_inversion

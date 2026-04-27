@@ -1,23 +1,33 @@
 id: ch2_factual_correctness
 content:
   - type: text
-    value: "You review the medical records. Every detail is precise: time of injury, nature of wound, treatment administered, recovery timeline."
+    value: |
+      You review the medical records with meticulous attention, looking for any discrepancy, any error that might explain the Patient's strange account.
+      Every detail is precise: time of injury, nature of wound, treatment administered, recovery timeline. The documentation is flawless.
   - type: pause
     duration: 800
   - type: text
-    value: "There is no ambiguity. The facts are correct. The causal chain is clean. From a purely logical perspective, nothing is wrong."
+    value: |
+      There is no ambiguity. The facts are correct. The causal chain is clean. From a purely logical perspective, nothing is wrong.
+      The injury happened at the recorded time, the treatment was administered as documented, the recovery followed the expected timeline. Everything aligns perfectly.
   - type: pause
     duration: 800
   - type: text
-    value: "But the Patient's emotional account persists. Not as a contradiction to the facts, but as a parallel layer that doesn't align with them."
+    value: |
+      But the Patient's emotional account persists, not as a contradiction to the facts but as a parallel layer that doesn't align with them.
+      The facts are correct, but the feelings attached to them are wrong, as if the emotional experience has been detached from the causal events and reassembled in a different order.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize something unsettling: factual correctness does not guarantee emotional correctness. An event can be true in fact and wrong in feeling simultaneously."
+    value: |
+      You realize something unsettling: factual correctness does not guarantee emotional correctness. An event can be true in fact and wrong in feeling simultaneously.
+      The world can be factually accurate while emotionally false, and this split between fact and feeling suggests a deeper structure to experience than you had assumed.
   - type: pause
     duration: 800
   - type: text
-    value: "This breaks the assumption that emotion follows causality. If feelings can have their own timeline, then emotional truth is not dependent on factual truth."
+    value: |
+      This breaks the fundamental assumption that emotion follows causality. If feelings can have their own timeline, their own logic independent of events, then emotional truth is not dependent on factual truth.
+      The two can diverge, can operate on separate tracks, and both can be true in their own domains without contradicting each other.
 choices:
   - text: "Explore the emotional wrongness"
     goto: ch2_emotional_wrongness

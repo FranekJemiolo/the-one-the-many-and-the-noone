@@ -1,19 +1,27 @@
 id: ch21_coexistence_battle
 content:
   - type: text
-    value: "The conflict between Rose and Nemesis becomes visible. This is not a metaphorical battle. It is a direct conflict between two interpretation systems."
+    value: |
+      The conflict between Rose and Nemesis becomes visible, the tension between the two interpretation engines manifesting as a direct confrontation. This is not a metaphorical battle, not an abstract conflict between philosophical positions.
+      It is a direct conflict between two interpretation systems, each trying to impose its approach on the same territory.
   - type: pause
     duration: 800
   - type: text
-    value: "Rose is stabilizing contradictions, allowing multiple interpretations to coexist without collapse."
+    value: |
+      Rose is stabilizing contradictions, allowing multiple interpretations to coexist without collapse. The coherence field maintains the conditions for plural reality, creating a space where incompatible truths can exist without breaking the system.
+      Red and blue objects coexist, past and future memories remain equally accessible, causal and emotional interpretations describe the same event without requiring reconciliation.
   - type: pause
     duration: 800
   - type: text
-    value: "Nemesis is compressing contradictions, forcing multiple interpretations into a single coherent narrative."
+    value: |
+      Nemesis is compressing contradictions, forcing multiple interpretations into a single coherent narrative. The compression field eliminates multiplicity, making singular interpretation feel more natural and more correct.
+      Red objects become dominant while blue objects fade, past memories become primary while future memories become secondary, causal interpretation becomes default while emotional interpretation becomes optional.
   - type: pause
     duration: 800
   - type: text
-    value: "Both systems are operating in the same zone. The contradiction is being simultaneously stabilized and compressed. The result is intense tension."
+    value: |
+      Both systems are operating in the same zone, each trying to impose its interpretation on the same reality. The contradiction is being simultaneously stabilized and compressed, held in a state of coexistence by Rose while being forced into singularity by Nemesis.
+      The result is intense tension, the system straining under the competing demands of two incompatible approaches.
 choices:
   - text: "Observe Rose's stabilization"
     goto: ch21_rose_stabilization

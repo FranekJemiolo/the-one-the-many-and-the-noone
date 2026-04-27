@@ -1,19 +1,27 @@
 id: ch24_instructional_breakdown
 content:
   - type: text
-    value: "You observe the instructional breakdown. The Teacher is not failing to communicate. The communication system itself has become multiple."
+    value: |
+      You observe the instructional breakdown, watching how the communication system has transformed under system collapse. The Teacher is not failing to communicate, not making errors in instruction that cause students to misunderstand.
+      The communication system itself has become multiple, the very mechanism of knowledge transmission restructured by multiplicity.
   - type: pause
     duration: 800
   - type: text
-    value: "When the Teacher speaks, the instruction does not travel as a single signal. It travels as multiple signals that are interpreted differently by each receiver."
+    value: |
+      When the Teacher speaks, the instruction does not travel as a single signal that all students receive in the same form. It travels as multiple signals that are interpreted differently by each receiver.
+      The same words produce different meanings depending on who receives them, the interpretation diverging at the point of reception.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem with the Teacher's method. This is a structural feature of the multiplicity system. Knowledge transmission has become inherently multiple."
+    value: |
+      This is not a problem with the Teacher's method, not a failure of instructional technique. This is a structural feature of the multiplicity system. Knowledge transmission has become inherently multiple.
+      The breakdown is not a failure—it is a transformation into a new mode of communication.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what happens when the oscillation between singular and multiple interpretation breaks. The system does not return to singular knowledge transmission. It collapses into multiplicity transmission."
+    value: |
+      You realize this is what happens when the oscillation between singular and multiple interpretation breaks. The system does not return to singular knowledge transmission, does not restore the normal flow of information from teacher to student.
+      It collapses into multiplicity transmission, where knowledge is inherently multiple and interpretation diverges at every point.
 choices:
   - text: "Observe the Teacher fragmentation"
     goto: ch24_teacher_fragmentation

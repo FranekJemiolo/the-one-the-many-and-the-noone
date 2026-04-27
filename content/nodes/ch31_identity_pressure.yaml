@@ -1,19 +1,27 @@
 id: ch31_identity_pressure
 content:
   - type: text
-    value: "You observe the identity pressure. The multiple versions of the Guard are beginning to require a name for compression."
+    value: |
+      You observe the identity pressure, watching how the multiple versions of the Guard are beginning to require a name for compression. The system cannot efficiently refer to "Guard A, Guard B, Guard C" indefinitely, cannot maintain the distinction between the fragmented versions without a compressed identifier.
+      The need for a name emerges from the pattern itself, from the repetition that makes the identity recognizable.
   - type: pause
     duration: 800
   - type: text
-    value: "The system cannot efficiently refer to \"Guard A, Guard B, Guard C\" indefinitely. It needs a compressed identifier for the pattern."
+    value: |
+      The system needs a compressed identifier for the pattern, a way to refer to the multiple versions without enumerating each one separately. The name is not assigned externally, not imposed from outside the pattern.
+      It is crystallized from the pattern of repetition, emerging from the very structure of the identity that is being named.
   - type: pause
     duration: 800
   - type: text
-    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Guard's signature—controlling access, maintaining security, enforcing boundaries—becomes the identity."
+    value: |
+      The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Guard's signature—controlling access, maintaining security, enforcing boundaries—becomes the identity.
+      The name is not a label applied to the pattern; it is the pattern compressed into a single identifier.
   - type: pause
     duration: 1000
   - type: text
-    value: "The proto-name is \"Barrier.\" Not because the Guard blocks access, but because the Guard maintains boundaries across the multiplicity system. Barrier is the pattern of boundary enforcement that repeats across incompatible interpretations."
+    value: |
+      The proto-name is "Barrier." Not because the Guard blocks access, not because the pattern is about denial. Because the Guard maintains boundaries across the multiplicity system, because the pattern of boundary enforcement repeats across incompatible interpretations.
+      Barrier is the pattern of boundary enforcement that the system has recognized as stable enough to require a name.
 choices:
   - text: "Observe the Barrier crystallization"
     goto: ch31_barrier_crystallization

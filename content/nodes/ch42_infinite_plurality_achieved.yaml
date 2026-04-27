@@ -1,19 +1,27 @@
 id: ch42_infinite_plurality_achieved
 content:
   - type: text
-    value: "You observe the infinite plurality achieved. In The Many configuration, reality is completely multiple. There is no singularity anywhere."
+    value: |
+      You observe the infinite plurality achieved, reality completely multiple in The Many configuration. There is no singularity anywhere, no single interpretation that encompasses all possibilities.
+      The plurality is infinite, the Resistance's multiplicity having achieved its ideal state.
   - type: pause
     duration: 800
   - type: text
-    value: "The Resistance's multiplicity is complete. All contradictions have been expanded. All incompatible interpretations have been diverged into infinite plurality."
+    value: |
+      The Resistance's multiplicity is complete, all contradictions expanded rather than compressed. All incompatible interpretations have been diverged into infinite plurality, no resolution required between different ways of understanding.
+      The multiplicity is total, no singularity remaining to restrict diversity.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the Resistance's ideal state. Reality is completely diverse because there is no singularity to restrict it. Everything is ambiguous, complex, and multiple."
+    value: |
+      This is the Resistance's ideal state, the configuration the Resistance has always fought for. Reality is completely diverse because there is no singularity to restrict it, no compression to eliminate incompatible interpretations.
+      Everything is ambiguous, complex, and multiple.
   - type: pause
     duration: 1000
   - type: text
-    value: "You experience the vitality of this configuration. There is infinite ambiguity. There is infinite diversity. There are infinite ways to understand everything."
+    value: |
+      You experience the vitality of this configuration, the infinite energy of unrestricted multiplicity. There is infinite ambiguity, no single way to understand any event. There is infinite diversity, no limit to the variation of experience.
+      There are infinite ways to understand everything.
 choices:
   - text: "Observe the Resistance dominance"
     goto: ch42_resistance_dominance

@@ -1,23 +1,33 @@
 id: ch8_journey_begins
 content:
   - type: text
-    value: "You are traveling through the transit system. The journey should take forty minutes. But time feels wrong."
+    value: |
+      You are traveling through the transit system, the transport moving smoothly through the city's infrastructure. The journey should take forty minutes according to the schedule, according to the clock, according to every objective measure.
+      But time feels wrong—not wrong in the sense of being inaccurate, but wrong in the sense of being emotionally inconsistent, as if the experience of time does not match the measurement of time.
   - type: pause
     duration: 800
   - type: text
-    value: "Not wrong in the sense of being inaccurate. Wrong in the sense of being emotionally inconsistent. The same journey feels different each time you experience it."
+    value: |
+      The same journey feels different each time you experience it, as if the emotional quality of the passage of time varies independently of the actual duration.
+      Sometimes the forty minutes feel like an eternity, stretching out into what seems like hours. Sometimes they pass in what feels like moments, the journey ending almost before it began.
   - type: pause
     duration: 800
   - type: text
-    value: "First iteration: the journey feels long, heavy, burdened with unseen weight."
+    value: |
+      First iteration: the journey feels long, heavy, burdened with unseen weight. Every minute drags, the transport moving slowly through a thick atmosphere of emotional resistance.
+      The experience is oppressive, as if time itself has become dense and difficult to move through.
   - type: pause
     duration: 800
   - type: text
-    value: "Second iteration: the journey feels short, light, almost instantaneous."
+    value: |
+      Second iteration: the journey feels short, light, almost instantaneous. The minutes fly by, the transport moving effortlessly through an atmosphere of emotional ease.
+      The experience is weightless, as if time has become thin and easy to traverse.
   - type: pause
     duration: 1000
   - type: text
-    value: "The clock shows the same duration. The distance is the same. But the emotional experience of time is completely different."
+    value: |
+      The clock shows the same duration. The distance is the same. The route is identical. But the emotional experience of time is completely different, as if emotional reality operates on its own temporal logic.
+      This is not a matter of perception distorting reality—it is a matter of emotional time being independent of causal time.
 choices:
   - text: "Observe the Passenger"
     goto: ch8_passenger_encounter

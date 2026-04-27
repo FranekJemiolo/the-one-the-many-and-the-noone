@@ -1,19 +1,27 @@
 id: ch16_null_zone
 content:
   - type: text
-    value: "You enter a Null Zone. The environment is not unstable. It is empty—not of matter, but of meaning."
+    value: |
+      You enter a Null Zone, the boundaries of normal reality weakening as you cross into a space where interpretation itself has failed. The environment is not unstable, not breaking apart in the way that spatial anomalies do.
+      It is empty—not of matter, but of meaning, as if the very capacity to interpret reality has been stripped away.
   - type: pause
     duration: 800
   - type: text
-    value: "Objects exist here, but they cannot be interpreted. You see a chair, but you cannot determine its purpose. You see a door, but you cannot know where it leads."
+    value: |
+      Objects exist here, physically present and fully accessible to your senses. But they cannot be interpreted. You see a chair, but you cannot determine its purpose, cannot understand what it is for.
+      You see a door, but you cannot know where it leads, cannot form any expectation about what lies beyond it.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not sensory deprivation. Your senses work fine. The problem is that interpretation itself fails. Meaning cannot crystallize in this zone."
+    value: |
+      This is not sensory deprivation. Your senses work fine, you can see and hear and touch without difficulty. The problem is that interpretation itself fails, that the normal process of assigning meaning to perception has broken down.
+      Meaning cannot crystallize in this zone, cannot take shape from the raw data of perception.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what happens when the interpretation field collapses completely. Reality exists, but it cannot be understood."
+    value: |
+      You realize this is what happens when the interpretation field collapses completely. Reality exists, objects are present, perception functions normally. But reality cannot be understood, cannot be made sense of.
+      The world is there, but the capacity to interpret it has been stripped away.
 choices:
   - text: "Observe the identity failure"
     goto: ch16_identity_failure

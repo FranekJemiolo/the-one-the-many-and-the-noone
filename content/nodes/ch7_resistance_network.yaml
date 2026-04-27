@@ -1,23 +1,33 @@
 id: ch7_resistance_network
 content:
   - type: text
-    value: "You recognize the pattern. This is not the first time contradiction has been injected. It has been happening throughout the anomalies."
+    value: |
+      You recognize the pattern suddenly, the pieces falling into place with a clarity that feels like revelation. This is not the first time contradiction has been injected into the system.
+      It has been happening throughout the anomalies you have investigated, each one a deliberate act rather than a random occurrence.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Witness's multiple versions. The Patient's emotional-causal split. The Guard's acceptance of temporal instability. The cyborg's memory multiplicity. The shared dual-reality memory."
+    value: |
+      The Witness's multiple versions of the same moment. The Patient's emotional-causal split where feelings operated independently of events. The Guard's acceptance of temporal instability as normal rather than malfunction.
+      The cyborg's memory multiplicity containing multiple contradictory pasts. The shared dual-reality memory where you and Mira experienced the same moment differently together.
   - type: pause
     duration: 800
   - type: text
-    value: "These were not random anomalies. They were the Resistance's work—deliberate injections of multiplicity into a system that wants compression."
+    value: |
+      These were not random anomalies. They were not natural breakdowns of reality. They were the Resistance's work—deliberate injections of multiplicity into a system that wants compression, that is trying to force reality into singular narratives.
+      Each anomaly was a carefully constructed contradiction, designed to preserve multiplicity against the Engine's pressure toward singularity.
   - type: pause
     duration: 800
   - type: text
-    value: "The Resistance is not an organization. It is a method. It is the practice of reintroducing contradiction into a world that no longer generates it naturally."
+    value: |
+      The Resistance is not an organization in the traditional sense, not a group with leaders and members and meetings. It is a method, a practice, a way of operating.
+      It is the practice of reintroducing contradiction into a world that no longer generates it naturally, of ensuring that multiplicity remains accessible even as the Engine tries to compress it into singularity.
   - type: pause
     duration: 1000
   - type: text
-    value: "You write in your notebook: 'Resistance network identified. Method: contradiction injection. Purpose: preserve interpretive multiplicity against Engine compression.'"
+    value: |
+      You write in your notebook with deliberate precision, the words capturing the structural insight: 'Resistance network identified. Method: contradiction injection.
+      Purpose: preserve interpretive multiplicity against Engine compression. The Resistance is not fighting the Engine—it is ensuring reality remains multiple.'
 choices:
   - text: "Conclude the chapter"
     goto: ch7_chapter_end

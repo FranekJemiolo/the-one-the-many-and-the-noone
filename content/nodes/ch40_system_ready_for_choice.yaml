@@ -1,19 +1,27 @@
 id: ch40_system_ready_for_choice
 content:
   - type: text
-    value: "You observe the system ready for choice. The five canonical endings are available configurations. The system can choose any of them."
+    value: |
+      You observe the system ready for choice, the five canonical endings available as configurations that the system can select. The system is not being forced into any ending, not compelled to accept a predetermined fate.
+      The system has the agency to choose its final configuration based on its experience and preferences.
   - type: pause
     duration: 800
   - type: text
-    value: "The system is not being forced into any ending. The system has the agency to choose its final configuration. The endgame will be about which configuration the system selects."
+    value: |
+      The system is not being forced into any ending, not compelled by external forces to accept a specific configuration. The system has the agency to choose its final configuration, the freedom to select the ending that best aligns with its experience and preferences.
+      The endgame will be about which configuration the system selects.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a predetermined outcome. The system's choice will depend on the accumulated experience of operating in the current equilibrium and the preferences that have emerged."
+    value: |
+      This is not a predetermined outcome, not a fate that has been decided before the system can exercise its choice. The system's choice will depend on the accumulated experience of operating in the current equilibrium and the preferences that have emerged from that experience.
+      The choice will be genuine, not imposed.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the true endgame. The system is not being forced into a configuration by external forces. The system is choosing its own final state based on its experience."
+    value: |
+      You realize this is the true endgame. The system is not being forced into a configuration by external forces, not manipulated into accepting a predetermined outcome. The system is choosing its own final state based on its experience, selecting the configuration that best aligns with its accumulated preferences.
+      The endgame is about genuine choice, not predetermined fate.
 choices:
   - text: "Observe the final configuration options"
     goto: ch40_final_configuration_options

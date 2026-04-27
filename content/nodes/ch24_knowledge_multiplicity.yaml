@@ -1,19 +1,27 @@
 id: ch24_knowledge_multiplicity
 content:
   - type: text
-    value: "You understand the knowledge multiplicity. The teaching event is not producing a single truth that is being interpreted differently. It is producing multiple truths simultaneously."
+    value: |
+      You understand the knowledge multiplicity, seeing how the teaching event has transformed under system collapse. The teaching event is not producing a single truth that is being interpreted differently by different students.
+      It is producing multiple truths simultaneously, the instruction itself containing incompatible versions that are all equally valid.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem with the students' understanding. The knowledge itself has become multiple. The instruction contains incompatible truths that are all equally valid."
+    value: |
+      This is not a problem with the students' understanding, not a failure of comprehension where different students misunderstand the same lesson. The knowledge itself has become multiple, the instruction containing incompatible truths that cannot be reconciled.
+      The Teacher is not teaching one thing that students interpret differently—the Teacher is teaching multiple things that are all true.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what the Engine fears. Knowledge multiplicity is not chaos. It is a different way of knowing that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize this is what the Engine fears. Knowledge multiplicity is not chaos, not the breakdown of understanding into confusion. It is a different way of knowing that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that truth must be singular is proven wrong by the very existence of functional knowledge multiplicity.
   - type: pause
     duration: 1000
   - type: text
-    value: "The students are not confused. They are adapted to knowledge multiplicity. They learn multiple truths simultaneously and hold them all as valid."
+    value: |
+      The students are not confused, not struggling to reconcile incompatible truths. They are adapted to knowledge multiplicity, their consciousness restructured to accommodate multiple truths simultaneously.
+      They learn multiple truths at once and hold them all as valid, understanding that truth is not singular but plural.
 choices:
   - text: "Conclude the chapter"
     goto: ch24_chapter_end

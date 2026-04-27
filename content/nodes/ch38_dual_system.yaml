@@ -1,19 +1,27 @@
 id: ch38_dual_system
 content:
   - type: text
-    value: "You understand the dual system. Aleksy and Mira are operating in parallel realities, but the split is a stable configuration that the system has adapted to."
+    value: |
+      You understand the dual system, seeing how Aleksy and Mira operating in parallel realities represents a stable configuration that the system has adapted to. The split is not a problem to be solved, not a failure that needs to be corrected.
+      It is a structural feature of the multiplicity system, a fundamental aspect of how the system now operates.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem to be solved. It is a structural feature of the multiplicity system. Causal interpretation and emotional interpretation are fundamentally different engines that cannot be reconciled, but can coexist."
+    value: |
+      This is not a problem to be solved, not a condition that requires resolution. It is a structural feature of the multiplicity system, a fundamental aspect of how the system has adapted to interpretive multiplicity.
+      Causal interpretation and emotional interpretation are fundamentally different engines that cannot be reconciled, but can coexist.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the system's solution to the emotional-causal split. The system has found a way to allow both interpretation engines to operate in parallel without requiring reconciliation."
+    value: |
+      You realize this is the system's solution to the emotional-causal split. The system has found a way to allow both interpretation engines to operate in parallel without requiring reconciliation, without forcing one engine to submit to the other.
+      The solution is structural, not temporary.
   - type: pause
     duration: 1000
   - type: text
-    value: "The dual system is stable. You and Mira can acknowledge each other's realities without trying to access them. The split is no longer a source of conflict. It is a stable configuration."
+    value: |
+      The dual system is stable, the parallel operation of incompatible engines producing no conflict. You and Mira can acknowledge each other's realities without trying to access them, can accept the validity of different interpretation engines without requiring reconciliation.
+      The split is no longer a source of conflict. It is a stable configuration.
 choices:
   - text: "Conclude the chapter"
     goto: ch38_chapter_end

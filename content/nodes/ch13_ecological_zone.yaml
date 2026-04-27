@@ -1,19 +1,27 @@
 id: ch13_ecological_zone
 content:
   - type: text
-    value: "You enter Morrow Vale. This is not a natural ecosystem. It is a constructed ecological zone where machines have been integrated into biological systems."
+    value: |
+      You enter Morrow Vale, the boundary between the constructed and the natural blurring as you cross into the zone. This is not a natural ecosystem in the traditional sense, not a system that evolved without human intervention.
+      It is a constructed ecological zone where machines have been integrated into biological systems, where the distinction between technology and life has been deliberately dissolved.
   - type: pause
     duration: 800
   - type: text
-    value: "The environment is unusual. Machines are not just functioning mechanically—they are behaving as if they have memory, as if they are part of a living system."
+    value: |
+      The environment is unusual, difficult to categorize according to normal distinctions between living and non-living. Machines are not just functioning mechanically, not just executing their programmed operations.
+      They are behaving as if they have memory, as if they are part of a living system, as if they participate in the ecological processes that normally belong only to biological organisms.
   - type: pause
     duration: 800
   - type: text
-    value: "A mechanical tree does not just process light and water. It remembers previous cycles. It adapts based on what it has experienced."
+    value: |
+      A mechanical tree does not just process light and water according to its programming. It remembers previous cycles, retains information about past seasons, adapts its behavior based on what it has experienced.
+      The machine is not just simulating biological behavior—it is participating in actual ecological memory, forming a relationship to time that belongs to living systems.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not artificial intelligence in the traditional sense. It is ecological memory—machines that participate in the living memory of the ecosystem."
+    value: |
+      This is not artificial intelligence in the traditional sense, not a system that has been programmed to simulate intelligence. It is ecological memory—machines that participate in the living memory of the ecosystem.
+      The machines are not separate from the ecosystem's memory processes. They are integrated into them, becoming part of how the ecosystem remembers itself across time.
 choices:
   - text: "Observe the machine behavior"
     goto: ch13_machine_behavior

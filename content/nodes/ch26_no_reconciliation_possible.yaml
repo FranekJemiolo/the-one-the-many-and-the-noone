@@ -1,19 +1,27 @@
 id: ch26_no_reconciliation_possible
 content:
   - type: text
-    value: "You observe that reconciliation is no longer possible. You and Mira cannot bridge the gap between your realities."
+    value: |
+      You observe that reconciliation is no longer possible, the structural split between causal and emotional interpretation now permanent. You and Mira cannot bridge the gap between your realities, cannot find a way to experience the same moment together.
+      The two interpretation engines have become completely separate, each generating a world that excludes the other.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a communication failure. You can communicate with each other. But you cannot share the same interpretation of reality."
+    value: |
+      This is not a communication failure, not a breakdown in the ability to exchange information. You can communicate with each other, can describe your experiences and attempt to explain your interpretation of reality.
+      But you cannot share the same interpretation of reality, cannot experience the same moment in the same way.
   - type: pause
     duration: 800
   - type: text
-    value: "Aleksy cannot access Mira's emotional interpretation. Mira cannot access Aleksy's causal interpretation. Both are locked into their own reality engines."
+    value: |
+      Aleksy cannot access Mira's emotional interpretation, cannot experience the emotional truth that makes sense of events according to Mira's principles. Mira cannot access Aleksy's causal interpretation, cannot experience the causal truth that makes sense of events according to Aleksy's principles.
+      Both are locked into their own reality engines, each interpretation engine generating a complete world that excludes the other.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the permanent split. The oscillation has broken. The system has not returned to shared reality. It has collapsed into parallel realities."
+    value: |
+      You realize this is the permanent split. The oscillation has broken, the system no longer able to shift between causal and emotional interpretation. The system has not returned to shared reality, has not restored the ability to experience both truths simultaneously.
+      It has collapsed into parallel realities, each interpretation engine operating independently in its own complete world.
 choices:
   - text: "Observe the parallel worlds"
     goto: ch26_parallel_worlds

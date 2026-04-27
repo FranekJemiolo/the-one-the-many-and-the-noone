@@ -1,19 +1,27 @@
 id: ch39_new_equilibrium
 content:
   - type: text
-    value: "You understand the new equilibrium. The system has found a way to have both singular and plural stability available, with plural stability as the preferred default."
+    value: |
+      You understand the new equilibrium, seeing how the system has found a way to have both singular and plural stability available with plural stability as the preferred default. The equilibrium is not unstable, not a temporary balance that will eventually break.
+      It is a stable configuration, the system having found an optimal way to operate.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the optimal configuration. The system is not forced to choose between compression and multiplicity. It can have both, with plural stability as the default."
+    value: |
+      This is the optimal configuration, the best possible arrangement given the system's experience with both approaches. The system is not forced to choose between compression and multiplicity, not required to sacrifice one approach for the other.
+      It can have both, with plural stability as the default.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what the Resistance was fighting for. Not to destroy the Engine, but to create a system where both singular and plural stability are available, with plural stability as the default."
+    value: |
+      You realize this is what the Resistance was fighting for. Not to destroy the Engine, not to eliminate the capability for singular interpretation. To create a system where both singular and plural stability are available, with plural stability as the default.
+      The Resistance's goal was to create choice, not to eliminate options.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Engine is not destroyed. The Engine is simply no longer dominant. The system has chosen plural stability, and the Engine accepts this choice. Both layers operate in coexistence."
+    value: |
+      The Engine is not destroyed, not eliminated by the Resistance's victory. The Engine is simply no longer dominant, no longer able to assert that singular stability is the only valid option. The system has chosen plural stability, and the Engine accepts this choice.
+      Both layers operate in coexistence, each serving its function.
 choices:
   - text: "Conclude the chapter"
     goto: ch39_chapter_end

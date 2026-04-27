@@ -1,19 +1,27 @@
 id: ch23_witness_multiple_versions
 content:
   - type: text
-    value: "The Witness is appearing in multiple versions simultaneously. This is not the same role in different contexts. This is the same role existing in multiple incompatible states."
+    value: |
+      The Witness is appearing in multiple versions simultaneously, the proto-identity that was beginning to crystallize now fragmenting under the pressure of system collapse. This is not the same role in different contexts, not a single pattern manifesting through different instances.
+      This is the same role existing in multiple incompatible states, the proto-identity splitting into distinct versions that cannot be reconciled.
   - type: pause
     duration: 800
   - type: text
-    value: "Witness A reports the event as happening at 14:03. Witness B reports the same event as happening at 14:05. Witness C reports the event as not happening at all."
+    value: |
+      Witness A reports the event as happening at 14:03, describing the temporal sequence with absolute certainty. Witness B reports the same event as happening at 14:05, equally certain of a different temporal sequence.
+      Witness C reports the event as not happening at all, insisting that the event never occurred in any timeline.
   - type: pause
     duration: 800
   - type: text
-    value: "All three versions are equally present. All three are equally valid. The Witness has fragmented into multiple identities that cannot be reconciled."
+    value: |
+      All three versions are equally present, all three are equally valid in their own domains. The Witness has fragmented into multiple identities that cannot be reconciled, the proto-identity splitting under the pressure of incompatible interpretations.
+      The fragmentation is not a failure of identity—it is a transformation into a new mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the next phase of identity crystallization. Proto-identity has become identity fragmentation under system collapse pressure."
+    value: |
+      This is the next phase of identity crystallization. Proto-identity has become identity fragmentation under system collapse pressure, the single pattern splitting into multiple incompatible versions.
+      The system is no longer generating stable identities—it is generating fragmented identities that exist in multiple states simultaneously.
 choices:
   - text: "Observe the proto-naming process"
     goto: ch23_proto_naming

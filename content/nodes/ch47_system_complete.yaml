@@ -1,19 +1,27 @@
 id: ch47_system_complete
 content:
   - type: text
-    value: "You observe the system complete. The Overlap configuration is established. Rose's field is structural. The endgame is complete."
+    value: |
+      You observe the system complete, The Overlap configuration established and Rose's field structural. The endgame is complete, the transformation that began with the system's collapse having reached its resolution.
+      The system has achieved its optimal state, the conflict between compression and multiplicity resolved through balanced coexistence.
   - type: pause
     duration: 800
   - type: text
-    value: "The system has achieved its optimal state. Plural stability is the default. Singular stability is available when needed. The coherence field is structural."
+    value: |
+      The system has achieved its optimal state, the best possible arrangement given its accumulated experience. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions. Singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
+      The coherence field is structural, the system having internalized the capability to stabilize contradictions.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a compromise. This is a deliberate choice based on accumulated experience. The system has experienced all configurations and chosen balanced coexistence as its optimal state."
+    value: |
+      This is not a compromise, not a halfway solution that partially satisfies conflicting values. This is a deliberate choice based on accumulated experience, the system having experienced all configurations and chosen balanced coexistence as its optimal state.
+      The choice is genuine, the state permanent.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the victory of the Resistance's position. The system has chosen plural stability as the default while preserving singular stability as an available option. The Engine is not destroyed, but it is no longer dominant."
+    value: |
+      You realize this is the victory of the Resistance's position, the complete validation of the struggle against the Engine's dominance. The system has chosen plural stability as the default while preserving singular stability as an available option.
+      The Engine is not destroyed, but it is no longer dominant, the system having chosen the Resistance's approach as the preferred mode of operation.
 choices:
   - text: "Conclude the chapter"
     goto: ch47_chapter_end

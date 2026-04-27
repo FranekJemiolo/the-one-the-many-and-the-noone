@@ -1,19 +1,27 @@
 id: ch37_interpretation_restored
 content:
   - type: text
-    value: "You observe the interpretation restoration. Meaning can now crystallize in the Null Zone, though it remains minimal."
+    value: |
+      You observe the interpretation restoration, watching as meaning can now crystallize in the Null Zone though it remains minimal. The restoration is not complete, not a return to rich interpretation.
+      It is a minimal restoration, allowing basic interpretation without requiring the full richness of normal meaning.
   - type: pause
     duration: 800
   - type: text
-    value: "Objects can be interpreted. Identity can stabilize. Memory can form. But the interpretation remains minimal, not rich. The Null Zone is still a place of reduced meaning, but not of absent meaning."
+    value: |
+      Objects can be interpreted, basic meaning can crystallize around them. Identity can stabilize, minimal selfhood can emerge. Memory can form, basic recollection can occur. But the interpretation remains minimal, not rich, not approaching the complexity of normal interpretation.
+      The Null Zone is still a place of reduced meaning, but not of absent meaning.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not the Null Zone becoming normal. The Null Zone remains a special zone where interpretation is minimal. But it is no longer a place where interpretation fails completely."
+    value: |
+      This is not the Null Zone becoming normal, not the complete restoration of rich interpretation. The Null Zone remains a special zone where interpretation is minimal, where meaning is reduced rather than full.
+      But it is no longer a place where interpretation fails completely, no longer a void that threatens the system.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the system's solution to the void. The system has found a way to manage the interpretation failure zone by extending the coherence field to allow minimal interpretation without collapse."
+    value: |
+      You realize this is the system's solution to the void. The system has found a way to manage the interpretation failure zone by extending the coherence field to allow minimal interpretation without collapse.
+      The solution is structural, not temporary.
 choices:
   - text: "Observe the Null Child's adaptation"
     goto: ch37_null_child_adapted

@@ -1,19 +1,27 @@
 id: ch45_shifting_configuration_experienced
 content:
   - type: text
-    value: "The system experiences The Shifting World configuration. The system oscillates between configurations. No final state is chosen."
+    value: |
+      The system experiences The Shifting World configuration, the system oscillating between configurations without choosing a final state. No configuration is permanent, the system perpetually shifting between different modes of existence.
+      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The Shifting World as its final configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The Shifting World as its final configuration."
+    value: |
+      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The Shifting World as its final configuration, understanding the configuration through direct experience before making the final choice.
+      The simulation is comprehensive, the system gaining full understanding of what The Shifting World configuration would mean.
   - type: pause
     duration: 800
   - type: text
-    value: "In this configuration, the system perpetually shifts between The One, The Many, The No-One, and The Overlap. No configuration is permanent. Reality is in constant motion."
+    value: |
+      In this configuration, the system perpetually shifts between The One, The Many, The No-One, and The Overlap. No configuration is permanent, the system moving from singular to plural to void to balanced and back again in endless cycles.
+      Reality is in constant motion, no final state ever chosen.
   - type: pause
     duration: 800
   - type: text
-    value: "You experience the dynamism of this configuration. There is perpetual change. There is perpetual novelty. There is perpetual motion between states."
+    value: |
+      You experience the dynamism of this configuration, the perpetual change creating a sense of endless novelty. There is perpetual change, no state ever remaining the same for long. There is perpetual novelty, each transition bringing a new way of experiencing reality.
+      There is perpetual motion between states, the system never settling into any final configuration.
 choices:
   - text: "Observe the perpetual motion achieved"
     goto: ch45_perpetual_motion_achieved

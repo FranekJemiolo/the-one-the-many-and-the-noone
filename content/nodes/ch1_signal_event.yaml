@@ -1,19 +1,27 @@
 id: ch1_signal_event
 content:
   - type: text
-    value: "The incident report sits on your desk. Two witnesses. Same event. Incompatible accounts."
+    value: |
+      The incident report sits on your desk, its edges worn from repeated handling. Two witnesses. Same event. Incompatible accounts.
+      The paper feels heavier than it should, as if the weight of the contradiction has settled into the fibers themselves.
   - type: pause
     duration: 1000
   - type: text
-    value: "This should be impossible. In a singular reality, memory converges on fact. But here, both accounts feel internally consistent."
+    value: |
+      This should be impossible. In a singular reality, memory converges on fact—different perspectives might exist, but they should resolve into a single coherent narrative.
+      But here, both accounts feel internally consistent, each one complete in its own right, each one telling a truth that cannot be reconciled with the other.
   - type: pause
     duration: 800
   - type: text
-    value: "You pick up the first statement. The details are precise, chronological, causal."
+    value: |
+      You pick up the first statement. The details are precise, chronological, causal. Every event follows logically from the one before it.
+      The causal chain is unbroken, clear, undeniable. This is how reality should work—cause and effect in perfect alignment.
   - type: pause
     duration: 800
   - type: text
-    value: "Then you read the second. The emotional sequence is different. The timing doesn't match. Yet it feels equally true."
+    value: |
+      Then you read the second. The emotional sequence is different. The timing doesn't match. The causal connections are absent.
+      Yet it feels equally true, perhaps more so in its way. The emotional resonance creates its own kind of coherence, one that logic cannot explain but intuition recognizes immediately.
 choices:
   - text: "Investigate the causal chain (Aleksy perspective)"
     goto: ch1_aleksy_investigation

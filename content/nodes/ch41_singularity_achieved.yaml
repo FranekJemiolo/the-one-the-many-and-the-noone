@@ -1,19 +1,27 @@
 id: ch41_singularity_achieved
 content:
   - type: text
-    value: "You observe the singularity achieved. In The One configuration, reality is completely singular. There is no multiplicity anywhere."
+    value: |
+      You observe the singularity achieved, reality completely singular in The One configuration. There is no multiplicity anywhere, no incompatible interpretations coexisting, no parallel realities operating simultaneously.
+      The singularity is complete, the Engine's compression having achieved its ideal state.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression is complete. All contradictions have been eliminated. All incompatible interpretations have been resolved into a single coherent narrative."
+    value: |
+      The Engine's compression is complete, all contradictions eliminated through the force of singular interpretation. All incompatible interpretations have been resolved into a single coherent narrative, no tensions remaining between different ways of understanding.
+      The compression is total, no multiplicity remaining to create tension.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the Engine's ideal state. Reality is completely stable because there is no multiplicity to create tension. Everything is clear, coherent, and singular."
+    value: |
+      This is the Engine's ideal state, the configuration the Engine has always fought for. Reality is completely stable because there is no multiplicity to create tension, no incompatible interpretations that could generate conflict.
+      Everything is clear, coherent, and singular.
   - type: pause
     duration: 1000
   - type: text
-    value: "You experience the comfort of this configuration. There is no ambiguity. There is no need to choose between interpretations. There is only one way to understand everything."
+    value: |
+      You experience the comfort of this configuration, the absence of ambiguity and the security of singular interpretation. There is no ambiguity, no uncertainty about how to understand events. There is no need to choose between interpretations, no conflict between incompatible ways of understanding.
+      There is only one way to understand everything.
 choices:
   - text: "Observe the Engine dominance"
     goto: ch41_engine_dominance

@@ -1,23 +1,33 @@
 id: ch15_rose_appearance
 content:
   - type: text
-    value: "Rose appears. Not as a person, but as the coherence field itself made visible."
+    value: |
+      Rose appears, but not in the way a person appears. Not as an individual with a body and a face, but as the coherence field itself made visible, as the force that stabilizes contradiction given form.
+      The presence feels vast, encompassing, as if you are encountering the very mechanism that allows incompatible truths to coexist without collapse.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The contradictions are not in conflict,\" Rose says. \"They are simply different versions of the same thing. I allow them to coexist without forcing them to resolve.\""
+    value: |
+      "The contradictions are not in conflict," Rose says, the voice emerging from everywhere and nowhere at once. "They are simply different versions of the same thing, each valid in its own domain.
+      I allow them to coexist without forcing them to resolve, without requiring one version to eliminate the others."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask how this is possible. Rose explains that coherence is not about eliminating contradiction. It is about stabilizing contradiction so it does not collapse the system."
+    value: |
+      You ask how this is possible, how the system can contain incompatible truths without breaking. Rose explains that coherence is not about eliminating contradiction, not about forcing reality into a single shape.
+      Coherence is about stabilizing contradiction so it does not collapse the system, creating conditions where incompatible truths can coexist without conflict.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"The Engine wants to choose one version,\" Rose says. \"I want to preserve all versions. Neither approach is wrong. They are just different ways of handling multiplicity.\""
+    value: |
+      "The Engine wants to choose one version," Rose says, and there is no judgment in the voice, only recognition of a different approach. "I want to preserve all versions. Neither approach is wrong.
+      They are just different ways of handling multiplicity, different strategies for achieving stability in a fundamentally plural reality."
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the core conflict. The Engine wants singularity through compression. Rose wants plurality through stabilization."
+    value: |
+      You realize this is the core conflict. The Engine wants singularity through compression, eliminating multiplicity to achieve stability. Rose wants plurality through stabilization, preserving multiplicity to achieve a different kind of stability.
+      The conflict is not between order and chaos—it is between two different approaches to achieving order in a multiple reality.
 choices:
   - text: "Understand the coexistence without collapse"
     goto: ch15_coexistence_without_collapse

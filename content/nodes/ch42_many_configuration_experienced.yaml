@@ -1,19 +1,27 @@
 id: ch42_many_configuration_experienced
 content:
   - type: text
-    value: "The system experiences The Many configuration. All interpretation layers expand into infinite plurality. Singularity is eliminated."
+    value: |
+      The system experiences The Many configuration, all interpretation layers expanding into infinite plurality. Singularity is eliminated, all singular interpretations replaced by infinite incompatible versions.
+      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The Many as its final configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The Many as its final configuration."
+    value: |
+      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The Many as its final configuration, understanding the configuration through direct experience before making the final choice.
+      The simulation is comprehensive, the system gaining full understanding of what The Many configuration would mean.
   - type: pause
     duration: 800
   - type: text
-    value: "In this configuration, there are infinite versions of every event. Causal sequences are multiple. Emotional interpretations diverge from causal interpretations. Time is a field."
+    value: |
+      In this configuration, there are infinite versions of every event, no single interpretation that encompasses all possibilities. Causal sequences are multiple, events happening in infinite incompatible orders. Emotional interpretations diverge from causal interpretations, no alignment between different ways of understanding.
+      Time is a field, no linear sequence.
   - type: pause
     duration: 800
   - type: text
-    value: "You experience the richness of plural reality. There is infinite ambiguity. There is infinite contradiction. There are infinite ways to understand everything."
+    value: |
+      You experience the richness of plural reality, the infinite diversity of incompatible interpretations. There is infinite ambiguity, no single way to understand any event. There is infinite contradiction, incompatible interpretations coexisting without resolution.
+      There are infinite ways to understand everything.
 choices:
   - text: "Observe the infinite plurality achieved"
     goto: ch42_infinite_plurality_achieved

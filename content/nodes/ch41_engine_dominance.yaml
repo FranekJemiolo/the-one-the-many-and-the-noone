@@ -1,19 +1,27 @@
 id: ch41_engine_dominance
 content:
   - type: text
-    value: "You observe the Engine dominance. In The One configuration, the Engine is completely dominant. The Resistance's multiplicity layer has been eliminated."
+    value: |
+      You observe the Engine dominance, the Engine completely dominant in The One configuration. The Resistance's multiplicity layer has been eliminated, the coherence field no longer operating as a structural capability.
+      The Engine's compression is the only interpretation mode available.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression is the only interpretation mode. There is no alternative. There is no choice. There is only singular interpretation."
+    value: |
+      The Engine's compression is the only interpretation mode, the only way to understand reality. There is no alternative, no other way to interpret events. There is no choice, no freedom to select between different interpretations.
+      There is only singular interpretation, the Engine's way or no way.
   - type: pause
     duration: 800
   - type: text
-    value: "This is what the Engine wanted. Complete control over interpretation. Complete elimination of multiplicity. Complete singular stability."
+    value: |
+      This is what the Engine wanted, the configuration the Engine has always fought for. Complete control over interpretation, the ability to enforce a single coherent narrative across all of reality. Complete elimination of multiplicity, the removal of all incompatible interpretations.
+      Complete singular stability, the absence of all tension.
   - type: pause
     duration: 1000
   - type: text
-    value: "But you also sense something missing. The richness of multiplicity is gone. The complexity of multiple interpretations is gone. The diversity of experience is gone."
+    value: |
+      But you also sense something missing, an absence that accompanies the clarity. The richness of multiplicity is gone, the diversity of incompatible interpretations eliminated. The complexity of multiple interpretations is gone, replaced by singular simplicity.
+      The diversity of experience is gone, all variation compressed into a single way of being.
 choices:
   - text: "Observe the cost of oneness"
     goto: ch41_cost_of_oneness

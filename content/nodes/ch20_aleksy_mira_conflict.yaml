@@ -1,19 +1,27 @@
 id: ch20_aleksy_mira_conflict
 content:
   - type: text
-    value: "You and Mira are experiencing the same moment, but your interpretations are in direct conflict. This is not the gentle dual-reality of Chapter 5. This is war."
+    value: |
+      You and Mira are experiencing the same moment, but your interpretations are in direct conflict. This is not the gentle dual-reality of Chapter 5, where multiple versions of memory could coexist without tension.
+      This is war, a direct confrontation between two incompatible ways of understanding the same event.
   - type: pause
     duration: 800
   - type: text
-    value: "Aleksy's interpretation: The causal sequence is clear. The event happened in a specific order. Any other interpretation is incorrect."
+    value: |
+      Aleksy's interpretation: The causal sequence is clear, unambiguous, linear. The event happened in a specific order, cause leading to effect in a single chain that cannot be broken.
+      Any other interpretation is incorrect, any suggestion of multiple causal sequences is a failure to understand what actually happened.
   - type: pause
     duration: 800
   - type: text
-    value: "Mira's interpretation: The emotional sequence is clear. The event felt a specific way. Any other interpretation is incomplete."
+    value: |
+      Mira's interpretation: The emotional sequence is clear, vivid, undeniable. The event felt a specific way, the emotional truth of the experience is what matters most.
+      Any other interpretation is incomplete, any focus on causal sequence at the expense of emotional experience is a failure to understand what the event meant.
   - type: pause
     duration: 800
   - type: text
-    value: "Both interpretations are internally consistent. Both are mutually incompatible. Neither will yield."
+    value: |
+      Both interpretations are internally consistent, each coherent within its own framework. Both are mutually incompatible, each requiring the other to be false in order to be true.
+      Neither will yield, neither will acknowledge the validity of the other's approach.
 choices:
   - text: "Observe the interpretation conflict peak"
     goto: ch20_interpretation_conflict_peaks

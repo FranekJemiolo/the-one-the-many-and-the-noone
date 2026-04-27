@@ -1,19 +1,27 @@
 id: ch43_null_child_dominance
 content:
   - type: text
-    value: "You observe the Null Child dominance. In The No-One configuration, the Null Child is completely dominant. All interpretation has failed."
+    value: |
+      You observe the Null Child dominance, the Null Child completely dominant in The No-One configuration. All interpretation has failed, the Engine's compression and the Resistance's multiplicity both eliminated.
+      The Null Child's domain is the only state, the void the only mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "The Null Child's domain is the only state. There is no alternative. There is no choice. There is only void."
+    value: |
+      The Null Child's domain is the only state, the interpretation failure zone covering everything. There is no alternative, no other way to experience reality. There is no choice, no freedom to select between different modes.
+      There is only void, the complete absence of interpretation.
   - type: pause
     duration: 800
   - type: text
-    value: "This is what the Null Zone represents. Complete absence of interpretation. Complete dissolution of meaning. Complete collapse of identity."
+    value: |
+      This is what the Null Zone represents, the configuration the void has always embodied. Complete absence of interpretation, the failure of meaning across the entire system. Complete dissolution of meaning, no coherent descriptions possible.
+      Complete collapse of identity, no selfhood able to form.
   - type: pause
     duration: 1000
   - type: text
-    value: "But you also sense something terrifying. There is no experience at all. There is no self. There is no reality to experience. There is only nothingness."
+    value: |
+      But you also sense something terrifying, the complete absence of experience creating existential horror. There is no experience at all, nothing to perceive or understand. There is no self, no identity to experience reality.
+      There is no reality to experience, only the void of nothingness.
 choices:
   - text: "Observe the cost of no-one"
     goto: ch43_cost_of_no_one

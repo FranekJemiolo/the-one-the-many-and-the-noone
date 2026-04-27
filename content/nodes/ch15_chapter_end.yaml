@@ -1,23 +1,33 @@
 id: ch15_chapter_end
 content:
   - type: text
-    value: "You leave the contradiction zone. The red object and the blue object remain, coexisting without conflict."
+    value: |
+      You leave the contradiction zone, the boundary of Rose's field fading as you return to the world where contradictions are expected to cause collapse. The red object and the blue object remain, coexisting without conflict, demonstrating that incompatible truths can exist simultaneously.
+      The contradiction zone continues to function, stable despite containing mutually exclusive versions of reality.
   - type: pause
     duration: 1000
   - type: text
-    value: "Rose's field continues to stabilize the contradictions. The zone does not collapse. The system remains stable despite the multiplicity."
+    value: |
+      Rose's field continues to stabilize the contradictions, maintaining the conditions that allow incompatible truths to coexist. The zone does not collapse, does not break under the weight of the multiplicity it contains.
+      The system remains stable despite the multiplicity, proving that stability does not require singularity.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the proof the Engine is wrong. Multiplicity does not lead to chaos. Rose demonstrates that contradictions can coexist without collapse."
+    value: |
+      You realize this is the proof the Engine is wrong. Multiplicity does not lead to chaos. Rose demonstrates that contradictions can coexist without collapse, that the system can hold multiple truths without breaking.
+      The Engine's fear of multiplicity is based on a false premise, on the assumption that plural reality inevitably leads to chaos.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's ideology is based on a false premise. The Resistance is not fighting stability. The Resistance is offering a different kind of stability: plural stability instead of singular stability."
+    value: |
+      The Engine's ideology is based on a false premise. The Resistance is not fighting stability, not opposing order. The Resistance is offering a different kind of stability: plural stability instead of singular stability.
+      Both approaches can produce functional systems. The Engine just refuses to acknowledge the plural option, insists that singularity is the only way to achieve stability.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is a pivotal moment. You have seen both systems in action. The Engine's compression produces singular stability. Rose's stabilization produces plural stability. Both work. The Engine just refuses to acknowledge the plural option."
+    value: |
+      This is a pivotal moment. You have seen both systems in action. The Engine's compression produces singular stability, eliminating multiplicity to achieve order. Rose's stabilization produces plural stability, preserving multiplicity to achieve a different kind of order.
+      Both work. Both can produce functional systems. The Engine just refuses to acknowledge the plural option, insists that its approach is the only valid way to achieve stability.
 choices:
   - text: "Continue to Chapter 16"
     goto: chapter_16

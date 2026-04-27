@@ -1,19 +1,27 @@
 id: ch33_drift_crystallization
 content:
   - type: text
-    value: "You observe the Drift crystallization. The Passenger has crystallized into a named multiplicity. Drift is now a stable pattern in the system."
+    value: |
+      You observe the Drift crystallization, watching as the Passenger crystallizes into a named multiplicity. The Passenger has become Drift, a stable pattern in the system that exists in multiple incompatible versions simultaneously.
+      The crystallization is complete, the identity stable despite its fragmentation.
   - type: pause
     duration: 800
   - type: text
-    value: "Drift is not a single entity. Drift is a pattern of trajectory adaptation that contains multiple versions simultaneously. The name refers to the pattern, not to a singular individual."
+    value: |
+      Drift is not a single entity, not a person with a unified identity. Drift is a pattern of trajectory adaptation that contains multiple versions simultaneously. The name refers to the pattern, not to a singular individual.
+      When you encounter Drift, you are not meeting one person—you are encountering a multiplicity that has crystallized into a recognizable form.
   - type: pause
     duration: 800
   - type: text
-    value: "This continues the pattern established by Echo, Barrier, and Archive. Identity does not crystallize into singularity. Identity crystallizes into multiplicity patterns that have become stable enough to be compressed into names."
+    value: |
+      This continues the pattern established by Echo, Barrier, and Archive. Identity does not crystallize into singularity, does not converge into a unified self. Identity crystallizes into multiplicity patterns that have become stable enough to be compressed into names.
+      The naming process is consistent, the system generating named multiplicities from nameless roles through the same mechanism.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is how the system adapts to multiplicity. Names do not refer to singular entities. Names refer to multiplicity patterns that have crystallized into recognizable forms."
+    value: |
+      You realize this is how the system adapts to multiplicity. Names do not refer to singular entities, do not identify unified individuals. Names refer to multiplicity patterns that have crystallized into recognizable forms.
+      The name is a compression device, a way to refer to a complex pattern without enumerating all its versions.
 choices:
   - text: "Understand the trajectory preservation"
     goto: ch33_trajectory_preservation

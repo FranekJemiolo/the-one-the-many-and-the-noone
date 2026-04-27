@@ -1,23 +1,33 @@
 id: ch9_investigation_fails
 content:
   - type: text
-    value: "You are investigating an anomaly. The investigation should be straightforward: identify the cause, trace the effect, establish the sequence."
+    value: |
+      You are investigating an anomaly, applying the causal method that has always served you well in the past. The investigation should be straightforward: identify the cause, trace the effect, establish the sequence.
+      This is how investigations work. This is how truth is discovered. This is how reality is understood.
   - type: pause
     duration: 800
   - type: text
-    value: "But the sequence cannot be resolved. Each time you trace a causal chain, it branches into multiple incompatible paths."
+    value: |
+      But the sequence cannot be resolved. Each time you trace a causal chain, it branches into multiple incompatible paths, refusing to collapse into a single line of cause and effect.
+      The more carefully you analyze the data, the more branches appear, as if the anomaly itself is generating multiple causal realities.
   - type: pause
     duration: 800
   - type: text
-    value: "Cause A leads to Effect B. Cause A also leads to Effect C. Cause D leads to Effect B. Cause D also leads to Effect C."
+    value: |
+      Cause A leads to Effect B. Cause A also leads to Effect C. Cause D leads to Effect B. Cause D also leads to Effect C. The causal relationships form a web rather than a line.
+      Every cause has multiple effects. Every effect has multiple causes. The causal structure is not a tree—it is a network where everything connects to everything else.
   - type: pause
     duration: 800
   - type: text
-    value: "All causal chains are internally consistent. All are mutually incompatible. The investigation cannot produce a single sequence."
+    value: |
+      All causal chains are internally consistent. All are mutually incompatible. The investigation cannot produce a single sequence because the data contains multiple valid sequences simultaneously.
+      This is not a matter of choosing the correct interpretation. All interpretations are correct in their own domains.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the first time your causal method has failed. You are designed to resolve sequences. But here, sequences cannot be resolved."
+    value: |
+      This is the first time your causal method has failed. You are designed to resolve sequences, to find the single thread of truth that connects cause to effect.
+      But here, sequences cannot be resolved because the anomaly contains multiple threads, each one true, each one incompatible with the others.
 choices:
   - text: "Attempt to resolve the sequence anyway"
     goto: ch9_sequence_cannot_resolve

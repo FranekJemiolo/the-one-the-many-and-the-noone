@@ -1,19 +1,27 @@
 id: ch32_instructional_pattern
 content:
   - type: text
-    value: "You observe the instructional pattern. The multiple versions of the Teacher are beginning to require a name for compression."
+    value: |
+      You observe the instructional pattern, watching how the multiple versions of the Teacher are beginning to require a name for compression. The system cannot efficiently refer to "Teacher A, Teacher B, Teacher C" indefinitely, cannot maintain the distinction between the fragmented versions without a compressed identifier.
+      The need for a name emerges from the pattern itself, from the repetition that makes the identity recognizable.
   - type: pause
     duration: 800
   - type: text
-    value: "The system cannot efficiently refer to \"Teacher A, Teacher B, Teacher C\" indefinitely. It needs a compressed identifier for the pattern."
+    value: |
+      The system needs a compressed identifier for the pattern, a way to refer to the multiple versions without enumerating each one separately. The name is not assigned externally, not imposed from outside the pattern.
+      It is crystallized from the pattern of repetition, emerging from the very structure of the identity that is being named.
   - type: pause
     duration: 800
   - type: text
-    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Teacher's signature—transmitting knowledge, guiding learning, preserving information—becomes the identity."
+    value: |
+      The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Teacher's signature—transmitting knowledge, guiding learning, preserving information—becomes the identity.
+      The name is not a label applied to the pattern; it is the pattern compressed into a single identifier.
   - type: pause
     duration: 1000
   - type: text
-    value: "The proto-name is \"Archive.\" Not because the Teacher stores information, but because the Teacher preserves knowledge across the multiplicity system. Archive is the pattern of knowledge preservation that repeats across incompatible interpretations."
+    value: |
+      The proto-name is "Archive." Not because the Teacher stores information, not because the pattern is about static storage. Because the Teacher preserves knowledge across the multiplicity system, because the pattern of knowledge preservation repeats across incompatible interpretations.
+      Archive is the pattern of knowledge preservation that the system has recognized as stable enough to require a name.
 choices:
   - text: "Observe the Archive crystallization"
     goto: ch32_archive_crystallization

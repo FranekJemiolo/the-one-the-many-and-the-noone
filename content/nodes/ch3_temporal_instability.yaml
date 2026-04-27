@@ -1,23 +1,33 @@
 id: ch3_temporal_instability
 content:
   - type: text
-    value: "You write your final report. The conclusion is simple: Geostation Three is not malfunctioning. It is hosting multiple valid sequences of the same present."
+    value: |
+      You write your final report, the words forming slowly as you try to capture something that defies normal documentation. The conclusion is simple but devastating: Geostation Three is not malfunctioning.
+      It is hosting multiple valid sequences of the same present, multiple temporal realities that coexist without collapsing into a single timeline.
   - type: pause
     duration: 1000
   - type: text
-    value: "The station continues functioning. The researchers continue their work. The Guard continues their duties. Nothing collapses."
+    value: |
+      The station continues functioning. The researchers continue their work. The Guard continues their duties. Nothing collapses, nothing breaks, nothing fails.
+      The anomaly does not prevent operation—it simply changes the nature of what operation means in a place where time is not shared.
   - type: pause
     duration: 800
   - type: text
-    value: "But something has changed. Time is no longer a shared constant. It is a locally selected continuity interpretation field. Each observer experiences their own sequence, and all sequences are equally real."
+    value: |
+      But something has changed fundamentally. Time is no longer a shared constant that all observers experience identically. It is a locally selected continuity interpretation field.
+      Each observer experiences their own sequence, and all sequences are equally real, equally valid, equally true in their own domain.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the third crack. First: memory divergence. Second: emotional-causal split. Now: temporal instability. Reality is not just producing multiple pasts and multiple feelings. It is producing multiple timelines simultaneously."
+    value: |
+      This is the third crack in the assumption of singular reality. First: memory divergence, where multiple versions of the same moment coexist. Second: emotional-causal split, where different ways of experiencing the present operate independently.
+      Now: temporal instability, where multiple timelines exist simultaneously, each one real for the observer experiencing it.
   - type: pause
     duration: 1000
   - type: text
-    value: "You leave the station with the uncomfortable knowledge that time itself is not what you thought it was. It is not a line. It is a field of possibilities that collapses differently depending on who is observing."
+    value: |
+      You leave the station with the uncomfortable knowledge that time itself is not what you thought it was. It is not a line that flows uniformly for all observers.
+      It is a field of possibilities that collapses differently depending on who is observing, creating multiple temporal realities that coexist without requiring reconciliation.
 choices:
   - text: "Conclude the investigation"
     goto: ch3_chapter_end

@@ -1,23 +1,33 @@
 id: ch10_seraph_directive
 content:
   - type: text
-    value: "Seraph Kline finds you in the Clarity zone. She is not surprised to see you. She expected you would eventually come to understand the Engine's method."
+    value: |
+      Seraph Kline finds you in the Clarity zone, her approach measured, her expression calm. She is not surprised to see you. She expected you would eventually come to understand the Engine's method, to witness how singularity is maintained.
+      There is no triumph in her demeanor, only the quiet confidence of someone who believes they are right.
   - type: pause
     duration: 800
   - type: text
-    value: "\"Singularity is not oppression,\" Seraph says. \"It is stability. Multiple interpretations create conflict. Single interpretation creates order.\""
+    value: |
+      "Singularity is not oppression," Seraph says, her voice carrying the conviction of someone who has argued this position many times. "It is stability. Multiple interpretations create conflict, confusion, the inability to act decisively.
+      Single interpretation creates order, clarity, the capacity to move forward without being paralyzed by contradictory possibilities."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about the cost. Seraph acknowledges the cost: loss of multiplicity, loss of ambiguity, loss of interpretive freedom."
+    value: |
+      You ask about the cost—what is lost when multiplicity is eliminated, what disappears when ambiguity is removed. Seraph acknowledges the cost without hesitation: loss of multiplicity, loss of ambiguity, loss of interpretive freedom.
+      She does not deny that something is lost. She simply argues that what is gained is worth more.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"The cost is acceptable,\" Seraph says. \"The alternative is chaos. Reality cannot sustain infinite multiplicity. Eventually, it must choose.\""
+    value: |
+      "The cost is acceptable," Seraph says, and there is a hardness in her voice that suggests she has made this calculation many times. "The alternative is chaos. Reality cannot sustain infinite multiplicity.
+      Eventually, it must choose. The Engine makes that choice early, preventing the chaos that would come from delayed decision."
   - type: pause
     duration: 800
   - type: text
-    value: "This is the Engine's ideology: compression is not suppression—it is necessity. Reality must eventually become singular to survive."
+    value: |
+      This is the Engine's ideology: compression is not suppression—it is necessity. Reality must eventually become singular to survive, and the Engine simply accelerates that process.
+      The ideology presents itself not as a choice but as an inevitability, as the only way to prevent reality from collapsing under the weight of its own complexity.
 choices:
   - text: "Understand the compression ideology"
     goto: ch10_compression_ideology

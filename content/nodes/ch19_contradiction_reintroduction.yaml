@@ -1,19 +1,27 @@
 id: ch19_contradiction_reintroduction
 content:
   - type: text
-    value: "The Resistance responds to the Engine's Clarity zone expansion with a counterwave: deliberate contradiction reintroduction."
+    value: |
+      The Resistance responds to the Engine's Clarity zone expansion with a counterwave: deliberate contradiction reintroduction. The Engine is systematically restructuring reality to make multiplicity impossible, expanding Clarity zones where singular interpretation is enforced.
+      The Resistance responds by injecting contradiction back into these zones, deliberately reintroducing the multiplicity the Engine is trying to eliminate.
   - type: pause
     duration: 800
   - type: text
-    value: "In areas where the Engine has established singular interpretation, the Resistance injects alternate explanations that cannot be compressed."
+    value: |
+      In areas where the Engine has established singular interpretation, where only one version of truth is accessible, the Resistance injects alternate explanations that cannot be compressed.
+      The contradictions are not random—they are carefully constructed to resist the Engine's methods, to maintain multiplicity even in zones where the Engine has established singularity.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not random. The Resistance targets specific zones where the Engine's compression is most aggressive, and introduces contradictions that are designed to be uncompressible."
+    value: |
+      This is not random. The Resistance targets specific zones where the Engine's compression is most aggressive, where Clarity zones are expanding most rapidly, and introduces contradictions that are designed to be uncompressible.
+      The strategy is focused, efficient, designed to counter the Engine's expansion where it matters most.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the Resistance's strategy: not by fighting the Engine everywhere, but by strategically reintroducing contradiction where the Engine is trying hardest to eliminate it."
+    value: |
+      You realize this is the Resistance's strategy: not by fighting the Engine everywhere, not by attempting to maintain multiplicity in every zone. By strategically reintroducing contradiction where the Engine is trying hardest to eliminate it.
+      The Resistance focuses its efforts on the most aggressive compression zones, preserving plural reality where the Engine's expansion would do the most damage.
 choices:
   - text: "Observe the Resistance expansion"
     goto: ch19_resistance_expansion

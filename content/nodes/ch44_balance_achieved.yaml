@@ -1,19 +1,27 @@
 id: ch44_balance_achieved
 content:
   - type: text
-    value: "You observe the balance achieved. In The Overlap configuration, singular and plural stability coexist in balance."
+    value: |
+      You observe the balance achieved, singular and plural stability coexisting in The Overlap configuration. The balance is genuine, the system having found an optimal way to accommodate both approaches without requiring one to dominate the other.
+      The equilibrium is stable, the system operating according to the configuration established through the adaptation phase.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression layer is available for situations where singular interpretation is needed. The Resistance's multiplicity layer is the default for situations where plural interpretation is preferred."
+    value: |
+      The Engine's compression layer is available for situations where singular interpretation is needed, the compression capability functional when clarity is required. The Resistance's multiplicity layer is the default for situations where plural interpretation is preferred, the coherence field operating as the preferred mode of handling contradictions.
+      Both layers are available, the system able to switch between them as needed.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the optimal state the system has achieved. Reality has both clarity and diversity. It has both coherence and complexity. It has both stability and vitality."
+    value: |
+      This is the optimal state the system has achieved, the best possible arrangement given the system's experience with both approaches. Reality has both clarity, the singular interpretation available when needed, and diversity, the plural interpretation available as the default.
+      It has both coherence and complexity, both stability and vitality.
   - type: pause
     duration: 1000
   - type: text
-    value: "You experience the comfort of this configuration. There is both the clarity of singular interpretation and the richness of plural interpretation. The system can choose which mode to use based on the situation."
+    value: |
+      You experience the comfort of this configuration, the security of having both options available. There is both the clarity of singular interpretation and the richness of plural interpretation. The system can choose which mode to use based on the situation, selecting the approach that best fits the context.
+      The flexibility is genuine, the choice real.
 choices:
   - text: "Observe the coexistence dominance"
     goto: ch44_coexistence_dominance

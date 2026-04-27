@@ -1,19 +1,27 @@
 id: ch25_passenger_fragmentation
 content:
   - type: text
-    value: "You observe the Passenger fragmentation. Like the Witness and Teacher, the Passenger is fragmenting into multiple versions under system collapse pressure."
+    value: |
+      You observe the Passenger fragmentation, watching as the nameless role that has appeared at various checkpoints begins to split under the pressure of system collapse. Like the Witness and Teacher before them, the Passenger is fragmenting into multiple versions.
+      The fragmentation is not a failure of identity—it is a transformation into a new mode of existence.
   - type: pause
     duration: 800
   - type: text
-    value: "Passenger A arrives at destination B. Passenger B arrives at destination C. Passenger C arrives at both simultaneously. All are the same Passenger, but all are different versions."
+    value: |
+      Passenger A arrives at destination B, following a trajectory that leads to a single location. Passenger B arrives at destination C, following a different trajectory that leads to a different location.
+      Passenger C arrives at both simultaneously, existing in multiple destinations at once. All are the same Passenger, sharing the same essential pattern of movement behavior. But all are different versions, existing in incompatible states.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a navigation error. The Passenger is aware of all trajectories. The Passenger is simply existing in multiple movement states simultaneously."
+    value: |
+      This is not a navigation error, not a mistake in trajectory calculation that causes the Passenger to arrive at the wrong destination. The Passenger is aware of all trajectories, conscious of the multiplicity of their own movement.
+      The Passenger is simply existing in multiple movement states simultaneously, traveling different paths while maintaining awareness of the entire pattern.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this continues the pattern. Under system collapse, identity does not remain singular. Identity becomes multiplicity patterns that contain multiple versions simultaneously."
+    value: |
+      You realize this continues the pattern. Under system collapse, identity does not remain singular, does not maintain the unified self that traditional identity assumes. Identity becomes multiplicity patterns that contain multiple versions simultaneously.
+      The fragmentation is not a breakdown—it is the emergence of a new form of identity.
 choices:
   - text: "Understand the trajectory multiplicity"
     goto: ch25_trajectory_multiplicity

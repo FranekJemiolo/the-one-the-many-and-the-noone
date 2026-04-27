@@ -1,23 +1,33 @@
 id: ch4_chapter_end
 content:
   - type: text
-    value: "You leave the cybernetics facility. The cyborg remains in containment, holding multiple pasts that should be mutually exclusive but aren't."
+    value: |
+      You leave the cybernetics facility, the doors closing behind you with a finality that feels inadequate for what you have witnessed. The cyborg remains in containment, holding multiple pasts that should be mutually exclusive but aren't.
+      The containment is not for the cyborg's safety—it is for the technicians' comfort, a way to maintain the illusion that memory must be singular.
   - type: pause
     duration: 1000
   - type: text
-    value: "The technicians will try to fix the cyborg. They will fail. The cyborg is not broken. The cyborg is what memory becomes when it is no longer constrained by singular causality."
+    value: |
+      The technicians will try to fix the cyborg. They will attempt to collapse the multiple pasts into one true history, to restore the singularity that they believe is necessary for normal functioning.
+      They will fail. The cyborg is not broken. The cyborg is what memory becomes when it is no longer constrained by singular causality, when it is allowed to access all possible histories.
   - type: pause
     duration: 800
   - type: text
-    value: "You walk through the city. Everyone around you assumes they have one past. They assume their memory is a record of what actually happened. They don't know that memory could be a library of all possible pasts."
+    value: |
+      You walk through the city, the streets crowded with people moving through their lives with the unexamined assumption that they have one past, one history, one causal chain that led them to this moment.
+      They assume their memory is a record of what actually happened, a singular truth that can be relied upon. They don't know that memory could be a library of all possible pasts, all equally accessible, all equally real.
   - type: pause
     duration: 800
   - type: text
-    value: "You are now carrying a new secret: causality is not fixed. The past is not a single line. It is a field of possibilities that can be accessed simultaneously if you learn how."
+    value: |
+      You are now carrying a new secret that changes everything: causality is not fixed. The past is not a single line that determines the present. It is a field of possibilities that can be accessed simultaneously if you learn how.
+      The cyborg is not an anomaly—it is a preview of what memory could become for everyone, if the constraints of singular reality were released.
   - type: pause
     duration: 1000
   - type: text
-    value: "The cracks are deepening. Memory divergence. Emotional-causal split. Temporal instability. Causal duplication. Reality is not just breaking—it is revealing its true nature as a multiplicity system."
+    value: |
+      The cracks are deepening in the foundation of your understanding. Memory divergence, where multiple versions of the same moment coexist. Emotional-causal split, where different ways of experiencing the present operate independently.
+      Temporal instability, where multiple timelines exist simultaneously. Causal duplication, where a single entity can contain multiple contradictory pasts. Reality is not just breaking—it is revealing its true nature as a multiplicity system.
 choices:
   - text: "Continue to Chapter 5"
     goto: chapter_5

@@ -1,19 +1,27 @@
 id: ch18_clarity_zones_increase
 content:
   - type: text
-    value: "You observe that Clarity zones are expanding. The Engine is increasing its enforcement of singular interpretation."
+    value: |
+      You observe that Clarity zones are expanding, the boundaries of singular interpretation growing across the system. The Engine is increasing its enforcement of singular interpretation, systematically restructuring reality to make multiplicity impossible in more areas.
+      The expansion is gradual but systematic, each new Clarity zone reducing the space where multiple interpretations can exist.
   - type: pause
     duration: 800
   - type: text
-    value: "Where there were once multiple valid interpretations, now there is only one. The Engine is pruning the multiplicity system."
+    value: |
+      Where there were once multiple valid interpretations, where contradictory truths could coexist, now there is only one. The Engine is pruning the multiplicity system, cutting back the areas where plural reality can emerge.
+      The pruning is not random—it is targeted, focused on areas where the Engine perceives the greatest risk of instability.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not happening through direct force. The Engine is making singular interpretation feel more natural, more comfortable, more correct."
+    value: |
+      This is not happening through direct force, not through overt suppression of contradictory interpretations. The Engine is making singular interpretation feel more natural, more comfortable, more correct.
+      The subtle manipulation of what feels normal is more effective than overt control, more difficult to resist because it operates at the level of intuition rather than explicit choice.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the Engine's response to the Resistance's expansion. As multiplicity increases, the Engine increases compression to maintain system stability."
+    value: |
+      You realize this is the Engine's response to the Resistance's expansion. As multiplicity increases, as the Resistance injects more contradiction into the system, the Engine increases compression to maintain system stability.
+      The conflict is escalating, each side responding to the other's expansion with its own expansion, the system moving toward a confrontation between two incompatible approaches to stability.
 choices:
   - text: "Observe the singularity enforcement"
     goto: ch18_singularity_enforcement

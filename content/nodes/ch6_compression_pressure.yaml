@@ -1,23 +1,33 @@
 id: ch6_compression_pressure
 content:
   - type: text
-    value: "You analyze the compression pressure. It is not coming from Dr. Koval. It is coming from something deeper in the system."
+    value: |
+      You analyze the compression pressure, looking for its source, trying to understand where this bias toward simple explanations originates. It is not coming from Dr. Koval personally.
+      It is coming from something deeper in the system, something structural that operates through people rather than originating from them.
   - type: pause
     duration: 800
   - type: text
-    value: "The pressure is subtle: a cognitive bias toward simple explanations, a comfort with singular narratives, a resistance to ambiguity."
+    value: |
+      The pressure is subtle, almost invisible to casual observation: a cognitive bias toward simple explanations, a comfort with singular narratives, a resistance to ambiguity that feels natural but is actually imposed.
+      You notice it in yourself—the way your mind prefers clean, linear explanations over complex, branching ones. This preference feels like your own thought process, but it is being amplified by something external.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is not a natural human tendency. It is being amplified. Something is actively biasing consciousness toward interpretive compression."
+    value: |
+      You realize this is not a natural human tendency. It is being amplified. Something is actively biasing consciousness toward interpretive compression, making certain ways of thinking feel more comfortable than others.
+      The bias is not forcing you to think in a particular way—it is making particular ways of thinking feel more natural, more correct, more aligned with how things should be.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the Quiet Engine's first visible effect. Not as a direct action, but as a pressure that makes certain interpretations feel more comfortable than others."
+    value: |
+      This is the Quiet Engine's first visible effect. Not as a direct action, not as an overt intervention, but as a pressure that makes certain interpretations feel more comfortable than others.
+      The Engine is not telling you what to think. It is making certain thoughts feel more thinkable, more natural, more aligned with reality as it should be.
   - type: pause
     duration: 800
   - type: text
-    value: "The danger is not that the Engine is forcing reality. The danger is that it is making reality feel like it should be singular, when it is actually multiple."
+    value: |
+      The danger is not that the Engine is forcing reality. The danger is that it is making reality feel like it should be singular, when it is actually multiple.
+      The compression is not violent—it is comfortable, which makes it more dangerous because it feels like truth rather than distortion.
 choices:
   - text: "Understand the Engine's influence"
     goto: ch6_engine_influence

@@ -1,23 +1,33 @@
 id: ch37_chapter_end
 content:
   - type: text
-    value: "You leave the Null Zone. The zone is now stabilized with minimal interpretation. The Null Child has adapted to the coherence field."
+    value: |
+      You leave the Null Zone, the zone now stabilized with minimal interpretation. The Null Child has adapted to the coherence field, the Child now able to exist in the zone of minimal interpretation without threatening the system.
+      The transformation is complete, the void managed.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not eliminating the void. The Null Zone still exists as a place of minimal interpretation. But the system has found a way to manage it without being threatened by complete interpretation failure."
+    value: |
+      This is not eliminating the void, not the complete removal of the Null Zone. The Null Zone still exists as a place of minimal interpretation, a zone where meaning is reduced rather than rich.
+      But the system has found a way to manage it without being threatened by complete interpretation failure, without the void causing system collapse.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize the Engine's fear was unfounded. The void is not a threat. The system has proven that interpretation failure can be managed through the coherence field."
+    value: |
+      You realize the Engine's fear was unfounded. The void is not a threat, not an existential danger to the system. The system has proven that interpretation failure can be managed through the coherence field, that the void can be tolerated without collapse.
+      The Engine's assumption that interpretation failure leads to chaos was wrong.
   - type: pause
     duration: 800
   - type: text
-    value: "The Null Zone is now a managed zone of minimal interpretation that the system can tolerate without collapse. The Engine's fear has been addressed without requiring singular interpretation."
+    value: |
+      The Null Zone is now a managed zone of minimal interpretation that the system can tolerate without collapse. The Engine's fear has been addressed without requiring singular interpretation, without eliminating the void entirely.
+      The system has found a way to accommodate the void while maintaining stability.
   - type: pause
     duration: 1000
   - type: text
-    value: "This completes the adaptation phase. The system has adapted to all forms of multiplicity: temporal fields, named multiplicities, plural stability, and managed voids. The endgame can now begin."
+    value: |
+      This completes the adaptation phase. The system has adapted to all forms of multiplicity: temporal fields, named multiplicities, plural stability, and managed voids. The system has proven that it can function with multiplicity in all its forms.
+      The endgame can now begin, the system ready for the final phase of its transformation.
 choices:
   - text: "Continue to Chapter 38"
     goto: chapter_38

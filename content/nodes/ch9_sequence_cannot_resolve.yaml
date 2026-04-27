@@ -1,19 +1,27 @@
 id: ch9_sequence_cannot_resolve
 content:
   - type: text
-    value: "You attempt to resolve the sequence using your standard method. Trace the dominant causal chain. Eliminate the branches. Establish the primary sequence."
+    value: |
+      You attempt to resolve the sequence using your standard method, the approach that has never failed you before. Trace the dominant causal chain. Eliminate the branches. Establish the primary sequence.
+      This is how investigations are supposed to work—by identifying the most significant causal relationships and ignoring the minor ones.
   - type: pause
     duration: 800
   - type: text
-    value: "But the method fails. Every time you eliminate a branch, it reappears as equally valid. Every time you choose a primary sequence, an alternative sequence presents itself as equally likely."
+    value: |
+      But the method fails. Every time you eliminate a branch, it reappears as equally valid, as if the anomaly itself resists being simplified. Every time you choose a primary sequence, an alternative sequence presents itself as equally likely.
+      There is no way to establish a hierarchy of causality when all causal chains are equally significant.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a matter of insufficient data. You have all the data. The data itself contains multiple valid sequences that cannot be reconciled."
+    value: |
+      This is not a matter of insufficient data. You have all the data, every piece of information that could possibly be relevant. The data itself contains multiple valid sequences that cannot be reconciled.
+      The problem is not with your investigation method. The problem is with the reality you are investigating.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is not an investigation problem. This is a reality problem. Causality itself has become multiple in this zone."
+    value: |
+      You realize this is not an investigation problem. This is a reality problem. Causality itself has become multiple in this zone, producing multiple valid sequences that cannot be collapsed into a single line.
+      The anomaly is not a distortion of normal causality—it is a demonstration of how causality actually works when it is not constrained by the requirement of singularity.
 choices:
   - text: "Accept the causal instability"
     goto: ch9_causal_instability

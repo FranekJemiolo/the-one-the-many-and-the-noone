@@ -1,23 +1,33 @@
 id: ch21_chapter_end
 content:
   - type: text
-    value: "You leave the conflict zone. The oscillation between Rose's coexistence and Nemesis's compression continues, creating intense tension."
+    value: |
+      You leave the conflict zone, the oscillation between Rose's coexistence and Nemesis's compression continuing in your absence. The tension between the two interpretation engines has become visible, active, and increasingly intense.
+      The zone is being pulled in two directions simultaneously, the system straining under the competing demands of incompatible approaches.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the beginning of the system collapse phase. The conflict between interpretation systems is no longer contained. It is becoming visible and active."
+    value: |
+      This is the beginning of the system collapse phase. The conflict between interpretation systems is no longer contained, no longer a subtle tension that can be managed through careful balance.
+      It is becoming visible and active, a direct confrontation that is reshaping reality.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the inevitable consequence of the stalemate. The system cannot oscillate indefinitely between coexistence and compression. Something will break."
+    value: |
+      You realize this is the inevitable consequence of the stalemate. The system cannot oscillate indefinitely between coexistence and compression, cannot maintain the tension between incompatible approaches without eventually breaking down.
+      Something will break, the oscillation will fail, and the system will be forced to choose.
   - type: pause
     duration: 800
   - type: text
-    value: "The next chapters will show how this break manifests. Geostation collapse. Identity fragmentation. Emotional-causal split becoming permanent. The system is moving toward a point where oscillation is no longer possible."
+    value: |
+      The next chapters will show how this break manifests. Geostation collapse, the fixed points of reality breaking down. Identity fragmentation, the self dissolving under the pressure of incompatible interpretations.
+      Emotional-causal split becoming permanent, the two approaches to interpretation separating into distinct layers that can no longer communicate. The system is moving toward a point where oscillation is no longer possible.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not the end. This is the beginning of the collapse that will force the system to choose between incompatible realities."
+    value: |
+      This is not the end. This is the beginning of the collapse that will force the system to choose between incompatible realities, that will break the stalemate and create a new configuration of interpretation.
+      The system cannot maintain the tension indefinitely—something must give.
 choices:
   - text: "Continue to Chapter 22"
     goto: chapter_22

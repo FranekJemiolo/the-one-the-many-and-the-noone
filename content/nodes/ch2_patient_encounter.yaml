@@ -1,27 +1,39 @@
 id: ch2_patient_encounter
 content:
   - type: text
-    value: "The Patient sits on the examination table. They are calm. Too calm for someone who experienced what the records describe."
+    value: |
+      The Patient sits on the examination table, their hands folded in their lap, their posture relaxed in a way that feels wrong for someone who experienced what the medical records describe.
+      They are calm. Too calm. The kind of calm that comes not from peace but from detachment, as if they are observing their own experience from a distance.
   - type: pause
     duration: 800
   - type: text
-    value: "\"It happened,\" they say. \"The injury, the treatment, the recovery. All of it is factually correct.\""
+    value: |
+      "It happened," they say, their voice steady, without the tremor you would expect from someone recounting trauma. "The injury, the treatment, the recovery.
+      All of it is factually correct. The records are accurate. I don't dispute any of it."
   - type: pause
     duration: 800
   - type: text
-    value: "You ask about their emotional state. They consider this carefully."
+    value: |
+      You ask about their emotional state, about how they felt during the events described in the records. They consider this carefully, as if they are trying to understand something that doesn't quite make sense even to them.
+      There is a hesitation, not from reluctance but from the difficulty of putting into words something that defies normal experience.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The facts are correct,\" they say. \"But the feeling is wrong. The sequence of emotions does not match the sequence of events.\""
+    value: |
+      "The facts are correct," they say finally, "but the feeling is wrong. The sequence of emotions does not match the sequence of events.
+      It's as if the emotional timeline operates on its own logic, independent of what actually happened in the physical world."
   - type: pause
     duration: 1000
   - type: text
-    value: "You ask for clarification. They describe it: fear before the injury, calm during treatment, anxiety after recovery. The emotional timeline is reversed from the causal timeline."
+    value: |
+      You ask for clarification, pressing them to describe what they mean. They describe it in detail: fear before the injury, calm during treatment, anxiety after recovery.
+      The emotional timeline is reversed from the causal timeline, as if emotions anticipate events rather than responding to them.
   - type: pause
     duration: 800
   - type: text
-    value: "This should be impossible. Emotions follow events. But here, the emotional sequence has its own logic, independent of what actually happened."
+    value: |
+      This should be impossible. Emotions follow events—that is how human experience works. Fear comes from danger, not before it. Calm comes from safety, not during crisis.
+      But here, the emotional sequence has its own logic, its own causality, completely independent of what actually happened.
 choices:
   - text: "Analyze the factual correctness of the records"
     goto: ch2_factual_correctness

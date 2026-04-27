@@ -1,19 +1,27 @@
 id: ch40_final_configuration_options
 content:
   - type: text
-    value: "You observe the final configuration options. The five canonical endings represent different philosophical positions about the nature of reality."
+    value: |
+      You observe the final configuration options, the five canonical endings representing different philosophical positions about the nature of reality. These are not merely technical configurations, not simply different ways of organizing the system's operation.
+      They represent fundamentally different philosophical positions about what reality should be.
   - type: pause
     duration: 800
   - type: text
-    value: "The One represents the belief that reality should be singular. The Many represents the belief that reality should be multiple. The No-One represents the belief that reality should be void."
+    value: |
+      The One represents the belief that reality should be singular, that incompatible interpretations should be compressed into a single coherent narrative. The Many represents the belief that reality should be multiple, that incompatible interpretations should be allowed to coexist without compression.
+      The No-One represents the belief that reality should be void, that interpretation itself should be eliminated.
   - type: pause
     duration: 800
   - type: text
-    value: "The Overlap represents the belief that reality should be balanced between singular and plural. The Shifting World represents the belief that reality should remain in perpetual motion."
+    value: |
+      The Overlap represents the belief that reality should be balanced between singular and plural, that both compression and multiplicity should be available as needed. The Shifting World represents the belief that reality should remain in perpetual motion, that no final state should be chosen.
+      Each ending represents a different philosophical position.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is not just a choice of configuration. It is a choice of philosophy. The system's final configuration will represent its philosophical position about the nature of reality."
+    value: |
+      You realize this is not just a choice of configuration, not merely a technical decision about how the system should operate. It is a choice of philosophy, a decision about what reality should be.
+      The system's final configuration will represent its philosophical position about the nature of reality.
 choices:
   - text: "Observe the endgame approaches"
     goto: ch40_endgame_approaches

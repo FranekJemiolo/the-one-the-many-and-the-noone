@@ -1,19 +1,26 @@
 id: ch15_coexistence_without_collapse
 content:
   - type: text
-    value: "You focus on the coexistence without collapse. The red object and the blue object are both present. Neither is dominant. Neither is trying to eliminate the other."
+    value: |
+      You focus on the coexistence without collapse, examining how the contradictory versions of reality can exist simultaneously without requiring elimination. The red object and the blue object are both present, equally real in their own domains.
+      Neither is dominant, neither is trying to eliminate the other, neither requires the other to be false in order to be true.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a stalemate. It is a stable state of multiplicity. The contradictions are not fighting. They are simply existing together."
+    value: |
+      This is not a stalemate, not a temporary truce between opposing forces. It is a stable state of multiplicity, a condition where incompatible truths can coexist without conflict.
+      The contradictions are not fighting, are not in tension with each other. They are simply existing together, each valid in its own domain.
   - type: pause
     duration: 800
   - type: text
-    value: "Rose explains: \"Coherence is not about choosing. It is about allowing. When contradictions are allowed to coexist without pressure to resolve, they become stable.\""
+    value: |
+      Rose explains, the voice calm as if this is the most natural thing in the world: "Coherence is not about choosing, not about selecting one truth and eliminating the others. It is about allowing.
+      When contradictions are allowed to coexist without pressure to resolve, without the demand that they be reconciled into a single narrative, they become stable."
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is what Rose does. She is not resolving contradictions. She is stabilizing them so they don't collapse the system."
+    value: |
+      You realize this is what Rose does. She is not resolving contradictions, not forcing incompatible truths into a single shape. She is stabilizing them so they don't collapse the system, creating conditions where multiplicity can exist without breaking the system.
 choices:
   - text: "Understand the coherence field"
     goto: ch15_coherence_field

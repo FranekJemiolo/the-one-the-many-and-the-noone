@@ -1,19 +1,27 @@
 id: ch36_unification_event_begins
 content:
   - type: text
-    value: "Nemesis makes a final attempt at unification. The Engine attempts to collapse all interpretation layers into a single coherent narrative."
+    value: |
+      Nemesis makes a final attempt at unification, the Engine attempting to collapse all interpretation layers into a single coherent narrative. This is not a local compression, not a limited intervention in a specific zone.
+      This is a system-wide unification event, the Engine's final effort to prove that singular stability is the only viable option.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a local compression. This is a system-wide unification event. Nemesis is attempting to eliminate all multiplicity and establish singular interpretation as the only valid mode."
+    value: |
+      This is not a local compression, not a limited intervention in a specific zone. This is a system-wide unification event, Nemesis attempting to eliminate all multiplicity and establish singular interpretation as the only valid mode.
+      The scope is comprehensive, the Engine seeking to eliminate all incompatible interpretations across the entire system.
   - type: pause
     duration: 800
   - type: text
-    value: "The compression pressure is intense. The system is being forced toward singularity with maximum intensity. This is the Engine's final effort to prove that singular stability is the only viable option."
+    value: |
+      The compression pressure is intense, the system being forced toward singularity with maximum intensity. This is the Engine's final effort to prove that singular stability is the only viable option, the ultimate test of the Engine's ideology.
+      The pressure is unprecedented, the Engine committing all its resources to this final attempt.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the Engine's last chance. If the unification succeeds, the Engine's ideology is validated. If it fails, the Engine is proven wrong permanently."
+    value: |
+      You realize this is the Engine's last chance. If the unification succeeds, the Engine's ideology is validated, the Engine's claim that multiplicity leads to chaos proven correct. If it fails, the Engine is proven wrong permanently, the system's preference for plural stability demonstrated beyond doubt.
+      The stakes are absolute, the outcome determining the future of the system.
 choices:
   - text: "Observe the compression maximum"
     goto: ch36_compression_maximum

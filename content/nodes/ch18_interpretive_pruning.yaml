@@ -1,19 +1,27 @@
 id: ch18_interpretive_pruning
 content:
   - type: text
-    value: "You understand the interpretive pruning. The Engine is not eliminating multiplicity everywhere. It is pruning it back to maintain system stability."
+    value: |
+      You understand the interpretive pruning, seeing how the Engine has developed a more sophisticated strategy for managing multiplicity. The Engine is not eliminating multiplicity everywhere, not attempting to achieve complete singularity across all zones.
+      It is pruning multiplicity back to maintain system stability, allowing some multiplicity in controlled areas while expanding singularity enforcement where it perceives risk.
   - type: pause
     duration: 800
   - type: text
-    value: "This is a calculated strategy. The Engine allows some multiplicity in controlled zones, but expands singularity enforcement in areas where it perceives instability risk."
+    value: |
+      This is a calculated strategy, a systematic approach to managing the tension between multiplicity and stability. The Engine allows some multiplicity in controlled zones, where the contradictions can be monitored and contained.
+      But it expands singularity enforcement in areas where it perceives instability risk, creating Clarity zones where multiplicity is prevented from emerging in the first place.
   - type: pause
     duration: 800
   - type: text
-    value: "The problem is that the Engine's perception of instability is biased. It interprets any multiplicity as potential instability, even when Rose proves that multiplicity can be stable."
+    value: |
+      The problem is that the Engine's perception of instability is biased, fundamentally shaped by its fear of multiplicity. It interprets any multiplicity as potential instability, even when Rose proves that multiplicity can be stable.
+      The Engine cannot recognize plural stability because its operating assumption is that stability requires singularity.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the conflict escalating. The Engine is expanding Clarity zones. The Resistance will need to respond by expanding contradiction injection. The system is moving toward confrontation."
+    value: |
+      You realize this is the conflict escalating. The Engine is expanding Clarity zones, systematically restructuring reality to make multiplicity impossible. The Resistance will need to respond by expanding contradiction injection, by deliberately introducing multiplicity into the zones the Engine is trying to compress.
+      The system is moving toward confrontation, the two approaches to stability becoming increasingly incompatible.
 choices:
   - text: "Conclude the chapter"
     goto: ch18_chapter_end

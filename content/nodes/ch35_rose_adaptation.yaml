@@ -1,19 +1,27 @@
 id: ch35_rose_adaptation
 content:
   - type: text
-    value: "Rose adapts to the expansion. The coherence field is no longer a local intervention. It is becoming a structural feature of the multiplicity system."
+    value: |
+      Rose adapts to the expansion, watching as the coherence field becomes a structural feature of the multiplicity system. The coherence field is no longer a local intervention, not a capability that requires Rose's direct presence in specific zones.
+      It is becoming a structural feature of the multiplicity system, a general capability that operates independently of Rose.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The system is learning to stabilize contradictions,\" Rose says. \"This is not my power expanding. This is the system adopting my method as a general capability.\""
+    value: |
+      "The system is learning to stabilize contradictions," Rose says, their voice calm as they explain the transformation. "This is not my power expanding, not an increase in my personal influence over the system.
+      This is the system adopting my method as a general capability, internalizing the ability to stabilize contradictions without requiring me to be present."
   - type: pause
     duration: 800
   - type: text
-    value: "Rose is not becoming more powerful. Rose is becoming less necessary. The system is internalizing the coherence field so that contradictions can coexist without requiring Rose's direct intervention."
+    value: |
+      Rose is not becoming more powerful, not gaining control over larger areas of the system. Rose is becoming less necessary, the system internalizing the coherence field so that contradictions can coexist without requiring Rose's direct intervention.
+      The transformation is not about Rose's power—it is about the system's adaptation.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the goal of the Resistance. Not to make Rose dominant, but to make Rose's method structural. The system should be able to stabilize contradictions without requiring Rose to be present."
+    value: |
+      You realize this is the goal of the Resistance. Not to make Rose dominant, not to replace the Engine's compression with Rose's personal influence. To make Rose's method structural, to internalize the capability to stabilize contradictions so that the system can function without requiring Rose to be present.
+      The Resistance seeks to transform the system, not to replace one authority with another.
 choices:
   - text: "Understand the plural stability"
     goto: ch35_plural_stability

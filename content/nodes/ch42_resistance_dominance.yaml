@@ -1,19 +1,27 @@
 id: ch42_resistance_dominance
 content:
   - type: text
-    value: "You observe the Resistance dominance. In The Many configuration, the Resistance is completely dominant. The Engine's compression layer has been eliminated."
+    value: |
+      You observe the Resistance dominance, the Resistance completely dominant in The Many configuration. The Engine's compression layer has been eliminated, the compression capability no longer operating as a structural feature.
+      The Resistance's multiplicity is the only interpretation mode available.
   - type: pause
     duration: 800
   - type: text
-    value: "The Resistance's multiplicity is the only interpretation mode. There is no alternative. There is no choice. There is only plural interpretation."
+    value: |
+      The Resistance's multiplicity is the only interpretation mode, the only way to understand reality. There is no alternative, no other way to interpret events. There is no choice, no freedom to select between different interpretations.
+      There is only plural interpretation, infinite multiplicity or nothing.
   - type: pause
     duration: 800
   - type: text
-    value: "This is what the Resistance wanted. Complete freedom of interpretation. Complete expansion of multiplicity. Complete plural diversity."
+    value: |
+      This is what the Resistance wanted, the configuration the Resistance has always fought for. Complete freedom of interpretation, the ability to allow all incompatible interpretations to coexist without restriction. Complete expansion of multiplicity, the removal of all compression.
+      Complete plural diversity, the absence of all singularity.
   - type: pause
     duration: 1000
   - type: text
-    value: "But you also sense something overwhelming. The infinite ambiguity is disorienting. The infinite contradiction is destabilizing. The infinite diversity is exhausting."
+    value: |
+      But you also sense something overwhelming, an excess that accompanies the diversity. The infinite ambiguity is disorienting, the absence of any single way to understand events creating confusion. The infinite contradiction is destabilizing, incompatible interpretations coexisting without resolution.
+      The infinite diversity is exhausting, the variation of experience without limit.
 choices:
   - text: "Observe the cost of many"
     goto: ch42_cost_of_many

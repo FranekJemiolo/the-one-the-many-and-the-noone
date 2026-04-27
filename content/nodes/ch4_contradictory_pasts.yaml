@@ -1,27 +1,38 @@
 id: ch4_contradictory_pasts
 content:
   - type: text
-    value: "\"How do you experience this?\" you ask the cyborg. \"How can multiple pasts feel real simultaneously?\""
+    value: |
+      "How do you experience this?" you ask the cyborg, trying to understand something that defies normal comprehension. "How can multiple pasts feel real simultaneously without causing confusion or distress?"
   - type: pause
     duration: 800
   - type: text
-    value: "The cyborg considers this. Not as a philosophical question, but as a technical one about memory architecture."
+    value: |
+      The cyborg considers this, their expression unchanged, as if they are not hearing a philosophical puzzle but responding to a technical inquiry about memory architecture.
+      There is no conflict in their posture, no sign of the psychological distress that would normally accompany contradictory memories.
   - type: pause
     duration: 800
   - type: text
-    value: "\"I do not choose which past is true,\" the cyborg says. \"All of them are true. I simply access different pasts depending on which question I am answering.\""
+    value: |
+      "I do not choose which past is true," the cyborg says, their voice calm, matter-of-fact. "All of them are true. I simply access different pasts depending on which question I am answering.
+      The question itself determines which memory layer becomes active, and all layers are equally valid, equally real, equally accessible."
   - type: pause
     duration: 1000
   - type: text
-    value: "You ask about their origin. The cyborg answers with Memory A. You ask about their purpose. The cyborg answers with Memory B. You ask about their current state. The cyborg answers with Memory C."
+    value: |
+      You test this by asking different questions. You ask about their origin—the cyborg answers with Memory A, describing the factory and sector 7 with complete conviction.
+      You ask about their purpose—the cyborg answers with Memory B, describing the laboratory and research with equal certainty. You ask about their current state—the cyborg answers with Memory C, describing the war and survival without hesitation.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not dissociation. The cyborg is not switching between personalities. They are accessing different causal histories as if all of them are equally valid."
+    value: |
+      This is not dissociation. The cyborg is not switching between personalities, not experiencing identity fragmentation, not displaying the symptoms of psychological disorder.
+      They are accessing different causal histories as if all of them are equally valid, as if the question itself determines which past becomes relevant.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what memory has become in this world: not a record of what happened, but a library of what could have happened, all equally accessible."
+    value: |
+      You realize this is what memory has become in this world: not a record of what happened, but a library of what could have happened, all equally accessible, all equally real.
+      Memory is not a singular truth—it is a multiplicity of truths that can be accessed depending on the context of the inquiry.
 choices:
   - text: "Document the Varga entity"
     goto: ch4_varga_entity

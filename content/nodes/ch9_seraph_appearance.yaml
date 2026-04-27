@@ -1,23 +1,33 @@
 id: ch9_seraph_appearance
 content:
   - type: text
-    value: "Someone enters the investigation zone. Not a researcher. Not a technician. Someone who represents the enforcement layer."
+    value: |
+      Someone enters the investigation zone, their presence immediately changing the atmosphere of the space. Not a researcher, not a technician, not someone who is here to understand the anomaly.
+      Someone who represents the enforcement layer, the aspect of the system that is concerned with maintaining order rather than discovering truth.
   - type: pause
     duration: 800
   - type: text
-    value: "Seraph Kline. Clarity Administration. Her presence is not accidental. She is here because causal instability has been detected."
+    value: |
+      Seraph Kline. Clarity Administration. Her presence is not accidental, not a casual visit. She is here because causal instability has been detected, because the system has identified a threat to its requirement for singular causality.
+      Her posture is rigid, her expression unreadable, her entire being radiating the kind of authority that does not need to explain itself.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The sequence must be resolved,\" Seraph says. \"Multiple causal chains are not acceptable. Choose one. Eliminate the others.\""
+    value: |
+      "The sequence must be resolved," Seraph says, her voice flat, without the curiosity of a researcher or the confusion of someone encountering an anomaly. "Multiple causal chains are not acceptable.
+      Choose one. Eliminate the others. The system requires a single coherent narrative."
   - type: pause
     duration: 1000
   - type: text
-    value: "You explain that the data contains multiple valid sequences. Seraph does not care. \"The system requires a single sequence. Choose one. The others will be suppressed.\""
+    value: |
+      You explain that the data contains multiple valid sequences, that each causal chain is internally consistent, that the anomaly reveals a structural feature of reality rather than an error.
+      Seraph does not care. "The system requires a single sequence. Choose one. The others will be suppressed. Truth is not the priority. System compatibility is the priority."
   - type: pause
     duration: 800
   - type: text
-    value: "This is the first time you have encountered direct enforcement of singular causality. Seraph is not asking for truth. She is asking for system compatibility."
+    value: |
+      This is the first time you have encountered direct enforcement of singular causality. Seraph is not asking for truth, not trying to understand what is actually happening.
+      She is asking for system compatibility, demanding that reality be compressed into a form the system can process regardless of whether that compression destroys the actual complexity of what exists.
 choices:
   - text: "Refuse to choose a single sequence"
     goto: ch9_causal_instability

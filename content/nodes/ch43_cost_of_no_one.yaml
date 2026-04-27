@@ -1,19 +1,27 @@
 id: ch43_cost_of_no_one
 content:
   - type: text
-    value: "You observe the cost of no-one. In The No-One configuration, reality is completely void, but the richness of experience is gone."
+    value: |
+      You observe the cost of no-one, reality completely void in The No-One configuration but the richness of experience gone. The peace is genuine, the absence of tension absolute.
+      But the cost is the loss of experiential existence, the elimination of reality as experience.
   - type: pause
     duration: 800
   - type: text
-    value: "There is no tension, but there is also no experience. There is no contradiction, but there is also no meaning. There is no instability, but there is also no reality."
+    value: |
+      There is no tension, the absence of conflict between incompatible interpretations complete. But there is also no experience, nothing to perceive or understand. There is no contradiction, the absence of incompatible interpretations absolute.
+      But there is also no meaning, no coherent descriptions possible.
   - type: pause
     duration: 800
   - type: text
-    value: "The No-One configuration is peaceful, but it is also nonexistent. Reality has lost its interpretation, and with it, its existence as experience."
+    value: |
+      There is no instability, the absence of change and conflict complete. But there is also no reality, no existence as experience. The No-One configuration is peaceful, but it is also nonexistent.
+      Reality has lost its interpretation, and with it, its existence as experience.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the cost of the Null Zone's ideal. Void peace comes at the cost of experiential existence. The system would be peaceful, but it would also be nonexistent."
+    value: |
+      You realize this is the cost of the Null Zone's ideal. Void peace comes at the cost of experiential existence, the absence of tension purchased with the elimination of experience itself.
+      The system would be peaceful, but it would also be nonexistent, a peaceful but absent reality.
 choices:
   - text: "Conclude the chapter"
     goto: ch43_chapter_end

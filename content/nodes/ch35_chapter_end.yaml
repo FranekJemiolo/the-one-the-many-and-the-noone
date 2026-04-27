@@ -1,23 +1,33 @@
 id: ch35_chapter_end
 content:
   - type: text
-    value: "You observe the coherence field continuing to expand. Rose's method is becoming a structural feature of the multiplicity system."
+    value: |
+      You observe the coherence field continuing to expand, Rose's method becoming a structural feature of the multiplicity system. The coherence field is no longer dependent on Rose's direct intervention, not limited to zones where Rose is present.
+      It has become a general capability of the system, the default mode of operation for handling contradictions.
   - type: pause
     duration: 1000
   - type: text
-    value: "This is not Rose becoming dominant. This is the system adopting plural stability as the default. The Engine's compression is still available, but the system is choosing plural stability."
+    value: |
+      This is not Rose becoming dominant, not the Resistance replacing the Engine's authority with Rose's personal influence. This is the system adopting plural stability as the default, internalizing the capability to stabilize contradictions without requiring Rose to be present.
+      The Engine's compression is still available, but the system is choosing plural stability.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is the system's choice. The system has experienced both singular stability and plural stability, and it is choosing plural stability as the default."
+    value: |
+      You realize this is the system's choice. The system has experienced both singular stability and plural stability, has functioned under both approaches. And it is choosing plural stability as the default, preferring the stabilization of contradictions over their compression.
+      The choice is deliberate, not accidental.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the proof the Engine was wrong. Plural stability is not just possible. It is preferable. The system is choosing it over singular stability."
+    value: |
+      This is the proof the Engine was wrong. Plural stability is not just possible, not merely functional under specific conditions. It is preferable, the system choosing it over singular stability when both options are available.
+      The Engine's assumption that singular stability is the only valid form of stability is proven wrong by the system's own choice.
   - type: pause
     duration: 1000
   - type: text
-    value: "The next chapters will show the final crystallization phase. The system will complete its adaptation to multiplicity. The endgame will approach."
+    value: |
+      The next chapters will show the final crystallization phase. The system will complete its adaptation to multiplicity, the transformation reaching its terminal state. The endgame will approach, the conflict between compression and multiplicity reaching its resolution.
+      The system is approaching the final phase of its evolution.
 choices:
   - text: "Continue to Chapter 36"
     goto: chapter_36

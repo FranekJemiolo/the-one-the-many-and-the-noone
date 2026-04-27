@@ -1,19 +1,27 @@
 id: ch14_falsehood_stabilizes
 content:
   - type: text
-    value: "You are reviewing another incident report. This one was written by Dr. Koval. The explanation is not just clean—it is factually incorrect."
+    value: |
+      You are reviewing another incident report, the document spread across your desk as you analyze the details of an anomaly that should have produced a complex account. This one was written by Dr. Koval. The explanation is not just clean—it is factually incorrect.
+      The report describes events in a way that did not actually happen, creating a narrative that is coherent but false.
   - type: pause
     duration: 800
   - type: text
-    value: "But here is the disturbing part: the incorrect explanation stabilizes the system better than the true explanation would have."
+    value: |
+      But here is the disturbing part: the incorrect explanation stabilizes the system better than the true explanation would have. The system accepts the false narrative without difficulty, processes it without the strain that complex truth would cause.
+      The falsehood functions as a stabilizing element, allowing the system to operate smoothly.
   - type: pause
     duration: 800
   - type: text
-    value: "The true explanation would have introduced complexity and ambiguity. The false explanation simplifies everything into a single coherent narrative."
+    value: |
+      The true explanation would have introduced complexity and ambiguity, would have required the system to process multiple incompatible truths simultaneously. The false explanation simplifies everything into a single coherent narrative.
+      The system can handle the simplicity of the lie, but would struggle with the complexity of the truth.
   - type: pause
     duration: 800
   - type: text
-    value: "The system is more stable with the lie than it would be with the truth. This is not an accident. This is Dr. Koval's method."
+    value: |
+      The system is more stable with the lie than it would be with the truth. This is not an accident, not a mistake or an error in reporting. This is Dr. Koval's method, a deliberate choice to prioritize stability over accuracy.
+      The falsehood is not presented as truth—it is presented as a necessary compromise to allow the system to function.
 choices:
   - text: "Understand Dr. Koval's method"
     goto: ch14_koval_method

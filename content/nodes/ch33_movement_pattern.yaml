@@ -1,19 +1,27 @@
 id: ch33_movement_pattern
 content:
   - type: text
-    value: "You observe the movement pattern. The multiple versions of the Passenger are beginning to require a name for compression."
+    value: |
+      You observe the movement pattern, watching how the multiple versions of the Passenger are beginning to require a name for compression. The system cannot efficiently refer to "Passenger A, Passenger B, Passenger C" indefinitely, cannot maintain the distinction between the fragmented versions without a compressed identifier.
+      The need for a name emerges from the pattern itself, from the repetition that makes the identity recognizable.
   - type: pause
     duration: 800
   - type: text
-    value: "The system cannot efficiently refer to \"Passenger A, Passenger B, Passenger C\" indefinitely. It needs a compressed identifier for the pattern."
+    value: |
+      The system needs a compressed identifier for the pattern, a way to refer to the multiple versions without enumerating each one separately. The name is not assigned externally, not imposed from outside the pattern.
+      It is crystallized from the pattern of repetition, emerging from the very structure of the identity that is being named.
   - type: pause
     duration: 800
   - type: text
-    value: "The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Passenger's signature—moving through the system, experiencing transit, adapting to trajectory multiplicity—becomes the identity."
+    value: |
+      The name that emerges is not assigned. It is crystallized from the pattern of repetition. The Passenger's signature—moving through the system, experiencing transit, adapting to trajectory multiplicity—becomes the identity.
+      The name is not a label applied to the pattern; it is the pattern compressed into a single identifier.
   - type: pause
     duration: 1000
   - type: text
-    value: "The proto-name is \"Drift.\" Not because the Passenger moves randomly, but because the Passenger moves along multiple trajectories across the multiplicity system. Drift is the pattern of trajectory adaptation that repeats across incompatible interpretations."
+    value: |
+      The proto-name is "Drift." Not because the Passenger moves randomly, not because the pattern is about aimless wandering. Because the Passenger moves along multiple trajectories across the multiplicity system, because the pattern of trajectory adaptation repeats across incompatible interpretations.
+      Drift is the pattern of trajectory adaptation that the system has recognized as stable enough to require a name.
 choices:
   - text: "Observe the Drift crystallization"
     goto: ch33_drift_crystallization

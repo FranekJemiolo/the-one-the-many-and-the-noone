@@ -1,23 +1,33 @@
 id: ch5_mira_perspective
 content:
   - type: text
-    value: "Mira approaches the problem emotionally. If two people remember the same moment differently, perhaps the moment itself was multiple."
+    value: |
+      Mira approaches the problem emotionally, her intuition guiding her toward a conclusion that logic cannot reach. If two people remember the same moment differently, perhaps the moment itself was multiple.
+      Perhaps memory is not a recording device but a participation device, and different observers participate in different versions of the same moment.
   - type: pause
     duration: 800
   - type: text
-    value: "\"The feeling was real,\" Mira says. \"The room had a weight to it. Then you responded to that weight. That is what I remember.\""
+    value: |
+      "The feeling was real," Mira says, her voice certain. "The room had a weight to it, a density of presence that I could feel in my chest. Then you responded to that weight.
+      That is what I remember—not the light changing, but the feeling of the room, and your response to that feeling."
   - type: pause
     duration: 800
   - type: text
-    value: "You describe your memory: the light changing, the time reference. Mira acknowledges this is also real to you."
+    value: |
+      You describe your memory: the light changing, the shadows moving, the time reference that followed naturally from that observation. Mira acknowledges this is also real to you.
+      She does not dispute your memory, does not suggest you are misremembering. She simply observes that your memory is different from hers.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"Neither of us is wrong,\" Mira says. \"We are simply remembering different versions of the same moment. Both versions are true.\""
+    value: |
+      "Neither of us is wrong," Mira says, and there is a calm certainty in her voice that makes the statement more unsettling than if she were confused. "We are simply remembering different versions of the same moment.
+      Both versions are true. Both happened. The moment contained both sequences, and we each accessed one of them."
   - type: pause
     duration: 800
   - type: text
-    value: "This is not psychological distortion. Mira is not confused. She is describing a reality where the same moment can have multiple emotional-causal sequences simultaneously."
+    value: |
+      This is not psychological distortion. Mira is not confused, not experiencing memory fragmentation, not displaying any signs of cognitive impairment.
+      She is describing a reality where the same moment can have multiple emotional-causal sequences simultaneously, where different observers access different versions of the same event.
 choices:
   - text: "Compare the memories directly"
     goto: ch5_memory_comparison

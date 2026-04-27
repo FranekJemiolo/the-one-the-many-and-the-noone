@@ -1,19 +1,27 @@
 id: ch45_oscillation_dominance
 content:
   - type: text
-    value: "You observe the oscillation dominance. In The Shifting World configuration, no single interpretation mode is dominant. All modes are in perpetual motion."
+    value: |
+      You observe the oscillation dominance, no single interpretation mode dominant in The Shifting World configuration. All modes are in perpetual motion, the system shifting between them without any one becoming permanent.
+      The oscillation itself is the dominant pattern, the motion between states more fundamental than any individual state.
   - type: pause
     duration: 800
   - type: text
-    value: "The system shifts between singular, plural, void, and balanced states. No state is permanent. No state is dominant. The oscillation itself is the dominant pattern."
+    value: |
+      The system shifts between singular, plural, void, and balanced states, moving through all five canonical configurations in endless cycles. No state is permanent, each state giving way to the next in perpetual transition. No state is dominant, no configuration imposing itself as the final mode.
+      The oscillation itself is the dominant pattern.
   - type: pause
     duration: 800
   - type: text
-    value: "This is what perpetual motion represents. Complete freedom from static configuration. Complete fluidity between states. Complete dynamism of being."
+    value: |
+      This is what perpetual motion represents, the configuration that embodies complete freedom from static configuration. Complete freedom from static configuration, the system never settling into any fixed mode of being. Complete fluidity between states, the system moving effortlessly between different configurations.
+      Complete dynamism of being, reality as perpetual motion.
   - type: pause
     duration: 1000
   - type: text
-    value: "But you also sense something exhausting. The perpetual change is disorienting. The perpetual novelty is overwhelming. The perpetual motion is destabilizing."
+    value: |
+      But you also sense something exhausting, the perpetual change creating a sense of disorientation. The perpetual change is disorienting, the absence of any stable state creating confusion. The perpetual novelty is overwhelming, the constant transition between different modes becoming exhausting.
+      The perpetual motion is destabilizing, the absence of stability creating anxiety.
 choices:
   - text: "Observe the cost of shifting"
     goto: ch45_cost_of_shifting

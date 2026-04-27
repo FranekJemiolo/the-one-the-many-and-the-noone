@@ -1,23 +1,33 @@
 id: ch6_engine_influence
 content:
   - type: text
-    value: "You sit with the realization. The Quiet Engine is not acting directly. It is influencing which interpretations feel comfortable."
+    value: |
+      You sit with the realization, letting it settle into your understanding. The Quiet Engine is not acting directly, not issuing commands or making overt decisions. It is influencing which interpretations feel comfortable.
+      The Engine operates through preference, through the subtle bias that makes certain ways of thinking feel more natural than others.
   - type: pause
     duration: 1000
   - type: text
-    value: "Dr. Koval's clean explanation is not the truth. It is the version of truth that the system can tolerate. The Engine is biasing consciousness toward compression."
+    value: |
+      Dr. Koval's clean explanation is not the truth. It is the version of truth that the system can tolerate, the version that aligns with the system's preference for singularity.
+      The Engine is biasing consciousness toward compression, making simple explanations feel more correct than complex ones, making singular narratives feel more natural than multiple ones.
   - type: pause
     duration: 800
   - type: text
-    value: "This is more dangerous than direct control. If the Engine can make singular reality feel natural, then multiplicity will feel like error—even when it is accurate."
+    value: |
+      This is more dangerous than direct control. If the Engine can make singular reality feel natural, then multiplicity will feel like error—even when it is accurate.
+      The danger is not that the Engine is forcing you to believe something false. The danger is that it is making false beliefs feel true, making incomplete explanations feel complete, making singular narratives feel inevitable.
   - type: pause
     duration: 800
   - type: text
-    value: "You write in your notebook: 'Compression pressure detected. System is biasing interpretation toward singular narratives. This is not natural cognitive tendency. This is engineered.'"
+    value: |
+      You write in your notebook with deliberate precision, the words capturing the structural insight: 'Compression pressure detected. System is biasing interpretation toward singular narratives.
+      This is not natural cognitive tendency. This is engineered. The Quiet Engine operates through comfort, not force.'
   - type: pause
     duration: 1000
   - type: text
-    value: "This is the first glimpse of the Quiet Engine. It is not a villain. It is a force that makes one interpretation feel inevitable, even when reality is multiple."
+    value: |
+      This is the first glimpse of the Quiet Engine. It is not a villain in the traditional sense, not an antagonist that can be defeated through direct confrontation.
+      It is a force that makes one interpretation feel inevitable, even when reality is multiple—a force that operates through the very mechanisms of perception and interpretation.
 choices:
   - text: "Conclude the investigation"
     goto: ch6_chapter_end

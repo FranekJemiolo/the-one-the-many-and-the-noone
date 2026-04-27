@@ -1,19 +1,27 @@
 id: ch47_new_reality_established
 content:
   - type: text
-    value: "You observe the new reality established. The Overlap configuration is now the permanent state of the system."
+    value: |
+      You observe the new reality established, The Overlap configuration now the permanent state of the system. The transformation is complete, the system having evolved from the initial collapse through the adaptation phase to the final choice.
+      The new reality is established, the system operating according to its chosen configuration.
   - type: pause
     duration: 800
   - type: text
-    value: "The Engine's compression layer and the Resistance's multiplicity layer operate in permanent coexistence. Plural stability is the default, but singular stability is available when needed."
+    value: |
+      The Engine's compression layer and the Resistance's multiplicity layer operate in permanent coexistence, both available as structural capabilities of the system. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions.
+      But singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
   - type: pause
     duration: 800
   - type: text
-    value: "This is the new reality. Not a compromise, but a deliberate choice. The system has experienced all configurations and chosen balanced coexistence as its optimal state."
+    value: |
+      This is the new reality, not a compromise but a deliberate choice based on accumulated experience. The system has experienced all configurations—The One, The Many, The No-One, The Overlap, and The Shifting World—and has chosen balanced coexistence as its optimal state.
+      The choice is genuine, the reality permanent.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the victory of the Resistance's position. The system has chosen plural stability as the default while preserving singular stability as an available option."
+    value: |
+      You realize this is the victory of the Resistance's position, the validation of the struggle against the Engine's dominance. The system has chosen plural stability as the default while preserving singular stability as an available option.
+      The Resistance's goal has been achieved without requiring the destruction of the Engine.
 choices:
   - text: "Observe Rose's field becomes structural"
     goto: ch47_rose_field_structural

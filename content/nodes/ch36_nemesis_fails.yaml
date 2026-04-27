@@ -1,19 +1,27 @@
 id: ch36_nemesis_fails
 content:
   - type: text
-    value: "You observe that Nemesis fails. The unification event cannot succeed because the system itself is resisting the compression."
+    value: |
+      You observe that Nemesis fails, the unification event unable to succeed because the system itself is resisting the compression. The failure is not due to external opposition, not caused by the Resistance interfering with the Engine's attempt.
+      The unification event fails because the system itself is resisting, because the system has chosen plural stability.
   - type: pause
     duration: 800
   - type: text
-    value: "The structural coherence field is too strong. The system has adapted to plural stability and now actively prefers it. Nemesis's maximum compression cannot overcome the system's choice."
+    value: |
+      The structural coherence field is too strong, the system's adaptation to plural stability too complete. The system has adapted to plural stability and now actively prefers it, the structural coherence field operating as a general capability that cannot be overridden by external compression.
+      Nemesis's maximum compression cannot overcome the system's choice.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a defeat for Nemesis. This is a validation of the system's preference. The system has experienced both singular and plural stability, and it has chosen plural stability."
+    value: |
+      This is not a defeat for Nemesis, not a personal failure of the entity that represents the Engine's compression. This is a validation of the system's preference, the system demonstrating through its resistance that it has experienced both singular and plural stability and has chosen plural stability.
+      The failure proves the system's preference.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the final proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos. The system has proven that plural stability is not only possible, but preferable."
+    value: |
+      You realize this is the final proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos, that only singular interpretation can provide stability. The system has proven that plural stability is not only possible, but preferable.
+      The Engine's fundamental assumption has been proven wrong by the system's own choice.
 choices:
   - text: "Conclude the chapter"
     goto: ch36_chapter_end

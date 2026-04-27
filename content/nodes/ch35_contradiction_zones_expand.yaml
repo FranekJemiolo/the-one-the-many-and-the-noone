@@ -1,19 +1,27 @@
 id: ch35_contradiction_zones_expand
 content:
   - type: text
-    value: "You observe the contradiction zones expand. As Rose's coherence field spreads, areas that were previously forced into singular interpretation are now allowing contradictions to coexist."
+    value: |
+      You observe the contradiction zones expand, watching as areas that were previously forced into singular interpretation by the Engine's compression are now allowing contradictions to coexist. As Rose's coherence field spreads, the system is adopting plural stability as the default mode of operation.
+      The expansion is systematic, the coherence field reaching into zones that were previously dominated by compression.
   - type: pause
     duration: 800
   - type: text
-    value: "Red and blue objects coexist. Past and future memories coexist. Causal and emotional interpretations coexist. The contradictions are not being compressed. They are being stabilized."
+    value: |
+      Red and blue objects coexist, incompatible colors existing in the same space without requiring one to be eliminated. Past and future memories coexist, temporal contradictions stabilized without requiring linear sequence. Causal and emotional interpretations coexist, incompatible ways of understanding reality operating simultaneously.
+      The contradictions are not being compressed, not forced into singular interpretation. They are being stabilized.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not the Engine losing control. This is the system adopting Rose's method as a general capability. The coherence field is becoming structural."
+    value: |
+      This is not the Engine losing control, not a breakdown of the Engine's ability to enforce compression. This is the system adopting Rose's method as a general capability, choosing plural stability over singular compression.
+      The coherence field is becoming structural, the system internalizing the capability to stabilize contradictions.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is the system choosing plural stability over singular stability. The Engine's compression is still available, but Rose's stabilization is becoming the default."
+    value: |
+      You realize this is the system choosing plural stability over singular stability. The Engine's compression is still available, still functional for situations where singular interpretation is needed. But Rose's stabilization is becoming the default, the preferred mode of operation.
+      The system is making a choice between two approaches, and it is choosing plural stability.
 choices:
   - text: "Observe Rose's adaptation"
     goto: ch35_rose_adaptation

@@ -1,19 +1,27 @@
 id: ch25_trajectory_multiplicity
 content:
   - type: text
-    value: "You understand the trajectory multiplicity. The transit system is not producing a single path that is being interpreted differently. It is producing multiple paths simultaneously."
+    value: |
+      You understand the trajectory multiplicity, seeing how the transit system has transformed under system collapse. The transit system is not producing a single path that is being interpreted differently by different passengers.
+      It is producing multiple paths simultaneously, the trajectory itself containing incompatible versions that are all equally valid.
   - type: pause
     duration: 800
   - type: text
-    value: "This is not a problem with the Passenger's navigation. The movement itself has become multiple. The trajectory contains incompatible paths that are all equally valid."
+    value: |
+      This is not a problem with the Passenger's navigation, not a failure of trajectory calculation where different passengers take different routes to the same destination. The movement itself has become multiple.
+      The trajectory contains incompatible paths that cannot be reconciled, each leading to a different destination.
   - type: pause
     duration: 800
   - type: text
-    value: "You realize this is what the Engine fears. Trajectory multiplicity is not chaos. It is a different way of moving that the Engine cannot control, but that functions perfectly well."
+    value: |
+      You realize this is what the Engine fears. Trajectory multiplicity is not chaos, not the breakdown of navigation into disorder. It is a different way of moving that the Engine cannot control, but that functions perfectly well.
+      The Engine's assumption that movement must follow a single path is proven wrong by the very existence of functional trajectory multiplicity.
   - type: pause
     duration: 1000
   - type: text
-    value: "The Passenger is not lost. The Passenger is adapted to trajectory multiplicity. The Passenger moves along multiple paths simultaneously and arrives at multiple destinations as valid."
+    value: |
+      The Passenger is not lost, not confused by having multiple trajectories available. The Passenger is adapted to trajectory multiplicity, their consciousness restructured to accommodate multiple paths simultaneously.
+      The Passenger moves along multiple paths at once and arrives at multiple destinations, understanding that movement is not singular but plural.
 choices:
   - text: "Conclude the chapter"
     goto: ch25_chapter_end

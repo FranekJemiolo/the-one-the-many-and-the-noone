@@ -1,23 +1,33 @@
 id: ch4_cyborg_encounter
 content:
   - type: text
-    value: "The cyborg sits in the containment chair. Not a prisoner exactly—more like a memory anomaly that happens to have a body."
+    value: |
+      The cyborg sits in the containment chair, their posture relaxed despite the restraints, their expression calm despite the situation. Not a prisoner exactly—more like a memory anomaly that happens to have a body.
+      The technicians are not treating them as a criminal to be contained, but as a phenomenon to be studied, a memory construct that has achieved a level of awareness that was never intended.
   - type: pause
     duration: 800
   - type: text
-    value: "You are here because of a memory leak. The cyborg's memory systems are not storing information. They are leaking multiple pasts into the present."
+    value: |
+      You are here because of a memory leak, a term that feels inadequate for what is actually happening. The cyborg's memory systems are not simply storing information incorrectly.
+      They are leaking multiple pasts into the present, allowing contradictory histories to exist simultaneously in the same memory architecture.
   - type: pause
     duration: 800
   - type: text
-    value: "The technicians call it a Varga-class entity. A memory construct that has become aware it contains contradictory histories."
+    value: |
+      The technicians call it a Varga-class entity, a classification that exists precisely because situations like this have occurred before, though never with this level of complexity.
+      A Varga-class entity is a memory construct that has become aware it contains contradictory histories, multiple pasts that cannot be reconciled but that all feel equally real.
   - type: pause
     duration: 800
   - type: text
-    value: "The cyborg looks at you. Their eyes are not biological. They are memory interfaces that are currently displaying multiple timelines simultaneously."
+    value: |
+      The cyborg looks at you, and there is something unsettling about their gaze. Their eyes are not biological—they are memory interfaces, sophisticated neural displays that are currently showing multiple timelines simultaneously.
+      You can see the different pasts flickering across their visual field, each one complete and coherent, each one incompatible with the others.
   - type: pause
     duration: 1000
   - type: text
-    value: "\"I remember,\" the cyborg says. \"But I do not remember one thing. I remember everything that happened, in all the ways it could have happened.\""
+    value: |
+      "I remember," the cyborg says, their voice calm, without the confusion you would expect from someone experiencing contradictory memories. "But I do not remember one thing.
+      I remember everything that happened, in all the ways it could have happened. All the pasts are real to me, and they all exist in my memory at the same time."
 choices:
   - text: "Extract the memory data"
     goto: ch4_memory_extraction

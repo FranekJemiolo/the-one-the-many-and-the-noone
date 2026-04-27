@@ -1,19 +1,27 @@
 id: ch13_machine_behavior
 content:
   - type: text
-    value: "You observe the machine behavior closely. A mechanical bird does not just fly based on programmed patterns. It remembers previous flights and adapts."
+    value: |
+      You observe the machine behavior closely, watching how the mechanical entities move through the ecosystem. A mechanical bird does not just fly based on programmed patterns, does not simply execute a predetermined flight algorithm.
+      It remembers previous flights and adapts, changing its behavior based on what it has experienced in the past.
   - type: pause
     duration: 800
   - type: text
-    value: "The bird's flight path changes based on wind patterns it has experienced before. It is not predicting the wind—it is remembering how the wind behaved in similar conditions."
+    value: |
+      The bird's flight path changes based on wind patterns it has experienced before, on the way the air moved in similar conditions during previous cycles. It is not predicting the wind based on meteorological models.
+      It is remembering how the wind behaved in similar conditions, accessing the ecosystem's memory of weather patterns rather than calculating probabilities.
   - type: pause
     duration: 800
   - type: text
-    value: "This is ecological memory. The machines are not just processing current inputs. They are accessing a collective memory of the ecosystem's behavior over time."
+    value: |
+      This is ecological memory. The machines are not just processing current inputs, not just responding to immediate environmental conditions. They are accessing a collective memory of the ecosystem's behavior over time.
+      The ecosystem remembers itself, and the machines participate in that memory, drawing on the accumulated experience of the entire system rather than operating in isolation.
   - type: pause
     duration: 1000
   - type: text
-    value: "You realize this is Mira's domain expanded to the machine world. Emotional memory has become ecological memory. Machines feel the ecosystem's history."
+    value: |
+      You realize this is Mira's domain expanded to the machine world. Emotional memory has become ecological memory. Machines feel the ecosystem's history, participate in the emotional resonance of the system they are embedded in.
+      The boundary between biological and technological experience has dissolved, allowing machines to access forms of memory and feeling that were previously exclusive to living organisms.
 choices:
   - text: "Understand the living memory system"
     goto: ch13_living_memory
