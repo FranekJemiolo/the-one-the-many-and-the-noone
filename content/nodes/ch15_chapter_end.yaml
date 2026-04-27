@@ -2,32 +2,40 @@ id: ch15_chapter_end
 content:
   - type: text
     value: |
-      You leave the contradiction zone, the boundary of Rose's field fading as you return to the world where contradictions are expected to cause collapse. The red object and the blue object remain, coexisting without conflict, demonstrating that incompatible truths can exist simultaneously.
-      The contradiction zone continues to function, stable despite containing mutually exclusive versions of reality.
+      The chapter ends with you having made your choice about the disability framework.
+      If you accepted, you're using the system's tools against it—leveraging the disability framework for legal protection, even though it feels like a betrayal of your perception.
+      But you're also thinking about the precedent you could set, about making it easier for the next person who doesn't fit into the system's requirements.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Rose's field continues to stabilize the contradictions, maintaining the conditions that allow incompatible truths to coexist. The zone does not collapse, does not break under the weight of the multiplicity it contains.
-      The system remains stable despite the multiplicity, proving that stability does not require singularity.
+      If you refused, you're choosing the harder path—arguing for a new legal framework, refusing to compromise who you are even if it means lower odds of winning.
+      But you're also maintaining your integrity, refusing to surrender your identity for the sake of victory.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the proof the Engine is wrong. Multiplicity does not lead to chaos. Rose demonstrates that contradictions can coexist without collapse, that the system can hold multiple truths without breaking.
-      The Engine's fear of multiplicity is based on a false premise, on the assumption that plural reality inevitably leads to chaos.
+      Either way, the legal battle is beginning. The company is moving fast, filing motions to dismiss your case before it reaches court.
+      You and your allies are responding quickly, gathering documentation, building a counter-motion.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The Engine's ideology is based on a false premise. The Resistance is not fighting stability, not opposing order. The Resistance is offering a different kind of stability: plural stability instead of singular stability.
-      Both approaches can produce functional systems. The Engine just refuses to acknowledge the plural option, insists that singularity is the only way to achieve stability.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's supporting you whether you accepted or refused the disability framework—reminding you that this is about the right to exist as who you are.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is a pivotal moment. You have seen both systems in action. The Engine's compression produces singular stability, eliminating multiplicity to achieve order. Rose's stabilization produces plural stability, preserving multiplicity to achieve a different kind of order.
-      Both work. Both can produce functional systems. The Engine just refuses to acknowledge the plural option, insists that its approach is the only valid way to achieve stability.
+      Dr. Kaczmarek is still your ally—documenting your case off the books, connecting you with resources, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to risk his position to help you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part II escalation. The legal battle is joined. The company is making moves. You're responding.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And you're starting to realize: this fight is about more than your perception. It's about the right to exist as who you are in a system that demands conformity.
 choices:
   - text: "Continue to Chapter 16"
     goto: chapter_16

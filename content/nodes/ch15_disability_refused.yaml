@@ -1,0 +1,41 @@
+id: ch15_disability_refused
+content:
+  - type: text
+    value: |
+      "I won't accept the disability framework," you say. "I won't let them label me. I won't pathologize my perception."
+      Dr. Kaczmarek is quiet for a moment. "I understand. But I need you to understand the risks. Without the disability framework, our legal options are limited."
+      "Then we find another way. We argue for a new framework. We argue that existing law doesn't cover people like me, but it should."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That's a harder argument. Courts are conservative. They prefer to apply existing frameworks rather than create new ones."
+      "Then we make them create a new one. We make them recognize that the law needs to evolve."
+      You pause. "I'm not going to betray who I am just to win. I'd rather lose fighting for myself than win by accepting their narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That's a valid choice," Dr. Kaczmarek says. "But understand: this path is riskier. The odds of winning are lower."
+      "I know. But at least I'll be fighting for the right thing."
+      Hanging up, you feel a sense of clarity. This is the right choice—the harder choice, but the right one.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is proud. "That was brave. You refused to compromise who you are."
+      "It might cost me the case."
+      "Maybe. But you kept your integrity. That matters."
+      She takes your hand. "And if we lose, we'll find another way. We'll keep fighting. We won't let them win."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You nod. She's right. Even if you lose, you'll keep fighting. You won't let the system erase you.
+      And maybe that's the point—not just winning, but refusing to surrender who you are in the process.
+choices:
+  - text: "Continue to Chapter 16"
+    goto: ch15_chapter_end
+    set:
+      legal_conflict: 1
+      self_acceptance: 1

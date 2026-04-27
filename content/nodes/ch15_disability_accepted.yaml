@@ -1,0 +1,40 @@
+id: ch15_disability_accepted
+content:
+  - type: text
+    value: |
+      "I'll accept the disability framework," you say. "If it's the strongest legal option, I'll use it."
+      Dr. Kaczmarek nods. "I understand this isn't easy. But remember: you're using the system's tools against it. You're not accepting their narrative—you're leveraging their framework to protect your right to exist as who you are."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I know. It still feels like a betrayal."
+      "Then frame it differently. You're not labeling yourself disabled. You're arguing that your perception qualifies for protection under existing law."
+      He pauses. "The label doesn't change who you are. It just gives you legal leverage."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Hanging up, you feel conflicted. The strategic choice makes sense, but the emotional cost is real.
+      Mira wraps her arms around you. "You're doing the right thing. You're fighting for your right to exist."
+      "By accepting their narrative that I'm broken."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "By using their tools to protect yourself. There's a difference."
+      She pulls back to look at you. "The system wants to erase you. If using their framework prevents that, then it's worth it."
+      She pauses. "And when you win, when you set the precedent, you make it easier for the next person. The next person who perceives reality differently."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You nod. She's right. This isn't just about you. It's about anyone who doesn't fit into the system's requirements.
+      If you win, you make it harder for the system to erase people like you.
+      That's worth the cost of accepting the disability framework.
+choices:
+  - text: "Continue to Chapter 16"
+    goto: ch15_chapter_end
+    set:
+      legal_conflict: 1
+      disability_framing: 1

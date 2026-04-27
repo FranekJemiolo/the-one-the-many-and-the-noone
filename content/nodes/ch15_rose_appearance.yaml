@@ -2,37 +2,44 @@ id: ch15_rose_appearance
 content:
   - type: text
     value: |
-      Rose appears, but not in the way a person appears. Not as an individual with a body and a face, but as the coherence field itself made visible, as the force that stabilizes contradiction given form.
-      The presence feels vast, encompassing, as if you are encountering the very mechanism that allows incompatible truths to coexist without collapse. There is a gentleness to the presence, but also an ancient quality that suggests it has existed longer than you can comprehend.
+      Two weeks after the letter from your supervisor, you receive a call from Dr. Kaczmarek. He sounds urgent.
+      "The company is moving faster than expected. They're preparing to file a motion to dismiss your case before it even reaches court."
+      "Can they do that?"
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The contradictions are not in conflict," Rose says, the voice emerging from everywhere and nowhere at once. "They are simply different versions of the same thing, each valid in its own domain.
-      I allow them to coexist without forcing them to resolve, without requiring one version to eliminate the others."
+      "They can try. They'll argue that your claims are without merit, that your perception doesn't qualify for protection under any existing framework."
+      He pauses. "We need to respond quickly. We need to file a counter-motion demonstrating that your case has legal basis."
   - type: pause
     duration: 800
   - type: text
     value: |
-      You ask how this is possible, how the system can contain incompatible truths without breaking. Rose explains that coherence is not about eliminating contradiction, not about forcing reality into a single shape.
-      Coherence is about stabilizing contradiction so it does not collapse the system, creating conditions where incompatible truths can coexist without conflict.
+      "What do you need from me?"
+      "Documentation. Evidence. Anything that demonstrates your perception is real, that it affects your experience of reality, that it qualifies for protection."
+      He pauses. "And I need you to decide on the disability framework. Elena needs to know whether we're pursuing that angle."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "The Engine wants to choose one version," Rose says, and there is no judgment in the voice, only recognition of a different approach. "I want to preserve all versions. Neither approach is wrong.
-      They are just different ways of handling multiplicity, different strategies for achieving stability in a fundamentally plural reality."
-      The voice softens. "But the Engine's approach carries a cost. When you eliminate versions, you eliminate experiences, perspectives, possibilities. The Engine creates stability through loss."
+      You consider this. The disability framework feels like a betrayal of your perception—like accepting the system's narrative that you're broken.
+      But it's also the strongest legal option. It might be the only way to fight back effectively.
+      Mira is watching you. "What do you think?"
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the core conflict. The Engine wants singularity through compression, eliminating multiplicity to achieve stability. Rose wants plurality through stabilization, preserving multiplicity to achieve a different kind of stability.
-      The conflict is not between order and chaos—it is between two different approaches to achieving order in a multiple reality, with different costs and different benefits.
+      "I don't want to be labeled disabled. I don't want to be pathologized."
+      "But you also don't want to lose this fight."
+      She takes your hand. "Whatever you decide, I support you. But remember: this isn't about who you are. It's about winning the right to exist as who you are."
 choices:
-  - text: "Understand the coexistence without collapse"
-    goto: ch15_coexistence_without_collapse
-  - text: "Ask about Rose's nature"
-    goto: ch15_rose_nature
+  - text: "Accept the disability framework for legal leverage"
+    goto: ch15_disability_accepted
     set:
-      nature_interest: 1
+      legal_conflict: 1
+      disability_framing: 1
+  - text: "Refuse, pursue alternative legal strategy"
+    goto: ch15_disability_refused
+    set:
+      legal_conflict: 1
+      self_acceptance: 1
