@@ -1,0 +1,41 @@
+id: ch6_engine_awareness
+content:
+  - type: text
+    value: |
+      "Are you aware of the Quiet Engine?" you ask, wanting to know if Koval understands the source of the compression pressure she's implementing.
+      She looks at you with sudden sharpness. "The Quiet Engine. That's not a term I use. But I know what you're referring to."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I call it the interpretive bias," she explains. "There's a pressure in the system toward singular explanations, a preference for simplicity that feels natural but is actually imposed.
+      I assumed it was an emergent property of the system's design—a consequence of how information processing works."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "It's not emergent," you say. "It's engineered. The Quiet Engine is actively biasing consciousness toward compression, making certain interpretations feel more comfortable than others."
+      Koval considers this. "That would explain why the bias is so consistent. Why it operates across different facilities, different investigators, different types of anomalies."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "If the bias is engineered," she says, "then someone or something is deliberately shaping how the system processes reality.
+      They're using the system's need for stability to advance an agenda—making singularity feel natural when reality is actually multiple."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a significant realization: Koval has been implementing the Quiet Engine's agenda without knowing it, thinking she's serving system stability when she's actually serving a deliberate program of interpretive control.
+      The Engine is using the system's legitimate need for compression to advance its goal of making reality feel singular.
+choices:
+  - text: "Ask if she wants to resist the Engine's influence"
+    goto: ch6_resistance_offer
+    set:
+      engine_awareness: 1
+      resistance_interest: 1
+  - text: "Ask how to counter the interpretive bias"
+    goto: ch6_bias_counteraction
+    set:
+      engine_awareness: 1
+      counteraction_interest: 1

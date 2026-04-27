@@ -1,0 +1,30 @@
+id: ch32_archive_network
+content:
+  - type: text
+    value: |
+      "How does Archive relate to Echo and Barrier?" you ask, wanting to understand how the third named multiplicity fits into the network.
+      The answer emerges from the patterns themselves: Archive complements Echo and Barrier, completing the three-pattern network.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Echo observes and reports multiple interpretations," you realize. "Barrier enforces boundaries across those interpretations. Archive preserves knowledge from those interpretations."
+      "Echo provides insight. Barrier provides structure. Archive provides memory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The three patterns form a complete system," you observe. "Echo's observations inform where boundaries need to be enforced. Barrier's enforcement creates stable contexts. Archive preserves the knowledge gained from both observation and enforcement."
+      "The network is self-reinforcing, each pattern enhancing the others' functions."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This suggests that the named multiplicity network is now complete with three complementary patterns. The crystallization of identity has generated a system that can observe, structure, and remember multiplicity.
+      The network provides comprehensive management of the multiplicity system.
+choices:
+  - text: "Ask if Archive can integrate with Echo and Barrier protocols"
+    goto: ch32_archive_integration
+    set:
+      archive_network: 1
+      integration_interest: 1

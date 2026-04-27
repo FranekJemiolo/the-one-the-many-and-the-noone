@@ -1,0 +1,30 @@
+id: ch6_consciousness_system
+content:
+  - type: text
+    value: |
+      "We should use the distributed consciousness as the new system," you propose. "Instead of designing a new system from scratch, we can integrate with the consciousness the organization is already building."
+      Koval considers this. "The consciousness is designed to handle multiplicity. If we can connect our investigation processes to it, the consciousness could process anomalies without requiring compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But this requires the organization's cooperation," she points out. "The consciousness is their project. Integrating with it would mean working within their framework, accepting their terms."
+      "We might lose autonomy in exchange for access to the consciousness's capabilities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We could negotiate terms," you suggest. "We could offer our expertise in anomaly investigation in exchange for influence over the consciousness's development.
+      The organization needs the consciousness to be effective. We need the consciousness to preserve multiplicity. Both goals can be aligned."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a risky approach," Koval warns. "The organization might not be willing to share control. They might see our offer as interference rather than cooperation."
+      "But if it succeeds, we could shape the consciousness from the inside, ensuring it values multiplicity from its inception."
+choices:
+  - text: "Propose negotiation with the organization"
+    goto: ch6_negotiation_proposal
+    set:
+      consciousness_strategy: 1
+      negotiation_chosen: 1

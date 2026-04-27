@@ -1,0 +1,41 @@
+id: ch3_station_exploration
+content:
+  - type: text
+    value: |
+      Instead of proceeding directly to the investigation, you decide to explore the station, wanting to understand the environment before examining the anomaly.
+      The station is larger than you expected, with multiple research wings, residential quarters, and observation decks that look out on the rotating Earth below.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The corridors are empty, the station operating with minimal crew. You pass a laboratory where equipment is running unattended, experiments proceeding without human supervision.
+      The automation is efficient, but there's something unsettling about experiments continuing without observers, as if the station itself is conducting research.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In the observation deck, you find a researcher staring at Earth, their back to you. When you approach, they don't turn, but they speak as if they've been expecting you.
+      "You're here about the time anomaly," they say. "Everyone who comes here is. But most of them want to fix it. You might be different."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The researcher turns, and you recognize them from previous case files: Dr. Elena Vance, a physicist who resigned from her university position under mysterious circumstances.
+      Her file mentioned she was investigating "unconventional temporal phenomena"—the same kind of research that brought you to this station.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I've been studying the anomaly for six months," Vance says. "The station is not malfunctioning. It's experiencing multiple temporal realities simultaneously.
+      Each researcher accesses a different timeline, and the station accommodates all of them. It's not a problem to be solved—it's a state to be understood."
+choices:
+  - text: "Ask Vance about her research"
+    goto: ch3_vance_research
+    set:
+      vance_contact: 1
+      research_interest: 1
+  - text: "Ask how the station accommodates multiple timelines"
+    goto: ch3_station_mechanism
+    set:
+      vance_contact: 1
+      mechanism_interest: 1

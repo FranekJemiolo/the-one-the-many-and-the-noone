@@ -1,0 +1,30 @@
+id: ch10_experiment_implementation
+content:
+  - type: text
+    value: |
+      You begin implementing the multiplicity zone experiment, working with Seraph to reconfigure the facility's mechanisms.
+      The interpretive fields are adjusted to bias toward multiplicity, the cognitive biasing is modified to guide perception toward multiple interpretations, and the reality-shaping technologies are reprogrammed to allow alternatives to crystallize.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The implementation is complex, requiring precise calibration to ensure that multiplicity emerges without causing instability.
+      You use your enhanced temporal perception to monitor the interpretive field, adjusting the mechanisms in real-time as the zone begins to change.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Gradually, the environment shifts. The air feels thicker, more full of possibilities. Multiple interpretations begin to crystallize for the same events, existing side by side without requiring reconciliation.
+      The zone becomes multiple, and contrary to the leadership's fears, it remains stable.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The experiment is working," Seraph observes. "Multiplicity is emerging, and the zone is not collapsing.
+      The leadership's premise is false—multiplicity can be stable."
+choices:
+  - text: "Monitor the experiment's long-term stability"
+    goto: ch10_stability_monitoring
+    set:
+      experiment_implementation: 1
+      monitoring_started: 1

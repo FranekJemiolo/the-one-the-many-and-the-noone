@@ -1,0 +1,24 @@
+id: ch27_loop_sharing
+content:
+  - type: text
+    value: |
+      "Can causal loop insights be shared with linear time zones?" you ask, wanting to know if the understanding gained from temporal fields can benefit the broader system.
+      Kai considers this. "The insights can be translated, but the translation is not direct. Linear time zones cannot experience circular causality directly, but they can understand the patterns that circular causality reveals."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We can develop a mapping language," Kai suggests. "A way to describe circular causality in linear terms, allowing linear time zones to benefit from temporal field insights without experiencing the temporal field directly."
+      "This would be like describing a three-dimensional object in two-dimensional terms—lossy but useful."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would strengthen the Resistance," you realize. "Temporal field insights could help identify stable systems that appear unstable in linear time, revealing patterns of mutual causality that linear analysis misses."
+      "The mapping language would be a powerful tool for understanding system dynamics."
+choices:
+  - text: "Propose developing the causal loop mapping language"
+    goto: ch27_mapping_language
+    set:
+      loop_sharing: 1
+      mapping_chosen: 1

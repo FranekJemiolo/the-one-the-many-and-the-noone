@@ -1,0 +1,25 @@
+id: ch11_network_agreement
+content:
+  - type: text
+    value: |
+      "I agree to help the network when asked," you say, committing to support the sanctuary network's needs.
+      Lys acknowledges your agreement. "The network will call on you when your capabilities are needed.
+      Your assistance will help the sanctuary continue its work of memory reconciliation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "In return," she adds, "the network will provide you with sanctuary when you need it. When you have contradictory memories that cannot be held without assistance, the sanctuary will appear to stabilize them."
+      "You will never have to eliminate your multiplicity to maintain psychological stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a significant alliance: you are now connected to the Resistance's memory infrastructure, with access to sanctuary services whenever you need them.
+      In exchange, you commit to supporting the network's operations, using your enhanced capabilities to help others hold their contradictory memories.
+choices:
+  - text: "Continue the visit with this new alliance"
+    goto: ch11_memory_reconciliation
+    set:
+      network_agreement: 1
+      alliance_active: 1

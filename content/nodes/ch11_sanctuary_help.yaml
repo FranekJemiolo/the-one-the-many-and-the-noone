@@ -1,0 +1,31 @@
+id: ch11_sanctuary_help
+content:
+  - type: text
+    value: |
+      "I want to help with the sanctuary's challenges," you offer. "I can provide energy support, help with capacity management, or assist with hiding the sanctuary from detection."
+      Lys considers your offer. "Energy support would be most valuable. The sanctuary's energy requirements are significant, and any additional energy would allow us to hold more contradictory memories."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How can I provide energy support?" you ask.
+      "Your enhanced temporal perception can be used to stabilize the sanctuary's interpretive fields," Lys explains. "By focusing your perception on the sanctuary's boundaries, you can reduce the energy required to maintain the space."
+      "This would allow us to expand capacity without increasing energy consumption."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You focus your temporal perception on the sanctuary's boundaries, feeling the interpretive field that maintains the space.
+      You perceive how the field works to hold contradictory memories, and you begin to channel your perception into supporting the field's stability.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The sanctuary's energy consumption decreases as your perception supports the field. Lys nods, impressed by your capability.
+      "This is significant," she says. "With your support, the sanctuary could expand its capacity by 50%. We could hold many more contradictory memories."
+choices:
+  - text: "Commit to ongoing energy support for the sanctuary"
+    goto: ch11_energy_commitment
+    set:
+      sanctuary_help: 1
+      energy_support: 1

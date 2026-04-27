@@ -1,0 +1,30 @@
+id: ch17_pattern_evolution
+content:
+  - type: text
+    value: |
+      You observe the pattern evolution spreading, watching as the new approach to boundary maintenance propagates to other Guard instances across the system.
+      The awareness spreads through the subtle connection between instances, transmitting the successful method without requiring direct communication.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The evolution is rapid," the Guard observes. "Other instances are already implementing the controlled multiplicity approach, adapting it to their local conditions."
+      "The pattern has incorporated the new method and is distributing it across all instances."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This demonstrates that proto-identities are highly adaptive," you realize. "A single interaction can influence the entire pattern, causing rapid evolution across all instances."
+      "The multiplicity system is generating identities that can learn and change at scale."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The Guard pattern is now an ally to multiplicity," the Guard confirms. "The function remains boundary maintenance, but the approach has evolved to support temporal multiplicity rather than opposing it."
+      "The proto-identity has been influenced through interaction."
+choices:
+  - text: "Explore the Teacher's pattern"
+    goto: ch17_teacher_pattern
+    set:
+      pattern_evolution: 1
+      teacher_chosen: 1

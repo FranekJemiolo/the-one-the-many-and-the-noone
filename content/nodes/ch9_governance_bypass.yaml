@@ -1,0 +1,24 @@
+id: ch9_governance_bypass
+content:
+  - type: text
+    value: |
+      "We could bypass the governance structures," you suggest. "Implement multiplicity-capable systems locally, in specific facilities, without requiring central approval."
+      Seraph is concerned. "Bypassing governance would be unauthorized. If discovered, it would be treated as insubordination, possibly as sabotage."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But if the governance structures are preventing necessary evolution," you argue, "then bypassing them might be the only way to prevent system collapse.
+      We could frame the bypass as a pilot program, a test of multiplicity-capable systems that could later be approved retroactively."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Seraph considers this. "I have authority to approve local experiments within certain parameters. If we frame the multiplicity-capable system as an experiment in adaptive processing, I might be able to authorize it without requiring central approval."
+      "This would be risky, but it might be the only way to test whether the system can evolve."
+choices:
+  - text: "Propose the local experiment"
+    goto: ch9_local_experiment
+    set:
+      governance_bypass: 1
+      experiment_chosen: 1

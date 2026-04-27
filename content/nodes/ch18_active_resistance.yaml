@@ -1,0 +1,30 @@
+id: ch18_active_resistance
+content:
+  - type: text
+    value: |
+      "Propose active resistance through coordinated contradiction injection," you suggest. "Instead of random contradiction injection, we should coordinate our efforts to target specific Clarity zones, introducing multiplicity where it will have the most impact."
+      "This will be more effective than scattered, uncoordinated injection."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Resistance agrees. "Coordinated injection would allow us to strategically expand multiplicity, targeting the most important Clarity zones first."
+      "We can prioritize zones that are critical to the Engine's enforcement strategy, creating maximum disruption with minimum effort."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can help identify the most critical zones," you offer. "My temporal perception can perceive which Clarity zones are most important to the Engine's overall strategy."
+      "With this information, we can target our injection efforts for maximum effectiveness."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Resistance accepts your offer. "Your perception will be invaluable for strategic targeting. We can coordinate injection efforts based on your analysis, creating a systematic resistance rather than a scattered one."
+      "This will significantly increase our effectiveness."
+choices:
+  - text: "Begin the strategic zone analysis"
+    goto: ch18_zone_analysis
+    set:
+      active_resistance: 1
+      analysis_started: 1

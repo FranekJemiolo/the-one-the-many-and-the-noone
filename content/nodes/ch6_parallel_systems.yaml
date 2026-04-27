@@ -1,0 +1,29 @@
+id: ch6_parallel_systems
+content:
+  - type: text
+    value: |
+      "We can run parallel systems during the transition," you propose. "Keep the current system operational for routine investigations, while the new system handles complex anomalies that require multiplicity."
+      Koval considers this. "This would allow us to test the new system without disrupting normal operations. Investigators could choose which system to use based on the complexity of the anomaly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Over time, as the new system proves its effectiveness, we can shift more investigations to it," you continue. "Eventually, the new system becomes the default, and the old system is decommissioned."
+      "The transition happens organically, based on demonstrated capability rather than forced migration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This approach has advantages," Koval says. "It minimizes disruption, allows for comparative testing, and provides a fallback if the new system encounters problems.
+      But it also requires maintaining two systems simultaneously, which doubles the resource requirements."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The resource cost is worth it," you argue. "The current system is becoming increasingly disconnected from reality. We need a new system that can handle multiplicity, and parallel operation is the safest way to transition."
+choices:
+  - text: "Implement the parallel systems approach"
+    goto: ch6_parallel_implementation
+    set:
+      parallel_systems: 1
+      dual_operation: 1

@@ -1,0 +1,47 @@
+id: ch1_seraph_conversation
+content:
+  - type: text
+    value: |
+      "I wondered when someone would find those files," Seraph says, gesturing for you to enter. "I left them accessible for a reason. I knew someone would need them eventually."
+      Her apartment is sparse, almost monastic, with few personal belongings and no photographs. It looks like a place where someone is waiting for something, or trying to avoid being found.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You've touched it, haven't you?" she asks, not waiting for your answer. "The object in the room that shouldn't exist. I can see it in your eyes—the way they're slightly too focused, as if you're seeing multiple layers of reality at once."
+      She speaks from experience, her own eyes carrying the same quality she describes in yours.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I didn't retire for medical reasons," she explains. "I retired because I was becoming dangerous. The more I perceived the cracks, the more I could manipulate them.
+      I started making choices that shouldn't have been possible, influencing outcomes by selecting which version of reality to observe."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      She describes her progression: first perceiving anomalies, then predicting them, then actively shaping them. The object she touched gave her the same knowledge it gave you, but she had twenty years of investigative experience to build on.
+      "I became a node in the system," she says. "A point where different realities intersect. I could choose which version of events to make real, simply by deciding which one to observe."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I stopped because I realized I was losing myself. The more I used the ability, the less I existed as a distinct person. I was becoming a function of the phenomenon, a tool for reality to use to select its preferred outcomes."
+      She looks at you with intensity. "You're at the beginning of that path. You can still turn back, if you choose to."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a warning, but it's also an offer. Seraph is offering to teach you how to navigate the phenomenon without being consumed by it, to use the perception without losing yourself.
+      But the warning is clear: the more you engage with the anomalies, the more you risk becoming part of them.
+choices:
+  - text: "Ask Seraph to teach you how to navigate the phenomenon"
+    goto: ch1_seraph_mentorship
+    set:
+      seraph_mentor: 1
+      path_acceptance: 1
+  - text: "Decline and choose to turn back while you still can"
+    goto: ch1_chapter_end
+    set:
+      seraph_warned: 1
+      path_rejection: 1

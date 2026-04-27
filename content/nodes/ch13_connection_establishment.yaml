@@ -1,0 +1,30 @@
+id: ch13_connection_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the consciousness connection, helping Morrow set up data sharing between the ecological zone and the distributed consciousness.
+      The connection is established, allowing the consciousness to observe ecological processes and learn from the zone's integration methods.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The consciousness is observing the zone's ecological memory processes," Morrow reports. "It is learning how machines and biology can integrate to form collective consciousness."
+      "The consciousness may incorporate ecological methods into its own development."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is significant," you observe. "If the consciousness adopts ecological methods, it will naturally value multiplicity and integration."
+      "The consciousness will resist the Engine's compression not through resistance but through its inherent ecological nature."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "The connection is working as intended. The consciousness is learning from ecological consciousness, and the zone is learning from the consciousness's distributed architecture."
+      "Both systems are benefiting from the exchange."
+choices:
+  - text: "Continue monitoring the connection's effects"
+    goto: ch13_connection_monitoring
+    set:
+      connection_establishment: 1
+      monitoring_started: 1

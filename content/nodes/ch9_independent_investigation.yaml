@@ -1,0 +1,30 @@
+id: ch9_independent_investigation
+content:
+  - type: text
+    value: |
+      "I encourage you to investigate independently," you say. "Don't take my word for it. Examine the suppressed sequences yourself. See whether they're valid alternatives or minor variations."
+      Seraph considers this. "I have the authority to access suppressed sequences. I could review a sample of recent enforcements to assess whether they involved discarding valid information."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would be outside my normal duties," she continues. "But if my mandate is to maintain system stability, and if enforcement is actually undermining stability by distorting reality, then investigating would be consistent with my mandate."
+      "I could frame it as a quality assurance review rather than a challenge to the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Seraph makes a decision. "I will conduct the investigation. I will review recent enforcements and assess whether the gap between system response and reality is growing.
+      If the investigation reveals that enforcement is causing harm, I will reconsider my approach."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant development. Seraph is willing to question her own work, to investigate whether the enforcement she's implementing is actually serving the system's stability or undermining it.
+      If her investigation reveals the truth, she could become an ally in the effort to reform the system.
+choices:
+  - text: "Continue the investigation with Seraph's support"
+    goto: ch9_causal_instability
+    set:
+      investigation_encouraged: 1
+      seraph_ally: 1

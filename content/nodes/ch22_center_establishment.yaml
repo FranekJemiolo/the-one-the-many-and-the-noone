@@ -1,0 +1,30 @@
+id: ch22_center_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the training center, helping the researchers develop protocols for systematic temporal field adaptation.
+      The center begins operations, bringing people from across the system to experience temporal multiplicity and develop the capacity to function in temporal fields.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training is successful," the researchers report after months of operation. "Hundreds of people have developed temporal field perception, and the adaptation is spreading as they return to their home zones."
+      "The system's capacity for multiplicity is increasing significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the temporal field training, attempting to prevent the spread of temporal multiplicity."
+      "But the adaptation is self-propagating—once people experience temporal fields, they retain the capacity even in linear time zones."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The researchers agree. "The Engine cannot reverse the adaptation. Temporal field perception is becoming widespread, and the system is adapting to multiplicity at scale."
+      "The training center is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the training center established"
+    goto: ch22_multiple_timelines
+    set:
+      center_establishment: 1
+      adaptation_spreading: 1

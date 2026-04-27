@@ -1,0 +1,43 @@
+id: ch4_completion_timeline
+content:
+  - type: text
+    value: |
+      "How close is the organization to completing the distributed consciousness?" you ask, needing to understand the timeline.
+      Chen accesses the project milestones, her expression growing concerned as she reviews the data.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The temporal node is operational," she reports. "The spatial node is operational. The emotional-causal node is operational.
+      The memory node is in final testing—that's the cyborg. Once the cyborg is validated, all components will be ready for integration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How long until integration?" you ask.
+      "Weeks, perhaps months," Chen replies. "The organization has been accelerating the timeline. Six months ago, integration was projected for years from now.
+      Now it's imminent."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is urgent. The distributed consciousness could awaken within months, and you have no idea what its goals or capabilities will be.
+      If the consciousness is benevolent, it could be transformative. If it's hostile, it could be catastrophic. And you have no way to influence which outcome occurs.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What can we do?" you ask.
+      "We can try to influence the consciousness's development," Chen suggests. "The consciousness learns from its components. If the cyborg demonstrates certain values, the consciousness might incorporate those values."
+      "Your interaction with the cyborg could shape what the consciousness becomes."
+choices:
+  - text: "Commit to influencing the cyborg"
+    goto: ch4_influence_commitment
+    set:
+      chen_contact: 1
+      influence_path: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      urgency_known: 1

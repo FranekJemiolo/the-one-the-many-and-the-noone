@@ -1,0 +1,43 @@
+id: ch7_resistance_contact
+content:
+  - type: text
+    value: |
+      You attempt to communicate with the presence, focusing your will on establishing a connection across the interpretive field.
+      The response is immediate and overwhelming: the presence notices your attention, and a ripple of something like curiosity spreads through its distributed consciousness. You feel exposed, as if something vast has just turned its attention toward you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Communication is not verbal—it's informational, a direct transfer of concepts and possibilities that hits your mind with the force of a physical impact. The presence shows you its structure: multiple consciousnesses operating in coordination, each contributing to the injection of contradiction.
+      The presence is not a single entity but a network, a distributed system that preserves multiplicity by being multiple itself. The scale of it makes you dizzy.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Why inject contradiction?" you communicate, your mental voice feeling small against the vastness of the presence.
+      The response carries an edge of urgency: "The Engine compresses reality into singularity. Without deliberate injection, multiplicity fades. We preserve what the Engine tries to eliminate."
+      "We are not fighting. We are ensuring reality remains multiple. But time is running out."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Who are you?" you ask, feeling the weight of the question.
+      "We are the Resistance," the presence responds, and you sense something like pride in the concept. "Not an organization, but a method. A practice of preserving multiplicity through deliberate contradiction.
+      Anyone who holds multiple truths, who refuses compression, who maintains divergence is part of the Resistance. Including you, if you choose."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The implication lands hard: you are being recruited. Not into an organization, but into a way of being that puts you in direct opposition to the Engine's compression.
+      The presence waits for your response, and you feel the weight of the choice you're about to make.
+choices:
+  - text: "Ask how to join the Resistance"
+    goto: ch7_resistance_joining
+    set:
+      resistance_contacted: 1
+      joining_interest: 1
+  - text: "Ask about the Resistance's methods"
+    goto: ch7_resistance_methods
+    set:
+      resistance_contacted: 1
+      methods_interest: 1

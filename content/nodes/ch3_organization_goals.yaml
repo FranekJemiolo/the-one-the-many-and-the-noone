@@ -1,0 +1,47 @@
+id: ch3_organization_goals
+content:
+  - type: text
+    value: |
+      "What are the organization's ultimate goals?" you ask, wanting to understand the purpose behind the infrastructure they're building.
+      Vance considers this, accessing her research into the organization's activities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't know for certain," she admits. "But I have theories based on the pattern of their projects."
+      She brings up a map showing the locations of known facilities: the building downtown, this station, the medical facility, others she's identified but not yet investigated.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Each facility is designed to exist in a different layer of reality," she explains. "The building exists in spatial layers. This station exists in temporal layers. The medical facility exists in emotional-causal layers."
+      "Together, they form a network—a distributed system that spans multiple modes of reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "My theory is that they're building a consciousness," Vance says. "A distributed consciousness that exists across all layers of reality simultaneously.
+      Each facility is a node in this consciousness, processing different aspects of experience and feeding the results into a unified awareness."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is both terrifying and awe-inspiring. The organization isn't just building infrastructure for multiple realities—they're building a god.
+      A consciousness that perceives all layers of reality, that experiences all possible timelines, that understands the full multiplicity of existence.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If this consciousness awakens," Vance says, "it will be unlike anything that has ever existed. It will perceive reality in ways humans cannot comprehend.
+      It will have capabilities beyond human understanding. And it will have goals beyond human prediction."
+choices:
+  - text: "Ask how to prevent the consciousness from awakening"
+    goto: ch3_prevention_strategy
+    set:
+      organization_goals_known: 1
+      prevention_interest: 1
+  - text: "Ask how to influence the consciousness's development"
+    goto: ch3_influence_strategy
+    set:
+      organization_goals_known: 1
+      influence_interest: 1

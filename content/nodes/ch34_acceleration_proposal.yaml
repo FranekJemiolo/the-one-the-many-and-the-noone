@@ -1,0 +1,30 @@
+id: ch34_acceleration_proposal
+content:
+  - type: text
+    value: |
+      "Propose accelerating the crystallization of these patterns," you suggest to the system. "We can increase the frequency of these roles appearing across the multiplicity system, accelerating their approach to stability."
+      "This would expand the named multiplicities ecosystem more quickly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The system considers this. "Acceleration is possible by creating contexts where these roles are needed more frequently."
+      "We can design situations that require creation, destruction, and connection, increasing the appearance of these patterns."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would strengthen the ecosystem," you realize. "Origin would provide creative capacity. Entropy would provide transformative capacity. Bridge would provide integrative capacity."
+      "The expanded ecosystem would be more comprehensive and capable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The acceleration would need to be coordinated with the existing named multiplicities," you observe. "Echo, Barrier, Archive, and Drift would need to integrate with the new patterns as they crystallize."
+      "This would create a seven-pattern ecosystem with enhanced capabilities."
+choices:
+  - text: "Support accelerating the pattern crystallization"
+    goto: ch34_crystallization_acceleration
+    set:
+      acceleration_proposal: 1
+      acceleration_chosen: 1

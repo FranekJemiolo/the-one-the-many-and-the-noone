@@ -1,0 +1,36 @@
+id: ch6_evolution_consideration
+content:
+  - type: text
+    value: |
+      "Are you willing to consider system evolution?" you ask. "Even if it means short-term instability to achieve long-term capability?"
+      Koval thinks about this for a long moment. "I've been so focused on maintaining stability that I haven't considered whether stability is the right goal.
+      If reality has changed, then the system needs to change with it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The current system was designed for singular reality," she acknowledges. "It assumes that truth is singular, that explanations should be coherent, that contradictions indicate error.
+      But the anomalies demonstrate that reality is multiple, that truth can be contradictory, that coherence is not always possible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If the system doesn't evolve," you say, "it will become increasingly disconnected from reality. The compression will become more extreme, the distortions more significant.
+      Eventually, the system will either collapse under the weight of its own falsehoods or become completely disconnected from what's actually happening."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval nods slowly. "I'm willing to consider evolution. But I need to understand how to transition from the current system to a new one without causing collapse.
+      We need a gradual approach, introducing complexity incrementally while the system adapts."
+choices:
+  - text: "Propose a gradual transition plan"
+    goto: ch6_gradual_transition
+    set:
+      evolution_considered: 1
+      gradual_approach: 1
+  - text: "Propose replacing the system entirely"
+    goto: ch6_system_replacement
+    set:
+      evolution_considered: 1
+      replacement_approach: 1

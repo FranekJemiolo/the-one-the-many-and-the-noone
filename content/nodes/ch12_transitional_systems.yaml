@@ -1,0 +1,30 @@
+id: ch12_transitional_systems
+content:
+  - type: text
+    value: |
+      You begin developing transitional systems for folded time, working with Kai to create methods for helping people adapt to temporal field perception.
+      Kai develops training protocols for field perception, layer navigation, and causal loop understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You implement support systems in facilities where leaks are most intense, creating spaces where people can practice folded time navigation in a controlled environment.
+      The support systems provide guidance, monitoring, and gradual exposure to folded time rather than sudden immersion.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The transitional systems are working," Kai reports after months of implementation. "People are adapting to folded time more easily than expected.
+      The gradual approach is preventing the disorientation that would come from sudden immersion."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests that the population can adapt to folded time if given proper support," you observe. "The transition is not impossible—it just requires preparation."
+      "We're building the infrastructure for a temporal transition that might be inevitable."
+choices:
+  - text: "Continue developing and expanding the transitional systems"
+    goto: ch12_systems_expansion
+    set:
+      transitional_systems: 1
+      expansion_chosen: 1

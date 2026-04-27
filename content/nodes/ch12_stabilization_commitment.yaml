@@ -1,0 +1,31 @@
+id: ch12_stabilization_commitment
+content:
+  - type: text
+    value: |
+      "I commit to leak stabilization assistance," you say, willing to use your temporal perception to help contain the growing temporal boundaries.
+      Kai accepts your commitment. "We will begin by identifying the most critical leaks, the ones that pose the greatest risk of uncontrolled temporal collapse."
+      "Then we will implement stabilization methods, reinforcing temporal boundaries to contain the leaks."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your role will be to use your temporal perception to identify weak points in temporal boundaries," Kai explains. "You can perceive where the boundary is most permeable, where the leak is most intense.
+      This will allow us to prioritize our stabilization efforts."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We will also need to monitor the leaks over time," he continues. "As reality becomes more multiple, the temporal pressure will increase, creating new leaks and intensifying existing ones.
+      Ongoing monitoring will be necessary to prevent uncontrolled collapse."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant commitment: you are becoming part of the temporal stabilization effort, using your enhanced capabilities to manage the growing leak problem.
+      In exchange, you gain access to Kai's knowledge of folded time and his methods for navigating temporal boundaries.
+choices:
+  - text: "Begin the leak stabilization work"
+    goto: ch12_stabilization_work
+    set:
+      stabilization_commitment: 1
+      work_started: 1

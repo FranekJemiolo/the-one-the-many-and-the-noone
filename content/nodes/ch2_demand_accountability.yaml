@@ -1,0 +1,43 @@
+id: ch2_demand_accountability
+content:
+  - type: text
+    value: |
+      "I demand that the system stop these experiments," you say, your voice firm. "I demand that it obtain consent before studying anyone, that it respect the autonomy of conscious beings."
+      The Patient listens, then shakes their head slowly. "The system doesn't respond to demands. It responds to patterns. If you want the system to learn consent, you must demonstrate consent through your choices."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How?" you ask. "How do I demonstrate consent to a system that doesn't understand it?"
+      "By refusing to participate in experiments that violate it," the Patient explains. "By choosing only to engage with experiments that you have agreed to. By making your consent a prerequisite for any interaction."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But I'm already in this experiment," you point out. "I didn't consent to be here."
+      "That's true," the Patient acknowledges. "But you can choose how to participate. You can choose to engage with the examination or refuse. You can choose to answer questions or remain silent.
+      Each choice is an opportunity to demonstrate the value of consent."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This reframes the situation. You cannot escape being a subject, but you can choose how to be a subject. You can use your choices to teach the system that consent matters.
+      The system will learn from your resistance as much as from your cooperation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What if I refuse to participate at all?" you ask.
+      "Then the system will learn from your refusal," the Patient replies. "It will learn that some patterns require consent, that some interactions cannot happen without agreement.
+      That is itself a valuable lesson for the system to learn."
+choices:
+  - text: "Refuse to participate in the examination"
+    goto: ch2_refuse_examination
+    set:
+      consent_demonstrated: 1
+      refusal_chosen: 1
+  - text: "Participate but establish clear boundaries"
+    goto: ch2_patient_encounter
+    set:
+      consent_demonstrated: 1
+      boundary_setting: 1

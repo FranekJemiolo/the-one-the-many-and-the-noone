@@ -1,0 +1,30 @@
+id: ch11_network_access
+content:
+  - type: text
+    value: |
+      "How can I access other sanctuaries in the network?" you ask, wanting to understand how to use the distributed memory reconciliation services.
+      Lys explains that access is based on need, not on authorization. The network serves anyone who has contradictory memories that cannot be eliminated without loss.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "To access a sanctuary," she says, "you must have a contradictory memory that requires stabilization. The sanctuary will sense your need and appear to you, not as a physical location but as an interpretive space where your memories can be held."
+      "The network finds you when you need it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is how the network remains hidden," Lys continues. "It does not have fixed locations that can be discovered. It appears to those who need it, in the moment when they need it, and then fades when the need is met."
+      "The Engine cannot target what it cannot locate."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I have contradictory memories," you realize. "Multiple pasts from temporal instability, different versions of events that I experienced simultaneously."
+      "The network has probably been available to me without my knowing it."
+choices:
+  - text: "Ask if the network has been helping you without your awareness"
+    goto: ch11_network_assistance
+    set:
+      network_access_known: 1
+      assistance_interest: 1

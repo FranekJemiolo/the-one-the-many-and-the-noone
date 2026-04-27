@@ -1,0 +1,30 @@
+id: ch12_field_training
+content:
+  - type: text
+    value: |
+      You begin field perception training, working with Kai to learn to see causality as a field rather than a line.
+      The training is challenging, requiring you to unlearn the habits of linear time that have been ingrained through a lifetime of normal temporal experience.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Focus on the causal relationships around you," Kai instructs. "Don't assume cause precedes effect. Perceive how influence moves in multiple directions simultaneously.
+      The future is influencing the present just as the present influences the future."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You focus your temporal perception, trying to perceive the causal field rather than the causal line. Gradually, you begin to sense something—a web of influence where cause and effect are interconnected in complex patterns rather than simple sequences.
+      The field perception emerges slowly, but it becomes clearer with practice.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You're beginning to perceive the field," Kai observes. "This is the foundation for leak navigation.
+      Once you can consistently perceive causality as a field, we can move to layer navigation training."
+choices:
+  - text: "Continue field perception training"
+    goto: ch12_field_progress
+    set:
+      field_training: 1
+      progress_made: 1

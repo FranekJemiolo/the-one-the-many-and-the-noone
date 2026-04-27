@@ -1,0 +1,36 @@
+id: ch9_seraph_background
+content:
+  - type: text
+    value: |
+      "Tell me about Clarity Administration," you say to Seraph, wanting to understand the organization she represents and its role in enforcing singular causality.
+      Seraph considers whether to answer, her expression suggesting she evaluates requests based on whether they serve system stability rather than whether they deserve answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Clarity Administration maintains interpretive coherence," she explains, her voice conveying the same flat authority she uses for all statements. "We ensure that investigations produce singular narratives, that anomalies are compressed into explanations the system can process.
+      Without enforcement, the system would collapse under the weight of its own complexity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You don't care about truth," you observe.
+      "Truth is a luxury," Seraph replies. "System stability is a necessity. The system cannot function if every investigation produces multiple contradictory accounts.
+      We prioritize operability over accuracy because operability is required for any function at all."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a utilitarian calculation taken to its extreme: system stability is worth any sacrifice, including the sacrifice of truth itself.
+      Seraph is not malicious—she genuinely believes she's serving a necessary function. But her function requires distorting reality to maintain the appearance of stability.
+choices:
+  - text: "Challenge the necessity of system stability"
+    goto: ch9_stability_challenge
+    set:
+      seraph_background_known: 1
+      challenge_chosen: 1
+  - text: "Ask about the consequences of enforcement"
+    goto: ch9_enforcement_consequences
+    set:
+      seraph_background_known: 1
+      consequences_interest: 1

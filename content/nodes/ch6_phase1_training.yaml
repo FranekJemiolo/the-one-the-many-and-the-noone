@@ -1,0 +1,30 @@
+id: ch6_phase1_training
+content:
+  - type: text
+    value: |
+      You begin Phase 1 training, working with Koval to select a pilot group of investigators for training in different interpretive frameworks.
+      The training focuses on three frameworks: causal analysis (Aleksy's approach), emotional intuition (Mira's approach), and temporal perception (Vance's approach).
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The investigators chosen for the pilot are those who have already demonstrated aptitude for multiple frameworks—people who can switch between causal and emotional analysis, who have shown sensitivity to temporal anomalies.
+      These are not the most senior investigators, but they are the most adaptable.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training is intensive. Investigators learn to recognize the Engine's bias, to resist the pressure toward compression, to document multiple interpretations even when the system prefers singular narratives.
+      They also learn to collaborate across frameworks, to integrate different perspectives without requiring them to be reconciled.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      After six weeks of training, the pilot group is ready for Phase 2: implementing parallel processing for different frameworks.
+      The system will route anomalies to the appropriate framework specialist, and the results will be integrated without compression.
+choices:
+  - text: "Proceed to Phase 2 implementation"
+    goto: ch6_engine_influence
+    set:
+      phase1_complete: 1
+      pilot_trained: 1

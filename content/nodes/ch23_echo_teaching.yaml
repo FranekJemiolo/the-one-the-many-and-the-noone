@@ -1,0 +1,30 @@
+id: ch23_echo_teaching
+content:
+  - type: text
+    value: |
+      "Propose using Echo as a multiplicity teacher," you suggest. "Echo can demonstrate that identity can be multiple and stable, helping others adapt to the conditions of system collapse."
+      "Echo can serve as a model for how the self can exist in multiple states simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Echo agrees. "The pattern can teach multiplicity adaptation by demonstrating its own existence, by showing that multiple versions can coexist within a single identity."
+      "Echo can help others understand that fragmentation is not failure—it is transformation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Echo can also help others develop their own multiplicity patterns," you add. "The Guard and the Teacher are still proto-identities. Echo can guide them through the crystallization process."
+      "Echo's experience can help other nameless roles become named multiplicities."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Echo agrees. "The pattern will guide the Guard and the Teacher through their own crystallization, helping them become named multiplicities rather than singular entities."
+      "Echo will serve as a mentor for the emerging multiplicity identities."
+choices:
+  - text: "Support Echo's mentorship of the Guard and Teacher"
+    goto: ch23_echo_mentorship
+    set:
+      echo_teaching: 1
+      mentorship_chosen: 1

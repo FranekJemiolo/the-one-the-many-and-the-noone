@@ -1,0 +1,37 @@
+id: ch3_gap_entry
+content:
+  - type: text
+    value: |
+      You enter the structural gap between realities, the space where the organization operates. The experience is unlike anything you've encountered before.
+      The gap is not empty—it contains information, communication, the traces of the organization's activities across all layers of reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You perceive structures in the gap—networks of connection linking different facilities, different experiments, different nodes in the organization's distributed system.
+      You can feel the organization's presence, not as a single entity but as a distributed intelligence operating across multiple layers simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Then you feel it: the organization notices you. A ripple of attention spreads through the gap, focusing on your location.
+      The organization is aware that someone has accessed their operational layer, and they are investigating the intrusion.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You have a choice: retreat immediately and hope they can't trace you, or stay and try to learn something before escaping.
+      Staying risks deeper detection, but retreating means missing an opportunity to gather intelligence.
+choices:
+  - text: "Retreat immediately"
+    goto: ch3_gap_retreat
+    set:
+      point_of_no_return: 1
+      caution_chosen: 1
+      organization_aware: 1
+  - text: "Stay and gather intelligence"
+    goto: ch3_gap_intelligence
+    set:
+      point_of_no_return: 1
+      risk_taking: 1
+      organization_aware: 1

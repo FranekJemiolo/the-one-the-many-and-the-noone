@@ -1,0 +1,44 @@
+id: ch4_cyborg_network_role
+content:
+  - type: text
+    value: |
+      "What is the cyborg's role in the network?" you ask, wanting to understand how this entity fits into the organization's larger plan.
+      Chen considers this, accessing the cyborg's specifications and the network architecture documents.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The cyborg is designed to be a memory node," she explains. "In a distributed consciousness, different nodes process different aspects of experience.
+      The station processes temporal experience. The building processes spatial experience. The medical facility processes emotional experience."
+      "The cyborg would process memory experience—storing, retrieving, and navigating multiple histories for the distributed consciousness."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So the cyborg is a component of the consciousness," you realize. "A memory system that can hold multiple pasts for an entity that experiences multiple realities."
+      "Exactly," Chen confirms. "The consciousness would need a memory system that can match its multiplicity of experience. Normal memory can't do that.
+      Varga-class memory is designed specifically for distributed consciousness."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Is the cyborg aware of this role?" you ask.
+      "We don't know," Chen admits. "The cyborg might have been programmed with this purpose, or it might have developed this capability independently.
+      The organization doesn't share its long-term plans with the facilities it funds."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This raises an ethical question: if the cyborg is a component of a larger consciousness, does it have autonomy? Or is it merely a tool for the organization's plan?
+      And if the consciousness awakens, what will happen to the cyborg—will it become part of the larger entity, or maintain its individual identity?
+choices:
+  - text: "Ask about the cyborg's autonomy"
+    goto: ch4_cyborg_autonomy
+    set:
+      chen_contact: 1
+      autonomy_interest: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      network_role_known: 1

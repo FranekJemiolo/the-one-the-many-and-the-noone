@@ -1,0 +1,49 @@
+id: ch1_building_origin
+content:
+  - type: text
+    value: |
+      "Who designed the building?" you ask. "If it's always been a node where realities intersect, that must have been intentional."
+      Chen nods slowly. "The architect was... unusual. A man named Elias Vane. He died before the building was completed, but his designs were so detailed that construction continued according to his specifications."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Vane was obsessed with the idea that architecture could influence reality itself," Chen explains. "He believed that buildings could be designed to exist in multiple dimensions simultaneously, to serve as bridges between different layers of reality."
+      "Most people thought he was crazy. But the building was commissioned by a client who took his ideas seriously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Who was the client?" you ask.
+      Chen shakes his head. "I don't know. The records were sealed. Vane's designs were implemented, but the client's identity was never made public.
+      All I know is that they had resources—significant resources. The building cost three times what a normal building of its size would cost."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This raises more questions than it answers. If the building was deliberately designed as a reality-intersecting node, then the anomalies are not bugs but features.
+      The building is doing exactly what it was designed to do, and the renovation was an attempt to control a functionality that was built into its very structure.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Is there anything else you can tell me about Vane?" you ask.
+      Chen thinks for a moment. "He left notes. Journals, sketches, theoretical papers. They're in storage somewhere—archived by the client after his death.
+      I don't know where, but if you could find them, they might explain what the building is supposed to do."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You thank Chen and leave, your mind racing with implications. The building is not just anomalous—it's a deliberate creation, designed by someone who understood reality in ways that normal architects don't.
+      Finding Vane's notes could be crucial to understanding the building's purpose and how to interact with it safely.
+choices:
+  - text: "Search for Vane's archived notes"
+    goto: ch1_vane_search
+    set:
+      vane_identified: 1
+      notes_search: 1
+  - text: "Return to the office with this information"
+    goto: ch1_chapter_end
+    set:
+      vane_identified: 1
+      building_origin_known: 1

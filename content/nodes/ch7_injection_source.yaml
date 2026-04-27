@@ -1,0 +1,35 @@
+id: ch7_injection_source
+content:
+  - type: text
+    value: |
+      Instead of examining the alternate explanation immediately, you try to identify the source of the injection. The contradiction was placed deliberately, which means someone or something is actively operating in this unstable reality zone.
+      You focus your enhanced temporal perception on the interpretive field, trying to trace the injection back to its origin.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The trace is difficult to follow—the injection was designed to be untraceable, to introduce contradiction without revealing its source.
+      But with your temporal training, you can perceive the residual patterns in the interpretive field, the faint echoes of the injection's passage.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You perceive a presence—not a person in the traditional sense, but a consciousness operating in the gaps between realities.
+      The presence is not the organization. It has a different quality, less structured, more fluid, as if it's composed of multiple consciousnesses operating in coordination rather than a single unified entity.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This must be the Resistance—not an organization with leaders and members, but a distributed consciousness that operates through multiple agents simultaneously.
+      The injection came from this distributed presence, which is why it feels like a download rather than a thought—it's information being transmitted across consciousness rather than generated within a single mind.
+choices:
+  - text: "Attempt to communicate with the presence"
+    goto: ch7_resistance_contact
+    set:
+      injection_traced: 1
+      contact_attempted: 1
+  - text: "Observe the presence without engaging"
+    goto: ch7_presence_observation
+    set:
+      injection_traced: 1
+      observation_chosen: 1

@@ -1,0 +1,36 @@
+id: ch6_stability_challenge
+content:
+  - type: text
+    value: |
+      "What if the system shouldn't be preserved?" you challenge. "What if the current system is designed for singular reality and needs to be replaced with a system that can handle multiplicity?"
+      Koval looks at you with surprise. "That's not a possibility I've considered. The system is fundamental to how we manage reality. Without it, there's no structure for processing anomalies."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But if reality is fundamentally multiple," you argue, "then a system designed for singularity will always require distortion to function.
+      The compression isn't a feature—it's a bug in the system's design. We need a system that can handle complexity without collapsing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this, her expression thoughtful. "A system that can handle multiplicity without compression. That would require redesigning the entire information processing architecture.
+      It would mean accepting that explanations can be multiple, that investigations can have multiple valid outcomes, that truth is not singular."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Is that possible?" she asks. "Can a system function without singular narratives?"
+      "The distributed consciousness the organization is building might be able to," you suggest. "It's designed to exist across multiple layers of reality, to process multiplicity rather than compress it."
+      "Maybe the answer isn't to preserve the current system. Maybe the answer is to replace it with something that can handle reality as it actually is."
+choices:
+  - text: "Propose collaborating on system redesign"
+    goto: ch6_redesign_proposal
+    set:
+      stability_challenged: 1
+      redesign_interest: 1
+  - text: "Continue investigating the current system"
+    goto: ch6_compression_pressure
+    set:
+      stability_challenged: 1
+      investigation_continued: 1

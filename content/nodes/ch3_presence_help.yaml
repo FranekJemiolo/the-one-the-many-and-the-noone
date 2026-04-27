@@ -1,0 +1,43 @@
+id: ch3_presence_help
+content:
+  - type: text
+    value: |
+      You allow the presence to approach, hoping it can help you reintegrate. The presence touches your consciousness, and you feel it organizing your fragmented awareness, pulling the scattered pieces back together.
+      The reintegration is gentle but firm, the presence guiding you back to a single timeline with expertise that suggests it has done this before.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      When you find yourself back in a single timeline, gasping and disoriented, you look for the presence but it's gone—retreated back into the gaps between realities.
+      But you know it was there, and you know it helped you. The question is: why?
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You return to Vance, who looks at you with shock. "You're alive. You're intact. How did you reintegrate without my help?"
+      "Something helped me," you explain. "A presence in the gaps between timelines. It pulled me back together."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Vance's expression darkens. "That was the organization. They have automated systems in the gaps to handle temporal dissociation—part of their infrastructure for managing multiple realities."
+      "They helped you because you're useful to them. A subject who can navigate timelines is valuable to their research."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Now they know you exist," Vance says. "Now they know you have temporal aptitude. They will be watching you, tracking your development, possibly recruiting you when they're ready."
+      "You've made contact with the organization, whether you intended to or not."
+choices:
+  - text: "Accept this as an opportunity to infiltrate the organization"
+    goto: ch3_infiltration_opportunity
+    set:
+      solo_path: 1
+      organization_contact: 1
+      infiltration_path: 1
+  - text: "Try to avoid further contact with the organization"
+    goto: ch3_avoidance_strategy
+    set:
+      solo_path: 1
+      organization_contact: 1
+      avoidance_path: 1

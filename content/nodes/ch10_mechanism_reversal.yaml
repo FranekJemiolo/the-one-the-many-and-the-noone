@@ -1,0 +1,32 @@
+id: ch10_mechanism_reversal
+content:
+  - type: text
+    value: |
+      "Can the mechanisms be reversed?" you ask, wanting to know if the Clarity zone could be converted to support multiplicity instead of singularity.
+      Seraph considers this. "Theoretically, yes. The interpretive fields could be reconfigured to bias toward multiplicity rather than singularity.
+      The cognitive biasing could be adjusted to guide perception toward multiple interpretations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the reality-shaping technologies would need to be redesigned," she continues. "They currently prevent alternatives from crystallizing. To support multiplicity, they would need to allow multiple interpretations to crystallize simultaneously."
+      "This would require fundamental changes to the system's architecture."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Has anyone attempted this redesign?" you ask.
+      "There have been proposals," Seraph replies. "But they have been rejected by Clarity Administration's leadership, which maintains that singularity is necessary for stability.
+      The leadership believes that allowing multiplicity would reintroduce chaos."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But the Resistance demonstrates that multiplicity can be stable," you counter. "Rose proves that contradiction can coexist without breaking the system.
+      The leadership's belief is based on a false premise."
+choices:
+  - text: "Propose a multiplicity zone experiment"
+    goto: ch10_multiplicity_experiment
+    set:
+      reversal_known: 1
+      experiment_proposed: 1

@@ -1,0 +1,50 @@
+id: ch4_cyborg_self_perception
+content:
+  - type: text
+    value: |
+      You decide to ask the cyborg about its self-perception, wanting to understand whether it views itself as an individual or a component.
+      Chen leads you to the containment chamber, where the cyborg waits with the same calm demeanor you observed earlier.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do you understand yourself?" you ask the cyborg. "Are you an individual with your own identity, or are you a component of a larger system?"
+      The cyborg considers this, its neural displays flickering with multiple memory layers as it accesses different pasts to formulate its response.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I contain multiple selves," the cyborg says finally. "Each past I remember contains a different version of who I am. The factory worker. The researcher. The soldier.
+      All of them are me, and none of them is the complete me."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Do you see yourself as part of a larger consciousness?" you ask.
+      "I feel connections," the cyborg replies. "Not to a specific entity, but to a network of possibilities. I sense that my multiplicity is not unique—that other entities exist in similar states.
+      Whether we are components of a single consciousness or independent entities experiencing similar conditions, I cannot determine."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If you were offered integration into a larger consciousness," you ask, "would you choose it?"
+      The cyborg's displays show multiple pasts activating simultaneously, as if it's accessing all its possible responses at once.
+      "I would need to understand what integration means," it says. "Would I maintain my multiplicity? Would I retain my capacity to choose which past to access?
+      Or would I become a single memory within a larger system, losing the capability that makes me what I am?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a profound question: the cyborg is asking about the terms of integration, suggesting it might consent if the terms preserve its essential nature.
+      The cyborg is not opposed to being part of something larger—it just wants to ensure that integration doesn't mean losing its multiplicity.
+choices:
+  - text: "Ask the cyborg what terms it would accept"
+    goto: ch4_integration_terms
+    set:
+      chen_contact: 1
+      terms_interest: 1
+  - text: "Continue the standard investigation"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      self_perception_known: 1

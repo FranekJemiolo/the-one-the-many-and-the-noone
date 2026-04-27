@@ -1,0 +1,47 @@
+id: ch1_marcus_history
+content:
+  - type: text
+    value: |
+      "Other unusual occurrences?" Marcus repeats, leaning back against the wall and wiping grease from his hands with a rag. His eyes dart to the corridor, checking for eavesdroppers.
+      "You mean besides the building humming like a tuning fork?" He laughs, but there's no humor in it—just the sound of someone who's seen too much to be surprised anymore.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "About six months ago, the elevators started acting up. Not breaking down, just... taking people to the wrong floors. You'd press 4, end up on 7. Press 2, end up in the basement."
+      He lowers his voice. "Building management called it a software glitch. Fixed it, they said. But I don't think it was software."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      He describes the incidents in detail: people stepping into elevators and emerging on floors they didn't select, sometimes floors that don't exist according to the building's official layout.
+      "One woman said she got off on a floor that looked like her office but wasn't—same layout, different details. Like a copy that got something wrong. She was shaking when she told me. Said she felt like she'd stepped into a dream."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This connects to the witness testimony in a way that makes your skin prickle. If the building can create copies of floors, can it create copies of moments?
+      The spatial anomaly you observed in the corridor might be a manifestation of the same phenomenon—the building existing in multiple states simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Did anyone report this to management?" you ask, though you already suspect the answer.
+      Marcus shakes his head grimly. "People complained, sure. But management... they didn't want to hear it. Fixed the elevators, said it was resolved. But the building never felt right after that."
+      His hands grip the wrench tightly. "I've got a family. I need this job. But if something's wrong with this building, I need to know."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      He gives you a piece of paper with his contact information, the numbers written with deliberate care. "If you find out what's really going on here, let me know. I've been working in this building for twenty years, and I've never seen anything like what's been happening lately."
+      You take the paper, sensing that Marcus could be a valuable ally if this investigation expands beyond a single incident—and that he's scared enough to take risks.
+choices:
+  - text: "Thank Marcus and return to the office"
+    goto: ch1_witness_testimony
+    set:
+      marcus_contact: 1
+      building_history_known: 1
+  - text: "Ask Marcus to show you the elevators"
+    goto: ch1_elevator_investigation
+    set:
+      elevator_investigation: 1

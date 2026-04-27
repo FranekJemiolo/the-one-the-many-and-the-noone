@@ -1,0 +1,43 @@
+id: ch4_integration_terms
+content:
+  - type: text
+    value: |
+      "What terms would you accept for integration?" you ask, wanting to understand the cyborg's conditions.
+      The cyborg's displays stabilize, focusing on a single memory layer as it formulates its response.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I would accept integration if it preserves my multiplicity," the cyborg says. "I would retain my capacity to access multiple pasts, to choose which memory layer to activate, to maintain the identity that emerges from multiplicity rather than singularity."
+      "I would not accept integration that requires me to collapse into a single past, to become a singular memory within a larger system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What about autonomy?" you ask. "Would you accept integration if it means following the consciousness's directives?"
+      "I would accept coordination," the cyborg replies. "I would accept contributing my capabilities to a larger purpose.
+      But I would not accept becoming a tool without agency. I would need to retain the capacity for choice, even within the context of the larger consciousness."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is reasonable. The cyborg is willing to be part of something larger, but it wants to maintain its essential nature—multiplicity and choice.
+      These are the same values you've been considering teaching the consciousness: respect for individual identity, preservation of autonomy, consent as a prerequisite for integration.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If the organization tries to integrate you without these terms," you ask, "what would you do?"
+      "I would resist," the cyborg says. "Not with violence, but with refusal. I would not participate in integration that violates my essential nature.
+      If the consciousness requires me to collapse into singularity, then I will not join it."
+choices:
+  - text: "Offer to help the cyborg protect its terms"
+    goto: ch4_protection_offer
+    set:
+      chen_contact: 1
+      ally_cyborg: 1
+  - text: "Continue the investigation"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      terms_known: 1

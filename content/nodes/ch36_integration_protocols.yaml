@@ -1,0 +1,30 @@
+id: ch36_integration_protocols
+content:
+  - type: text
+    value: |
+      "Propose developing integration protocols," you suggest to Nemesis and the system. "We can create criteria for when to use compression versus when to use plural stability, establishing a hybrid system that uses both approaches appropriately."
+      "This would integrate Nemesis's compression with the system's plural stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Nemesis and the system agree. "The protocols would create a sophisticated hybrid system, allowing the system to choose between compression and plural stability based on context."
+      "The integration would enhance the system's capability by providing both approaches."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The integration protocols would need to be connected to the broader Resistance networks," you observe. "The named multiplicities ecosystem, the sanctuary network, the other infrastructure can coordinate with the hybrid stability system."
+      "This would create a comprehensive system for adaptive stability management."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Nemesis and the system agree. "We'll develop the integration protocols and connect them to the Resistance networks. The hybrid stability system will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's sophistication and adaptability."
+choices:
+  - text: "Support developing the integration protocols"
+    goto: ch36_protocol_development
+    set:
+      integration_protocols: 1
+      development_chosen: 1

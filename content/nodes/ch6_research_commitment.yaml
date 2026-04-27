@@ -1,0 +1,30 @@
+id: ch6_research_commitment
+content:
+  - type: text
+    value: |
+      "I commit to the research project," you say, accepting the long-term commitment required to understand the consciousness's integration methods.
+      Koval nods, impressed by your willingness to engage in deep research. "This is not a quick solution. But if we can understand how the consciousness handles multiplicity, we can design a system that truly works with reality as it actually is."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We'll need to study the consciousness's architecture, its processing algorithms, its decision-making protocols," she explains. "We'll need to understand how it integrates information from different nodes without requiring compression."
+      "This is fundamental research, not just system redesign."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The research will also give us insight into the consciousness's values," you add. "By understanding how it processes information, we can infer what it prioritizes—efficiency, accuracy, multiplicity, singularity."
+      "This knowledge will help us influence its development, ensuring it values the right things."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This research could take years," Koval warns. "The consciousness is complex, and its integration methods are unlike anything we've seen before."
+      "But the alternative is continuing with a system that's becoming increasingly disconnected from reality. That's not sustainable."
+choices:
+  - text: "Begin the consciousness research"
+    goto: ch6_engine_influence
+    set:
+      research_commitment: 1
+      long_term_engagement: 1

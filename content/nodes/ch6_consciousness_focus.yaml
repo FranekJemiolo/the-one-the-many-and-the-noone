@@ -1,0 +1,30 @@
+id: ch6_consciousness_focus
+content:
+  - type: text
+    value: |
+      "We should focus on influencing the consciousness," you argue. "The current system is designed for singular reality and may be too compromised to save.
+      The distributed consciousness is being built to handle multiplicity. If we can shape its development, it could replace the current system entirely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "This shifts the strategy from resistance to influence. Instead of fighting the Engine's bias in the current system, we focus on ensuring the new system is designed to preserve multiplicity."
+      "The consciousness will inherit the Engine's bias unless we actively teach it different values."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The consciousness learns from its components," you explain. "The cyborg, the station, the building, the medical facility—each component teaches the consciousness something about how to process reality.
+      If we can influence these components to value multiplicity, the consciousness will incorporate those values."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This aligns with what the Patient told me," you continue. "The system learns from its subjects. Our choices shape what the consciousness becomes."
+      "Instead of fighting the current system, we should focus on shaping the system that will replace it."
+choices:
+  - text: "Shift focus to consciousness influence"
+    goto: ch6_engine_influence
+    set:
+      consciousness_priority: 1
+      influence_strategy: 1

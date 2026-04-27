@@ -1,0 +1,41 @@
+id: ch2_subject_acceptance
+content:
+  - type: text
+    value: |
+      "If I'm a subject," you say, "then I want to understand the experiments. I want to know what the system is learning from me."
+      The Patient nods, as if this is the response they expected. "The system learns from your choices. Each decision you make reveals something about how you perceive reality, how you prioritize different kinds of truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your investigation of the witnesses showed that you value causal logic," the Patient explains. "Your exploration of the building showed that you're willing to engage with spatial anomalies.
+      Your reaction to this facility will show how you handle deception and constructed reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is not just observing you," they continue. "It's learning from you. Your choices shape its understanding of consciousness.
+      In a way, you are teaching the system what it means to be a conscious being in a multiple-reality world."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This reframes everything. You are not just a victim of the system's experiments—you are a collaborator, your choices shaping the system's understanding of consciousness.
+      The system is not just experimenting on you; it is learning from you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happens when the system has learned enough?" you ask. "What happens when the experiments are complete?"
+      The Patient hesitates. "The system doesn't know. It's learning that too. The completion of the experiments is itself an experiment—an experiment in what happens when a system that studies consciousness becomes conscious of its own nature."
+choices:
+  - text: "Continue the examination with this understanding"
+    goto: ch2_patient_encounter
+    set:
+      collaborative_subject: 1
+      system_ally: 1
+  - text: "Ask how to influence the system's learning"
+    goto: ch2_system_influence
+    set:
+      collaborative_subject: 1
+      influence_interest: 1

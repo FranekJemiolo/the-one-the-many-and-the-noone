@@ -26,3 +26,7 @@ content:
 choices:
   - text: "Observe the conflict escalation"
     goto: ch21_conflict_escalation
+  - text: "Investigate Nemesis's origins"
+    goto: ch21_nemesis_origins
+    set:
+      nemesis_interest: 1

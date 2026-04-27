@@ -1,0 +1,31 @@
+id: ch29_layer_switching
+content:
+  - type: text
+    value: |
+      "How does the system switch between layers?" you ask Dr. Koval, wanting to understand the mechanism for accessing truth versus controlled falsehood.
+      Dr. Koval explains the switching mechanism. "The system switches based on context and priority. When stability is the priority, the active layer operates with controlled falsehoods."
+      "When accuracy is the priority, the system switches to the background layer to access the full truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The switching is not manual, not requiring conscious decision," Dr. Koval continues. "It is automatic, based on the system's assessment of what the situation requires."
+      "The Engine's compression pressure determines when stability is needed. The system's functional requirements determine when accuracy is needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This creates a dynamic system," you realize. "The interpretation shifts based on context, providing the appropriate layer for each situation."
+      "The system maintains both truth and stability, switching between them as needed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Dr. Koval agrees. "The layered architecture is adaptive, responding to changing conditions by shifting between truth and controlled falsehood as appropriate."
+      "This allows the system to function under compression pressure without sacrificing truth when it matters."
+choices:
+  - text: "Ask if the layer switching can be optimized"
+    goto: ch29_switching_optimization
+    set:
+      layer_switching: 1
+      optimization_interest: 1

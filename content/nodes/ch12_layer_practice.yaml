@@ -1,0 +1,31 @@
+id: ch12_layer_practice
+content:
+  - type: text
+    value: |
+      You practice layer navigation, shifting between different temporal layers until the process becomes natural.
+      Over time, you develop the ability to access different versions of the present moment without requiring intense concentration.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You're ready for causal loop understanding," Kai says after you demonstrate consistent layer navigation. "Causal loop understanding is learning to trace self-referential causality, to see how a future memory influences present decisions, which then create the future that was remembered."
+      "This requires accepting circular causality as valid rather than paradoxical."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Circular causality feels wrong in linear time," you observe. "It feels like a paradox, like a violation of the natural order."
+      "That's because you're judging it by linear time's standards," Kai replies. "In folded time, circular causality is natural. The future causes the present just as the present causes the future.
+      Both are equally valid directions of influence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You attempt to perceive a causal loop, tracing how a future memory influences your present decision. You perceive the loop: the future memory creates a present intention, which then leads to the future that was remembered.
+      The loop is not paradoxical—it's coherent, a self-consistent pattern of influence.
+choices:
+  - text: "Accept circular causality and complete the training"
+    goto: ch12_training_complete
+    set:
+      layer_practice: 1
+      circular_accepted: 1

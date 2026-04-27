@@ -1,0 +1,30 @@
+id: ch10_ideological_shift
+content:
+  - type: text
+    value: |
+      You monitor the ideological shift as the pilot zones expand, observing how leadership's thinking changes in response to the economic benefits.
+      Initially, leadership frames reduced enforcement purely as a cost-saving measure. But over time, they begin to notice the other benefits of multiplicity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Leadership is observing that multiplicity zones are more creative," Seraph reports. "Decision-making in these zones is more innovative, problem-solving is more flexible, and overall performance is improved.
+      The economic benefits are being supplemented by quality benefits."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is creating an ideological opening," you realize. "Leadership is beginning to value multiplicity not just for cost savings but for its positive effects on performance.
+      The ideological commitment to singularity is weakening as they experience the benefits of multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph agrees. "We can begin framing the expansion in terms of performance benefits as well as cost savings.
+      This will accelerate the ideological shift, making leadership more receptive to complete conversion."
+choices:
+  - text: "Reframe the expansion to emphasize performance benefits"
+    goto: ch10_performance_reframing
+    set:
+      ideological_shift: 1
+      reframing_chosen: 1

@@ -1,0 +1,42 @@
+id: ch3_solo_attempt
+content:
+  - type: text
+    value: |
+      "I'll continue alone," you say, turning away from Vance. "I can't wait for perfect training."
+      Vance watches you go, her expression unreadable. "Don't say I didn't warn you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You return to the temporal chamber alone, determined to master timeline navigation through practice and persistence.
+      You attempt the shift again, focusing on the techniques Vance taught you, trying to maintain your sense of self while navigating multiple timelines.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The shift works at first. You move between timelines, experiencing different sequences. But then you try something ambitious—attempting to experience three timelines simultaneously.
+      This time, there's no one to intervene when your consciousness begins to fragment.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You feel yourself spreading across timelines, your identity dissolving into the multiplicity. Panic rises as you realize you can't reintegrate on your own.
+      You try to focus on a single timeline, but without Vance's anchoring presence, you can't find your way back.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Just as you begin to lose yourself completely, you feel something else—a presence in the gaps between timelines, something that notices your fragmentation.
+      The presence approaches, and you realize with horror that this is not Vance. This is something else, something that exists in the gaps between realities.
+      Something that the organization uses.
+choices:
+  - text: "Allow the presence to help you reintegrate"
+    goto: ch3_presence_help
+    set:
+      solo_path: 1
+      organization_contact: 1
+  - text: "Fight to reintegrate on your own"
+    goto: ch3_solo_reintegration
+    set:
+      solo_path: 1
+      resistance_chosen: 1

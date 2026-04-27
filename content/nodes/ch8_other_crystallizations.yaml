@@ -1,0 +1,36 @@
+id: ch8_other_crystallizations
+content:
+  - type: text
+    value: |
+      "Are there other crystallized emotions like you?" you ask, wanting to understand if the Passenger is unique or part of a larger phenomenon.
+      The Passenger nods. "Many. Every intense emotional experience has the potential to crystallize. Grief crystallizes into beings that continue experiencing loss. Joy crystallizes into beings that continue experiencing celebration.
+      Fear crystallizes into beings that continue experiencing danger."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "These crystallizations exist in the emotional layer of reality," the Passenger explains. "They are not visible to normal perception, but they can be perceived by those who have developed emotional sensitivity.
+      People like Mira can sense them, interact with them, sometimes even communicate with them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Does Mira know about you?" you ask.
+      "She has perceived me," the Passenger replies. "She has sensed my presence during her own journeys. She understands that I am a crystallization of transit, a natural phenomenon of emotional reality."
+      "She is one of the few who can perceive emotional crystallizations without being disturbed by them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This connects to Mira's abilities—her emotional sensitivity allows her to perceive crystallized emotions, to interact with beings that exist in the emotional layer of reality.
+      The Passenger is not an anomaly to Mira. They are a natural part of the emotional landscape she navigates.
+choices:
+  - text: "Ask how to develop emotional sensitivity"
+    goto: ch8_emotional_sensitivity
+    set:
+      crystallizations_known: 1
+      sensitivity_interest: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      crystallizations_known: 1

@@ -1,0 +1,30 @@
+id: ch10_performance_reframing
+content:
+  - type: text
+    value: |
+      You reframe the expansion to emphasize performance benefits, documenting how multiplicity zones improve decision-making, problem-solving, and overall system performance.
+      Leadership responds positively to this framing, recognizing that multiplicity has value beyond cost savings.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The reframing is accelerating the ideological shift," Seraph reports. "Leadership is now viewing multiplicity as an asset rather than a cost, as a capability rather than a risk.
+      They're becoming more receptive to complete conversion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This demonstrates an important principle," you observe. "Ideological change is easier when it's framed as benefit rather than sacrifice.
+      Leadership is more willing to embrace multiplicity when they see it as improving performance rather than just saving money."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph proposes complete conversion to leadership, framing it as an optimization of system performance rather than an ideological shift.
+      Leadership approves, and the remaining Clarity zones are converted to multiplicity zones.
+choices:
+  - text: "Support the complete conversion"
+    goto: ch10_complete_conversion
+    set:
+      performance_reframing: 1
+      complete_approved: 1

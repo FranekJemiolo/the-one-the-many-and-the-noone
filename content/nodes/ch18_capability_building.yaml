@@ -1,0 +1,30 @@
+id: ch18_capability_building
+content:
+  - type: text
+    value: |
+      You continue targeting secondary hubs, building the Resistance's capability through successful contradiction injection in multiple zones.
+      Each success strengthens the Resistance's methods, refining the techniques for introducing multiplicity into Clarity zones.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We've successfully converted three secondary hubs," the Resistance reports after months of effort. "The capability is now sufficient to target the central zone."
+      "The methods are refined, the team is experienced, and we understand the Engine's response patterns."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The central zone assault will be the most difficult operation," you warn. "The Engine will defend it with maximum enforcement, and the consequences of failure will be significant."
+      "But the impact of success will be equally significant—disrupting the entire Clarity zone network."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Resistance agrees. "We're ready for the central zone assault. The capability is built, the methods are refined, and the strategic analysis is complete."
+      "This will be the decisive operation in the active resistance campaign."
+choices:
+  - text: "Support the central zone assault"
+    goto: ch18_central_assault
+    set:
+      capability_building: 1
+      assault_chosen: 1

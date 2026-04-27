@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Understand the divergence injection"
     goto: ch19_divergence_injection
+  - text: "Study the oscillation phenomenon"
+    goto: ch19_oscillation_phenomenon
+    set:
+      oscillation_interest: 1

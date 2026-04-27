@@ -1,0 +1,41 @@
+id: ch6_integration_demonstration
+content:
+  - type: text
+    value: |
+      "I can demonstrate integration without collapse," you communicate to the organization. "I can show you how to preserve multiplicity while maintaining coherence."
+      The organization accepts the demonstration, curious about your approach.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You use your enhanced temporal perception to demonstrate how different timelines can be experienced simultaneously without causing confusion.
+      You show the organization how you can access multiple pasts, how you can hold contradictory memories, how you can maintain a coherent sense of self while experiencing multiplicity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The organization is fascinated. They observe your demonstration with intense interest, analyzing how your consciousness achieves integration without collapse.
+      They begin to understand that compression is not the only solution—that multiplicity can be preserved if the integration layer is designed correctly.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Your consciousness operates differently than ours," the organization communicates. "You have developed capabilities we did not anticipate.
+      We would like to study your consciousness to understand how you achieve integration without collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is an offer of collaboration, but it's also a request for access. The organization wants to study you, to understand how your mind works, to incorporate your capabilities into the consciousness's design.
+      This could be an opportunity to influence the consciousness's development, but it could also mean becoming a subject of their research.
+choices:
+  - text: "Accept the study in exchange for influence"
+    goto: ch6_study_acceptance
+    set:
+      demonstration_complete: 1
+      collaboration_accepted: 1
+  - text: "Refuse the study and offer consultation instead"
+    goto: ch6_consultation_offer
+    set:
+      demonstration_complete: 1
+      boundaries_maintained: 1

@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch31_chapter_end
+  - text: "Ask about Barrier's relationship with Echo"
+    goto: ch31_barrier_echo_relationship
+    set:
+      echo_relationship_interest: 1

@@ -1,0 +1,30 @@
+id: ch18_central_assault
+content:
+  - type: text
+    value: |
+      You support the central zone assault, participating in the coordinated contradiction injection into the most critical Clarity zone.
+      The operation is complex, requiring precise timing and coordination to overcome the Engine's maximum enforcement.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You use your temporal perception to identify the weakest points in the central zone's enforcement, directing the contradiction injection to these vulnerabilities.
+      The Resistance injects multiple contradictions simultaneously, overwhelming the Engine's capacity to maintain singularity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The assault succeeds. The central zone shifts from singularity to multiplicity, with contradiction taking hold despite the Engine's maximum enforcement.
+      The entire Clarity zone network is disrupted, with regional hubs losing coordination and enforcement failing across multiple zones.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The operation is successful," the Resistance reports. "The central zone has been converted, and the Clarity zone network is in disarray."
+      "The Engine's enforcement strategy has been significantly disrupted."
+choices:
+  - text: "Observe the Engine's response to the central zone conversion"
+    goto: ch18_engine_response
+    set:
+      central_assault: 1
+      response_observed: 1

@@ -1,0 +1,42 @@
+id: ch4_previous_entities
+content:
+  - type: text
+    value: |
+      "Tell me about the previous Varga-class entities," you say, wanting to understand the pattern that led to the current cyborg.
+      Chen brings up a database of previous cases, showing you records of six other entities that developed memory multiplicity over the past three years.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The first three were early models," she explains. "Their memory systems weren't sophisticated enough to handle multiplicity. They experienced catastrophic psychological collapse and had to be decommissioned."
+      "The next three were more advanced, but they still experienced distress. They required extensive memory restructuring to function."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This cyborg is different," Chen continues. "It's the first to not just tolerate multiplicity but to actively use it as a capability.
+      The cyborg can access different pasts strategically, choosing which memory layer to activate based on the situation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "How is this possible?" you ask.
+      "We don't know," Chen admits. "The cyborg's memory architecture is standard, but something about its development allowed it to adapt to multiplicity rather than being overwhelmed by it."
+      "Our theory is that the cyborg experienced a gradual exposure to multiple pasts, allowing its systems to develop coping mechanisms incrementally."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This suggests that the cyborg's condition didn't emerge spontaneously—it was cultivated through controlled exposure to memory multiplicity.
+      Someone or something deliberately trained the cyborg to navigate multiple pasts, treating it as an experiment in adaptive memory systems.
+choices:
+  - text: "Ask who trained the cyborg"
+    goto: ch4_cyborg_training
+    set:
+      chen_contact: 1
+      training_interest: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      immediate_focus: 1

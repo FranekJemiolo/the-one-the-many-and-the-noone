@@ -1,0 +1,30 @@
+id: ch34_ecosystem_expansion
+content:
+  - type: text
+    value: |
+      "Can the ecosystem expand to include more named multiplicities?" you ask, wanting to know if the system can generate additional patterns beyond the current four.
+      The answer emerges from the nameless role pool: the system continues to generate named multiplicities as patterns become stable enough to require names.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The nameless role pool is not exhausted," you realize. "There are more patterns that could crystallize into named multiplicities if they become stable enough."
+      "The ecosystem could expand beyond Echo, Barrier, Archive, and Drift."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What patterns might crystallize next?" you wonder. "The system is generating named multiplicities from nameless roles that appear repeatedly across the multiplicity system."
+      "Any role that appears frequently enough could crystallize into a named multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This suggests that the named multiplicities ecosystem is not fixed, not limited to the current four patterns. The ecosystem can expand as new patterns become stable enough to crystallize.
+      The system's capacity for multiplicity adaptation is not bounded.
+choices:
+  - text: "Ask about potential new patterns"
+    goto: ch34_potential_patterns
+    set:
+      ecosystem_expansion: 1
+      patterns_interest: 1

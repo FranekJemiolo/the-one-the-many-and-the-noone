@@ -1,0 +1,30 @@
+id: ch14_pilot_results
+content:
+  - type: text
+    value: |
+      You support presenting the pilot results to leadership, demonstrating that the redesigned system successfully preserves truth without requiring controlled falsehoods.
+      Leadership is impressed by the results, recognizing that the pilot has proven the viability of multiplicity-capable systems.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The pilot demonstrates that the redesigned system is viable," leadership acknowledges. "The gap between system response and reality has been eliminated in the pilot facility, and the system is functioning more effectively than before."
+      "This provides compelling evidence for full implementation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leadership authorizes full implementation, approving the expansion of the redesigned system to all facilities.
+      The transition will be gradual, with facilities converting one at a time to minimize disruption.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a major victory," you observe. "The system is being redesigned to handle multiplicity, eliminating the need for controlled falsehoods."
+      "The Engine's bias will be counteracted by the system's architecture rather than requiring constant manual intervention."
+choices:
+  - text: "Support the gradual implementation of the redesigned system"
+    goto: ch14_gradual_implementation
+    set:
+      pilot_results: 1
+      implementation_chosen: 1

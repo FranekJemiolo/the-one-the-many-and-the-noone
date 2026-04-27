@@ -1,0 +1,40 @@
+id: ch8_original_experiencer
+content:
+  - type: text
+    value: |
+      "Who was the original experiencer?" you ask, wanting to understand whose emotional state crystallized into the Passenger.
+      The Passenger's expression becomes distant, as if they are accessing memories that are not entirely their own.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "A commuter," they say finally. "Someone who made this journey every day for years, experiencing it differently each time.
+      Sometimes the journey felt like an eternity of boredom and exhaustion. Sometimes it felt like a moment of peace and reflection."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The emotional intensity was high," the Passenger continues. "The commuter experienced this journey with such feeling that the experience crystallized into a form that could continue experiencing it independently.
+      I am that crystallization—the feeling of transit given form."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What happened to the commuter?" you ask.
+      "They stopped making the journey," the Passenger replies. "They moved, changed jobs, found a different route. But the feeling of transit remained, crystallized into me, continuing to experience the journey even though the original experiencer is gone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is both beautiful and melancholy: emotions can outlive their experiencers, crystallizing into forms that continue experiencing the feeling that created them.
+      The Passenger is a legacy of emotional experience, preserved in crystallized form.
+choices:
+  - text: "Ask if the commuter knows you exist"
+    goto: ch8_commuter_awareness
+    set:
+      origin_known: 1
+      connection_interest: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      origin_known: 1

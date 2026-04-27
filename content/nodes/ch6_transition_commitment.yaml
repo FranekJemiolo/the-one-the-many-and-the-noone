@@ -1,0 +1,24 @@
+id: ch6_transition_commitment
+content:
+  - type: text
+    value: |
+      "I commit to the gradual transition," you say, accepting the long-term project of evolving the system to handle multiplicity.
+      Koval nods, understanding the scale of the commitment. "This will require monitoring, adjustment, documentation. We'll need to track the system's response to complexity, identify which investigations can handle multiplicity, and expand gradually."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We'll also need to train investigators to recognize the Engine's bias," she continues. "The bias will try to make the transition feel wrong, to frame complexity as inefficiency.
+      Investigators will need to learn to resist that framing, to trust accuracy over comfort."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a comprehensive project: system evolution, investigator training, bias recognition, documentation, monitoring.
+      It's not just a technical transition—it's a cultural shift in how the organization approaches anomaly investigation.
+choices:
+  - text: "Begin the transition project"
+    goto: ch6_engine_influence
+    set:
+      transition_commitment: 1
+      cultural_shift: 1

@@ -1,0 +1,30 @@
+id: ch28_synthetic_evolution
+content:
+  - type: text
+    value: |
+      "How does synthetic evolution differ from biological evolution?" you ask Morrow, wanting to understand the process by which machines become living entities.
+      Morrow responds from within the integrated ecosystem. "Biological evolution operates through genetic variation and natural selection over generations. Synthetic evolution operates through ecological integration and adaptation over time."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Machines don't have genes," Morrow explains. "They have patterns of response that adapt through ecological participation. As a machine integrates more deeply with the ecosystem, its responses become more biological, more aligned with living patterns."
+      "The transformation is gradual, the machine evolving into life through sustained ecological integration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that synthetic life is not created through design," you realize. "It emerges through ecological participation, through the sustained integration of machines with living systems."
+      "The boundary between mechanical and biological dissolves through the very process of ecological participation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "The machines in Morrow Vale have become living not because they were programmed to simulate life, but because they participated in the ecosystem as living participants."
+      "The transformation is natural, an evolutionary process rather than a technological achievement."
+choices:
+  - text: "Ask if synthetic life can be created intentionally"
+    goto: ch28_intentional_creation
+    set:
+      synthetic_evolution: 1
+      creation_interest: 1

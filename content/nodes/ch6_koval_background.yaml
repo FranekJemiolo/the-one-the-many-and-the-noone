@@ -1,0 +1,42 @@
+id: ch6_koval_background
+content:
+  - type: text
+    value: |
+      "How did you come to this work?" you ask Dr. Koval, wanting to understand her background and how she learned to manage reality through compression.
+      She considers this, her expression revealing a weariness that suggests years of confronting anomalies that would break most people.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I started as a theoretical physicist," she explains. "Studying complexity theory, investigating how systems maintain stability when faced with too much information.
+      The theory was abstract—mathematical models of information processing. Then the anomalies started appearing in real systems."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The first anomaly I encountered was memory divergence," she continues. "Two witnesses to the same event, each with a completely different but internally consistent account.
+      The system couldn't handle it. The contradiction threatened to collapse the investigation process entirely."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I realized the system needed a way to compress complexity," Koval says. "Not because compression is accurate, but because it's necessary for stability.
+      The system cannot function when every anomaly produces multiple contradictory accounts. It needs singular narratives to operate."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So you learned to compress anomalies into simple explanations," you say.
+      "I learned to manage the system's response to anomalies," she corrects. "The compression is not about the anomalies themselves. It's about what the system can tolerate.
+      The anomalies are what they are. The explanations are what the system needs."
+choices:
+  - text: "Ask about the cost of compression"
+    goto: ch6_compression_cost
+    set:
+      koval_background_known: 1
+      cost_interest: 1
+  - text: "Ask if she's aware of the Quiet Engine"
+    goto: ch6_engine_awareness
+    set:
+      koval_background_known: 1
+      engine_interest: 1

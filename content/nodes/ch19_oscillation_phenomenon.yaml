@@ -1,0 +1,36 @@
+id: ch19_oscillation_phenomenon
+content:
+  - type: text
+    value: |
+      "Study the oscillation phenomenon," you decide, wanting to understand the mechanics of how reality shifts between singular and multiple states.
+      You focus your temporal perception on an oscillating zone, observing the cycle of compression and contradiction injection. The zone shifts before your eyes, reality itself flickering between states.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The oscillation follows a predictable pattern. The Engine establishes singularity, compressing the zone to eliminate multiplicity. The zone remains singular for a period, stable under the Engine's enforcement.
+      Then the Resistance injects contradiction, reintroducing multiplicity. The zone shifts to multiple interpretations, maintaining this state until the Engine responds with renewed compression.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The oscillation period is accelerating," you observe, alarm rising in your voice. "Initially, each state lasted for hours. Now, the states shift every few minutes."
+      "The conflict is intensifying, the system becoming more unstable as the oscillation frequency increases. People in these zones must be experiencing disorientation on a massive scale."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This suggests the stalemate is not sustainable. As the oscillation accelerates, the system will eventually reach a point where it cannot maintain the conflict between the two states.
+      Something will break, forcing a resolution. The question is what will break—and what the resolution will look like when it comes.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The implications are terrifying. If the oscillation becomes too rapid, the zone could experience a catastrophic collapse where neither state can establish itself. Reality itself could shatter in that zone, leaving nothing but void.
+      You need to predict when this will happen—and whether there's any way to prevent it.
+choices:
+  - text: "Predict when the oscillation will become unsustainable"
+    goto: ch19_oscillation_prediction
+    set:
+      oscillation_phenomenon: 1
+      prediction_chosen: 1

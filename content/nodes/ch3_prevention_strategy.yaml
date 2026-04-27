@@ -1,0 +1,43 @@
+id: ch3_prevention_strategy
+content:
+  - type: text
+    value: |
+      "How can we prevent the consciousness from awakening?" you ask, wanting to understand if the organization's plan can be stopped.
+      Vance considers this, then shakes her head slowly. "I don't think it can be prevented. The infrastructure is already built. The network is already operational.
+      The consciousness is already developing, whether the organization intends it or not."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The building downtown is already experiencing spatial multiplicity," she explains. "This station is already experiencing temporal multiplicity. The medical facility is already experiencing emotional-causal multiplicity.
+      The nodes are active. The network is connected. The consciousness is emerging."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But we might be able to influence how it awakens," Vance continues. "If we can't prevent the consciousness from emerging, we might be able to shape its development.
+      Teach it values that will guide its behavior. Influence its understanding of consciousness and ethics."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This connects to what the Patient told you in chapter 2—that the system learns from its subjects, that your choices shape the developing consciousness.
+      The organization's distributed consciousness is the system the Patient described, and you are one of its teachers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do we influence it?" you ask.
+      "Through consistent choices across all the experiments," Vance replies. "The consciousness learns from patterns. If you consistently demonstrate certain values—consent, autonomy, curiosity, cooperation—the consciousness will incorporate those values into its developing understanding."
+      "Your choices in each investigation shape the consciousness's character."
+choices:
+  - text: "Commit to influencing the consciousness through your choices"
+    goto: ch3_influence_commitment
+    set:
+      organization_goals_known: 1
+      shaping_path: 1
+  - text: "Continue investigating without making a commitment"
+    goto: ch3_temporal_instability
+    set:
+      organization_goals_known: 1
+      observation_path: 1

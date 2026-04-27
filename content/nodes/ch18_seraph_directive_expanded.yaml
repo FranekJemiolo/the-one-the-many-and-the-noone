@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Understand the interpretive pruning"
     goto: ch18_interpretive_pruning
+  - text: "Discuss the Resistance's response to the expansion"
+    goto: ch18_resistance_response
+    set:
+      resistance_interest: 1

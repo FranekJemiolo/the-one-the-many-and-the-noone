@@ -1,0 +1,36 @@
+id: ch7_method_practice
+content:
+  - type: text
+    value: |
+      "How do I practice these methods?" you ask, wanting to understand how to effectively preserve multiplicity in your work.
+      The presence provides specific techniques: document multiple interpretations in your reports, refuse to choose between incompatible truths, maintain ambiguity even when the system prefers clarity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "In your investigations," the presence explains, "when you encounter contradictory accounts, do not try to reconcile them. Document both as equally valid.
+      When you observe multiple timelines, do not choose one as primary. Describe all of them as equally real."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "When the Engine's bias makes compression feel natural, resist that feeling. Remind yourself that comfort is engineered, not natural.
+      Trust accuracy over comfort, even when accuracy feels wrong."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Your practice will be difficult," the presence warns. "The system will resist your multiplicity-preserving reports. Colleagues will question why you're making investigations more complicated.
+      The Engine will amplify the bias, making your approach feel increasingly wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But your practice is necessary," it continues. "Without deliberate preservation, multiplicity fades. The Engine's bias is too strong to counteract passively.
+      Active resistance is required to ensure reality remains multiple."
+choices:
+  - text: "Commit to practicing the methods"
+    goto: ch7_resistance_commitment
+    set:
+      methods_learned: 1
+      practice_commitment: 1

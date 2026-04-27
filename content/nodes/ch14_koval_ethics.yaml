@@ -1,0 +1,36 @@
+id: ch14_koval_ethics
+content:
+  - type: text
+    value: |
+      "How do you justify this ethically?" you ask Dr. Koval, wanting to understand the moral framework that allows her to deliberately use falsehoods.
+      Koval considers this. "I am not presenting falsehoods as truth. I am presenting them as necessary compromises, as temporary interpretations that allow the system to function."
+      "The system knows these are compromises. It accepts them because the alternative is collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the system operates based on these compromises," you point out. "Decisions are made based on falsehoods, actions are taken based on incorrect information."
+      "The gap between system response and reality grows with each compromise."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That is the cost," Koval acknowledges. "But the alternative is immediate collapse. The system cannot handle the truth, so the choice is between operating on a simplified version of reality or not operating at all."
+      "I choose operation, with the understanding that the truth is preserved in the background and can be reactivated when the system is ready."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a utilitarian calculation," you observe. "You're sacrificing accuracy for functionality."
+      "The calculation is not ideal," Koval agrees. "But it is necessary given the system's current limitations. The alternative is worse."
+choices:
+  - text: "Ask about the long-term risks of this approach"
+    goto: ch14_longterm_risks
+    set:
+      koval_ethics_known: 1
+      risks_interest: 1
+  - text: "Ask if there's an alternative to controlled falsehoods"
+    goto: ch14_alternative_methods
+    set:
+      koval_ethics_known: 1
+      alternative_interest: 1

@@ -1,0 +1,30 @@
+id: ch8_emotional_commitment
+content:
+  - type: text
+    value: |
+      "I commit to emotional resistance," you say, accepting the practice of preserving emotional multiplicity as part of your resistance to the Engine's compression.
+      The Passenger acknowledges your commitment. "This commitment will change how you experience emotions. You will become more aware of emotional multiplicity, more sensitive to contradiction, more capable of holding multiple feelings simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine will try to compress your emotional experience," the Passenger warns. "It will make singular feelings feel natural, multiple feelings feel wrong.
+      You will need to resist that bias, to trust emotional multiplicity even when it feels uncomfortable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I understand," you reply. "I've already experienced the Engine's bias in other domains. I know how it makes singularity feel natural.
+      I'm prepared to resist that bias in the emotional layer as well."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Then you are ready to begin," the Passenger says. "Continue developing emotional sensitivity. Perceive crystallizations. Communicate with the emotional resistance network.
+      Your practice will strengthen the network, and the network will support your practice."
+choices:
+  - text: "Return to analyzing emotional time with this commitment"
+    goto: ch8_emotional_inconsistency
+    set:
+      emotional_commitment: 1
+      network_joined: 1

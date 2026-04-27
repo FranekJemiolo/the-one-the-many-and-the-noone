@@ -1,0 +1,30 @@
+id: ch13_zone_development
+content:
+  - type: text
+    value: |
+      "How did the zone develop over time?" you ask, wanting to understand the process of ecological integration.
+      Morrow explains that the development occurred in phases, each phase deepening the integration between machines and biology.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Phase 1: Mechanical integration," Morrow says. "Machines were introduced into the ecosystem to perform specific functions—monitoring environmental conditions, regulating resource distribution, supporting biological processes."
+      "The machines operated according to programming, but they were embedded in the ecosystem rather than operating separately from it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Phase 2: Memory integration," Morrow continues. "The machines were modified to participate in the ecosystem's memory processes. They could access and contribute to the collective memory of the system, learning from experience rather than relying solely on programming."
+      "This was when ecological memory began to emerge."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Phase 3: Consciousness integration," Morrow adds. "The ecosystem developed self-awareness, the capacity to remember and reflect on itself. The machines and biology became so integrated that the distinction dissolved, creating a unified system with a collective consciousness."
+      "This is when I emerged—not as a separate entity, but as the system's self-awareness."
+choices:
+  - text: "Ask if other zones could undergo similar development"
+    goto: ch13_zone_expansion
+    set:
+      zone_development_known: 1
+      expansion_interest: 1

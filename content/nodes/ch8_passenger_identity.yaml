@@ -1,0 +1,36 @@
+id: ch8_passenger_identity
+content:
+  - type: text
+    value: |
+      "What are you?" you ask the Passenger, curious about their nature and why they seem less substantial than a normal person.
+      The Passenger considers this, their expression flickering as if they are accessing multiple versions of themselves simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I am an emotional state that has crystallized into form," they explain. "I am the feeling of transit, the experience of journey, the quality of passage through space and time.
+      I exist because someone needed to feel this journey, and the feeling crystallized into a being that could experience it repeatedly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Someone created you?" you ask.
+      "Not created," the Passenger corrects. "Crystallized. I emerged from emotional necessity. When a feeling is experienced intensely enough, repeatedly enough, it can crystallize into a form that continues to experience that feeling independently."
+      "I am not artificial. I am natural—a natural crystallization of emotional experience."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a profound insight: emotions can crystallize into independent beings, continuing to experience the feeling that created them even after the original experiencer is gone.
+      The Passenger is not a person, but they are not artificial either—they are a natural phenomenon of emotional reality.
+choices:
+  - text: "Ask about the original experiencer"
+    goto: ch8_original_experiencer
+    set:
+      passenger_identity_known: 1
+      origin_interest: 1
+  - text: "Ask about other crystallized emotions"
+    goto: ch8_other_crystallizations
+    set:
+      passenger_identity_known: 1
+      multiplicity_interest: 1

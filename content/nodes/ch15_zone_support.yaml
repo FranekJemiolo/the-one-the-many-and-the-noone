@@ -1,0 +1,30 @@
+id: ch15_zone_support
+content:
+  - type: text
+    value: |
+      You continue supporting the expanded zone, channeling energy into the coherence field to maintain the larger area of stabilized contradiction.
+      The zone becomes a significant demonstration of plural stability, attracting attention from investigators and researchers who want to understand how contradictions can coexist.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zone is becoming a training ground," Rose observes. "Investigators are entering the zone to experience contradiction stabilization, learning to hold multiplicity without requiring elimination."
+      "The zone is teaching coherence through direct experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is significant," you realize. "The zone is not just evidence—it's a teaching tool, a way to help people develop the capacity for plural stability."
+      "The zone is becoming part of the Resistance's infrastructure for multiplicity preservation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "The zone should be connected to the broader Resistance networks, integrated with the sanctuary network, the temporal training network, and the other infrastructure."
+      "The zone can serve as a practical training site for coherence development."
+choices:
+  - text: "Connect the zone to the broader Resistance networks"
+    goto: ch15_zone_connection
+    set:
+      zone_support: 1
+      connection_chosen: 1

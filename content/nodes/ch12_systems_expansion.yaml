@@ -1,0 +1,30 @@
+id: ch12_systems_expansion
+content:
+  - type: text
+    value: |
+      You continue developing and expanding the transitional systems, implementing them in more facilities as the leaks grow more widespread.
+      The systems become more sophisticated over time, incorporating feedback from early adopters to improve the training protocols.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The expansion is accelerating," Kai reports. "As more leaks appear, more facilities need transitional systems.
+      The demand for folded time training is growing faster than we can implement it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We need to train additional instructors," you realize. "We can't scale the systems if only you and I are providing training."
+      "We need to develop a train-the-trainer program, creating instructors who can teach folded time navigation in multiple locations simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Kai agrees. "I can develop instructor training protocols. You can identify candidates with natural temporal aptitude and recruit them to the program.
+      Together, we can scale the transitional systems to meet the growing demand."
+choices:
+  - text: "Begin the train-the-trainer program"
+    goto: ch12_instructor_program
+    set:
+      systems_expansion: 1
+      instructor_program: 1

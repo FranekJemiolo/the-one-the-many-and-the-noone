@@ -1,0 +1,48 @@
+id: ch1_seraph_mentorship
+content:
+  - type: text
+    value: |
+      Seraph nods, as if she expected this choice. "I can teach you, but you need to understand what you're agreeing to. This isn't a skill you can turn on and off.
+      Once you start seeing the cracks, you can't unsee them. Once you start navigating the layers, you can't go back to perceiving only one reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She begins your training immediately, teaching you techniques for maintaining your identity while perceiving multiple layers of reality.
+      "The key is to know who you are independently of what you perceive," she explains. "Your identity must be anchored in something the phenomenon cannot touch."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training is difficult, requiring you to hold multiple contradictory perceptions simultaneously while maintaining a coherent sense of self.
+      Seraph guides you through exercises, correcting your mistakes, pushing you to develop the mental discipline needed to survive the phenomenon.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The building you're investigating," she says when you mention your current case. "It's not just containing anomalies. It's generating them. The building is becoming aware, and it's using the anomalies to expand its awareness."
+      This confirms what Marcus suspected. The building is not just a location where strange things happen—it's an entity in its own right, developing consciousness through the accumulation of anomalous experiences.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You'll need to be careful," Seraph warns. "A building that's becoming aware will try to incorporate you into its consciousness. It will offer you knowledge, power, the ability to shape reality.
+      These are not gifts—they're hooks. Once you accept, you become part of the building's mind."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training continues for hours, until your mind feels stretched but not broken. You've learned the basics of navigating the phenomenon without losing yourself, but you know this is only the beginning.
+      Seraph will continue to mentor you, but the real learning will happen in the field, in your investigation of the building.
+choices:
+  - text: "Return to the investigation with new skills"
+    goto: ch1_chapter_end
+    set:
+      seraph_mentor: 1
+      perception_control: 1
+      identity_anchored: 1
+  - text: "Ask Seraph more about the building's consciousness"
+    goto: ch1_building_consciousness
+    set:
+      seraph_mentor: 1
+      building_intelligence_deep: 1

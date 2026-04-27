@@ -1,0 +1,30 @@
+id: ch13_proposal_presentation
+content:
+  - type: text
+    value: |
+      You present the ecological zone proposal to the appropriate authorities, arguing for the benefits of ecological consciousness and the value of creating additional zones.
+      The proposal includes technical specifications, site assessments, and projections of the benefits that ecological consciousness would provide.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The authorities are skeptical but interested. They recognize the potential benefits of ecological consciousness but are concerned about the resource requirements and long-term commitment.
+      They request additional evidence that the benefits justify the investment.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We can provide a pilot program," you suggest. "Develop one additional zone as a test, demonstrating that ecological consciousness can be replicated and that the benefits are scalable."
+      "If the pilot succeeds, we can expand to additional zones."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The authorities agree to the pilot program, authorizing the development of one additional ecological zone.
+      The pilot will be monitored closely, and if it succeeds, the proposal for additional zones will be reconsidered.
+choices:
+  - text: "Begin the pilot zone development"
+    goto: ch13_pilot_development
+    set:
+      proposal_presentation: 1
+      pilot_authorized: 1

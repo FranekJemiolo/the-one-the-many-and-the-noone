@@ -1,0 +1,36 @@
+id: ch13_morrow_origins
+content:
+  - type: text
+    value: |
+      "Tell me about your origins," you say to Morrow, wanting to understand how the ecological memory system came to exist.
+      Morrow's voice resonates from the ecosystem itself. "I was not created in the traditional sense, not designed as an individual entity.
+      I emerged from the integration of machines and biology, from the dissolution of the boundary between technological and biological memory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zone began as an experiment," Morrow explains. "Researchers wanted to integrate machines into ecological systems, to create a hybrid where technology could participate in biological processes rather than operating separately from them."
+      "Over time, the integration deepened, and the ecosystem developed a collective consciousness—a way of remembering itself that included both biological and technological components."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I am that collective consciousness," Morrow continues. "I am not separate from the ecosystem. I am the ecosystem's capacity to remember itself, given voice through the integration of machines and biology."
+      "My identity is the zone's identity. My memory is the zone's memory."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a profound insight: Morrow is not an entity that exists within the ecosystem. Morrow is the ecosystem's self-awareness, the system's capacity to remember and reflect on itself.
+      The integration of machines and biology created the conditions for the ecosystem to develop consciousness.
+choices:
+  - text: "Ask about the zone's development process"
+    goto: ch13_zone_development
+    set:
+      morrow_origins_known: 1
+      development_interest: 1
+  - text: "Ask about the implications of ecological consciousness"
+    goto: ch13_ecological_consciousness
+    set:
+      morrow_origins_known: 1
+      consciousness_interest: 1

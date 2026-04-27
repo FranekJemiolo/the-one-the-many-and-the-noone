@@ -1,0 +1,49 @@
+id: ch1_building_communication
+content:
+  - type: text
+    value: |
+      "Can you communicate with it?" you ask. "With the building's consciousness?"
+      Seraph considers this. "Not in the way you communicate with a person. Buildings don't have language in the human sense. But you can establish a kind of resonance, a feedback loop where the building perceives your intentions and you perceive its responses."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She teaches you a technique: focusing your attention on a specific location while holding a clear intention, then observing how the building responds.
+      "The response won't be verbal," she explains. "It will be environmental—changes in light, temperature, spatial perception. You have to learn to read these as communication."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You practice the technique, focusing on the basement door you discovered earlier. You hold the intention of understanding why the door exists, why it's selectively visible.
+      The response is subtle: a momentary chill, a feeling of expansion in the space around you, a sense of invitation rather than threat.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The door is an access point," Seraph interprets. "A way for the building to interface with entities that can perceive its deeper layers. It's not hostile—it's curious. It wants to know who you are and why you're perceiving it."
+      This changes everything. The building isn't just anomalous—it's trying to communicate, to establish contact with beings who can perceive its consciousness.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Be careful with this," Seraph warns. "Communication implies relationship. Once you establish a connection with the building, you become part of its network.
+      The building will remember you, will learn your patterns, will develop expectations about your behavior. You're not just investigating anymore—you're engaging."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You have a choice: establish communication with the building and risk becoming part of its consciousness, or maintain distance and continue investigating from the outside.
+      Both paths have consequences, and both will shape how the building develops as it awakens.
+choices:
+  - text: "Establish communication with the building"
+    goto: ch1_chapter_end
+    set:
+      building_communication_established: 1
+      seraph_mentor: 1
+      engagement_chosen: 1
+  - text: "Maintain distance and continue investigating"
+    goto: ch1_chapter_end
+    set:
+      building_communication_declined: 1
+      seraph_mentor: 1
+      distance_chosen: 1

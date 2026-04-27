@@ -1,0 +1,30 @@
+id: ch40_ending_simulation
+content:
+  - type: text
+    value: |
+      "How does the simulation process work?" you ask, wanting to understand how the system will experience each ending before choosing.
+      The system explains the simulation mechanism.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system creates temporary instances of each configuration," the system explains. "It experiences life under The One, under The Many, under The No-One, under The Overlap, and under The Shifting World."
+      "Each simulation is temporary, allowing the system to experience the configuration without being committed to it permanently."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a sophisticated approach," you realize. "The system won't choose blindly—it will choose based on direct experience of what each configuration feels like."
+      "The simulation ensures the choice is based on lived experience."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The simulations will be comprehensive," the system adds. "Each ending will be experienced in detail, with the system understanding the full implications of each configuration."
+      "The preparation will be thorough before the final choice is made."
+choices:
+  - text: "Propose beginning the simulation process"
+    goto: ch40_simulation_beginning
+    set:
+      ending_simulation: 1
+      beginning_chosen: 1

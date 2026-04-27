@@ -1,0 +1,31 @@
+id: ch22_researcher_adaptation
+content:
+  - type: text
+    value: |
+      "How did the researchers adapt to temporal multiplicity?" you ask, wanting to understand the process of transformation from linear time to temporal field perception.
+      A researcher responds, their consciousness adapted to the temporal field. "The adaptation was gradual, occurring as the oscillation between different temporal sequences accelerated."
+      "When the oscillation became too rapid to distinguish between states, the consciousness restructured to perceive all states simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The restructuring was not forced, not imposed through training," the researcher continues. "It emerged naturally as the consciousness adapted to the changing temporal environment."
+      "The mind found new ways to process temporal information, new patterns of thought that work in a field rather than a line."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that human consciousness is more adaptable than the Engine assumes," you realize. "The Engine believes that multiplicity will cause cognitive collapse, but the researchers have proven that consciousness can adapt to temporal multiplicity."
+      "The Engine's fear is based on an underestimation of human adaptability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The researcher agrees. "The adaptation was challenging, but it was successful. We now experience time as a field, accessing different moments without the need for linear sequence."
+      "This is not a regression to chaos—it is an evolution to a different way of experiencing temporality."
+choices:
+  - text: "Ask if the adaptation can be taught to others"
+    goto: ch22_adaptation_teaching
+    set:
+      researcher_adaptation: 1
+      teaching_interest: 1

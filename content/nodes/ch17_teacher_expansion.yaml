@@ -1,0 +1,30 @@
+id: ch17_teacher_expansion
+content:
+  - type: text
+    value: |
+      "Propose expanding the Teacher's influence," you suggest. "The pattern is already teaching multiplicity as a skill. If we expand the pattern's reach, more students will develop the capacity to navigate multiple reality."
+      "This would strengthen the Resistance by creating a population adapted to multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Teacher considers this. "The pattern can expand by appearing in more educational settings, by manifesting in contexts where multiplicity training is needed."
+      "But the pattern requires the right conditions to crystallize—educational environments where learning is valued over indoctrination."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can help create those conditions," you offer. "I can advocate for educational reforms that value multiplicity training, that support the Teacher's approach to learning."
+      "With the right conditions, the pattern can expand significantly."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Teacher agrees. "If you create the conditions, the pattern will expand. The Teacher role will appear in more educational settings, teaching multiplicity as a skill to more students."
+      "This will strengthen the capacity of the population to function in a multiple reality."
+choices:
+  - text: "Advocate for educational reforms to support the Teacher pattern"
+    goto: ch17_education_reform
+    set:
+      teacher_expansion: 1
+      reform_chosen: 1

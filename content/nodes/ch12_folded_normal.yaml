@@ -1,0 +1,34 @@
+id: ch12_folded_normal
+content:
+  - type: text
+    value: |
+      "Discuss the implications of folded time as the new normal," you say, wanting to understand what it would mean if linear time were replaced by folded time.
+      Kai considers this. "If folded time becomes the new normal, then everyone will need to adapt to temporal field perception, layer navigation, and causal loop understanding."
+      "The entire population would need temporal training."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would be a massive transition," you observe. "Most people have spent their entire lives in linear time. Adapting to folded time would be profoundly disorienting."
+      "It would be like asking someone who has only ever seen in two dimensions to suddenly perceive in three dimensions," Kai agrees.
+      "The transition would be difficult, but perhaps necessary."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Could we develop transitional systems?" you ask. "Ways to help people adapt gradually to folded time?"
+      "That's possible," Kai replies. "We could develop temporal training programs, create support systems for those struggling with the transition, implement gradual exposure to folded time rather than sudden immersion."
+      "This would make the transition more manageable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "We should begin developing these transitional systems," you propose. "If folded time is the future, we should prepare for the transition rather than waiting until it's forced upon us."
+      Kai agrees. "I can develop temporal training methods. You can help implement support systems in the facilities where leaks are most intense."
+      "Together, we can prepare the population for folded time."
+choices:
+  - text: "Begin developing transitional systems for folded time"
+    goto: ch12_transitional_systems
+    set:
+      folded_normal: 1
+      transitional_development: 1

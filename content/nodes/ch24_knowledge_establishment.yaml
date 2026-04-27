@@ -1,0 +1,30 @@
+id: ch24_knowledge_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the knowledge training center, helping the students and Teacher develop protocols for systematic knowledge multiplicity adaptation.
+      The center begins operations, bringing people from across the system to experience multiple truths and develop the capacity to hold plural truth.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training is successful," the students report after months of operation. "Hundreds of people have developed knowledge multiplicity perception, and the adaptation is spreading as they return to their home zones."
+      "The system's capacity for plural truth is increasing significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the knowledge multiplicity training, attempting to prevent the spread of plural truth."
+      "But the adaptation is self-propagating—once people experience knowledge multiplicity, they retain the capacity even in singular truth zones."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The students agree. "The Engine cannot reverse the adaptation. Knowledge multiplicity perception is becoming widespread, and the system is adapting to plural truth at scale."
+      "The training center is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the knowledge center established"
+    goto: ch24_knowledge_multiplicity
+    set:
+      knowledge_establishment: 1
+      adaptation_spreading: 1

@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch23_chapter_end
+  - text: "Ask about Echo's communication across versions"
+    goto: ch23_echo_communication
+    set:
+      echo_communication_interest: 1

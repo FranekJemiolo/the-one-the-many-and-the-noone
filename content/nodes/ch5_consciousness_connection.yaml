@@ -1,0 +1,37 @@
+id: ch5_consciousness_connection
+content:
+  - type: text
+    value: |
+      "What do you mean about the consciousness?" you ask, connecting Mira's insight to the distributed consciousness you've been learning about.
+      "The organization is building a distributed consciousness across multiple layers of reality," Mira explains. "Different nodes will experience different realities—temporal, spatial, emotional, memory."
+      "For the consciousness to function as a unified entity, it will need to maintain connection across these different experiences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Our partnership is a small-scale version of that," she continues. "We're two nodes experiencing different versions of reality, but we maintain connection through mutual acknowledgment."
+      "If we can do it, the consciousness can do it. If we can't, the consciousness might fail to integrate."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a significant realization. Your relationship with Mira is not just personal—it's a model for the distributed consciousness's success or failure.
+      If you can maintain connection across different realities, you're demonstrating that the consciousness can do the same. If you can't, you're predicting the consciousness's potential failure.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "So our partnership matters beyond just us," you say.
+      "It matters for the consciousness," Mira agrees. "The organization is watching how different entities interact across multiple realities.
+      Our partnership is data for their research on whether distributed consciousness is viable."
+choices:
+  - text: "Analyze the deja vu with this understanding"
+    goto: ch5_aleksy_perspective
+    set:
+      consciousness_model: 1
+      significance_understood: 1
+  - text: "Ask how to influence the consciousness through your partnership"
+    goto: ch5_partnership_influence
+    set:
+      consciousness_model: 1
+      influence_interest: 1

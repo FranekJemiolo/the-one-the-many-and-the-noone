@@ -1,0 +1,30 @@
+id: ch10_conversion_continues
+content:
+  - type: text
+    value: |
+      The gradual conversion process continues, with more Clarity zones being converted to multiplicity zones over time.
+      Each conversion provides additional evidence, and leadership's resistance continues to weaken as the pattern of stability becomes undeniable.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      After six months, half of the Clarity zones have been converted. The system is functioning better than ever, with improved energy efficiency and no loss of stability.
+      The ideological commitment to singularity is becoming difficult to maintain in the face of contrary evidence.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Leadership is considering complete conversion," Seraph reports. "The evidence is overwhelming, and the benefits are clear.
+      The remaining Clarity zones are being maintained out of habit rather than conviction."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a major victory: the system is evolving from within, through evidence and gradual change rather than confrontation.
+      The Engine's ideology is being disproven not by argument but by demonstration, not by resistance but by successful adaptation.
+choices:
+  - text: "Support the proposal for complete conversion"
+    goto: ch10_complete_conversion
+    set:
+      conversion_continues: 1
+      complete_proposed: 1

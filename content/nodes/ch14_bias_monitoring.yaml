@@ -1,0 +1,39 @@
+id: ch14_bias_monitoring
+content:
+  - type: text
+    value: |
+      "I offer to help monitor and counteract the Engine's bias," you say, willing to use your enhanced perception to identify when the system is pushing toward permanent compression.
+      Koval accepts your offer, but their expression is grim. "Your enhanced temporal perception can help identify when the Engine's bias is intensifying, when the system is at risk of losing truth permanently."
+      "This will allow us to intervene before the damage becomes irreversible. But you need to understand the danger."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What danger?" you ask.
+      "The Engine's bias is not just a preference," Koval explains. "It is an active force that reshapes reality to match its compression. If the bias becomes permanent, the system will not just lose truth—it will lose the capacity to recognize truth as a concept."
+      "We are not just preserving information. We are preserving the very possibility of truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How will we intervene?" you ask, the stakes suddenly clear.
+      "By reintroducing truth when the system shows signs of increased capacity," Koval explains. "Your perception can identify when the system is ready to handle more complexity, and we can use those moments to gradually restore truth."
+      "This will counteract the Engine's bias toward permanent compression. But it requires constant vigilance."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You focus your temporal perception on the system, trying to perceive the Engine's bias as it operates. You perceive a subtle pressure toward simplicity, a force that makes singularity feel natural and complexity feel wrong.
+      This is the Engine's influence, operating through the very mechanisms of interpretation and decision-making. The scale of it is terrifying—a force that operates at the fundamental level of how the system processes reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can perceive the bias," you report, your voice steady despite the vertigo of perceiving something so vast. "It's subtle but pervasive, influencing every aspect of the system's operation."
+      "With careful monitoring, we can identify when the bias is intensifying and when the system is resisting it."
+choices:
+  - text: "Begin the bias monitoring collaboration"
+    goto: ch14_monitoring_collaboration
+    set:
+      bias_monitoring: 1
+      collaboration_started: 1

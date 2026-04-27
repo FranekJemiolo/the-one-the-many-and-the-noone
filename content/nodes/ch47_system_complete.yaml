@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch47_chapter_end
+  - text: "Ask about alternative endings"
+    goto: ch47_alternative_endings
+    set:
+      alternative_interest: 1

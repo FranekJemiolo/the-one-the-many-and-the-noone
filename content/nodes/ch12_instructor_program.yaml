@@ -1,0 +1,31 @@
+id: ch12_instructor_program
+content:
+  - type: text
+    value: |
+      You begin the train-the-trainer program, identifying candidates with natural temporal aptitude and recruiting them to learn folded time navigation.
+      Kai develops instructor training protocols, teaching the candidates how to teach field perception, layer navigation, and causal loop understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The first cohort of instructors completes training and begins implementing transitional systems in their assigned facilities.
+      The scale of the operation increases dramatically, with folded time training now available in multiple locations simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The train-the-trainer program is successful," Kai reports. "We now have enough instructors to meet the growing demand for folded time training.
+      The transitional systems are scaling effectively."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This creates a distributed network of temporal training," you observe. "Similar to the sanctuary network for memory reconciliation."
+      "The Resistance is building infrastructure across multiple domains—memory, temporal, emotional.
+      We're creating a comprehensive support system for multiplicity."
+choices:
+  - text: "Connect the temporal training network to the broader Resistance"
+    goto: ch12_resistance_connection
+    set:
+      instructor_program: 1
+      resistance_connection: 1

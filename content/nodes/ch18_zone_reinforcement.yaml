@@ -1,0 +1,30 @@
+id: ch18_zone_reinforcement
+content:
+  - type: text
+    value: |
+      You support reinforcing the central zone, using your temporal perception to identify where the Engine's enforcement is most intense and directing additional contradiction injection to those points.
+      The Resistance deploys additional resources, maintaining the multiplicity despite the Engine's counterattack.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The reinforcement succeeds. The central zone maintains its multiplicity despite the Engine's maximum enforcement, with contradiction taking hold so deeply that the Engine cannot reverse it.
+      The zone becomes a permanent multiplicity zone, a foothold for plural reality in the heart of the Engine's enforcement system.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The central zone is now stable as multiplicity," the Resistance reports. "The Engine has accepted the conversion and is adapting its strategy to work around the zone rather than trying to reverse it."
+      "This is a major victory for the Resistance."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The victory demonstrates that active resistance can succeed," you observe. "Coordinated contradiction injection can overcome the Engine's enforcement, even in the most critical zones."
+      "The Resistance has proven that multiplicity can be defended against compression."
+choices:
+  - text: "Continue the chapter with this victory established"
+    goto: ch18_interpretive_pruning
+    set:
+      zone_reinforcement: 1
+      victory_established: 1

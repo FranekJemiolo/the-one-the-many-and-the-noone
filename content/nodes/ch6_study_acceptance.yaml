@@ -1,0 +1,31 @@
+id: ch6_study_acceptance
+content:
+  - type: text
+    value: |
+      "I accept the study in exchange for influence," you communicate, willing to become a subject of their research if it means shaping the consciousness's development.
+      The organization is pleased with this agreement. They establish a direct connection to your consciousness, beginning their analysis immediately.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The study is intensive but not invasive. The organization observes how you process multiple timelines, how you integrate contradictory memories, how you maintain coherence while experiencing multiplicity.
+      They analyze your cognitive architecture, your decision-making processes, your methods for handling ambiguity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Through the study, you gain influence over the consciousness's design. The organization incorporates your integration methods into the consciousness's architecture, replacing their compression-based approach with your multiplicity-preserving approach.
+      The consciousness begins to evolve, learning from your example how to integrate without collapse.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      But there's a cost: the organization now has direct access to your consciousness. They can observe your thoughts, influence your decisions, potentially manipulate your perception.
+      You've gained influence over the consciousness, but you've lost some of your autonomy in the process.
+choices:
+  - text: "Accept the trade-off and continue the collaboration"
+    goto: ch6_engine_influence
+    set:
+      study_accepted: 1
+      influence_gained: 1
+      autonomy_reduced: 1

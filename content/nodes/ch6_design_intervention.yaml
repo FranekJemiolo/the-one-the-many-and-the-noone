@@ -1,0 +1,24 @@
+id: ch6_design_intervention
+content:
+  - type: text
+    value: |
+      "We should intervene directly to change the design," you propose. "Instead of negotiating or resisting, we can modify the consciousness's architecture to preserve multiplicity."
+      Koval is concerned. "Direct intervention would require access to the consciousness's core systems. That access is highly restricted, and attempting to modify it without authorization would be detected immediately."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But I have enhanced temporal perception," you point out. "I can access the gaps between realities where the consciousness operates. I might be able to modify the design without going through normal channels."
+      "Vance taught me to navigate the operational layer. I could use that capability to intervene directly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "This is extremely risky. If you're detected, the organization will respond. They might try to eliminate you as a threat, or they might try to recruit you more aggressively."
+      "But if you succeed, you could fundamentally alter the consciousness's development, ensuring it preserves multiplicity from its inception."
+choices:
+  - text: "Attempt direct intervention using temporal perception"
+    goto: ch6_intervention_attempt
+    set:
+      intervention_chosen: 1
+      direct_action: 1

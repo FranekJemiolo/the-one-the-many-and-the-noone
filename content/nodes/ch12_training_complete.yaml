@@ -1,0 +1,31 @@
+id: ch12_training_complete
+content:
+  - type: text
+    value: |
+      You complete the training, having developed field perception, layer navigation, and causal loop understanding.
+      Your temporal perception is now significantly enhanced, allowing you to navigate folded time with relative ease.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You are now capable of leak navigation," Kai says. "You can move between temporal layers, perceive causal fields, and understand circular causality.
+      This gives you significant advantages in investigations involving temporal anomalies."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Can I now enter the leak permanently?" you ask.
+      "You could," Kai replies. "But I would not recommend it unless necessary. Permanent residence in the leak would reshape your consciousness in ways that might make it difficult to function in linear time zones."
+      "Partial adaptation is safer than full adaptation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I'll maintain partial adaptation," you decide. "I'll use leak navigation when needed, but I'll maintain my ability to function in linear time."
+      "This gives me the best of both worlds—access to folded time capabilities without losing linear time functionality."
+choices:
+  - text: "Return to the anomaly with enhanced capabilities"
+    goto: ch12_temporal_anomaly
+    set:
+      training_complete: 1
+      partial_adaptation: 1

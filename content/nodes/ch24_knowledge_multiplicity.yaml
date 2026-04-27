@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch24_chapter_end
+  - text: "Ask about the students' adaptation"
+    goto: ch24_student_adaptation
+    set:
+      adaptation_interest: 1

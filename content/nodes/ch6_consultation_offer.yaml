@@ -1,0 +1,31 @@
+id: ch6_consultation_offer
+content:
+  - type: text
+    value: |
+      "I can offer consultation instead," you communicate. "I can advise on how to design the integration layer without requiring you to study my consciousness directly."
+      The organization considers this. They are curious about your consciousness, but they also recognize that consultation might be sufficient to achieve their goals.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We accept consultation," the organization communicates. "We will implement your recommendations for the integration layer and observe the results.
+      If the consciousness achieves integration without collapse, we will continue the collaboration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a safer arrangement. You maintain your autonomy while still influencing the consciousness's development.
+      The organization implements your recommendations, and the consciousness begins to evolve toward multiplicity-preserving integration.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      However, consultation gives you less direct influence than being a subject of study. The organization might implement your recommendations imperfectly, or they might modify them in ways that undermine their effectiveness.
+      You have influence, but not control.
+choices:
+  - text: "Continue the consultation arrangement"
+    goto: ch6_engine_influence
+    set:
+      consultation_offered: 1
+      influence_maintained: 1
+      autonomy_preserved: 1

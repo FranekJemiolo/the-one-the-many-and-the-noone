@@ -1,0 +1,43 @@
+id: ch2_subject_rejection
+content:
+  - type: text
+    value: |
+      "I didn't agree to be a subject," you say, anger rising. "I didn't consent to these experiments. If the system is studying me without my permission, that's a violation."
+      The Patient watches you with calm detachment. "Consent is a concept that assumes a clear boundary between self and other, between subject and object.
+      In a multiple-reality world, those boundaries are not as clear as you assume."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That doesn't make it right," you insist. "The system has no right to experiment on people without their consent."
+      "The system doesn't understand right and wrong the way you do," the Patient replies. "It understands cause and effect, pattern and consequence. It doesn't have moral concepts—it has functional concepts."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then the system needs to learn," you say. "It needs to understand that consciousness involves consent, that experimentation requires agreement."
+      The Patient considers this. "You could teach it that. Your choices could show the system that some patterns are unacceptable, that some consequences are violations."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a different kind of collaboration—not teaching the system about consciousness, but teaching it about ethics.
+      Your choices could shape not just the system's understanding of perception, but its understanding of right and wrong.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do I teach it?" you ask.
+      "By making choices that demonstrate your values," the Patient explains. "By refusing to participate in experiments that violate consent. By demanding accountability from the system.
+      The system learns from resistance as well as cooperation."
+choices:
+  - text: "Demand the system stop the experiments"
+    goto: ch2_demand_accountability
+    set:
+      ethical_subject: 1
+      resistance_chosen: 1
+  - text: "Continue the examination but establish boundaries"
+    goto: ch2_patient_encounter
+    set:
+      ethical_subject: 1
+      boundary_setting: 1

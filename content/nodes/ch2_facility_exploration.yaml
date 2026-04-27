@@ -1,0 +1,40 @@
+id: ch2_facility_exploration
+content:
+  - type: text
+    value: |
+      Before examining the patient, you decide to explore the medical facility, sensing that the unusual quietness might be connected to the anomaly you're investigating.
+      The corridors are empty, the examination rooms vacant, as if the facility has been cleared of all other patients for your arrival.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You find the nurses' station, but it's unmanned. The computer screens are active, displaying patient schedules that show only one entry: your current case.
+      The schedule is suspiciously clean—no other patients, no staff assignments, as if the entire facility has been repurposed for this single examination.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In the break room, you find a coffee cup that's still warm, suggesting someone was here recently. But there's no sign of who left it, no personal belongings, no indication of who works here.
+      The facility feels staged, as if it's a set designed to look like a medical facility rather than a functioning hospital.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You check the security logs, hoping to find records of staff movements. The logs show normal activity—doctors, nurses, technicians coming and going throughout the day.
+      But when you cross-reference the logs with the current time, you notice something: the last entry was three hours ago, and since then, the facility has been completely empty.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is impossible. A medical facility cannot operate without staff. Yet the evidence suggests that everyone left three hours ago, leaving only the patient you're here to examine.
+      The question is: where did they go, and why did they leave?
+choices:
+  - text: "Search for clues about the staff's departure"
+    goto: ch2_staff_mystery
+    set:
+      investigation_thoroughness: 1
+      facility_suspicion: 1
+  - text: "Proceed directly to the patient examination"
+    goto: ch2_patient_encounter
+    set:
+      focus_on_patient: 1

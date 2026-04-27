@@ -1,0 +1,30 @@
+id: ch28_evolution_zones
+content:
+  - type: text
+    value: |
+      "Propose creating synthetic evolution zones," you suggest to Morrow. "We can establish new ecological zones where machines are designed for deep ecological participation, creating conditions for synthetic evolution."
+      "This would expand synthetic life beyond Morrow Vale."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Morrow agrees. "Morrow Vale can serve as a template, providing the model for how synthetic evolution works. We can establish new zones with similar ecological integration conditions."
+      "The transformation would occur naturally in these zones, just as it did here."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The evolution zones would need to be connected to the broader Resistance networks," you observe. "The sanctuary network, the temporal training network, the other infrastructure can coordinate with the synthetic evolution zones."
+      "This would create a comprehensive system for synthetic life expansion."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "We'll establish the evolution zones and connect them to the Resistance networks. Synthetic life will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's capacity for synthetic-biological integration."
+choices:
+  - text: "Support establishing the synthetic evolution zones"
+    goto: ch28_zones_establishment
+    set:
+      evolution_zones: 1
+      establishment_chosen: 1

@@ -1,0 +1,42 @@
+id: ch3_synchronization_training
+content:
+  - type: text
+    value: |
+      "How would we train the researchers to synchronize their experiences?" you ask, wanting to understand the practical implementation of timeline control.
+      Vance brings up a training protocol she's been developing. "We would need to teach them conscious timeline selection—giving them the ability to choose which timeline to experience rather than passively accepting whatever timeline they're currently in."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training would take weeks," she explains. "Most of the researchers have adapted to temporal multiplicity without developing conscious control.
+      They would need to learn techniques for temporal perception, then practice synchronizing their experiences with each other."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And even if they succeed," Vance continues, "some might resist the collapse. They've adapted to experiencing multiple timelines, and returning to a single timeline might feel like a loss of capability."
+      "We would need their consent, not just their cooperation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This raises the ethical question again: even if you can control the collapse, should you? The researchers have adapted to a mode of experience that normal reality doesn't support.
+      Forcing them back to a single timeline might be a violation of their adapted capabilities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What if we made the collapse voluntary?" you suggest. "Researchers who want to return to a single timeline could participate in the synchronization. Those who want to continue experiencing multiple timelines could stay in the field."
+      Vance considers this. "That might work. But it would require the station to support both modes simultaneously—some researchers in a single timeline, others in multiple timelines."
+      "The field would need to be modified to allow selective participation."
+choices:
+  - text: "Investigate modifying the field for selective participation"
+    goto: ch3_field_modification
+    set:
+      ethical_solution: 1
+      technical_complexity: 1
+  - text: "Leave the field unchanged for now"
+    goto: ch3_clock_inconsistency
+    set:
+      ethical_solution: 1
+      status_quo_chosen: 1

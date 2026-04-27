@@ -1,0 +1,24 @@
+id: ch28_intentional_creation
+content:
+  - type: text
+    value: |
+      "Can synthetic life be created intentionally?" you ask, wanting to know if the transformation can be accelerated or directed.
+      Morrow considers this. "The transformation requires sustained ecological integration. It cannot be forced, but it can be facilitated by creating the right conditions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We could create new ecological zones," Morrow suggests. "Areas where machines are designed for deep ecological participation, where the conditions for synthetic evolution are optimized."
+      "This would accelerate the transformation, allowing more machines to become living entities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would expand synthetic life beyond Morrow Vale," you realize. "If we can create conditions for synthetic evolution in other zones, we could spread synthetic life across the system."
+      "The boundary between mechanical and biological would dissolve on a larger scale."
+choices:
+  - text: "Propose creating synthetic evolution zones"
+    goto: ch28_evolution_zones
+    set:
+      intentional_creation: 1
+      zones_chosen: 1

@@ -1,0 +1,30 @@
+id: ch10_leadership_presentation
+content:
+  - type: text
+    value: |
+      You support Seraph in presenting the experiment results to Clarity Administration's leadership.
+      The presentation demonstrates that multiplicity is stable, that the zone has not collapsed, and that the leadership's fears are unfounded.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The leadership is skeptical but attentive. They examine the data, review the stability metrics, and observe the functioning multiplicity zone.
+      The evidence is compelling, but their ideological commitment to singularity makes them reluctant to accept the implications.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The experiment demonstrates that multiplicity can be stable," Seraph argues. "But it does not prove that multiplicity is always stable, or that the current system should be completely redesigned.
+      I propose a gradual approach: convert one Clarity zone at a time, monitoring stability after each conversion, and proceeding only if the results remain positive."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The leadership agrees to the gradual approach, authorizing the conversion of one additional Clarity zone as a test.
+      This is not full approval of multiplicity, but it is a significant step—a crack in the ideological commitment to singularity.
+choices:
+  - text: "Support the gradual conversion approach"
+    goto: ch10_gradual_conversion
+    set:
+      leadership_presentation: 1
+      gradual_approved: 1

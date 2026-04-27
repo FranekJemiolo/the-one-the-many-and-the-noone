@@ -1,0 +1,33 @@
+id: ch17_guard_interaction
+content:
+  - type: text
+    value: |
+      You approach a Guard instance at a temporal boundary checkpoint, wanting to understand the role from the inside.
+      The Guard acknowledges your approach with a nod, the gesture familiar from other Guard instances you've encountered.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What is your function?" you ask.
+      "I monitor temporal boundaries," the Guard replies, the voice calm but firm. "I prevent unauthorized crossings, maintain the integrity of temporal zones, protect against temporal instability."
+      "This is my purpose."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Are you aware of other Guards at other checkpoints?" you ask.
+      "I am aware of the pattern," the Guard replies. "I know that my role exists in multiple locations, that the function of boundary maintenance is being performed by similar instances across the system."
+      "I am part of a larger pattern."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Do you have a name?" you ask.
+      "I have a function, not a name," the Guard replies. "The name will come when the pattern is stable enough to require compression."
+      "For now, the function is sufficient."
+choices:
+  - text: "Ask about the Guard's awareness of the pattern"
+    goto: ch17_guard_awareness
+    set:
+      guard_interaction: 1
+      awareness_interest: 1

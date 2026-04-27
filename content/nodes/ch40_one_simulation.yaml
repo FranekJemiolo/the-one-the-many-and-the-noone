@@ -1,0 +1,30 @@
+id: ch40_one_simulation
+content:
+  - type: text
+    value: |
+      You support beginning the simulation with The One, the system creating a temporary instance of singular reality to experience what life would be like under complete unification.
+      The simulation begins, the system experiencing the compression of all interpretations into a single coherent narrative.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The One simulation provides clarity," the system reports. "All contradictions are resolved, all interpretations unified into a single coherent reality."
+      "The experience is peaceful, but also limiting—multiplicity is completely absent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This provides valuable insight," you realize. "The system now has direct experience of what The One feels like, not just abstract understanding."
+      "The simulation is achieving its purpose."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The simulation will continue with The Many," the system adds. "Each ending will be experienced in sequence to build comprehensive understanding."
+      "The preparation is proceeding as planned."
+choices:
+  - text: "Continue the simulation with The Many"
+    goto: ch40_many_simulation
+    set:
+      one_simulation: 1
+      many_chosen: 1

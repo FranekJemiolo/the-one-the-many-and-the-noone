@@ -1,0 +1,31 @@
+id: ch8_sensitivity_commitment
+content:
+  - type: text
+    value: |
+      "I commit to developing emotional sensitivity," you say, willing to put in the practice required to perceive the emotional layer of reality.
+      The Passenger nods, acknowledging your commitment. "The practice will be gradual. You will not perceive crystallizations immediately.
+      But over time, as you pay attention to emotional atmosphere, you will begin to sense the emotional layer more clearly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Start with this journey," the Passenger suggests. "Pay attention to how the transport feels emotionally. Notice the quality of transit, the feeling of passage through space and time.
+      Try to perceive not just the physical journey, but the emotional journey that exists alongside it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You focus your attention on the emotional atmosphere of the transport, trying to perceive beyond the physical location.
+      Gradually, you begin to sense something—a feeling of movement, of passage, of transit that exists independently of the physical journey.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You are beginning to perceive me," the Passenger says. "Not as a physical being, but as an emotional presence. This is the first step in developing emotional sensitivity."
+      "Continue this practice, and over time, you will perceive more crystallizations, more emotional beings, more of the emotional layer of reality."
+choices:
+  - text: "Continue the practice and return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      sensitivity_commitment: 1
+      perception_beginning: 1

@@ -1,0 +1,30 @@
+id: ch9_reform_proposal
+content:
+  - type: text
+    value: |
+      "We should propose reform to prevent these scenarios," you say, wanting to take action before the gap becomes critical.
+      Seraph agrees. "I can draft a reform proposal based on the critical projections, arguing that the current system is on a trajectory toward collapse or disconnect and that reform is necessary to prevent these outcomes."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal will need to specify the nature of the reform," she explains. "Whether we're proposing gradual adaptation, complete redesign, or replacement with an external system.
+      Each option has different risks and benefits."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Gradual adaptation is the safest option," you suggest. "Introduce multiplicity incrementally, allowing the system to adapt without requiring a complete overhaul.
+      This minimizes disruption while still addressing the gap."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph nods. "I will draft the reform proposal with gradual adaptation as the primary recommendation. I will also include complete redesign as a secondary option if adaptation proves insufficient.
+      The proposal will argue that reform is urgent, given the projected timeline to critical gap levels."
+choices:
+  - text: "Support the reform proposal"
+    goto: ch9_proposal_submission
+    set:
+      reform_proposal: 1
+      proposal_ready: 1

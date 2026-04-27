@@ -1,0 +1,37 @@
+id: ch6_bias_counteraction
+content:
+  - type: text
+    value: |
+      "How can we counter the interpretive bias?" you ask, wanting to understand how to resist the Engine's influence.
+      Koval considers this. "The bias operates through comfort—making singular explanations feel natural and complex explanations feel wrong.
+      To counter it, we need to make multiplicity feel equally natural."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do we do that?" you ask.
+      "By deliberately including complexity in our reports," she explains. "By documenting multiple valid interpretations even when the system prefers singular ones.
+      By training investigators to recognize the bias and resist the pressure toward compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The bias will try to make this feel wrong," Koval warns. "Complex explanations will feel unnecessary, confusing, inefficient.
+      You'll have to consciously resist that feeling, remind yourself that the comfort is engineered, not natural."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is what the Resistance does," you realize. "They preserve multiplicity by refusing to let the Engine's bias dictate what feels natural."
+      "They make a conscious choice to value accuracy over comfort, even when comfort feels like truth."
+choices:
+  - text: "Commit to counteracting the bias in your investigations"
+    goto: ch6_bias_commitment
+    set:
+      counteraction_known: 1
+      resistance_commitment: 1
+  - text: "Ask about the Resistance's methods"
+    goto: ch6_resistance_methods
+    set:
+      counteraction_known: 1
+      resistance_interest: 1

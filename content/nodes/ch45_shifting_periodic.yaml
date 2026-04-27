@@ -1,0 +1,30 @@
+id: ch45_shifting_periodic
+content:
+  - type: text
+    value: |
+      "Propose considering The Shifting World as a periodic mode," you suggest to the system. "Instead of choosing The Shifting World as a permanent configuration, the system could oscillate between states periodically while maintaining some stability as a foundation."
+      "This would provide the benefits of adaptability without the permanent cost of eliminating rest."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The system agrees. "This approach would be a controlled oscillation, where the system shifts between states on a predictable schedule rather than perpetually."
+      "The Shifting World would not be a permanent ending, but a periodic mode within a more flexible configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests the final choice might be about creating a system that can accommodate controlled motion," you realize. "The system might choose a configuration that can periodically shift between states while maintaining stability as a foundation."
+      "This is a more nuanced version of The Overlap configuration."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The reflection on The Shifting World provides valuable insight," the system concludes. "The system now understands both the appeal of perpetual motion and the value of maintaining some stable foundation."
+      "The understanding will inform the final choice."
+choices:
+  - text: "Continue the chapter with the reflection complete"
+    goto: ch45_cost_of_shifting
+    set:
+      shifting_periodic: 1
+      adaptive_understanding: 1

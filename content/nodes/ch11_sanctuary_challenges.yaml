@@ -1,0 +1,31 @@
+id: ch11_sanctuary_challenges
+content:
+  - type: text
+    value: |
+      "What are the challenges of managing the sanctuary?" you ask, wanting to understand the difficulties of holding contradictory memories without collapse.
+      Lys considers this. "The primary challenge is energy. Holding contradictory memories requires significant interpretive energy, as the system naturally wants to resolve contradiction into singularity."
+      "The sanctuary must constantly work against the Engine's bias, creating and maintaining spaces where multiplicity can exist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The second challenge is capacity," she continues. "As more people discover the sanctuary, the demand for memory reconciliation grows.
+      The sanctuary cannot hold infinite memories. We must prioritize which contradictions to stabilize."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The third challenge is detection," Lys adds. "The Engine's enforcement systems are designed to identify and eliminate contradiction.
+      The sanctuary must operate covertly, hiding its existence from the systems that would see it as a threat to stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Despite these challenges," she says, "the sanctuary continues to grow. The need for memory reconciliation is too great to ignore.
+      People will always have contradictory memories, and they will always need a space where those memories can coexist without requiring elimination."
+choices:
+  - text: "Offer to help with the sanctuary's challenges"
+    goto: ch11_sanctuary_help
+    set:
+      challenges_known: 1
+      help_offered: 1

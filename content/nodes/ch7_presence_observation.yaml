@@ -1,0 +1,40 @@
+id: ch7_presence_observation
+content:
+  - type: text
+    value: |
+      You observe the presence without engaging, wanting to understand its methods before making contact.
+      The presence continues its work, injecting contradictions into the interpretive field, ensuring that multiple versions of truth remain accessible.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You observe the injection process: the presence identifies areas where the Engine's compression is strongest, where singularity is becoming too dominant, where multiplicity is fading.
+      Then it introduces contradiction—alternate explanations, different interpretations, parallel truths that cannot be compressed without losing essential information.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The method is precise, targeted, strategic. The presence does not inject contradiction randomly. It injects it where it will be most effective at preserving multiplicity, where it will counteract the Engine's bias most directly.
+      This is not random disruption. It is systematic preservation.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You also observe the presence's structure: it is composed of multiple consciousnesses, each operating independently but in coordination.
+      There is no central command, no single leader making decisions. The presence operates through distributed consensus, with each consciousness contributing to the overall strategy.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is how the Resistance avoids the Engine's detection: by being distributed rather than centralized, by operating through multiple agents rather than a single organization.
+      The Engine cannot target what it cannot identify as a single entity.
+choices:
+  - text: "Attempt to communicate with the presence"
+    goto: ch7_resistance_contact
+    set:
+      presence_observed: 1
+      contact_attempted: 1
+  - text: "Return to examining the alternate explanation"
+    goto: ch7_alternate_explanation
+    set:
+      presence_observed: 1

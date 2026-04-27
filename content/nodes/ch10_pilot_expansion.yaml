@@ -1,0 +1,30 @@
+id: ch10_pilot_expansion
+content:
+  - type: text
+    value: |
+      You document the pilot results, compiling evidence that reduced enforcement lowers energy consumption while maintaining stability.
+      The documentation includes performance metrics, cost analysis, and stability assessments.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The results are compelling," Seraph says after reviewing the documentation. "Energy savings of 40% with no loss of stability.
+      This provides a strong economic argument for reducing enforcement across all Clarity zones."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She presents the documentation to leadership, emphasizing the cost savings while downplaying the ideological implications.
+      Leadership is impressed by the economic benefits and authorizes expansion of the pilot to additional zones.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a strategic victory," you observe. "Leadership has approved reduced enforcement for economic reasons, which will inevitably lead to increased multiplicity.
+      The economic argument provides cover for the ideological shift."
+choices:
+  - text: "Support expanding the pilot to additional zones"
+    goto: ch10_pilot_expansion_implementation
+    set:
+      pilot_expansion: 1
+      expansion_implementation: 1

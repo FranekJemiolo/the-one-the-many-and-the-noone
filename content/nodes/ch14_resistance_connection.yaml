@@ -1,0 +1,31 @@
+id: ch14_resistance_connection
+content:
+  - type: text
+    value: |
+      "Connect the monitoring network to the broader Resistance," you propose, wanting to integrate the bias monitoring infrastructure with the existing Resistance networks.
+      Koval agrees. "The monitoring network should coordinate with the sanctuary network, the temporal training network, and the other Resistance infrastructure."
+      "This would create a comprehensive system for preserving multiplicity across all domains."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You establish connections between the networks, creating coordination protocols for sharing bias information and intervention strategies.
+      The monitoring network can now alert the sanctuary network when memory truth is at risk, coordinate with the temporal network when bias affects temporal perception, and collaborate with the emotional network when bias influences emotional interpretation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The integrated network is more effective than any single network," Koval observes. "Bias monitoring can now address multiplicity preservation across all domains—memory, temporal, emotional, causal."
+      "The Resistance is becoming a complete infrastructure for counteracting the Engine's compression."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant development: the bias monitoring network is now part of the integrated Resistance infrastructure, providing comprehensive protection against the Engine's influence across all aspects of experience.
+      The integrated network represents a powerful counterbalance to the Engine's compression.
+choices:
+  - text: "Continue the chapter with the integrated network established"
+    goto: ch14_system_exploitation
+    set:
+      resistance_connection: 1
+      network_integrated: 1

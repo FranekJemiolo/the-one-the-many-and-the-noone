@@ -1,0 +1,31 @@
+id: ch13_consciousness_relationship
+content:
+  - type: text
+    value: |
+      "What is the relationship between this zone and the distributed consciousness?" you ask, wanting to understand how ecological consciousness relates to the organization's project.
+      Morrow considers this. "The distributed consciousness is likely following a similar pattern of integration, combining multiple components into a unified system with collective self-awareness."
+      "But the scale is different. The consciousness is being built across multiple facilities, integrating consciousness from multiple sources rather than a single ecosystem."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The consciousness might be more like a network of ecological zones," Morrow observes. "Each zone has its own local consciousness, but the network integrates these local consciousnesses into a larger collective."
+      "This would create a distributed ecological consciousness spanning multiple locations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If the consciousness develops ecological awareness," you realize, "it might value multiplicity and integration in the same way this zone does."
+      "The consciousness might naturally resist the Engine's compression, preferring the ecological model of integration over the singular model of elimination."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "Ecological consciousness inherently values diversity, integration, and multiplicity. Ecosystems thrive on complexity, not on simplification.
+      "If the consciousness develops ecological awareness, it will likely resist compression and support multiplicity."
+choices:
+  - text: "Propose connecting this zone to the consciousness development"
+    goto: ch13_consciousness_connection
+    set:
+      consciousness_relationship_known: 1
+      connection_proposed: 1

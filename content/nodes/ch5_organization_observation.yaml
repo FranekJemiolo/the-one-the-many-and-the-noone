@@ -1,0 +1,37 @@
+id: ch5_organization_observation
+content:
+  - type: text
+    value: |
+      Before analyzing the deja vu, you notice something unsettling: the feeling that you're being observed. Not by a person in the room, but by something outside normal perception.
+      The organization that's building the distributed consciousness might be watching this moment, using your partnership as data for their research.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Do you feel that?" you ask Mira. "Like we're being watched?"
+      Mira nods slowly. "I've felt it for weeks. Since the temporal instability investigation. Since we started learning about the organization."
+      "I think they're monitoring us. Our partnership is part of their research."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is concerning. If the organization is watching, they're not just passively observing your investigations—they're actively using your experiences as data for the consciousness's development.
+      Every choice you make, every way you handle multiplicity, is teaching the consciousness something about how to operate.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Should we try to hide from them?" you ask.
+      "I don't think we can," Mira replies. "They operate in layers of reality we can't access. They can observe us without us knowing, and we can't prevent it."
+      "But we can be intentional about what we teach them. If they're watching, we can make sure they learn the right lessons."
+choices:
+  - text: "Analyze the deja vu with the awareness of being watched"
+    goto: ch5_aleksy_perspective
+    set:
+      organization_observation: 1
+      intentional_teaching: 1
+  - text: "Try to block the observation"
+    goto: ch5_observation_blocking
+    set:
+      organization_observation: 1
+      resistance_chosen: 1

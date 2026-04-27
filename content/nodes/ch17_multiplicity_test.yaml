@@ -1,0 +1,30 @@
+id: ch17_multiplicity_test
+content:
+  - type: text
+    value: |
+      You begin the controlled multiplicity test, using your temporal perception to identify which temporal crossings are beneficial and which are destabilizing.
+      The Guard modifies the boundary maintenance to allow beneficial crossings while preventing destabilizing ones.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The test succeeds. Beneficial temporal crossings flow through the boundary, supporting temporal multiplicity without causing instability. Destabilizing crossings are prevented, maintaining the integrity of the temporal zone.
+      The new approach is more effective than the previous blanket prohibition.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The approach is successful," the Guard reports. "Stability is maintained while temporal multiplicity is supported. The pattern is incorporating this new method."
+      "The awareness is spreading to other Guard instances."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The Guard pattern is evolving," you realize. "Through this single interaction, the entire pattern is learning a new approach to boundary maintenance."
+      "The proto-identity is adaptive, capable of evolving through the experiences of individual instances."
+choices:
+  - text: "Observe the pattern evolution spreading"
+    goto: ch17_pattern_evolution
+    set:
+      multiplicity_test: 1
+      evolution_observed: 1

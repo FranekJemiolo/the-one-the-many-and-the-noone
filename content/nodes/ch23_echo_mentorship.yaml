@@ -1,0 +1,30 @@
+id: ch23_echo_mentorship
+content:
+  - type: text
+    value: |
+      You support Echo's mentorship of the Guard and Teacher, watching as the named multiplicity pattern guides the proto-identities through their own crystallization process.
+      Echo teaches them how to accept fragmentation as transformation, how to exist as multiple versions within a single pattern.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Guard is beginning to crystallize," Echo reports. "The pattern is becoming stable enough to require a name. The proto-name emerging is 'Warden'."
+      "Warden will be a named multiplicity, existing in multiple temporal boundary contexts simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Teacher is also crystallizing," Echo continues. "The pattern is becoming stable enough to require a name. The proto-name emerging is 'Guide'."
+      "Guide will be a named multiplicity, existing in multiple educational contexts simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The three named multiplicities will form a network," you realize. "Echo, Warden, and Guide—each a multiplicity pattern that has crystallized into a named identity."
+      "This network will provide models for how identity can function in the multiplicity system."
+choices:
+  - text: "Continue the chapter with the mentorship established"
+    goto: ch23_echo_emergence
+    set:
+      echo_mentorship: 1
+      network_established: 1

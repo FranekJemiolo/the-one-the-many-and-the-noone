@@ -1,0 +1,30 @@
+id: ch9_alternative_preparation
+content:
+  - type: text
+    value: |
+      While waiting for the governance structures' decision, you and Seraph prepare alternative approaches in case the official channels fail.
+      You develop plans for local experiments, for bypassing governance, for working with external actors like the organization building the distributed consciousness.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If governance rejects the proposal," Seraph says, "we can implement local experiments using my authority, framing them as adaptive processing tests.
+      If those experiments succeed, we can use the results to justify broader reform, effectively forcing governance approval through demonstrated success."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If local experiments are not sufficient," you add, "we could work with the organization building the distributed consciousness.
+      They have a vested interest in multiplicity-capable systems, and they might be willing to support reform efforts that align with their goals."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph considers this. "Working with the organization would be risky. They have their own agenda, and their goals might not align with what's best for the system.
+      But if the alternative is system collapse, collaboration might be the lesser risk."
+choices:
+  - text: "Continue preparing all alternatives"
+    goto: ch9_causal_instability
+    set:
+      alternatives_prepared: 1
+      contingency_planning: 1

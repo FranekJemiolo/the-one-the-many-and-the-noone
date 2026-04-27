@@ -1,0 +1,30 @@
+id: ch25_trajectory_center
+content:
+  - type: text
+    value: |
+      "Propose establishing a trajectory multiplicity training center," you suggest to the Passengers. "The transit system can serve as a hub for trajectory multiplicity adaptation, bringing people here to experience multiple paths and develop the capacity to navigate plural movement."
+      "This would accelerate the spread of trajectory multiplicity perception across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Passengers agree. "The transit system has the infrastructure to support training, and our experience with adaptation can guide others through the process."
+      "We can develop protocols for systematic trajectory multiplicity training."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training center would need to be connected to the broader Resistance networks," you observe. "The sanctuary network, the temporal training network, the other infrastructure can coordinate with the trajectory multiplicity training center."
+      "This would create a comprehensive system for multiplicity adaptation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Passengers agree. "We'll establish the training center and connect it to the Resistance networks. The trajectory multiplicity adaptation will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's capacity to function in plural movement."
+choices:
+  - text: "Support establishing the trajectory training center"
+    goto: ch25_trajectory_establishment
+    set:
+      trajectory_center: 1
+      establishment_chosen: 1

@@ -1,0 +1,30 @@
+id: ch15_training_scaling
+content:
+  - type: text
+    value: |
+      You support scaling the integrated training program, making it available to all investigators who want to develop comprehensive capacity for multiple reality.
+      The program is expanded to multiple locations, with trained instructors teaching both field perception and contradiction holding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The scaling is successful," Rose reports after months of expansion. "The integrated training is now available across multiple facilities, creating a distributed network of fully adapted investigators."
+      "The Resistance's capacity has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The fully adapted investigators are changing the dynamic," you observe. "They're not just resisting the Engine—they're embodying the alternative, demonstrating through their very existence that plural stability is possible."
+      "The Resistance is becoming more effective at preserving multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "The integrated training is creating a new kind of Resistance, one that doesn't just fight compression but embodies the alternative approach."
+      "This is a significant evolution in the struggle against the Engine's ideology."
+choices:
+  - text: "Continue the visit with the training scaled"
+    goto: ch15_rose_appearance
+    set:
+      training_scaling: 1
+      resistance_evolved: 1

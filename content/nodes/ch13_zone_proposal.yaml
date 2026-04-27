@@ -1,0 +1,31 @@
+id: ch13_zone_proposal
+content:
+  - type: text
+    value: |
+      "Propose creating additional ecological zones," you suggest, wanting to expand the ecological integration model to other locations.
+      Morrow considers this. "Additional zones would increase the total ecological consciousness in the system, creating a network of self-aware ecosystems that could coordinate and support each other."
+      "This would strengthen the ecological interpretation engine, providing more capacity for multiplicity-preserving interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the resources required would be significant," Morrow cautions. "Each zone requires specialized engineering, temporal stability, and ecological diversity.
+      Creating multiple zones would require substantial investment and long-term commitment."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The benefits might justify the cost," you argue. "Ecological consciousness naturally values multiplicity. More zones would mean more resistance to the Engine's compression, more capacity for preserving complexity."
+      "The ecological interpretation engine would become more influential in the overall system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "I can support the proposal by providing technical specifications for zone development, sharing the engineering methods that made this zone successful."
+      "You can advocate for the proposal to the appropriate authorities, arguing for the benefits of ecological consciousness."
+choices:
+  - text: "Commit to advocating for additional ecological zones"
+    goto: ch13_advocacy_commitment
+    set:
+      zone_proposal: 1
+      advocacy_chosen: 1

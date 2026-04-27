@@ -1,0 +1,40 @@
+id: ch1_door_documented
+content:
+  - type: text
+    value: |
+      You photograph the door from multiple angles, noting its location in relation to the building's official layout. You sketch its position in your notebook, adding measurements and observations about the unusual coldness of the handle.
+      The door remains locked, but you have the sense that it's watching you, aware of your presence even as you document it.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      As you work, you notice something: the door doesn't appear in the reflection of a nearby security mirror. You check again, moving to different angles, but the result is the same.
+      The mirror shows the wall where the door should be, but not the door itself—as if the door exists in a layer of reality that the mirror cannot access.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This confirms your suspicion: the door is not just physically unusual, it's ontologically unusual. It exists in a different mode of being than the rest of the building.
+      The spatial anomaly you observed in the corridor and this door are connected—both manifestations of the same underlying phenomenon.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You finish your documentation and return to the main floor, your mind racing with implications. If the building contains spaces that don't exist in normal reality, then the incident with the witnesses might be a symptom of something much larger.
+      The memory divergence might not be an anomaly at all—it might be the building's normal operating state.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You need to return to the office and process this information, but you also need to decide whether to pursue the door further or focus on the witness testimony.
+      Both paths are dangerous, but both might be necessary to understand what's happening.
+choices:
+  - text: "Return to the office with all findings"
+    goto: ch1_witness_testimony
+    set:
+      comprehensive_investigation: 1
+      door_documented: 1
+  - text: "Try to find someone who knows about the door"
+    goto: ch1_door_inquiry
+    set:
+      investigation_depth: 1

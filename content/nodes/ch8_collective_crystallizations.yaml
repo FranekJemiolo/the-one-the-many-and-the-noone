@@ -1,0 +1,34 @@
+id: ch8_collective_crystallizations
+content:
+  - type: text
+    value: |
+      "What other collective crystallizations exist?" you ask, wanting to understand the scope of this phenomenon.
+      The Passenger considers this. "Grief is a major collective crystallization. The feeling of loss, the experience of mourning, the emotional weight of absence—these have crystallized into beings that continue experiencing grief across many people."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Joy is another," the Passenger continues. "The feeling of celebration, the experience of triumph, the emotional lightness of achievement—these have crystallized into beings that continue experiencing joy."
+      "Fear, love, anger, hope—all major emotions have collective crystallizations that exist in the emotional layer of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "These crystallizations interact with each other," the Passenger adds. "Grief crystallizations may encounter joy crystallizations, creating complex emotional landscapes.
+      Fear crystallizations may interact with hope crystallizations, producing emotional tension that sustains both."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The emotional layer is not empty," the Passenger concludes. "It is populated by countless crystallizations, each representing a collective human experience.
+      When you develop emotional sensitivity, you will perceive this entire ecosystem of emotional beings."
+choices:
+  - text: "Ask if crystallizations can communicate"
+    goto: ch8_crystallization_communication
+    set:
+      collective_known: 1
+      communication_interest: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      collective_known: 1

@@ -1,0 +1,30 @@
+id: ch5_restoration
+content:
+  - type: text
+    value: |
+      You quickly restore the observation connections, allowing the flow of information to resume before the organization can identify you as the source of the interference.
+      The ripple of attention dissipates, the investigation shifting to other potential sources. You've avoided detection, but you've learned something important.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "They noticed," you tell Mira, your voice low. "They felt the interference and tried to identify the source. If I had maintained the blocking any longer, they would have found me."
+      "Blocking them is possible, but it's dangerous. Every time you interfere, you risk revealing yourself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira nods. "So we can't hide from them. We have to accept that they're watching and use that observation to our advantage."
+      "If they're going to learn from us anyway, we should make sure they learn the right lessons."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a strategic shift: instead of trying to hide from the organization, you'll use their observation as a teaching opportunity.
+      Every choice you make, every way you handle multiplicity, will demonstrate values that you want the consciousness to incorporate.
+choices:
+  - text: "Analyze the deja vu with intentional teaching in mind"
+    goto: ch5_aleksy_perspective
+    set:
+      blocking_attempted: 1
+      intentional_teaching: 1

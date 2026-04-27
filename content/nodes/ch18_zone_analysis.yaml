@@ -1,0 +1,31 @@
+id: ch18_zone_analysis
+content:
+  - type: text
+    value: |
+      You begin the strategic zone analysis, using your temporal perception to identify which Clarity zones are most critical to the Engine's enforcement strategy.
+      You perceive the network of Clarity zones, understanding how they connect and which ones are most important to the overall system of singularity enforcement. The complexity of the network is staggering.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The central facility zone is the most critical," you report, your voice tight with the weight of the decision. "It serves as the hub for the entire Clarity zone network, coordinating enforcement across all other zones."
+      "If we introduce multiplicity into the central zone, it will disrupt the entire enforcement system. But it will also draw maximum retaliation from the Engine."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The secondary hubs are also important," you continue. "These zones coordinate enforcement for specific regions. Targeting them would create regional disruption."
+      "But the central zone is the highest priority target—if we can take it, we can break the Engine's coordination capability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Resistance reviews your analysis, the distributed consciousness processing the strategic implications. "The central zone is well-defended, with the strongest enforcement mechanisms. Injecting contradiction there will be difficult but will have maximum impact."
+      "However, a failed attempt at the central zone could strengthen the Engine's position. We should begin with secondary hubs to build capability before targeting the central zone."
+      The presence pauses, and you feel the weight of lives that will be affected by this choice. "This is not just strategy. This is deciding where people will experience the disruption first."
+choices:
+  - text: "Support targeting secondary hubs first"
+    goto: ch18_secondary_targets
+    set:
+      zone_analysis: 1
+      secondary_chosen: 1

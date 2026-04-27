@@ -1,0 +1,35 @@
+id: ch11_lys_background
+content:
+  - type: text
+    value: |
+      "Tell me about your background," you say to Sister Lys, wanting to understand how she came to manage the memory sanctuary.
+      Lys considers this, her expression calm as she accesses her own memories—memories that, like the sanctuary's contents, exist in multiple versions.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I was once a memory archivist," she explains. "I worked in a facility that processed memories according to singular causality, eliminating contradictions to maintain system stability."
+      "But I encountered a case where contradictory memories were both equally authentic, both emotionally real, both impossible to eliminate without losing something essential."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system required me to choose one memory as true and eliminate the other as false," she continues. "But I could not make that choice without feeling that I was destroying something real."
+      "So I created this sanctuary—a space where contradictory memories could coexist without requiring elimination."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The sanctuary began as a personal refuge," Lys adds. "But over time, others discovered it, and it grew into a service for those who could not bear to eliminate their contradictory memories."
+      "Now it is a sanctuary for anyone who needs to hold multiple truths without being forced to choose between them."
+choices:
+  - text: "Ask about the sanctuary's growth"
+    goto: ch11_sanctuary_growth
+    set:
+      lys_background_known: 1
+      growth_interest: 1
+  - text: "Ask about the challenges of managing the sanctuary"
+    goto: ch11_sanctuary_challenges
+    set:
+      lys_background_known: 1
+      challenges_interest: 1

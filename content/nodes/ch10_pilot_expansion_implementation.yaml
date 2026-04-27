@@ -1,0 +1,30 @@
+id: ch10_pilot_expansion_implementation
+content:
+  - type: text
+    value: |
+      You support expanding the pilot to additional zones, implementing reduced enforcement while monitoring energy consumption and stability.
+      The expansion succeeds, with each new zone demonstrating the same pattern: reduced energy costs with maintained stability.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The economic benefits are accumulating," Seraph reports. "Total energy savings across all pilot zones is now 35%, with no loss of stability.
+      Leadership is pleased with the cost reduction and is considering expanding the approach to all Clarity zones."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This creates an interesting dynamic," you observe. "Leadership is supporting reduced enforcement for economic reasons, which will inevitably lead to increased multiplicity.
+      They're effectively authorizing the ideological shift without realizing it."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph nods. "The economic argument provides cover for the ideological change. Leadership can claim they're optimizing costs while the system evolves toward multiplicity.
+      This is a strategic way to achieve reform without direct confrontation."
+choices:
+  - text: "Continue the expansion while monitoring the ideological shift"
+    goto: ch10_ideological_shift
+    set:
+      pilot_expansion_implementation: 1
+      shift_monitoring: 1

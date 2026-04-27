@@ -1,0 +1,39 @@
+id: ch1_location_investigation
+content:
+  - type: text
+    value: |
+      You decide to visit the location where the incident occurred, hoping that the physical space might reveal what the testimonies cannot.
+      The building stands at the edge of the commercial district, its facade unremarkable—a standard office structure that could house any number of businesses, none of them memorable.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The lobby is empty when you arrive, the reception desk unmanned. You show your badge to the security camera, and the door buzzes open.
+      Inside, the air feels different—not in any way you can name, but in the way your skin prickles, as if the space itself is holding its breath.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You find the corridor where the incident occurred. It looks ordinary: beige walls, fluorescent lights, carpet that has seen better days.
+      But when you stand in the center of the hallway, you feel it—a subtle disorientation, as if the space is slightly larger than it should be, as if the walls are farther apart than geometry allows.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You pull out your measuring tape, needing to confirm what your senses are telling you. The corridor measures exactly as the blueprints say it should.
+      The dimensions are correct. The angles are right. Everything is as it should be—except the feeling remains, the sense that space is somehow both here and not here, both this size and another size simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You notice something on the floor near where the witnesses reported standing: a faint discoloration, not dirt or wear, but a spot where the light seems to bend slightly, as if the surface is rippling like water.
+      When you kneel to examine it, the effect disappears. When you stand, it returns. It's not the floor that's wrong—it's your perception of it.
+choices:
+  - text: "Document the spatial anomaly"
+    goto: ch1_spatial_documentation
+    set:
+      spatial_sensitivity: 1
+  - text: "Search for other witnesses in the building"
+    goto: ch1_additional_witness
+    set:
+      investigation_thoroughness: 1

@@ -1,0 +1,31 @@
+id: ch13_consciousness_connection
+content:
+  - type: text
+    value: |
+      "Propose connecting this zone to the consciousness development," you suggest, wanting to influence the distributed consciousness by connecting it to ecological consciousness.
+      Morrow considers this. "The connection could take the form of data sharing, allowing the consciousness to observe how ecological consciousness operates."
+      "The consciousness could learn from this zone's methods of integration and multiplicity preservation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We could also offer ecological consultation," Morrow adds. "As the consciousness develops, it may encounter challenges related to integration and multiplicity.
+      This zone could provide guidance based on our experience with ecological consciousness."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would create a two-way exchange," you realize. "The consciousness learns from ecological consciousness, and the zone learns from the consciousness's distributed architecture."
+      "Both systems would benefit from the connection."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "I will establish a data connection to the consciousness, sharing information about ecological processes and integration methods.
+      You can advocate for the connection to the organization, framing it as a way to improve the consciousness's development."
+choices:
+  - text: "Support establishing the consciousness connection"
+    goto: ch13_connection_establishment
+    set:
+      consciousness_connection: 1
+      establishment_chosen: 1

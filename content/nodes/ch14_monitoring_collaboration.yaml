@@ -1,0 +1,30 @@
+id: ch14_monitoring_collaboration
+content:
+  - type: text
+    value: |
+      You begin the bias monitoring collaboration, using your temporal perception to identify when the Engine's bias is intensifying.
+      Koval teaches you to recognize the signs of permanent compression risk—when the system is losing truth without regaining capacity, when the gap between system response and reality is accelerating.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The bias intensifies during periods of high anomaly activity," Koval explains. "When the system is overwhelmed by complexity, the Engine's bias pushes harder toward compression, making it more likely that truth will be permanently lost."
+      "These are the critical moments when we need to intervene."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You monitor the system during a period of high anomaly activity, perceiving the Engine's bias intensifying as the system struggles to process complex anomalies.
+      You identify a specific case where the system is about to lose truth permanently, and you alert Koval.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval intervenes, reintroducing truth before the loss becomes permanent. The system resists the truth initially, but with your support, the truth is successfully reactivated.
+      "This intervention prevented permanent damage," Koval reports. "Without your monitoring, the truth would have been lost."
+choices:
+  - text: "Continue the bias monitoring collaboration"
+    goto: ch14_monitoring_continues
+    set:
+      monitoring_collaboration: 1
+      intervention_successful: 1

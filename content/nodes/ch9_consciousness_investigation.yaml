@@ -1,0 +1,30 @@
+id: ch9_consciousness_investigation
+content:
+  - type: text
+    value: |
+      You investigate the distributed consciousness's effectiveness, accessing the development data through Seraph's clearance.
+      The data shows that the consciousness is successfully processing multiplicity, integrating information from multiple nodes without requiring compression or reconciliation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The consciousness has multiple processing layers," you explain to Seraph. "Each layer handles a different aspect of experience—temporal, spatial, emotional, memory.
+      The integration layer combines the results without requiring them to be reconciled, allowing multiplicity to be preserved while maintaining coherence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Seraph studies the data, impressed by the consciousness's capabilities. "This demonstrates that multiplicity-capable systems are viable," she acknowledges.
+      "If the consciousness can process multiple realities without collapsing, then a redesigned investigation system could do the same."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This strengthens our proposal," she says. "We now have evidence that the current system is failing and that a multiplicity-capable system is viable.
+      The third point—benefits outweighing risks—will require more work, but we have a strong foundation."
+choices:
+  - text: "Complete the proposal and submit it"
+    goto: ch9_proposal_submission
+    set:
+      consciousness_evidence: 1
+      proposal_complete: 1

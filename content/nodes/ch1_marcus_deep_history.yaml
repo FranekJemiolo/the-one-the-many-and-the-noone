@@ -1,0 +1,47 @@
+id: ch1_marcus_deep_history
+content:
+  - type: text
+    value: |
+      Marcus looks around to ensure no one is listening, then lowers his voice further. "I haven't told anyone this. They'd think I was crazy. But since you saw the shaft too..."
+      He takes a deep breath, as if preparing to share something he's kept hidden for a long time.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Three months ago, I got stuck in one of the elevators. Not stuck between floors—stuck somewhere else entirely. The doors opened onto a hallway that looked like this building but wasn't.
+      The layout was the same, but the details were wrong. Different businesses, different people, a different year on the calendar."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      He describes walking through that version of the building for what felt like hours, finding no way back. Eventually, he found another elevator that took him to what seemed like his normal floor.
+      "But when I got back, I'd been gone for three days. My shift had ended, I'd been reported missing. For me, it was hours. For everyone else, it was days."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is more than a spatial anomaly—this is a temporal anomaly. Marcus experienced time dilation, moving between layers of reality at different rates.
+      If the building contains multiple temporal layers, then the witness contradiction might be a milder version of the same phenomenon.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I never went back to that elevator," Marcus says. "I transferred to the night shift, avoided the ones that had problems. But sometimes, when I'm working late, I can hear them.
+      The elevators. Moving between floors that don't exist. Carrying people to places they don't remember visiting."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Marcus has become an inadvertent expert on the building's anomalies, surviving through avoidance rather than understanding. But his experiences provide crucial context for your investigation.
+      The building is not just containing anomalies—it's actively generating them, creating layers of reality that intersect in unpredictable ways.
+choices:
+  - text: "Ask Marcus to help with future investigations"
+    goto: ch1_marcus_ally
+    set:
+      marcus_deep_trust: 1
+      temporal_anomaly_confirmed: 1
+  - text: "Thank Marcus and return to the office"
+    goto: ch1_witness_testimony
+    set:
+      temporal_anomaly_confirmed: 1
+      marcus_valuable_witness: 1

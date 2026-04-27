@@ -1,0 +1,30 @@
+id: ch26_split_benefits
+content:
+  - type: text
+    value: |
+      "Are there benefits to the parallel split?" you ask, wanting to understand if the structural separation has advantages over the previous stalemate.
+      Mira considers this from her emotional reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The split eliminates the conflict," Mira observes. "We no longer fight over which interpretation is correct, no longer struggle to reconcile incompatible truths."
+      "Each interpretation engine can operate according to its own principles without interference from the other."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This allows for deeper understanding," you add. "In the causal reality, I can focus entirely on logical progression without being distracted by emotional considerations."
+      "In the emotional reality, you can focus entirely on felt experience without being constrained by causal requirements."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The split also creates a more comprehensive view," Mira realizes. "Through communication and translation, we can share insights from both realities."
+      "We can combine causal analysis and emotional understanding to form a more complete picture than either reality alone could provide."
+choices:
+  - text: "Propose leveraging the parallel realities for deeper insight"
+    goto: ch26_parallel_leverage
+    set:
+      split_benefits: 1
+      leverage_chosen: 1

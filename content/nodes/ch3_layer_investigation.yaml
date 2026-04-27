@@ -1,0 +1,42 @@
+id: ch3_layer_investigation
+content:
+  - type: text
+    value: |
+      "How do you investigate an organization that exists between realities?" you ask, needing to understand how to track an entity that operates in layers normal investigation can't access.
+      Vance considers this. "You can't investigate them using normal methods. They don't exist in the layers where normal investigation operates."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "To investigate them, you have to enter the layers where they exist," she explains. "You have to develop the ability to perceive and navigate multiple realities.
+      Once you can access those layers, you can trace their operations, follow their connections, understand their structure."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But this is dangerous," Vance warns. "The organization operates in those layers for a reason—they're protected by the very multiplicity that makes them inaccessible.
+      If you enter their operational layer, you become visible to them. They will know you're investigating."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What are the risks?" you ask.
+      "They could try to eliminate you as a threat," Vance replies. "Or they could try to recruit you. Or they could simply observe you, incorporating you into their experiments.
+      The organization treats investigators as subjects—your investigation becomes part of their research."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a sobering warning. Any attempt to investigate the organization risks becoming part of their experiments. But not investigating leaves you ignorant of their plans and capabilities.
+      You have to choose between knowledge and safety, knowing that neither choice is completely safe.
+choices:
+  - text: "Train to access the organization's layer"
+    goto: ch3_layer_training
+    set:
+      organization_identified: 1
+      risk_acceptance: 1
+  - text: "Focus on immediate anomalies instead"
+    goto: ch3_clock_inconsistency
+    set:
+      organization_identified: 1
+      caution_chosen: 1

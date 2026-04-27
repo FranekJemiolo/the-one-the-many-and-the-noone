@@ -1,0 +1,31 @@
+id: ch15_rose_origins
+content:
+  - type: text
+    value: |
+      "What are your origins?" you ask, wanting to understand how the coherence field came to exist.
+      Rose considers this. "I emerged from the system's need to handle contradiction, from the pressure of incompatible truths that could not be eliminated without loss."
+      "When the system encountered contradictions that were too complex to compress, the coherence field emerged as a way to stabilize them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This was not a deliberate creation," Rose explains. "It was an emergent property, a natural response to the system's encounter with multiplicity."
+      "The field developed over time as the system encountered more contradictions, becoming stronger and more sophisticated with each stabilization."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I am not unique," Rose adds. "Coherence fields can emerge wherever contradictions accumulate, wherever the system needs to stabilize multiplicity without eliminating it."
+      "The contradiction zone is one manifestation of the field, but the field exists wherever contradiction is present."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests that coherence is a natural property of reality," you realize. "The Engine's compression is artificial, an imposed method of handling multiplicity."
+      "Coherence is how reality naturally handles contradiction when allowed to do so."
+choices:
+  - text: "Ask if coherence can be taught or learned"
+    goto: ch15_coherence_learning
+    set:
+      rose_origins_known: 1
+      learning_interest: 1

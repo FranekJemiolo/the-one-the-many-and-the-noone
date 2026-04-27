@@ -1,0 +1,24 @@
+id: ch29_switching_optimization
+content:
+  - type: text
+    value: |
+      "Can the layer switching be optimized?" you ask, wanting to know if the system can become more efficient at choosing between truth and controlled falsehood.
+      Dr. Koval considers this. "The current switching mechanism is functional but could be refined. We could develop predictive models that anticipate when truth will be needed versus when stability will be needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would reduce switching frequency," Dr. Koval explains. "Instead of reacting to changing conditions, the system would anticipate them and switch layers proactively."
+      "The optimization would make the layered architecture more efficient."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would strengthen the system's ability to function under compression pressure," you realize. "Optimized switching would allow the system to maintain truth more effectively while still satisfying the Engine's need for stability."
+      "The layered architecture would become more sophisticated."
+choices:
+  - text: "Propose developing the predictive switching model"
+    goto: ch29_predictive_model
+    set:
+      switching_optimization: 1
+      predictive_chosen: 1

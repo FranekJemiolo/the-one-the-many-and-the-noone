@@ -33,3 +33,7 @@ choices:
     goto: ch6_compression_pressure
   - text: "Understand the Engine's influence"
     goto: ch6_engine_influence
+  - text: "Ask about Koval's background"
+    goto: ch6_koval_background
+    set:
+      background_interest: 1

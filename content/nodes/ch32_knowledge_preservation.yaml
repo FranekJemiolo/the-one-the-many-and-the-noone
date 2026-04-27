@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch32_chapter_end
+  - text: "Ask about Archive's relationship with Echo and Barrier"
+    goto: ch32_archive_network
+    set:
+      archive_network_interest: 1

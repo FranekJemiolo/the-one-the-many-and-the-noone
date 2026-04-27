@@ -1,0 +1,32 @@
+id: ch6_bias_commitment
+content:
+  - type: text
+    value: |
+      "I commit to counteracting the bias in my investigations," you say, accepting the responsibility of resisting the Engine's influence.
+      Koval nods, impressed by your commitment. "This will not be easy. The bias operates through comfort, making singularity feel natural and complexity feel wrong.
+      You'll be fighting your own cognitive tendencies as much as the Engine's influence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do I recognize the bias?" you ask.
+      "Pay attention to comfort," she explains. "When an explanation feels too clean, too simple, too comfortable, question it.
+      When complexity feels unnecessary, confusing, inefficient, remind yourself that the feeling is engineered, not natural."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The bias will try to make you think you're being thorough by choosing the simplest explanation," she continues. "It will frame complexity as inefficiency, ambiguity as error.
+      You need to recognize these frames as the Engine's influence, not as legitimate cognitive evaluation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant commitment. You'll be actively working against a bias that operates through the very mechanisms of perception and interpretation.
+      But if you succeed, you'll be preserving the ability to perceive reality as it actually is—multiple, complex, contradictory.
+choices:
+  - text: "Continue the investigation with this commitment"
+    goto: ch6_engine_influence
+    set:
+      bias_commitment: 1
+      resistance_active: 1

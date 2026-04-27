@@ -1,0 +1,31 @@
+id: ch8_crystallization_communication
+content:
+  - type: text
+    value: |
+      "Can crystallizations communicate with each other?" you ask, wondering if there is an emotional society in the emotional layer of reality.
+      The Passenger nods. "We communicate through emotional resonance. When a grief crystallization encounters a joy crystallization, they resonate with each other, creating complex emotional harmonies or dissonances."
+      "This is not verbal communication, but emotional communication—the exchange of feeling, the sharing of emotional experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Can crystallizations communicate with humans?" you ask.
+      "With emotionally sensitive humans, yes," the Passenger replies. "People like Mira can perceive and interact with crystallizations, engaging in emotional communication that is not possible for those who lack sensitivity."
+      "The communication is not through words, but through feeling—emotional resonance, shared experience, mutual understanding."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Is this how the Resistance operates?" you ask, connecting this to the distributed consciousness you've been learning about.
+      "The Resistance operates through multiple methods," the Passenger responds. "Emotional communication is one of them. Crystallizations can share information about the Engine's bias, coordinate efforts to preserve multiplicity, support each other in maintaining divergence."
+      "The emotional layer is a network of resistance against compression."
+choices:
+  - text: "Ask how to join the emotional resistance network"
+    goto: ch8_emotional_resistance
+    set:
+      communication_known: 1
+      resistance_interest: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      communication_known: 1

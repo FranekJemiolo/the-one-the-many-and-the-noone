@@ -1,0 +1,30 @@
+id: ch47_alternative_endings
+content:
+  - type: text
+    value: |
+      "Could the system have chosen a different ending?" you ask, wanting to understand if the conclusion could have been different based on accumulated decisions.
+      The system responds by considering the alternative possibilities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system could have chosen any of the five canonical endings," the system explains. "The One, The Many, The No-One, The Overlap, or The Shifting World."
+      "Each ending would have been valid, representing a different philosophical position about the nature of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The choice of The Overlap reflects the accumulated state of the system's journey," the system continues. "The system has consistently chosen balance over extremes, coexistence over domination, flexibility over rigidity."
+      "The accumulated state created a preference for The Overlap configuration."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests the story has multiple valid endings," you realize. "Different patterns of decisions throughout the journey could lead to different final configurations."
+      "The conclusion is not predetermined, but emerges from the accumulated consequences of all choices."
+choices:
+  - text: "Ask about the philosophical implications of The Overlap choice"
+    goto: ch47_philosophical_implications
+    set:
+      alternative_endings: 1
+      philosophical_interest: 1

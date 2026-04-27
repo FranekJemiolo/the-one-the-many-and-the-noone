@@ -1,0 +1,30 @@
+id: ch13_network_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the ecological network, helping Morrow create coordination protocols between the four ecological zones.
+      The network allows the zones to share ecological knowledge, coordinate multiplicity preservation efforts, and support each other's development.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The network is operational," Morrow reports. "The four zones are now connected, sharing information and coordinating their ecological consciousness."
+      "The network provides a distributed capacity for ecological interpretation that no single zone could achieve alone."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This network should connect to the broader Resistance," you suggest. "The sanctuary network, the temporal training network, the emotional resistance network—all should coordinate with the ecological network."
+      "This would create a comprehensive infrastructure for multiplicity across all domains."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "I will establish connections to the other Resistance networks, creating coordination protocols for sharing resources and supporting multiplicity preservation."
+      "The ecological network will become part of the integrated Resistance infrastructure."
+choices:
+  - text: "Continue the visit with the ecological network established"
+    goto: ch13_morrow_appearance
+    set:
+      network_establishment: 1
+      resistance_integrated: 1

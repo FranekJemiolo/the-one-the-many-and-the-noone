@@ -1,0 +1,48 @@
+id: ch3_simultaneous_experience
+content:
+  - type: text
+    value: |
+      "Can I experience multiple timelines simultaneously?" you ask, wanting to push beyond the basic navigation Vance has taught you.
+      Vance hesitates. "It's possible, but it's advanced. Most people can't maintain their sense of self while experiencing multiple temporal sequences at once."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Try it if you want," she says, "but be prepared for disorientation. Your mind will try to reconcile the different sequences, and when it can't, you may experience cognitive fragmentation."
+      "I'll monitor you and intervene if necessary."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You focus on the chamber, feeling the different timelines overlapping. Instead of selecting one, you try to experience all of them simultaneously.
+      The sensation is overwhelming—multiple versions of the same moment playing out in your consciousness at the same time, each one complete and real.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      For a moment, you succeed. You can feel the different timelines without losing yourself, experiencing the multiplicity as a unified field rather than conflicting sequences.
+      You understand something profound: time is not a line but a landscape, and different timelines are different paths through the same landscape.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Then the experience becomes too much. Your consciousness begins to fragment, your sense of self dissolving into the multiplicity.
+      Just as you begin to lose yourself, Vance intervenes, anchoring you to a single timeline.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You held it longer than I expected," she says, impressed. "Most people can't maintain simultaneous experience for more than a few seconds.
+      You have natural aptitude for temporal perception. With training, you could become capable of advanced navigation."
+choices:
+  - text: "Commit to advanced temporal training"
+    goto: ch3_training_continues
+    set:
+      timeline_experience: 1
+      advanced_aptitude: 1
+      vance_mentor: 1
+  - text: "Return to normal perception for now"
+    goto: ch3_clock_inconsistency
+    set:
+      timeline_experience: 1
+      caution_chosen: 1

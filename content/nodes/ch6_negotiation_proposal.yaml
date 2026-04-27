@@ -1,0 +1,35 @@
+id: ch6_negotiation_proposal
+content:
+  - type: text
+    value: |
+      "I propose negotiating with the organization," you say. "We offer our expertise in anomaly investigation in exchange for influence over the consciousness's development."
+      Koval is skeptical. "The organization is secretive. They don't share control easily. Approaching them might reveal our intentions before we're ready to defend them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But they need the consciousness to be effective," you argue. "If the consciousness cannot process anomalies accurately, it will fail at its primary function.
+      We have expertise they need. That gives us leverage."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "If we approach them, we need to be careful about how we frame our offer. We shouldn't present it as resistance to their agenda.
+      We should present it as collaboration—offering to help ensure the consciousness succeeds by incorporating our understanding of anomaly investigation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a delicate negotiation," she warns. "We need to understand what the organization wants from the consciousness, what they're willing to trade for, and how to frame our offer in terms that align with their goals."
+      "If we misread their intentions, the negotiation could fail, and they might take measures to neutralize us as a threat."
+choices:
+  - text: "Research the organization's goals before approaching"
+    goto: ch6_goals_research
+    set:
+      negotiation_proposed: 1
+      research_priority: 1
+  - text: "Approach the organization directly with the offer"
+    goto: ch6_direct_approach
+    set:
+      negotiation_proposed: 1
+      direct_chosen: 1

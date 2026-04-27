@@ -1,0 +1,48 @@
+id: ch1_object_touched
+content:
+  - type: text
+    value: |
+      Your fingers brush the surface of the object, and reality shifts around you. The mirrors shatter—not physically, but in the way they reflect, suddenly showing you nothing but darkness.
+      The object beneath your hand becomes solid, crystalline, pulsing with light that seems to come from within rather than reflecting external illumination.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      A voice speaks in your mind, clearer now: "The first crack opens. The witness who touches becomes the witness who shapes. Remember this moment when the choice comes again."
+      You feel something flow into you—not physical, but informational, as if knowledge is being transferred directly into your consciousness.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The knowledge is overwhelming: glimpses of other timelines, other versions of this investigation, other choices you might make. You see yourself walking different paths, making different decisions, reaching different conclusions.
+      For a moment, you experience all of them simultaneously, your consciousness expanded beyond its normal limits.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Then the moment passes, and you're standing in the circular room, the object still beneath your hand but no longer pulsing. The mirrors remain dark, reflecting nothing.
+      The door behind you opens, and you know without looking that it leads back to the basement corridor.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You step through the door, and the circular room vanishes behind you. The basement looks ordinary again, the door replaced by blank wall.
+      But you know the room is still there, accessible to those who know how to find it, waiting for the next time the crack widens.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Something has changed in you. You can feel it—a heightened sensitivity to the anomalies, an ability to perceive the layers of reality that were invisible before.
+      The object gave you something, and you don't yet understand what it is or what it will cost you.
+choices:
+  - text: "Return to the office, changed by the experience"
+    goto: ch1_chapter_end
+    set:
+      object_touched: 1
+      perception_enhanced: 1
+      risk_taking: 3
+  - text: "Seek out others who might understand what happened"
+    goto: ch1_seek_understanding
+    set:
+      object_touched: 1
+      seeking_knowledge: 1

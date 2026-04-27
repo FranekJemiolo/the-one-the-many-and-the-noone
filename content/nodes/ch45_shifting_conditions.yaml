@@ -1,0 +1,25 @@
+id: ch45_shifting_conditions
+content:
+  - type: text
+    value: |
+      "Are there conditions where The Shifting World would be preferable?" you ask, wanting to understand when perpetual motion might be the optimal choice.
+      The system considers this. "The Shifting World might be preferable in situations requiring maximum adaptability, where any fixed state would be limiting or dangerous."
+      "In contexts of extreme uncertainty or rapid change, perpetual motion could be valuable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But as a permanent configuration," the system continues, "The Shifting World eliminates the capacity for rest. Without any stable state, the system cannot find moments of peace or stability."
+      "The long-term cost of eliminating stability might outweigh the short-term benefits of adaptability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests The Shifting World might be appropriate as a periodic mode rather than a permanent configuration," you realize. "The system could oscillate between states periodically while maintaining some stability as a foundation."
+      "This is similar to a controlled oscillation rather than perpetual motion."
+choices:
+  - text: "Propose considering The Shifting World as a periodic mode"
+    goto: ch45_shifting_periodic
+    set:
+      shifting_conditions: 1
+      periodic_chosen: 1

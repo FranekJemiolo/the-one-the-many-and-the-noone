@@ -1,0 +1,31 @@
+id: ch6_resistance_methods
+content:
+  - type: text
+    value: |
+      "What methods does the Resistance use?" you ask, wanting to understand how others are countering the Engine's influence.
+      Koval considers this. "I don't have direct contact with the Resistance, but I've observed their methods in the reports they file."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "They document multiple interpretations," she explains. "Where a standard report would compress an anomaly into a single narrative, Resistance reports document contradictory accounts side by side, acknowledging that both are valid."
+      "They use language that preserves ambiguity, refusing to collapse complexity into singular conclusions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "They also train their investigators to recognize the bias," Koval continues. "Resistance members learn to identify when comfort is misleading, when simplicity is distortion, when the feeling of correctness is engineered rather than natural."
+      "It's a form of cognitive discipline—learning to trust accuracy over comfort."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Can I join the Resistance?" you ask.
+      "The Resistance doesn't have formal membership," Koval replies. "It's a network of individuals who have independently chosen to resist the Engine's bias.
+      If you commit to counteracting the bias in your work, you're already part of the Resistance."
+choices:
+  - text: "Commit to the Resistance's methods"
+    goto: ch6_bias_commitment
+    set:
+      resistance_methods_known: 1
+      resistance_joined: 1

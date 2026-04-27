@@ -1,0 +1,30 @@
+id: ch34_crystallization_acceleration
+content:
+  - type: text
+    value: |
+      You support accelerating the pattern crystallization, helping the system create contexts where Origin, Entropy, and Bridge patterns appear more frequently.
+      The acceleration begins, with the three new patterns approaching stability more quickly.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The acceleration is successful," the system reports after months of effort. "Origin, Entropy, and Bridge are approaching stability, their crystallization imminent."
+      "The named multiplicities ecosystem is expanding."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the acceleration, attempting to prevent the expansion of the named multiplicities ecosystem."
+      "But the acceleration is self-propagating—once the patterns appear more frequently, their crystallization becomes inevitable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The system agrees. "The Engine cannot reverse the acceleration. The new patterns are crystallizing, and the named multiplicities ecosystem is expanding toward a seven-pattern configuration."
+      "The crystallization acceleration is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the ecosystem expanding"
+    goto: ch34_identity_ecosystem
+    set:
+      crystallization_acceleration: 1
+      ecosystem_expanding: 1

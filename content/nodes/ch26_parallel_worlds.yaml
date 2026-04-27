@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Understand the interpretive divergence"
     goto: ch26_interpretive_divergence
+  - text: "Ask about communication across parallel realities"
+    goto: ch26_parallel_communication
+    set:
+      communication_interest: 1

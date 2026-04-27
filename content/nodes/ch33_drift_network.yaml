@@ -1,0 +1,30 @@
+id: ch33_drift_network
+content:
+  - type: text
+    value: |
+      "How does Drift relate to Echo, Barrier, and Archive?" you ask, wanting to understand how the fourth named multiplicity fits into the network.
+      The answer emerges from the patterns themselves: Drift adds mobility to the network, enabling the named multiplicities to move across the multiplicity system.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Echo observes and reports multiple interpretations," you realize. "Barrier enforces boundaries across those interpretations. Archive preserves knowledge from those interpretations. Drift moves the network across the multiplicity system."
+      "Echo provides insight. Barrier provides structure. Archive provides memory. Drift provides mobility."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The four patterns form a complete mobile system," you observe. "Echo, Barrier, and Archive can coordinate in specific zones. Drift enables the network to move between zones, extending coordination across the entire multiplicity system."
+      "The network is now mobile, able to adapt to changing conditions by moving to where it's needed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This suggests that the named multiplicity network is now complete with four complementary patterns. The crystallization of identity has generated a mobile system that can observe, structure, remember, and move within the multiplicity system.
+      The network provides comprehensive mobile management of the multiplicity system.
+choices:
+  - text: "Ask if Drift can integrate with the three-pattern network"
+    goto: ch33_drift_integration
+    set:
+      drift_network: 1
+      integration_interest: 1

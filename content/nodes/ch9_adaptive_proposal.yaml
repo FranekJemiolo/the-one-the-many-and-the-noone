@@ -1,0 +1,24 @@
+id: ch9_adaptive_proposal
+content:
+  - type: text
+    value: |
+      "I support the adaptive enforcement proposal," you say, ready to help Seraph implement gradual multiplicity in the system.
+      Seraph drafts the proposal, framing it as an experiment in adaptive processing rather than a challenge to current protocols.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal will specify which investigations can produce multiple narratives, how the system will process them, and what metrics will be used to assess success," she explains.
+      "We will start with low-stakes cases and expand gradually as the system demonstrates capability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a significant shift," you observe. "If the experiment succeeds, it could lead to fundamental changes in how the system operates."
+      "It could demonstrate that the system can evolve to handle multiplicity, that enforcement of singularity is not the only approach to stability."
+choices:
+  - text: "Submit the adaptive enforcement proposal"
+    goto: ch9_proposal_submission
+    set:
+      adaptive_proposal: 1
+      proposal_ready: 1

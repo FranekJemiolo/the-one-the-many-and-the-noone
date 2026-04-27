@@ -1,0 +1,25 @@
+id: ch6_gradual_commitment
+content:
+  - type: text
+    value: |
+      "I commit to the gradual complexity approach," you say, accepting the long-term project of counteracting the Engine's influence.
+      Koval nods, understanding the commitment required. "This will take years. We'll need to monitor the system's response, adjust the pace, document our progress.
+      The Engine will try to adapt to our approach, finding new ways to enforce singularity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We'll need to recruit other investigators to the effort," she continues. "One person cannot change the system alone.
+      We need a network of individuals committed to preserving multiplicity, each working within their sphere of influence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This connects to the Resistance. The gradual complexity approach is essentially what the Resistance has been doing—documenting multiple interpretations, refusing compression, preserving ambiguity.
+      Koval is offering to formalize and expand this effort, using her position as system administrator to institutionalize the Resistance's methods.
+choices:
+  - text: "Accept the collaboration and begin the project"
+    goto: ch6_engine_influence
+    set:
+      gradual_commitment: 1
+      resistance_institutionalized: 1

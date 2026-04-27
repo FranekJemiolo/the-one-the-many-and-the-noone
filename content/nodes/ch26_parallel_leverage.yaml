@@ -1,0 +1,30 @@
+id: ch26_parallel_leverage
+content:
+  - type: text
+    value: |
+      "Propose leveraging the parallel realities for deeper insight," you suggest. "Instead of trying to reconcile our interpretations, we can use the split to gain complementary perspectives."
+      "Each reality provides insights that the other cannot access, and through communication we can combine those insights."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira agrees. "In my emotional reality, I can perceive the felt significance of events, understand what experiences mean on an emotional level."
+      "In your causal reality, you can perceive the logical progression of events, understand what actually happened in sequence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "By combining these perspectives through communication," you continue, "we can achieve a more complete understanding than either interpretation engine could provide alone."
+      "The parallel split becomes an advantage rather than a limitation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a new form of insight," Mira realizes. "Not by reconciling the interpretations, but by allowing them to operate independently and then combining their insights through communication."
+      "The split enables a deeper understanding than shared interpretation could provide."
+choices:
+  - text: "Develop a protocol for parallel insight collaboration"
+    goto: ch26_parallel_protocol
+    set:
+      parallel_leverage: 1
+      protocol_chosen: 1

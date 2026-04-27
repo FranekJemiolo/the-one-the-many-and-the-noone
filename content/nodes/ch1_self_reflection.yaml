@@ -1,0 +1,47 @@
+id: ch1_self_reflection
+content:
+  - type: text
+    value: |
+      You return to your office and sit with the question: why can you see the door when the security guard cannot? What makes you different?
+      The answer comes gradually, as you review your experiences over the past years.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You've always had a sensitivity to patterns that others miss—connections between events that seem unrelated, coincidences that feel meaningful, intuitions that prove correct.
+      You dismissed this as good investigative instincts, but now you wonder if it's something more fundamental—a different way of perceiving reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You remember childhood experiences: moments when the world seemed to flicker, when you saw things that weren't there, when time seemed to stretch or compress.
+      Your parents called it imagination, your teachers called it distraction, but maybe it was perception—your mind accessing layers of reality that normal perception filters out.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The spatial anomaly in the corridor, the selective visibility of the door—these aren't new abilities. They're the awakening of abilities you've always had but suppressed to fit into normal reality.
+      The building is simply amplifying what was already there, making visible what you've always been able to perceive.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This realization brings both comfort and fear. Comfort because it explains your sensitivity, fear because it suggests that your entire life has been a gradual approach to this moment.
+      You didn't stumble into the anomalies by chance—you were drawn to them by something in your nature.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You have a choice: embrace this sensitivity and develop it further, or suppress it and try to return to normal perception.
+      But you suspect the choice has already been made. The door is visible to you because you're ready to see it, and there's no going back to not seeing.
+choices:
+  - text: "Embrace your sensitivity and develop it"
+    goto: ch1_chapter_end
+    set:
+      self_acceptance: 1
+      perception_developing: 2
+  - text: "Try to suppress your sensitivity"
+    goto: ch1_chapter_end
+    set:
+      self_denial: 1
+      perception_suppressed: 1

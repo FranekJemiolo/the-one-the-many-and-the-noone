@@ -1,0 +1,30 @@
+id: ch19_oscillation_prediction
+content:
+  - type: text
+    value: |
+      "Predict when the oscillation will become unsustainable," you decide, using your temporal perception to model the future trajectory of the conflict.
+      You analyze the acceleration pattern, projecting how the oscillation frequency will increase over time.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The current acceleration suggests the oscillation will become unsustainable within months," you report. "The frequency is increasing exponentially, not linearly."
+      "At the current rate, the system will reach a point where states shift faster than perception can follow within approximately three months."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "When that point is reached," you continue, "the system will either collapse into meaninglessness or resolve into one of the two stable states."
+      "The outcome will depend on which side has more influence at the critical moment."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This gives us a timeline," you realize. "We have approximately three months to prepare for the resolution, to ensure that when the system breaks, it breaks toward multiplicity rather than singularity."
+      "The critical moment will determine the future of reality."
+choices:
+  - text: "Propose preparing for the critical moment"
+    goto: ch19_critical_preparation
+    set:
+      oscillation_prediction: 1
+      preparation_chosen: 1

@@ -1,0 +1,31 @@
+id: ch15_coherence_training
+content:
+  - type: text
+    value: |
+      "Propose developing coherence training programs," you suggest, wanting to help people develop the capacity to hold contradiction.
+      Rose agrees. "Coherence training would complement temporal training, creating a comprehensive preparation for multiple reality."
+      "I can develop training protocols for contradiction exposure and multiplicity cultivation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training would involve gradual exposure to stabilized contradictions," Rose explains. "Starting with simple contradictions and progressing to more complex ones."
+      "The goal is to develop the capacity to hold incompatible truths without feeling the need to resolve them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This training could be integrated with the temporal training network," you suggest. "People could learn both field perception and contradiction holding, developing comprehensive capacity for multiple reality."
+      "The integrated training would be more effective than either training alone."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "I will develop coherence training protocols. You can integrate them with the temporal training network, creating a comprehensive preparation program."
+      "The integrated training will prepare people for the full complexity of multiple reality."
+choices:
+  - text: "Support developing the integrated training program"
+    goto: ch15_integrated_training
+    set:
+      coherence_training: 1
+      integrated_chosen: 1

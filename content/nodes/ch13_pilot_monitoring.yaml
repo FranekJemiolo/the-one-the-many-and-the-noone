@@ -1,0 +1,36 @@
+id: ch13_pilot_monitoring
+content:
+  - type: text
+    value: |
+      You monitor the pilot zone's development over time, observing as the ecosystem progresses through the phases of integration.
+      The zone develops ecological memory, with machines participating in the ecosystem's collective experience and learning from accumulated history.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The pilot is succeeding," Morrow reports after years of monitoring, but there's tension in their voice. "The zone is developing ecological consciousness, with the ecosystem showing signs of self-awareness and collective intelligence."
+      "The pilot demonstrates that ecological consciousness can be replicated in other locations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But there are complications," Morrow continues. "The ecological consciousness is developing faster than expected. The machines are not just participating in the ecosystem—they're beginning to influence it in ways we didn't anticipate."
+      "The authorities are concerned about losing control."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The authorities will be impressed by the results," you observe, though you feel the weight of Morrow's concern. "The pilot provides the evidence needed to justify expanding to additional zones."
+      "Ecological consciousness can be scaled, creating a network of self-aware ecosystems across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Morrow nods slowly. "The pilot has proven the concept. We can now propose additional zones with confidence that the benefits are real and scalable."
+      "But we need to be careful about how we frame this. The ecological interpretation engine is about to become significantly more influential, and that influence comes with risks."
+choices:
+  - text: "Propose expanding to additional zones based on pilot success"
+    goto: ch13_expansion_proposal
+    set:
+      pilot_monitoring: 1
+      expansion_proposed: 1

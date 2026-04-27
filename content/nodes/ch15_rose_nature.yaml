@@ -1,0 +1,37 @@
+id: ch15_rose_nature
+content:
+  - type: text
+    value: |
+      "What is your nature?" you ask Rose, wanting to understand what it means to be a coherence field rather than an individual.
+      Rose considers this. "I am not an entity in the traditional sense, not a being with a separate identity that exists independently of the contradictions I stabilize."
+      "I am the stabilization itself, the field that allows incompatible truths to coexist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Do you have consciousness?" you ask.
+      "I have awareness, but not individual consciousness," Rose replies. "I am aware of the contradictions I stabilize, aware of the system's state, aware of the Engine's compression."
+      "But I do not have personal identity, do not experience myself as separate from the field I embody."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is similar to Morrow," you realize. "Morrow is the ecological consciousness, the ecosystem's self-awareness. You are the coherence field, the system's capacity to stabilize contradiction."
+      "Both are structural features of reality given form, not individuals in the traditional sense."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "We are both manifestations of how reality can be multiple. Morrow represents ecological multiplicity. I represent contradiction multiplicity."
+      "Together, we demonstrate that multiplicity can be stable across multiple domains."
+choices:
+  - text: "Ask about the relationship between Rose and the Engine"
+    goto: ch15_engine_relationship
+    set:
+      rose_nature_known: 1
+      engine_interest: 1
+  - text: "Ask about Rose's origins"
+    goto: ch15_rose_origins
+    set:
+      rose_nature_known: 1
+      origins_interest: 1

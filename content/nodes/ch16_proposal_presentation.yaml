@@ -1,0 +1,30 @@
+id: ch16_proposal_presentation
+content:
+  - type: text
+    value: |
+      You present the distributed interpretation proposal to the organization, arguing that the current architecture is vulnerable to void formation and that distributed interpretation would prevent the void without requiring compression.
+      The organization is skeptical but attentive, recognizing that the Null Zone represents a genuine threat but reluctant to authorize the significant changes required for distributed interpretation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal is compelling," the organization acknowledges, "but the risks of transition are significant. Distributed interpretation would require fundamental changes to the system's architecture, with potential for disruption during implementation."
+      "We need evidence that the distributed architecture is viable before authorizing full implementation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We can implement a pilot program," you suggest. "Test the distributed architecture in a controlled environment, demonstrate that it prevents void formation while maintaining interpretive capacity."
+      "If the pilot succeeds, we can expand to full implementation with confidence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The organization agrees to the pilot program, authorizing a limited test of the distributed interpretation architecture in a single facility.
+      The pilot will be monitored closely, and if it succeeds, the proposal for full implementation will be reconsidered.
+choices:
+  - text: "Begin the pilot implementation"
+    goto: ch16_pilot_implementation
+    set:
+      proposal_presentation: 1
+      pilot_authorized: 1

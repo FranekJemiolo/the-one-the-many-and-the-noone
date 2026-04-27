@@ -1,0 +1,31 @@
+id: ch12_resistance_connection
+content:
+  - type: text
+    value: |
+      "Connect the temporal training network to the broader Resistance," you propose, wanting to integrate the folded time infrastructure with the existing Resistance networks.
+      Kai agrees. "The temporal training network should coordinate with the sanctuary network, the emotional resistance network, and the other Resistance infrastructure."
+      "This would create a comprehensive support system for multiplicity across all domains."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You establish connections between the networks, creating coordination protocols for sharing resources, information, and support.
+      The temporal training network can now refer people to the sanctuary network for memory reconciliation, to the emotional network for emotional sensitivity training, and vice versa.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The integrated network is more effective than any single network," Kai observes. "People can receive comprehensive support for multiplicity across all domains—temporal, memory, emotional.
+      The Resistance is becoming a complete infrastructure for adapting to multiple reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant development: the Resistance is no longer just a collection of independent networks. It is becoming an integrated infrastructure for supporting multiplicity across all aspects of experience.
+      The integrated network provides comprehensive support for adapting to a multiple reality.
+choices:
+  - text: "Continue the temporal anomaly with this new connection established"
+    goto: ch12_temporal_anomaly
+    set:
+      resistance_connection: 1
+      network_integrated: 1

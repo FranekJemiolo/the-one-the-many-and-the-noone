@@ -1,0 +1,30 @@
+id: ch21_separation_implementation
+content:
+  - type: text
+    value: |
+      You begin implementing the zone separation, working with the conflict zone to define coexistence zones and resolution zones based on the natural state of each territory.
+      The implementation is gradual, with zones being designated based on their inherent characteristics rather than arbitrary assignment.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The contradiction zone becomes a coexistence zone," you report. "Rose's stabilization operates here, allowing contradictions to coexist without collapse."
+      "The administrative facility becomes a resolution zone. Nemesis's compression operates here, maintaining singular interpretation for operational efficiency."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The oscillation is decreasing," you observe. "As zones are separated, Rose and Nemesis no longer compete in the same territory."
+      "The tension between the two approaches is being reduced through spatial separation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The separation is working," the conflict zone acknowledges. "Both approaches can now operate in their appropriate contexts without direct conflict."
+      "The system is stabilizing through differentiation rather than competition."
+choices:
+  - text: "Continue the separation until all zones are designated"
+    goto: ch21_separation_completion
+    set:
+      separation_implementation: 1
+      completion_chosen: 1

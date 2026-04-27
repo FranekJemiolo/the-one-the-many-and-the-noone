@@ -1,0 +1,32 @@
+id: ch15_engine_relationship
+content:
+  - type: text
+    value: |
+      "What is your relationship with the Engine?" you ask, wanting to understand how the coherence field relates to the force that opposes it.
+      Rose considers this. "The Engine and I are not enemies in the traditional sense, not opposing forces locked in conflict."
+      "We are different approaches to the same problem: how to achieve stability in a multiple reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine believes stability requires singularity," Rose explains. "It believes that multiplicity inevitably leads to chaos, that the only way to prevent collapse is to eliminate contradiction."
+      "I demonstrate that this belief is false, that multiplicity can be stable through stabilization rather than elimination."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine does not recognize my approach as valid," Rose continues. "It operates as if singularity is the only way to achieve stability, as if plural stability is impossible."
+      "This is not malice—it is a false premise, an incorrect assumption about how reality works."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Can the Engine be convinced that plural stability is possible?" you ask.
+      "The Engine cannot be convinced through argument," Rose replies. "It can only be convinced through demonstration, through evidence that contradicts its premise."
+      "The contradiction zone is that evidence. By existing, it proves the Engine wrong."
+choices:
+  - text: "Ask if the contradiction zone can be expanded"
+    goto: ch15_zone_expansion
+    set:
+      engine_relationship_known: 1
+      expansion_interest: 1

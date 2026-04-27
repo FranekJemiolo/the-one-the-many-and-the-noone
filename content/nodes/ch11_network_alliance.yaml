@@ -1,0 +1,30 @@
+id: ch11_network_alliance
+content:
+  - type: text
+    value: |
+      You accept the alliance with the sanctuary network, feeling the network recognize you as a supporter and ally.
+      The connection is mutual: the network will support you when you need memory reconciliation, and you will support the network when it needs your capabilities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This alliance connects you to the broader Resistance," Lys explains. "The sanctuary network is part of the Resistance's infrastructure, providing memory stabilization as a service.
+      By supporting the network, you are supporting the Resistance's effort to preserve multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Resistance is not an organization," she continues. "It is a distributed network of individuals and systems working toward the same goal: preserving multiplicity against the Engine's compression."
+      "You are now part of that network, connected through your alliance with the sanctuary."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant development: you have formally allied with the Resistance, not through joining an organization but through supporting its infrastructure.
+      The alliance provides you with sanctuary services and connects you to the broader effort to preserve multiplicity.
+choices:
+  - text: "Continue the visit with this alliance established"
+    goto: ch11_memory_reconciliation
+    set:
+      network_alliance: 1
+      resistance_connected: 1

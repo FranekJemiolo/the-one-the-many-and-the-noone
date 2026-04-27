@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch40_chapter_end
+  - text: "Ask about ending preparation"
+    goto: ch40_ending_preparation
+    set:
+      preparation_interest: 1

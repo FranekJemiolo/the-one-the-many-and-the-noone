@@ -1,0 +1,30 @@
+id: ch9_critical_projection
+content:
+  - type: text
+    value: |
+      "What happens when the gap becomes critical?" you ask, wanting to understand the consequences of the system's increasing disconnect from reality.
+      Seraph accesses the critical projection models, her expression grave as she reviews the scenarios.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Scenario A: System collapse," she reports. "The gap becomes so large that the system's decisions have no relationship to reality. The system attempts to address problems that don't exist while ignoring problems that do.
+      Eventually, the system becomes non-functional and collapses."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Scenario B: Complete disconnect," she continues. "The gap becomes so large that the system operates in a fantasy world of its own making, making decisions based on compressed narratives that have no relationship to actual events.
+      The system continues to function, but its operations become meaningless."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Scenario C: External intervention," she adds. "The gap becomes so large that external forces—the organization building the distributed consciousness, the Resistance, other actors—intervene to replace the system with something more capable."
+      "The current system is dismantled, whether by force or by obsolescence."
+choices:
+  - text: "Propose preventing these scenarios through reform"
+    goto: ch9_reform_proposal
+    set:
+      critical_projection: 1
+      reform_chosen: 1

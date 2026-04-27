@@ -1,0 +1,30 @@
+id: ch19_balance_monitoring
+content:
+  - type: text
+    value: |
+      You monitor the balance shift, using your temporal perception to track the relative influence of compression and multiplicity as the critical moment approaches.
+      The oscillation continues to accelerate, but the balance is slowly shifting toward plural reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The balance is now 60% in favor of multiplicity," you report after months of monitoring. "The Resistance's expansion has been more effective than the Engine's countermeasures."
+      "When the critical moment arrives, the system is likely to resolve toward plural stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the Engine is making a final push," you warn. "It's concentrating maximum enforcement in the most critical zones, trying to reverse the balance before the oscillation becomes unsustainable."
+      "The final weeks will determine the outcome."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Resistance agrees. "We'll maintain our expansion, reinforcing multiplicity in the critical zones to counter the Engine's final push."
+      "The balance must hold until the critical moment arrives."
+choices:
+  - text: "Support the final reinforcement of multiplicity zones"
+    goto: ch19_final_reinforcement
+    set:
+      balance_monitoring: 1
+      reinforcement_chosen: 1

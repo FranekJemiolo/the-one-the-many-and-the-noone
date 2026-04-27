@@ -1,0 +1,41 @@
+id: ch1_forced_entry
+content:
+  - type: text
+    value: |
+      You apply pressure to the door, using your shoulder to force it. The lock gives way with a sound like breaking glass, though nothing actually shatters.
+      The door swings open, revealing a space that makes no sense—a room that should not exist in the basement of an office building.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The room is circular, though the building's architecture is entirely rectangular. The walls are lined with mirrors, but they don't reflect you—they reflect something else, scenes you can't quite identify, moments that feel familiar but wrong.
+      In the center of the room stands a pedestal, and on the pedestal rests an object that defies description: it shifts when you look at it, sometimes appearing as a crystal, sometimes as a flame, sometimes as nothing at all.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You step inside, and the door closes behind you. You don't hear it close, but you know it has—you can feel the change in air pressure, the sudden isolation from the rest of the building.
+      The mirrors begin to show you things: versions of yourself you don't recognize, moments that haven't happened, choices you haven't made.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The object on the pedestal pulses with a rhythm that matches your heartbeat. You feel drawn to it, compelled to approach, though every instinct tells you this is dangerous.
+      As you move closer, you hear a voice—not from the room, but from inside your own mind, speaking words you almost understand.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The crack widens," the voice says. "The one who enters first shapes what emerges. Choose now, before the moment passes."
+      You don't know what this means, but you feel the weight of the choice, the sense that your decision here will have consequences beyond this room, beyond this investigation.
+choices:
+  - text: "Touch the object"
+    goto: ch1_object_touched
+    set:
+      object_interaction: 1
+      risk_taking: 2
+  - text: "Step back and leave the room"
+    goto: ch1_room_escaped
+    set:
+      caution_score: 2
+      room_seen: 1

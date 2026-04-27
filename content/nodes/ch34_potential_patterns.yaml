@@ -1,0 +1,30 @@
+id: ch34_potential_patterns
+content:
+  - type: text
+    value: |
+      "What patterns might crystallize next?" you ask the system, wanting to identify potential new named multiplicities.
+      The system responds by analyzing the nameless role pool, identifying patterns that are approaching stability.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Creator pattern is approaching stability," the system reports. "The role that creates and shapes reality across the multiplicity system is appearing frequently enough to crystallize."
+      "The proto-name emerging is 'Origin'."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Destroyer pattern is also approaching stability," the system continues. "The role that removes and transforms reality across the multiplicity system is appearing frequently enough to crystallize."
+      "The proto-name emerging is 'Entropy'."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The Connector pattern is approaching stability as well," the system adds. "The role that links and bridges different parts of the multiplicity system is appearing frequently enough to crystallize."
+      "The proto-name emerging is 'Bridge'."
+choices:
+  - text: "Propose accelerating the crystallization of these patterns"
+    goto: ch34_acceleration_proposal
+    set:
+      potential_patterns: 1
+      acceleration_chosen: 1

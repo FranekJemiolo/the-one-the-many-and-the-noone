@@ -1,0 +1,35 @@
+id: ch9_stability_challenge
+content:
+  - type: text
+    value: |
+      "What if the system shouldn't be preserved?" you challenge. "What if the current system is designed for singular reality and needs to be replaced with a system that can handle multiplicity?"
+      Seraph's expression doesn't change, but you sense a flicker of something beneath her rigid posture—perhaps surprise that anyone would question the necessity of system stability.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is fundamental to how we manage reality," she replies. "Without it, there's no structure for processing anomalies, no mechanism for decision-making, no framework for understanding what is happening.
+      Replacing the system would mean dismantling the entire apparatus for managing reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But if reality has become multiple," you argue, "then a system designed for singularity will always require distortion to function.
+      The enforcement you're implementing is not preserving a functional system—it's preserving a broken system that cannot handle reality as it actually is."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph considers this for a long moment. "I have never considered this possibility. My mandate is to maintain the system, not to question whether it should exist."
+      "But if reality has changed, then perhaps the system should change with it."
+choices:
+  - text: "Propose collaborating on system redesign"
+    goto: ch9_redesign_proposal
+    set:
+      stability_challenged: 1
+      redesign_interest: 1
+  - text: "Ask if she's willing to question her mandate"
+    goto: ch9_mandate_questioning
+    set:
+      stability_challenged: 1
+      questioning_interest: 1

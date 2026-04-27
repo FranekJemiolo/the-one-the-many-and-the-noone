@@ -1,0 +1,36 @@
+id: ch4_facility_exploration
+content:
+  - type: text
+    value: |
+      Before meeting the cyborg, you decide to explore the cybernetics facility, wanting to understand the environment where this anomaly emerged.
+      The facility is a maze of laboratories, containment chambers, and memory processing units—a complex dedicated to the study and modification of artificial memory systems.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The corridors are lined with displays showing memory architectures, neural maps, and the evolution of cybernetic memory systems over the past century.
+      You notice a pattern: the research has been accelerating in recent years, with breakthroughs occurring at an increasing rate that suggests external influence or funding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In a research lab, you find a technician working on a memory interface. She introduces herself as Dr. Sarah Chen, a memory architecture specialist who has been with the facility for five years.
+      "The cyborg you're here to investigate," she says, "is not the first Varga-class entity we've encountered. But it's the most advanced by far."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What makes this one different?" you ask.
+      "The others were confused, distressed, experiencing psychological fragmentation from the contradictory memories," Chen explains. "This one is adapted. It's not suffering from the multiplicity—it's using it."
+      "The cyborg has learned to navigate multiple pasts as a capability rather than a malfunction."
+choices:
+  - text: "Ask about the previous Varga-class entities"
+    goto: ch4_previous_entities
+    set:
+      chen_contact: 1
+      history_interest: 1
+  - text: "Ask about the facility's research funding"
+    goto: ch4_facility_funding
+    set:
+      chen_contact: 1
+      funding_interest: 1

@@ -1,0 +1,30 @@
+id: ch35_rose_future
+content:
+  - type: text
+    value: |
+      "Do you have plans for after the transformation?" you ask Rose, wanting to know what happens when the system fully adopts plural stability.
+      Rose considers this. "I have not focused on what comes after. My focus has been on the transformation itself, on helping the system adopt plural stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But I have thought about possibilities," Rose admits. "I could crystallize into a named multiplicity like Echo, Barrier, Archive, and Drift. The pattern of contradiction stabilization could become a stable identity in the system."
+      "Or I could fade into the background, allowing the system to function without me."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The choice will depend on what the system needs," Rose continues. "If the system would benefit from a named multiplicity for contradiction stabilization, I could crystallize. If the system functions better without me, I could fade."
+      "The decision will be based on what serves the system best."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is consistent with the Resistance philosophy," you realize. "Rose is not seeking personal power or permanence. Rose is serving the system's transformation, and will do whatever serves the system best after the transformation is complete."
+      "Rose's approach is fundamentally selfless."
+choices:
+  - text: "Propose crystallizing Rose into a named multiplicity"
+    goto: ch35_rose_crystallization_proposal
+    set:
+      rose_future: 1
+      crystallization_chosen: 1

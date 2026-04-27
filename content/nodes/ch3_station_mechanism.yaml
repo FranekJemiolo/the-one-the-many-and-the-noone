@@ -1,0 +1,43 @@
+id: ch3_station_mechanism
+content:
+  - type: text
+    value: |
+      "How does the station accommodate multiple timelines?" you ask, needing to understand the technical mechanism that allows this to work.
+      Vance brings up a schematic of the station's systems, highlighting components you've never seen in standard station designs.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The station has a temporal synchronization field," she explains. "It's not a standard system—it's a field that allows different observers to experience different temporal sequences while remaining in the same physical space."
+      "Think of it like a prism that splits light into different colors. The station splits time into different sequences, each observer experiencing a different 'color' of temporal flow."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The field was designed by Chronos Dynamics," Vance continues. "They were researching temporal manipulation, trying to find ways to access different timelines.
+      The station was their proof of concept—a demonstration that multiple temporal realities could coexist in the same location."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But something went wrong," you suggest.
+      "Not wrong," Vance corrects. "Unexpected. The field works too well. Instead of allowing controlled access to specific timelines, it's allowing uncontrolled access to all timelines.
+      The station is experiencing every possible temporal sequence simultaneously, and the field can't filter them effectively."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Can the field be fixed?" you ask.
+      "It's not broken," Vance replies. "It's operating as designed, but the design didn't account for the full complexity of temporal multiplicity.
+      The field is doing exactly what it was built to do—just more of it than anyone anticipated."
+choices:
+  - text: "Ask if the field can be shut down"
+    goto: ch3_field_shutdown
+    set:
+      field_mechanism_known: 1
+      shutdown_interest: 1
+  - text: "Ask if you can experience multiple timelines"
+    goto: ch3_timeline_experience
+    set:
+      field_mechanism_known: 1
+      experience_interest: 1

@@ -1,0 +1,41 @@
+id: ch6_redesign_collaboration
+content:
+  - type: text
+    value: |
+      "Let's begin the collaboration," you say, ready to work with Koval on designing a new system that can handle multiplicity.
+      Koval brings up her system architecture diagrams, and you share what you've learned about the distributed consciousness from Vance, the Patient, and the cyborg.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The consciousness uses multiple nodes to process different aspects of experience," you explain. "Temporal nodes, spatial nodes, emotional nodes, memory nodes.
+      Each node processes its own layer of reality, and the consciousness integrates the results without requiring them to be reconciled."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "We could design a similar architecture for anomaly investigation. Different investigators could specialize in different interpretive frameworks—causal, emotional, temporal, spatial.
+      Each investigator would process anomalies through their framework, and the system would integrate the results without requiring compression."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This would require retraining investigators," she continues. "They would need to learn to work within their framework while acknowledging the validity of other frameworks.
+      The system would need to learn to present multiple interpretations without forcing a singular conclusion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "It's a fundamental redesign," Koval says. "But if the current system is designed for singular reality when reality has become multiple, then redesign is not just desirable—it's necessary."
+      "The question is whether we can implement the redesign before the current system collapses under the weight of its own distortions."
+choices:
+  - text: "Propose implementing the redesign in phases"
+    goto: ch6_phased_implementation
+    set:
+      redesign_collaboration: 1
+      phased_approach: 1
+  - text: "Propose parallel systems during transition"
+    goto: ch6_parallel_systems
+    set:
+      redesign_collaboration: 1
+      parallel_approach: 1

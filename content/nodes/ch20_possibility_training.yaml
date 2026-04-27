@@ -1,0 +1,30 @@
+id: ch20_possibility_training
+content:
+  - type: text
+    value: |
+      You accept Aleksy's condition and begin possibility training, teaching both Aleksy and Mira how to interpret events in terms of potential futures.
+      The training is challenging, requiring both to develop a new way of understanding events that is different from their existing engines.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Possibility interpretation requires perceiving the branching futures that events generate," you explain. "Every event creates multiple potential futures, and the possibility engine interprets events based on which futures they make most likely."
+      "This is different from causal sequence and emotional experience, but compatible with both."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy struggles with the training. "This feels like speculation, not interpretation. Causal interpretation is based on what actually happened, not on what might happen."
+      "How can possibility interpretation be as valid as causal interpretation?"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Because potential futures are real," you reply. "They exist as possibilities that could be actualized. The possibility engine interprets events based on which futures they make more or less likely."
+      "This is a different kind of truth, but it's still truth."
+choices:
+  - text: "Continue the training until both develop possibility capacity"
+    goto: ch20_training_progress
+    set:
+      possibility_training: 1
+      progress_chosen: 1

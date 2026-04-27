@@ -1,0 +1,43 @@
+id: ch4_cyborg_autonomy
+content:
+  - type: text
+    value: |
+      "Does the cyborg have autonomy?" you ask, concerned about whether this entity is a tool or a being with its own agency.
+      Chen considers this carefully. "The cyborg has the capacity for choice—it can select which past to access, which memory layer to activate, which response to give.
+      But whether that capacity constitutes true autonomy is a philosophical question we haven't resolved."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The cyborg follows directives from the organization," she continues. "But it also makes independent decisions within those directives.
+      It's not a simple automaton, but it's not fully autonomous either. It exists in a gray area between tool and agent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happens when the consciousness awakens?" you ask. "Will the cyborg maintain its individual identity, or will it be absorbed into the larger entity?"
+      "That's the critical question," Chen replies. "The organization's documents suggest that nodes will maintain some degree of individuality while being integrated into the distributed consciousness."
+      "But we don't know what that means in practice. Will the cyborg still be itself, or will it become a component of something larger?"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is an ethical dilemma: if the cyborg has some degree of autonomy, then integrating it into a distributed consciousness without its consent might be a violation.
+      But if the cyborg is merely a tool, then integration is just repurposing technology for its intended function.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The cyborg might have its own opinion on this," Chen suggests. "If you ask it about integration, you might learn whether it views itself as an individual or a component."
+      "The cyborg's self-perception could determine whether integration is ethical."
+choices:
+  - text: "Ask the cyborg about its self-perception"
+    goto: ch4_cyborg_self_perception
+    set:
+      chen_contact: 1
+      ethical_inquiry: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      autonomy_considered: 1

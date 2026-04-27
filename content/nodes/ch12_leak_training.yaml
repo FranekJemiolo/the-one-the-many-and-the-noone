@@ -1,0 +1,30 @@
+id: ch12_leak_training
+content:
+  - type: text
+    value: |
+      "What training is required?" you ask, wanting to understand the process of learning to navigate the leak.
+      Kai explains that training involves three stages: field perception, layer navigation, and causal loop understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Field perception is learning to see causality as a field rather than a line," he says. "You must learn to perceive how future, present, and past influence each other simultaneously, rather than assuming influence flows only in one direction."
+      "This requires unlearning the habits of linear time."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Layer navigation is learning to move between different temporal layers," Kai continues. "You must learn to access different versions of the present moment, to gather information from multiple temporal perspectives before making decisions."
+      "This requires developing temporal mobility."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Causal loop understanding is learning to trace self-referential causality," he adds. "You must learn to see how a future memory influences present decisions, which then create the future that was remembered.
+      This requires accepting circular causality as valid rather than paradoxical."
+choices:
+  - text: "Begin field perception training"
+    goto: ch12_field_training
+    set:
+      leak_training: 1
+      field_chosen: 1

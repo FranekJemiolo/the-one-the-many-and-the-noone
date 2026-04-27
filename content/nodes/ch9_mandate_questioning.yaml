@@ -1,0 +1,35 @@
+id: ch9_mandate_questioning
+content:
+  - type: text
+    value: |
+      "Are you willing to question your mandate?" you ask. "To consider whether the system you're maintaining should actually exist?"
+      Seraph's expression flickers with something that might be uncertainty, quickly suppressed beneath her professional demeanor.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "My mandate comes from the system itself," she replies. "Clarity Administration exists because the system requires enforcement to function.
+      Questioning my mandate is questioning whether the system should function at all."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But if the system is causing more harm than good," you suggest, "if enforcing singularity is disconnecting the system from reality, then perhaps the system shouldn't function in its current form.
+      Perhaps it should be replaced with something that works better with reality as it actually is."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph is silent for a long moment. "I have spent my career maintaining the system. I have never considered whether my work might be harmful rather than helpful."
+      "If you're right, if the system is becoming disconnected from reality, then my enforcement might be contributing to that disconnect rather than preventing it."
+choices:
+  - text: "Offer to help her understand the disconnect"
+    goto: ch9_disconnect_understanding
+    set:
+      mandate_questioned: 1
+      understanding_offered: 1
+  - text: "Encourage her to investigate independently"
+    goto: ch9_independent_investigation
+    set:
+      mandate_questioned: 1
+      investigation_encouraged: 1

@@ -25,3 +25,7 @@ choices:
     goto: ch2_factual_correctness
     set:
       aleksy_dominance: 1
+  - text: "Explore the facility first"
+    goto: ch2_facility_exploration
+    set:
+      investigation_thoroughness: 1

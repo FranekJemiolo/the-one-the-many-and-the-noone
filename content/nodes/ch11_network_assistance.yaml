@@ -1,0 +1,31 @@
+id: ch11_network_assistance
+content:
+  - type: text
+    value: |
+      "Has the network been helping me without my awareness?" you ask, wondering if the sanctuary has been stabilizing your contradictory memories without you knowing.
+      Lys considers this. "It is possible. The network often assists people who have contradictory memories but are not aware of the assistance."
+      "The stabilization happens subtly, as if the memories simply become easier to hold without requiring elimination."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your temporal multiplicity—the multiple pasts you experienced during the temporal instability investigation—would have been extremely difficult to hold without assistance," Lys observes.
+      "The network may have been stabilizing those memories, allowing you to access multiple pasts without psychological collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would explain why you were able to adapt to multiplicity so quickly," she continues. "Most people experience psychological fragmentation when they encounter multiple pasts.
+      You adapted because the network was already helping you hold the contradiction."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a profound realization: the Resistance has been supporting you from the beginning, stabilizing your contradictory memories without your awareness.
+      Your enhanced capabilities are not just the result of temporal training—they are the result of network assistance that you didn't even know you were receiving.
+choices:
+  - text: "Express gratitude and offer to support the network in return"
+    goto: ch11_network_gratitude
+    set:
+      network_assistance_known: 1
+      gratitude_expressed: 1

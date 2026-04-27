@@ -1,0 +1,30 @@
+id: ch15_integrated_training
+content:
+  - type: text
+    value: |
+      You support developing the integrated training program, working with Rose to combine coherence training with temporal training.
+      The integrated program teaches both field perception and contradiction holding, preparing people for the full complexity of multiple reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The integrated training is more effective than either training alone," Rose reports after the program is implemented. "Participants develop comprehensive capacity for multiple reality, able to navigate folded time while holding contradiction."
+      "The training creates investigators who are fully adapted to multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This creates a new generation of Resistance members," you observe. "Investigators who are not just resisting the Engine but embodying the alternative, living proof that plural stability is possible."
+      "The integrated training is strengthening the Resistance significantly."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "The integrated training should be scaled, made available to all investigators who want to develop comprehensive capacity for multiple reality."
+      "This will create a distributed network of fully adapted Resistance members."
+choices:
+  - text: "Support scaling the integrated training program"
+    goto: ch15_training_scaling
+    set:
+      integrated_training: 1
+      scaling_chosen: 1

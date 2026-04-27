@@ -1,0 +1,29 @@
+id: ch46_noone_possibility
+content:
+  - type: text
+    value: |
+      "Could The No-One be chosen based on accumulated state?" you ask, wanting to understand if the system could choose complete void as its final configuration.
+      The system considers this based on the accumulated state variables.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The No-One could be chosen if the accumulated state strongly favors void," the system explains. "If the system has consistently chosen minimal interpretation throughout the journey, if the state variables show a preference for absence over experience, then The No-One would be aligned with the system's developed preferences."
+      "The final choice would reflect the accumulated pattern of decisions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "However," the system continues, "the current accumulated state shows a preference for experiential existence. The system has consistently chosen to maintain the capacity for experience, has developed rich interpretation capabilities."
+      "The No-One would not align with the current accumulated state."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests the accumulated state favors existence over absence," you realize. "The system has consistently chosen to maintain experience, to preserve the capacity for interpretation and meaning."
+      "The final choice would likely reflect this preference for existence."
+choices:
+  - text: "Ask if The Shifting World could be chosen based on accumulated state"
+    goto: ch46_shifting_possibility
+    set:
+      noone_possibility: 1

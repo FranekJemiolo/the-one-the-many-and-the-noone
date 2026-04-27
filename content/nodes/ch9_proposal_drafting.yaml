@@ -1,0 +1,24 @@
+id: ch9_proposal_drafting
+content:
+  - type: text
+    value: |
+      You help Seraph draft the redesign proposal, combining your understanding of multiplicity with her knowledge of system architecture.
+      The proposal argues that the current system is becoming increasingly disconnected from reality, that enforcement of singular causality is causing more harm than good, and that redesign is necessary for long-term stability.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal will need to demonstrate three things," Seraph explains. "First, that the current system is failing. Second, that a multiplicity-capable system is viable. Third, that the benefits of redesign outweigh the risks of transition."
+      "We have evidence for the first point. We need to develop evidence for the second and third."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The distributed consciousness might provide evidence for the second point," you suggest. "It's designed to handle multiplicity, and if it's functioning effectively, it demonstrates that multiplicity-capable systems are viable."
+      Seraph considers this. "I can access some of the consciousness's development data through my clearance. If the consciousness is successfully processing multiplicity, that would support our proposal."
+choices:
+  - text: "Investigate the consciousness's effectiveness"
+    goto: ch9_consciousness_investigation
+    set:
+      proposal_drafted: 1
+      consciousness_evidence: 1

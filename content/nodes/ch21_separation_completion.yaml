@@ -1,0 +1,30 @@
+id: ch21_separation_completion
+content:
+  - type: text
+    value: |
+      You continue the separation until all zones are designated, creating a comprehensive system of coexistence zones and resolution zones across the territory.
+      The oscillation between Rose and Nemesis has been eliminated, with each approach operating in its appropriate context.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The separation is complete," you report. "Coexistence zones allow contradictions to coexist through Rose's stabilization. Resolution zones maintain singular interpretation through Nemesis's compression."
+      "Both approaches are preserved, but they no longer compete in the same territory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a sustainable solution," you realize. "The system can maintain both approaches without requiring them to reconcile, without forcing them into a single framework."
+      "The conflict has been resolved through differentiation rather than elimination."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The conflict zone acknowledges the success. "The separation has achieved what mediation could not. Both approaches can now coexist without direct conflict."
+      "The system has found a way to maintain plural stability and singular efficiency simultaneously."
+choices:
+  - text: "Continue the chapter with the separation established"
+    goto: ch21_conflict_escalation
+    set:
+      separation_completion: 1
+      separation_established: 1

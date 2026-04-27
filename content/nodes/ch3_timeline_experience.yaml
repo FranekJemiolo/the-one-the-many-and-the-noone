@@ -1,0 +1,47 @@
+id: ch3_timeline_experience
+content:
+  - type: text
+    value: |
+      "Can I experience multiple timelines?" you ask, wanting to understand what it feels like to access different temporal sequences.
+      Vance considers this, then nods. "Yes, but you need to be prepared. The experience can be disorienting, especially the first time."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She leads you to a specialized chamber where the temporal field is most concentrated. "This room amplifies the field's effects," she explains.
+      "Here, you can feel the different timelines more clearly. You can choose which one to experience, or try to experience multiple simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You enter the chamber, and immediately you feel it—a sense of overlapping moments, as if you're standing in multiple versions of the same instant simultaneously.
+      The sensation is overwhelming at first, your mind struggling to process the multiplicity of temporal experience.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Vance guides you through the experience, teaching you to focus on one timeline at a time. "Choose a sequence," she says. "Feel the flow of time in that direction.
+      Now shift to another. Feel how the sequence is different. Notice that both are equally real, equally valid."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      After practice, you begin to understand the experience. You can feel the different timelines overlapping, each one a complete sequence of events.
+      You can shift between them, experiencing different versions of the same moment, different sequences of the same events.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is what the researchers experience every day," Vance says. "They're not confused—they're adapted. They've learned to navigate multiple timelines as part of their normal experience."
+      "The station is not malfunctioning. It's operating in a mode that normal reality doesn't support, but that doesn't make it wrong."
+choices:
+  - text: "Attempt to experience multiple timelines simultaneously"
+    goto: ch3_simultaneous_experience
+    set:
+      timeline_experience: 1
+      advanced_attempt: 1
+  - text: "Return to normal perception and continue investigation"
+    goto: ch3_clock_inconsistency
+    set:
+      timeline_experience: 1
+      caution_chosen: 1

@@ -37,3 +37,7 @@ choices:
     goto: ch4_contradictory_pasts
     set:
       mira_dominance: 1
+  - text: "Explore the facility first"
+    goto: ch4_facility_exploration
+    set:
+      investigation_thoroughness: 1

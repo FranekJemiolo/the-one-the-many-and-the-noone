@@ -1,0 +1,30 @@
+id: ch18_engine_response
+content:
+  - type: text
+    value: |
+      You observe the Engine's response to the central zone conversion, watching how the system reacts to the disruption of its enforcement strategy.
+      The Engine does not accept the conversion passively—it responds with intensified enforcement, attempting to re-establish singularity in the central zone.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is counterattacking," the Resistance reports. "It's deploying maximum enforcement to the central zone, trying to reverse the contradiction injection."
+      "The zone is under intense pressure to return to singularity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We need to reinforce the central zone," you realize. "The contradiction must be maintained despite the Engine's counterattack."
+      "If the zone returns to singularity, the entire operation will be reversed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Resistance agrees. "We'll deploy additional resources to reinforce the central zone, maintaining the contradiction despite the Engine's pressure."
+      "This will require sustained effort, but the zone is worth defending."
+choices:
+  - text: "Support reinforcing the central zone"
+    goto: ch18_zone_reinforcement
+    set:
+      engine_response: 1
+      reinforcement_chosen: 1

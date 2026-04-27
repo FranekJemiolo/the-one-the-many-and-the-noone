@@ -1,0 +1,31 @@
+id: ch20_mediation_attempt
+content:
+  - type: text
+    value: |
+      "Is mediation possible?" you ask Mira, wanting to know if there's any way to bridge the gap between causal and emotional interpretation.
+      Mira considers this. "Mediation would require finding a framework that can accommodate both approaches without requiring either to yield."
+      "But causal interpretation and emotional interpretation operate on different principles—they prioritize different aspects of experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Could we create a meta-interpretation that includes both?" you suggest. "A framework that acknowledges causal sequence and emotional experience as equally valid, that understands both what happened and how it felt?"
+      "This would be a synthesis rather than a compromise."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Aleksy would reject this," Mira replies. "Causal interpretation requires that there be a single correct sequence. A meta-interpretation that includes emotional experience would feel like dilution to Aleksy."
+      "Similarly, emotional interpretation requires that emotional truth be primary. A meta-interpretation that gives equal weight to causal sequence would feel like betrayal to me."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "So mediation is impossible," you realize. "The two interpretation engines are fundamentally incompatible, not because they're different positions on the same question, but because they're asking different questions entirely."
+      "Causal interpretation asks: what happened? Emotional interpretation asks: what did it mean?"
+choices:
+  - text: "Propose a third interpretation engine"
+    goto: ch20_third_engine
+    set:
+      mediation_attempt: 1
+      third_engine_chosen: 1

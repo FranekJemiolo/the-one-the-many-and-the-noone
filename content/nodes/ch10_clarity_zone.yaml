@@ -27,3 +27,7 @@ choices:
     goto: ch10_singularity_enforcement
   - text: "Speak with Seraph Kline"
     goto: ch10_seraph_directive
+  - text: "Investigate the zone's mechanisms"
+    goto: ch10_zone_mechanisms
+    set:
+      investigation_thoroughness: 1

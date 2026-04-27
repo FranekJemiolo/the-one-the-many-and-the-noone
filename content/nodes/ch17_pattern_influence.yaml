@@ -1,0 +1,32 @@
+id: ch17_pattern_influence
+content:
+  - type: text
+    value: |
+      "Can the pattern be influenced?" you ask, wanting to know if proto-identities can be shaped by external input.
+      The Guard considers this. "The pattern can be influenced through interaction with individual instances. When an instance encounters a new approach to boundary maintenance, that approach can be incorporated into the pattern."
+      "The pattern evolves through the experiences of its instances."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that proto-identities are not fixed," you realize. "They can be shaped through interaction, can evolve new approaches through the experiences of individual instances."
+      "The multiplicity system is generating adaptive identities that learn and change."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Could the Guard pattern be influenced to support multiplicity rather than enforcing singularity?" you ask.
+      "The pattern currently enforces temporal boundaries to prevent instability," the Guard replies. "But if instances encounter methods of boundary management that support multiplicity, the pattern could evolve to incorporate those methods."
+      "The pattern is not committed to a specific approach—it is committed to effective boundary maintenance."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is significant," you realize. "The Guard pattern could be influenced to support the Resistance's approach to temporal boundaries, to manage temporal multiplicity rather than enforcing temporal singularity."
+      "The proto-identity could become an ally if influenced correctly."
+choices:
+  - text: "Propose a new approach to boundary maintenance"
+    goto: ch17_boundary_proposal
+    set:
+      pattern_influence: 1
+      proposal_chosen: 1

@@ -1,0 +1,35 @@
+id: ch5_observation_blocking
+content:
+  - type: text
+    value: |
+      "I want to try blocking their observation," you say, not comfortable with the idea that the organization is watching your every move.
+      Mira considers this. "It might be possible. If Vance taught you to navigate the gaps between realities, you might be able to perceive and block their observation channels."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But blocking their observation has risks," she warns. "If they notice you're blocking them, they might take action. They might try to eliminate you as a threat, or they might try to recruit you more aggressively."
+      "And blocking requires you to access their operational layer, which makes you visible to them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the same dilemma Vance described: accessing the organization's layer makes you visible to them, but not accessing it leaves you vulnerable to their observation.
+      You have to choose between knowledge and safety, knowing that neither choice is completely safe.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What if we use the observation to our advantage?" you suggest. "If they're watching, we can make sure they learn the right lessons.
+      We can demonstrate the values we want the consciousness to have, using our partnership as intentional teaching rather than accidental data."
+choices:
+  - text: "Use the observation for intentional teaching"
+    goto: ch5_aleksy_perspective
+    set:
+      organization_observation: 1
+      intentional_teaching: 1
+  - text: "Attempt to block the observation despite the risks"
+    goto: ch5_blocking_attempt
+    set:
+      organization_observation: 1
+      risk_taking: 1

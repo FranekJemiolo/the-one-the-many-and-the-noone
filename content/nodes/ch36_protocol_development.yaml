@@ -1,0 +1,30 @@
+id: ch36_protocol_development
+content:
+  - type: text
+    value: |
+      You support developing the integration protocols, helping Nemesis and the system create criteria for choosing between compression and plural stability.
+      The protocols begin operation, with the system using compression when singular interpretation is needed and plural stability as the default.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The integration protocols are successful," Nemesis and the system report after months of development. "The hybrid stability system is functioning, with both compression and plural stability being used appropriately based on context."
+      "The system's adaptive capability has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is more sophisticated than before," you observe. "It can now choose between two approaches to stability, using each when it's most appropriate."
+      "The integration has created a more capable and nuanced system."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Nemesis agrees. "The Engine has evolved beyond its original ideology. Compression is no longer presented as the only valid approach, but as one tool among many."
+      "The integration protocols are achieving their purpose."
+choices:
+  - text: "Continue the chapter with the integration established"
+    goto: ch36_nemesis_fails
+    set:
+      protocol_development: 1
+      hybrid_system: 1

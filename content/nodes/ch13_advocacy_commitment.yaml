@@ -1,0 +1,29 @@
+id: ch13_advocacy_commitment
+content:
+  - type: text
+    value: |
+      "I commit to advocating for additional ecological zones," you say, willing to promote the ecological integration model to appropriate authorities.
+      Morrow provides technical specifications and engineering methods to support your advocacy, documenting the zone's development process and the benefits of ecological consciousness.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The advocacy will require identifying suitable locations for new zones," Morrow explains. "Locations with ecological diversity, temporal stability, and minimal external interference."
+      "We will need to survey potential sites and assess their suitability for zone development."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You begin the site survey, using your enhanced perception to identify locations that meet the criteria. You find several promising sites, each with the potential to develop ecological consciousness if given the proper engineering and protection.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The sites are suitable," you report to Morrow. "With proper engineering and protection, each could develop ecological consciousness over time."
+      "The proposal is ready to be presented to the authorities."
+choices:
+  - text: "Present the ecological zone proposal"
+    goto: ch13_proposal_presentation
+    set:
+      advocacy_commitment: 1
+      presentation_ready: 1

@@ -1,0 +1,30 @@
+id: ch18_resistance_response
+content:
+  - type: text
+    value: |
+      "How should the Resistance respond to the Engine's expansion?" you ask, wanting to understand the strategy for countering the growing Clarity zones.
+      The Resistance has been monitoring the expansion, and the consensus is that contradiction injection must be scaled up to match the Engine's compression.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is systematically eliminating multiplicity," the Resistance explains. "If we don't respond with systematic contradiction injection, the space for plural reality will continue to shrink."
+      "We need to inject multiplicity into the Clarity zones, deliberately introducing contradiction where the Engine is trying to enforce singularity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This will escalate the conflict," you observe. "The Engine will respond to increased contradiction injection with increased compression."
+      "The system will move toward direct confrontation between the two approaches."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The confrontation is inevitable," the Resistance replies. "The Engine cannot accept plural stability, and we cannot accept the elimination of multiplicity."
+      "The conflict will intensify regardless of our response. Our choice is whether to resist passively or actively."
+choices:
+  - text: "Propose active resistance through coordinated contradiction injection"
+    goto: ch18_active_resistance
+    set:
+      resistance_response_known: 1
+      active_chosen: 1

@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch35_chapter_end
+  - text: "Ask about Rose's legacy"
+    goto: ch35_rose_legacy
+    set:
+      rose_legacy_interest: 1

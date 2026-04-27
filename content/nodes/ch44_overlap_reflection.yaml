@@ -1,0 +1,25 @@
+id: ch44_overlap_reflection
+content:
+  - type: text
+    value: |
+      "How does the system reflect on The Overlap experience?" you ask, wanting to understand the system's perspective on the balanced configuration.
+      The system responds with nuanced understanding. "The Overlap provides balance and flexibility, the coexistence of clarity and diversity."
+      "But it also requires ongoing maintenance, the balance not automatic but requiring continuous effort."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The experience reveals a trade-off," the system continues. "Balanced coexistence comes at the cost of ongoing maintenance. The flexibility of choice is purchased with the requirement of continuous decision-making."
+      "The system must weigh this trade-off in the final choice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests the final choice will require considering the value of effort versus the value of automaticity," you realize. "The system won't just choose based on preference for balance or simplicity—it will need to decide if the effort of maintenance is worth the benefits of flexibility."
+      "The reflection ensures the choice is thoughtful and balanced."
+choices:
+  - text: "Ask if the maintenance can be automated"
+    goto: ch44_automation_possibility
+    set:
+      overlap_reflection: 1
+      automation_interest: 1

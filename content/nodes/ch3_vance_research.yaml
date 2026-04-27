@@ -1,0 +1,49 @@
+id: ch3_vance_research
+content:
+  - type: text
+    value: |
+      "What have you learned about the anomaly?" you ask, wanting to understand Vance's research before proceeding with your own investigation.
+      Vance gestures for you to sit, then activates a holographic display showing complex temporal diagrams.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The anomaly is not random," she explains. "It follows a pattern. The station exists in a region of space where the boundary between temporal layers is thinner than normal.
+      Think of it as a place where different versions of the same moment can overlap, like transparent sheets stacked on top of each other."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Each sheet is a valid timeline," Vance continues. "Each one contains a complete sequence of events. The difference is which sheet you're standing on.
+      Most people are standing on only one sheet, experiencing only one timeline. But the station allows access to multiple sheets simultaneously."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Why is this happening here?" you ask. "Why this station?"
+      Vance considers this. "The station was built on a temporal convergence point—a location where different timelines naturally intersect.
+      The architects knew this, though they didn't understand the implications. They thought they were building a research station. They were actually building a bridge between temporal realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This connects to what you learned about the building in chapter 1—the deliberate design of spaces that exist in multiple layers of reality.
+      The station is another such space, designed intentionally or accidentally to exist across temporal boundaries.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Who designed the station?" you ask.
+      "A consortium called Chronos Dynamics," Vance replies. "They don't exist anymore—dissolved five years ago. But their designs are still being implemented, their projects still being completed."
+      This sounds like Aether Structural Solutions from chapter 1—another shell company that doesn't exist but continues to operate.
+choices:
+  - text: "Ask about Chronos Dynamics"
+    goto: ch3_chronos_investigation
+    set:
+      chronos_identified: 1
+      conspiracy_interest: 1
+  - text: "Ask how to navigate multiple timelines"
+    goto: ch3_timeline_navigation
+    set:
+      vance_mentor: 1
+      navigation_interest: 1

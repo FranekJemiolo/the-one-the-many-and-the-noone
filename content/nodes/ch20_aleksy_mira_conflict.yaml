@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Observe the interpretation conflict peak"
     goto: ch20_interpretation_conflict_peaks
+  - text: "Attempt mediation between the interpretations"
+    goto: ch20_mediation_attempt
+    set:
+      mediation_interest: 1

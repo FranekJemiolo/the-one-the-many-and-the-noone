@@ -1,0 +1,32 @@
+id: ch15_zone_expansion
+content:
+  - type: text
+    value: |
+      "Can the contradiction zone be expanded?" you ask, wanting to know if the demonstration of plural stability can be scaled.
+      Rose considers this. "The zone can be expanded, but expansion requires energy. Stabilizing contradiction requires interpretive energy to maintain the field."
+      "The current zone operates at the limit of available energy."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How could we increase the available energy?" you ask.
+      "By providing additional interpretive support," Rose explains. "Your enhanced temporal perception can channel energy into the field, increasing its capacity to stabilize contradiction."
+      "With sufficient support, the zone could be expanded significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can provide that support," you offer. "My temporal perception can channel energy into the coherence field."
+      "If we expand the zone, we provide more evidence that plural stability is possible, more demonstration that the Engine's premise is false."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose accepts your offer. "With your support, the zone can be expanded to include more contradictions, more incompatible truths."
+      "The expanded zone will provide compelling evidence that multiplicity can be stable."
+choices:
+  - text: "Begin channeling energy into the coherence field"
+    goto: ch15_energy_channeling
+    set:
+      zone_expansion: 1
+      channeling_started: 1

@@ -1,0 +1,31 @@
+id: ch9_gap_addressing
+content:
+  - type: text
+    value: |
+      "We should address the gap before it becomes critical," you propose. "We can begin introducing multiplicity into the system gradually, allowing it to adapt without collapsing."
+      Seraph considers this. "This would require modifying enforcement protocols, allowing some investigations to produce multiple narratives rather than forcing a single sequence."
+      "It would be a significant departure from current practice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We could start with low-stakes investigations," you suggest. "Cases where the gap is minimal, where the consequences of multiplicity are manageable.
+      As the system adapts, we can expand multiplicity to more significant cases."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Seraph nods slowly. "This approach could work. It would require careful monitoring, adjustment of protocols, documentation of the system's response.
+      But it might allow the system to evolve toward multiplicity without requiring a complete redesign."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I can propose this to Clarity Administration," she says. "I can frame it as an experiment in adaptive enforcement, a test of whether the system can handle limited multiplicity.
+      If the experiment succeeds, we can expand the approach. If it fails, we can revert to current protocols."
+choices:
+  - text: "Support the adaptive enforcement proposal"
+    goto: ch9_adaptive_proposal
+    set:
+      gap_addressing: 1
+      adaptive_chosen: 1

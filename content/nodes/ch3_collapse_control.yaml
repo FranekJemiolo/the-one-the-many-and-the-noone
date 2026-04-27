@@ -1,0 +1,43 @@
+id: ch3_collapse_control
+content:
+  - type: text
+    value: |
+      "Is there a way to control which timeline becomes dominant?" you ask, wanting to understand if the collapse can be guided rather than left to chance.
+      Vance considers this. "Theoretically, yes. If we could understand the principles that determine timeline dominance, we could influence the collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The field operates on observer selection," she explains. "The timeline that becomes dominant is the one that the most observers are experiencing at the moment of collapse.
+      If we could synchronize the observers' experiences, we could guide which timeline emerges as the singular reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How would we synchronize their experiences?" you ask.
+      "We would need to train the researchers to consciously select a timeline," Vance replies. "Currently, they're experiencing different timelines passively, without conscious choice.
+      If they could learn to consciously align their experiences, we could guide the collapse toward a specific timeline."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Would the researchers be willing to do this?" you ask.
+      "Some might," Vance says. "Others have adapted to the multiplicity and might resist returning to a single timeline.
+      The transition would be difficult for those who have learned to navigate multiple realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This raises an ethical question: even if you can control the collapse, should you? The researchers have adapted to temporal multiplicity. Forcing them back to a single timeline might be a violation of their adapted experience.
+      But leaving the field operational means the station continues to exist in a state that normal reality doesn't support, with unknown long-term consequences.
+choices:
+  - text: "Investigate training the researchers for synchronized collapse"
+    goto: ch3_synchronization_training
+    set:
+      collapse_control_interest: 1
+      ethical_complexity: 1
+  - text: "Leave the field operational for now"
+    goto: ch3_clock_inconsistency
+    set:
+      collapse_control_interest: 1
+      status_quo_chosen: 1

@@ -1,0 +1,32 @@
+id: ch14_longterm_risks
+content:
+  - type: text
+    value: |
+      "What are the long-term risks of this approach?" you ask, concerned about what happens if the temporary compromises become permanent.
+      Koval acknowledges the risk. "The primary risk is that the falsehoods become permanent, that the truth is never reactivated because the system never develops the capacity to handle it."
+      "The system could become permanently disconnected from reality, operating on simplified narratives that have no relationship to what is actually happening."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do you prevent this?" you ask.
+      "By maintaining the truth as an active inactive layer," Koval explains. "I ensure that the truth remains accessible, that it is not deleted or forgotten.
+      I also monitor the system's capacity, looking for signs that it is ready to handle more complexity. When capacity increases, I gradually reintroduce truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This requires constant vigilance," she continues. "I must resist the system's tendency to prefer simplicity, must actively work to preserve complexity even when the system would rather eliminate it."
+      "The Engine's bias is always pushing toward permanent compression. I must counteract that bias by ensuring truth is never permanently lost."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a form of resistance," you realize. "You're working within the Engine's constraints but actively working against the Engine's tendency toward permanent compression."
+      "You're preserving multiplicity in the background even when the system operates on singularity in the foreground."
+choices:
+  - text: "Offer to help monitor and counteract the Engine's bias"
+    goto: ch14_bias_monitoring
+    set:
+      longterm_risks_known: 1
+      monitoring_offered: 1

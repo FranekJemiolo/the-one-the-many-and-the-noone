@@ -1,0 +1,31 @@
+id: ch24_knowledge_teaching
+content:
+  - type: text
+    value: |
+      "Can the adaptation be taught to others?" you ask, wanting to know if knowledge multiplicity perception can be spread beyond the students in this educational zone.
+      The student considers this. "The adaptation emerged naturally from exposure to knowledge multiplicity. It might be possible to accelerate the process through training, but the fundamental requirement is exposure to multiple truths."
+      "People cannot learn knowledge multiplicity without experiencing the instructional system generating incompatible truths."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But we could create training zones," you suggest. "Areas where knowledge multiplicity is induced, allowing people to experience multiple truths and develop the adaptation."
+      "This would accelerate the spread of knowledge multiplicity perception across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is possible," the student agrees. "The educational zone can serve as a training center, bringing people here to experience knowledge multiplicity and develop the capacity to hold multiple truths."
+      "With proper guidance, the adaptation could be accelerated and made more systematic."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This would strengthen the Resistance," you realize. "More people with knowledge multiplicity perception would increase the system's capacity to function in plural truth."
+      "The Engine's assumption that truth must be singular would be further disproven."
+choices:
+  - text: "Propose establishing a knowledge multiplicity training center"
+    goto: ch24_knowledge_center
+    set:
+      knowledge_teaching: 1
+      center_chosen: 1

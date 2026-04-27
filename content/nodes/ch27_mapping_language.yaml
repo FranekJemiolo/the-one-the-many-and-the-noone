@@ -1,0 +1,30 @@
+id: ch27_mapping_language
+content:
+  - type: text
+    value: |
+      "Propose developing the causal loop mapping language," you suggest to Kai. "The boundary zone can serve as a research center, developing methods to translate circular causality into linear terms."
+      "This would allow linear time zones to benefit from temporal field insights."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Kai agrees. "The boundary zone has the unique position of experiencing both linear and circular causality. We can develop the mapping language by comparing how the same systems appear in both temporal structures."
+      "This will create a bridge between temporal field insights and linear time understanding."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The mapping language would need to be connected to the broader Resistance networks," you observe. "The sanctuary network, the temporal training network, the other infrastructure can coordinate with the boundary zone research center."
+      "This would create a comprehensive system for temporal insight sharing."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Kai agrees. "We'll establish the research center and develop the mapping language. The temporal field insights will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's capacity to understand complex dynamics."
+choices:
+  - text: "Support developing the mapping language"
+    goto: ch27_mapping_development
+    set:
+      mapping_language: 1
+      development_chosen: 1

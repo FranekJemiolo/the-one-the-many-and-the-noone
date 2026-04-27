@@ -1,0 +1,45 @@
+id: ch1_additional_witness
+content:
+  - type: text
+    value: |
+      You decide to search for other people who might have been in the building during the incident, hoping that additional perspectives might reveal a pattern or explain the contradiction.
+      The building is mostly empty—late afternoon on a Friday, many offices already closed for the weekend—but you find a maintenance worker on the third floor.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The worker introduces himself as Marcus, a middle-aged man with grease-stained hands and eyes that have seen too many things to be easily surprised.
+      He listens to your questions with practiced patience, as if he's answered similar inquiries before, though you can tell he hasn't.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I was working in the electrical room on the second floor," he says, his voice rough from years of shouting over machinery. "Didn't see nothing unusual.
+      But I did hear something—like the building made a sound, not from any particular direction, but from everywhere at once."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      He describes the sound: not a bang or a crash, but a hum, a vibration that felt like it was coming from the walls themselves, from the structure of the building rather than any source within it.
+      "Like the building was tuning itself," he says, and the phrase sends a chill down your spine despite the warmth of the afternoon.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You ask if he noticed anything about time, any sense that the day proceeded differently than expected. He thinks for a moment, then nods slowly.
+      "Now that you mention it, my watch stopped. Just for a minute. Started again like nothing happened. But I remember thinking the light changed—the quality of it, not the brightness."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is new information. The witnesses reported contradictory memories, but Marcus is reporting a physical anomaly—a watch stopping, a change in light quality.
+      These might be connected, or they might be separate phenomena. Either way, they suggest the incident affected more than just the two witnesses.
+choices:
+  - text: "Ask Marcus about other unusual occurrences"
+    goto: ch1_marcus_history
+    set:
+      witness_network: 1
+  - text: "Return to the office with this new information"
+    goto: ch1_witness_testimony
+    set:
+      additional_evidence: 1

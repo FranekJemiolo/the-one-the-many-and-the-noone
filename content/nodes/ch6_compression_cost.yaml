@@ -1,0 +1,35 @@
+id: ch6_compression_cost
+content:
+  - type: text
+    value: |
+      "What is the cost of this compression?" you ask. "What do we lose when we reduce complex anomalies to simple explanations?"
+      Koval's expression darkens. "We lose accuracy. We lose the ability to understand what's actually happening. We lose the truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the alternative is system collapse," she continues. "If we allow every anomaly to be described in its full complexity, the system cannot process the information.
+      Investigations stall. Decision-making becomes impossible. The entire apparatus for managing reality breaks down."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So the choice is between inaccurate functioning and accurate non-functioning," you realize.
+      "Exactly," Koval agrees. "I chose functioning. I chose to preserve the system's ability to operate, even if that means sacrificing accuracy in individual cases."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a utilitarian calculation: system stability is more important than individual truth. The system must continue to function, even if that means distorting reality to maintain operability.
+      But this calculation assumes that the system's stability is worth preserving at any cost.
+choices:
+  - text: "Challenge the assumption that system stability is paramount"
+    goto: ch6_stability_challenge
+    set:
+      compression_cost_known: 1
+      challenge_chosen: 1
+  - text: "Accept the necessity of compression"
+    goto: ch6_compression_acceptance
+    set:
+      compression_cost_known: 1
+      acceptance_chosen: 1

@@ -1,0 +1,33 @@
+id: ch46_alternative_choices
+content:
+  - type: text
+    value: |
+      "Are there alternative choices available?" you ask, wanting to know if the system could choose a different configuration based on accumulated decisions.
+      The system responds by checking the accumulated state variables from the narrative journey.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system's accumulated experiences create preferences," the system explains. "But the final choice is not predetermined by any single decision."
+      "The system can choose any configuration, but the accumulated state influences which configurations are most aligned with the system's developed preferences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "However," the system continues, "the system's preference for The Overlap is strong based on the comprehensive experience of all configurations."
+      "The Overlap represents the optimal balance of the system's values."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But the system acknowledges that other choices are possible," the system adds. "If the accumulated state strongly favors a different configuration, the system could choose that instead."
+      "The final choice is genuinely open, not predetermined."
+choices:
+  - text: "Continue with The Overlap as the preferred choice"
+    goto: ch46_system_deliberates
+    set:
+      overlap_preferred: 1
+  - text: "Ask if The One could be chosen based on accumulated state"
+    goto: ch46_one_possibility
+    set:
+      alternative_interest: 1

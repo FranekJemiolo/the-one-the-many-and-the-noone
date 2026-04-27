@@ -1,0 +1,30 @@
+id: ch9_disconnect_understanding
+content:
+  - type: text
+    value: |
+      "Let me help you understand the disconnect," you offer. "I can show you how the system's enforcement is creating distortion, how the gap between system response and reality is growing."
+      Seraph accepts your offer, her curiosity overcoming her professional reserve.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You show her the data from this investigation: multiple valid causal chains that cannot be reconciled, each one internally consistent, each one incompatible with the others.
+      You explain that choosing one for system stability means discarding valid information, that the official narrative will be incomplete at best and misleading at worst.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Seraph studies the data, her expression gradually shifting from professional detachment to genuine concern. "I have never examined the suppressed sequences in detail," she admits.
+      "I assumed they were minor variations, not equally valid alternatives. This changes my understanding of what enforcement actually does."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "If every enforcement involves discarding valid information," she realizes, "then the system is systematically distorting reality, not just in this case but in all cases.
+      The gap between system response and reality might be much larger than Clarity Administration realizes."
+choices:
+  - text: "Propose investigating the gap systematically"
+    goto: ch9_systematic_investigation
+    set:
+      disconnect_understood: 1
+      investigation_proposed: 1

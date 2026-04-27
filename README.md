@@ -1,16 +1,42 @@
-# Interactive Narrative Book Engine (INBE)
+# THE ONE, THE MANY, AND THE NO-ONE
 
-A lightweight, GitHub Pages–deployable interactive book engine combining interactive fiction, visual novel framing, and optional exploration/debug tools.
+An interactive narrative exploring the nature of reality, interpretation, and identity in a world where multiple truths can coexist without resolution.
+
+## About the Book
+
+You are an investigator of anomalies, drawn into a mystery that begins with strange reports from a seemingly ordinary building. As you dig deeper, you discover that reality itself is fracturing—not into chaos, but into multiple incompatible layers, each one equally true.
+
+The building is a testing ground for a fundamental conflict between two approaches to reality: **The Engine**, which seeks to compress all interpretations into a single coherent narrative, and **The Resistance**, which fights to preserve multiplicity by allowing incompatible truths to coexist.
+
+As you navigate this conflict, you will encounter entities that exist between realities, witness the crystallization of identity from pure potential, and ultimately participate in choosing the final configuration of reality itself.
+
+The story explores philosophical questions about the nature of truth, the value of contradiction, and whether reality must be singular or can genuinely be multiple.
+
+## Main Characters
+
+- **The Witness (You)**: An investigator of anomalies who discovers that reality is fracturing into multiple layers. Your choices will determine which interpretation layer becomes dominant and how the conflict between singularity and multiplicity is resolved.
+
+- **Marcus**: A building maintenance worker with twenty years of experience who has witnessed the growing anomalies firsthand. He becomes an ally in the investigation, providing practical knowledge of the building's strange history.
+
+- **Vance**: A mysterious figure who operates in the gaps between realities. She offers training in temporal navigation and access to layers of reality that normal perception cannot reach.
+
+- **Rose**: A vast presence that manifests as the coherence field itself—the force that allows incompatible truths to coexist without collapse. Rose represents the philosophy of plural stability, preserving multiplicity through stabilization rather than compression.
+
+- **The Engine**: An interpretive system that seeks to compress reality into singular coherence. The Engine represents the philosophy of singular stability, eliminating contradiction to achieve absolute clarity.
+
+- **The Resistance**: A distributed network of consciousnesses that preserves multiplicity by deliberately injecting contradiction into reality. The Resistance is not an organization but a method—a practice of refusing compression.
+
+- **Null Child**: An entity that exists in zones where interpretation fails completely. Null Child represents the void—the absence of interpretation and the peace that comes from the elimination of meaning.
+
+- **Echo, Barrier, Archive, Drift**: Crystallized identities that emerge from pure potential as the story progresses. Each represents a different aspect of the system's adaptation to multiplicity.
 
 ## Features
 
-- **Content-First Architecture**: Define stories using declarative YAML files
 - **Branching Narrative**: Create complex story graphs with conditional choices
 - **State Management**: Track variables, flags, and player progress
-- **Responsive Design**: Mobile-first reading experience with desktop enhancements
-- **Progress Persistence**: Resume from where you left off using localStorage
-- **Deterministic Runtime**: Same input always produces the same story path
-- **GitHub Pages Ready**: Single-file build system for easy deployment
+- **Multiple Endings**: Five canonical endings based on your choices throughout the story
+- **Philosophical Depth**: Explore questions about truth, identity, and the nature of reality
+- **Character Development**: Build relationships with entities that exist between realities
 
 ## Architecture
 

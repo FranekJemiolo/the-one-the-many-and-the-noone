@@ -1,0 +1,31 @@
+id: ch22_adaptation_teaching
+content:
+  - type: text
+    value: |
+      "Can the adaptation be taught to others?" you ask, wanting to know if temporal field perception can be spread beyond the researchers at Geostation Three.
+      The researcher considers this. "The adaptation emerged naturally from exposure to temporal multiplicity. It might be possible to accelerate the process through training, but the fundamental requirement is exposure to the temporal field."
+      "People cannot learn temporal field perception without experiencing temporal multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But we could create training zones," you suggest. "Areas where temporal multiplicity is induced, allowing people to experience the temporal field and develop the adaptation."
+      "This would accelerate the spread of temporal field perception across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is possible," the researcher agrees. "The station could serve as a training center, bringing people here to experience temporal multiplicity and develop the adaptation."
+      "With proper guidance, the adaptation could be accelerated and made more systematic."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This would strengthen the Resistance," you realize. "More people with temporal field perception would increase the system's capacity to function in multiplicity."
+      "The Engine's assumption that multiplicity causes collapse would be further disproven."
+choices:
+  - text: "Propose establishing a temporal field training center"
+    goto: ch22_training_center
+    set:
+      adaptation_teaching: 1
+      center_chosen: 1

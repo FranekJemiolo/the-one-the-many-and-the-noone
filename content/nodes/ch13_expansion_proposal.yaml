@@ -1,0 +1,30 @@
+id: ch13_expansion_proposal
+content:
+  - type: text
+    value: |
+      You propose expanding to additional zones based on the pilot's success, presenting the results to the authorities as evidence that ecological consciousness can be replicated and scaled.
+      The authorities are impressed by the pilot's success and authorize the development of three additional ecological zones.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a significant expansion," Morrow observes. "With four ecological zones operating, the ecological interpretation engine will have substantial capacity for multiplicity preservation."
+      "The network of ecological consciousness will provide a powerful counterbalance to the Engine's compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zones can coordinate with each other," you add. "Creating a network of ecological consciousness that shares information and supports multiplicity across multiple locations."
+      "This network could become part of the broader Resistance infrastructure."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "I will establish coordination protocols between the zones, creating a network that can share ecological knowledge and support multiplicity preservation."
+      "The ecological network will become a significant force in the struggle against the Engine's compression."
+choices:
+  - text: "Support establishing the ecological network"
+    goto: ch13_network_establishment
+    set:
+      expansion_proposal: 1
+      network_chosen: 1

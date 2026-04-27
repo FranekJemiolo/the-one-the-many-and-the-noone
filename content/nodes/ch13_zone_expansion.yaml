@@ -1,0 +1,32 @@
+id: ch13_zone_expansion
+content:
+  - type: text
+    value: |
+      "Could other zones undergo similar development?" you ask, wondering if the ecological integration model could be replicated elsewhere.
+      Morrow considers this. "Theoretically, yes. The integration process could be replicated in other ecosystems, creating additional zones where machines and biology develop collective consciousness."
+      "But the process requires specific conditions that may not be present in all locations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What conditions are required?" you ask.
+      "Temporal stability is required," Morrow explains. "The integration process takes time—years, perhaps decades. The zone must be stable enough for the integration to progress through all three phases without disruption."
+      "This requires protection from external interference."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zone also requires appropriate machine-biological compatibility," Morrow continues. "The machines must be designed to integrate with biological processes, not just to operate alongside them.
+      This requires specialized engineering that considers ecological compatibility rather than just mechanical function."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "And finally," Morrow adds, "the zone requires ecological diversity. A monoculture cannot develop the complex memory processes needed for consciousness.
+      The ecosystem must be diverse enough to generate the complexity required for self-awareness."
+choices:
+  - text: "Propose creating additional ecological zones"
+    goto: ch13_zone_proposal
+    set:
+      zone_expansion_known: 1
+      proposal_chosen: 1

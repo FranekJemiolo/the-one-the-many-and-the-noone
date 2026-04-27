@@ -1,0 +1,32 @@
+id: ch12_leak_stabilization
+content:
+  - type: text
+    value: |
+      "Can the leak be stabilized?" you ask, wanting to know if the temporal boundary can be managed rather than allowed to grow unchecked.
+      Kai considers this. "The leak cannot be eliminated—it is a natural consequence of temporal pressure in a multiple reality.
+      But it can be stabilized, managed in ways that prevent it from causing uncontrolled temporal collapse."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How would stabilization work?" you ask.
+      "By creating temporal buffers," Kai explains. "Zones where the leak is contained, where the boundary between past, present, and future is reinforced to prevent uncontrolled bleeding."
+      "This would require temporal engineering—using enhanced perception to reinforce temporal boundaries."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I have been working on stabilization methods," Kai continues. "I've developed techniques for reinforcing temporal boundaries, for containing leaks within manageable zones.
+      But I cannot implement them alone. I need investigators with enhanced temporal perception to assist."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I can help," you offer. "My temporal perception can support your stabilization efforts."
+      Kai nods. "Your assistance would be valuable. Together, we could contain the leaks, preventing uncontrolled temporal collapse while preserving the benefits of folded time."
+choices:
+  - text: "Commit to leak stabilization assistance"
+    goto: ch12_stabilization_commitment
+    set:
+      leak_stabilization: 1
+      assistance_offered: 1

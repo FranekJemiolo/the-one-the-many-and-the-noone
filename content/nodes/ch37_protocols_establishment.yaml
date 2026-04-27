@@ -1,0 +1,30 @@
+id: ch37_protocols_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the communication protocols, helping the Null Child and the system create methods for basic communication between the Null Zone and the rest of the system.
+      The protocols begin operation, with the Null Zone participating in basic exchanges while maintaining its minimal interpretation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The communication protocols are successful," the Null Child and the system report after months of operation. "The Null Zone is now connected to the broader system, able to participate in basic communication while preserving its minimal nature."
+      "The system's comprehensiveness has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the communication protocols, attempting to prevent the Null Zone from integrating with the system."
+      "But the integration is self-validating—once the system experiences the benefits of including minimal interpretation zones, it recognizes the value."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Null Child and the system agree. "The Engine cannot reverse the integration. The communication protocols are becoming established, and the Null Zone is evolving toward managed integration."
+      "The protocols establishment is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the protocols established"
+    goto: ch37_void_management
+    set:
+      protocols_establishment: 1
+      null_zone_integrated: 1

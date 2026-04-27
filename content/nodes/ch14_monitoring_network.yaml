@@ -1,0 +1,31 @@
+id: ch14_monitoring_network
+content:
+  - type: text
+    value: |
+      "Propose creating a bias monitoring network," you suggest, wanting to scale the capacity to counteract the Engine's intensifying bias.
+      Koval agrees. "A distributed network of bias monitors would significantly increase our capacity to prevent permanent truth loss."
+      "We can train investigators with enhanced perception to recognize the Engine's bias and intervene when necessary."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The network would operate like the sanctuary network," you observe. "Distributed, resilient, with no single point of failure."
+      "Each monitor would operate independently but coordinate with others, sharing information about bias intensity and intervention success."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval begins developing training protocols for bias monitoring, teaching investigators to recognize the signs of permanent compression risk and methods for reintroducing truth.
+      You identify candidates with enhanced perception who could be trained as monitors.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The network is taking shape," Koval reports after weeks of development. "We have trained the first cohort of monitors, and they are already identifying risks that would have been missed without enhanced perception."
+      "The network is operational and scaling."
+choices:
+  - text: "Connect the monitoring network to the broader Resistance"
+    goto: ch14_resistance_connection
+    set:
+      monitoring_network: 1
+      resistance_chosen: 1

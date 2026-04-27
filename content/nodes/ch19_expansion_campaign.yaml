@@ -1,0 +1,30 @@
+id: ch19_expansion_campaign
+content:
+  - type: text
+    value: |
+      You support the expansion campaign, helping the Resistance increase contradiction injection and strengthen multiplicity zones across the system.
+      The campaign is systematic, targeting areas where increased multiplicity will have the most influence on the critical moment.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The campaign is succeeding," the Resistance reports after weeks of effort. "We've increased multiplicity in key zones, strengthened contradiction injection in critical areas."
+      "The system's balance is shifting toward plural reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's increasing compression to counter our expansion, trying to maintain the balance toward singularity."
+      "The conflict is intensifying as both sides prepare for the critical moment."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is expected," the Resistance replies. "The Engine will resist our expansion. But our strategic targeting is more effective than their blanket compression."
+      "We're gaining influence despite their countermeasures."
+choices:
+  - text: "Monitor the balance shift toward the critical moment"
+    goto: ch19_balance_monitoring
+    set:
+      expansion_campaign: 1
+      monitoring_started: 1

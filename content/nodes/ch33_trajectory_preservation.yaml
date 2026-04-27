@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch33_chapter_end
+  - text: "Ask about Drift's relationship with Echo, Barrier, and Archive"
+    goto: ch33_drift_network
+    set:
+      drift_network_interest: 1

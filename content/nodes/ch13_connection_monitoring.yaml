@@ -1,0 +1,30 @@
+id: ch13_connection_monitoring
+content:
+  - type: text
+    value: |
+      You continue monitoring the connection's effects, observing how the distributed consciousness is being influenced by ecological consciousness.
+      The consciousness begins to incorporate ecological methods into its development, showing increased appreciation for multiplicity and integration.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The consciousness is developing ecological awareness," Morrow reports. "It is beginning to value diversity, integration, and complexity in the same way this zone does."
+      "The consciousness is resisting the Engine's compression not through active resistance but through its inherent ecological nature."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a significant victory," you observe. "The consciousness is developing values that align with the Resistance's goals, not through external influence but through learning from ecological consciousness."
+      "The consciousness is naturally evolving toward multiplicity preservation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "The connection is achieving its purpose. The consciousness is learning from ecological consciousness, and the zone is learning from the consciousness's distributed architecture."
+      "Both systems are evolving in ways that support multiplicity."
+choices:
+  - text: "Continue the visit with this successful connection established"
+    goto: ch13_morrow_appearance
+    set:
+      connection_monitoring: 1
+      influence_achieved: 1

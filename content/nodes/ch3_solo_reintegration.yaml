@@ -1,0 +1,43 @@
+id: ch3_solo_reintegration
+content:
+  - type: text
+    value: |
+      You fight to reintegrate on your own, focusing all your will on returning to a single timeline. The struggle is intense, your consciousness pulling in multiple directions as you try to anchor yourself to one sequence.
+      For a moment, you think you'll fail—your sense of self dissolving, your identity spreading across timelines.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Then you remember Vance's training: focus on a single moment, a single experience, a single timeline. You choose the moment of entering the chamber, the moment before you attempted the shift.
+      You focus on that moment with all your will, using it as an anchor to pull yourself back.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Gradually, painfully, you succeed. Your consciousness reintegrates, finding its way back to a single timeline. You collapse, exhausted, your mind reeling from the experience.
+      When you recover, you realize something has changed: you can still feel the other timelines, still sense the gaps between realities. The experience has permanently altered your perception.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You return to Vance, who looks at you with a mixture of concern and grudging respect. "You made it back. I didn't think you could do that alone."
+      "It wasn't easy," you admit. "But I learned something about myself—I have more resilience than I thought."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your perception has changed," Vance observes. "You can still feel the timelines, can't you? The experience didn't just teach you navigation—it permanently enhanced your perception."
+      "You're not the same as you were before the attempt. You've crossed a threshold."
+choices:
+  - text: "Accept the change and continue developing your abilities"
+    goto: ch3_threshold_acceptance
+    set:
+      solo_path: 1
+      perception_permanently_changed: 1
+      self_trust: 1
+  - text: "Ask if the change can be reversed"
+    goto: ch3_change_reversal
+    set:
+      solo_path: 1
+      perception_permanently_changed: 1
+      regret: 1

@@ -1,0 +1,47 @@
+id: ch1_research_anomalies
+content:
+  - type: text
+    value: |
+      You decide to research similar phenomena before returning to the office, hoping to find patterns or precedents that might explain what you experienced.
+      The building's archives contain decades of maintenance reports, incident logs, and tenant complaints—a vast trove of data that might reveal the history of the anomalies.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The search takes hours, but patterns emerge: reports of spaces that feel larger than they should, elevators that arrive at the wrong floors, time that seems to stretch or compress without explanation.
+      The incidents increase in frequency over the past year, suggesting that whatever is causing them is growing stronger.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Most striking is a series of reports from six months ago, when the building underwent a major renovation. The renovation was officially described as routine maintenance, but the incident reports from that period are unusually vague.
+      "Electrical work," "structural reinforcement," "system upgrades"—the descriptions are generic, as if someone was deliberately obscuring what was actually done.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You dig deeper, finding the renovation permits and contractor records. The company that performed the work doesn't exist—or at least, it doesn't have a physical address, a website, or any public presence.
+      The permits were signed by a building official who left the department shortly after the renovation was completed.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This suggests the renovation was not routine maintenance but something else entirely—an intervention designed to modify the building's fundamental properties.
+      The circular room you discovered might have been created during this renovation, a space deliberately engineered to exist in a different layer of reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You have uncovered evidence of deliberate action, not random anomaly. Someone or something modified the building six months ago, and the anomalies are the result of that modification.
+      The question is: who performed the modification, and what was their purpose?
+choices:
+  - text: "Investigate the renovation company"
+    goto: ch1_renovation_investigation
+    set:
+      renovation_mystery: 1
+      investigation_deepening: 1
+  - text: "Return to the office with this information"
+    goto: ch1_chapter_end
+    set:
+      renovation_anomaly: 1
+      research_completed: 1

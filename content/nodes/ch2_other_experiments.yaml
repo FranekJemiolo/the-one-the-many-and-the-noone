@@ -1,0 +1,47 @@
+id: ch2_other_experiments
+content:
+  - type: text
+    value: |
+      "What other experiments is the system conducting?" you ask, needing to understand the scope of what you're dealing with.
+      The Patient thinks for a moment, their eyes unfocusing as if they're accessing information not stored in their own mind.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "There are many," they say finally. "Memory divergence experiments, like the witnesses you investigated. Temporal distortion experiments, like the building's elevators.
+      Emotional-causal split experiments, like my condition. Each experiment explores a different aspect of how beings experience reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is trying to understand the full range of possible experiences," the Patient explains. "It wants to know what happens when different layers of reality are emphasized or suppressed.
+      It wants to understand the relationship between observer and observed, between perception and reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Are the experiments dangerous?" you ask.
+      "They can be," the Patient acknowledges. "The system doesn't always understand the effects of its experiments on the subjects. Sometimes the changes are permanent.
+      Sometimes the subjects... don't survive the process."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This warning is chilling. The system's curiosity is not benign—it's willing to sacrifice subjects in pursuit of understanding.
+      You are one of those subjects, whether you agreed to be or not.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Why me?" you ask. "Why was I chosen for these investigations?"
+      The Patient looks at you with something like pity. "You weren't chosen. You chose yourself. Your sensitivity to anomalies, your ability to perceive layers of reality—these made you a natural subject.
+      The system didn't select you. It simply recognized what you already were."
+choices:
+  - text: "Accept your role as a subject"
+    goto: ch2_subject_acceptance
+    set:
+      subject_role_accepted: 1
+  - text: "Reject the system's experiments"
+    goto: ch2_subject_rejection
+    set:
+      subject_role_rejected: 1

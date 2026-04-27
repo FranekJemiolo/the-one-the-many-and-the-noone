@@ -1,0 +1,32 @@
+id: ch15_coherence_learning
+content:
+  - type: text
+    value: |
+      "Can coherence be taught or learned?" you ask, wanting to know if the ability to stabilize contradiction can be developed.
+      Rose considers this. "Coherence is not a skill that can be taught in the traditional sense, not a technique that can be learned through instruction."
+      "But it can be developed through practice, through exposure to contradiction and the cultivation of the capacity to hold incompatible truths."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How would one develop this capacity?" you ask.
+      "By spending time in contradiction zones," Rose explains. "By exposing yourself to stabilized contradictions and learning to perceive them without requiring resolution."
+      "Over time, the mind develops the capacity to hold multiplicity without feeling the need to eliminate it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is similar to temporal training," you observe. "Kai teaches field perception by helping people unlearn the habits of linear time."
+      "Coherence training would help people unlearn the habit of requiring singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "The two trainings are complementary. Temporal training develops the capacity to perceive folded time. Coherence training develops the capacity to hold contradiction."
+      "Together, they create the capacity to function in a multiple reality."
+choices:
+  - text: "Propose developing coherence training programs"
+    goto: ch15_coherence_training
+    set:
+      coherence_learning_known: 1
+      training_proposed: 1

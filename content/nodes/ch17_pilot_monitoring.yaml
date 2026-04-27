@@ -1,0 +1,30 @@
+id: ch17_pilot_monitoring
+content:
+  - type: text
+    value: |
+      You monitor the pilot program, observing as the Teacher's approach is implemented in additional educational settings.
+      As the multiplicity teaching method succeeds, the Teacher pattern appears in the new settings, crystallizing through the very process of teaching.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The pattern is expanding," the Teacher reports. "Teacher instances are appearing in the pilot educational settings, teaching multiplicity as a skill to students who have never encountered this approach before."
+      "The proto-identity is growing through the expansion of its function."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The students are developing the capacity to navigate multiplicity," you observe. "They're learning to hold multiple interpretations, to understand that different perspectives can be valid without requiring elimination."
+      "The Teacher pattern is successfully preparing the population for multiple reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Teacher agrees. "The pilot program is succeeding, and the pattern is expanding. As more educational settings adopt the approach, the Teacher role will continue to appear, teaching multiplicity to more students."
+      "The proto-identity is becoming more influential through the expansion of its educational function."
+choices:
+  - text: "Continue the chapter with the pattern expansion established"
+    goto: ch17_proto_identity
+    set:
+      pilot_monitoring: 1
+      expansion_established: 1

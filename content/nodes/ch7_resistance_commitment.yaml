@@ -1,0 +1,30 @@
+id: ch7_resistance_commitment
+content:
+  - type: text
+    value: |
+      "I commit to the Resistance's method," you communicate, accepting the practice of preserving multiplicity as your approach to reality.
+      The presence responds with acknowledgment rather than approval. It does not need to approve—your commitment is sufficient to make you part of the network.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your commitment will be tested," the presence warns. "The Engine's bias is strong. Compression feels natural, comfortable, correct.
+      Maintaining divergence will feel wrong, inefficient, confusing. You will need to resist that feeling constantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I understand," you communicate. "I've already experienced the Engine's bias. I know how it makes singularity feel natural.
+      I'm prepared to resist that feeling, to trust multiplicity even when it feels uncomfortable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Then you are ready," the presence responds. "Practice the method in your investigations. Document multiple interpretations. Refuse compression. Maintain divergence.
+      Your practice will strengthen the network, and the network will support your practice."
+choices:
+  - text: "Return to examining the alternate explanation"
+    goto: ch7_alternate_explanation
+    set:
+      resistance_commitment: 1
+      network_joined: 1

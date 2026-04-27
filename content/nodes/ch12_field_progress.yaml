@@ -1,0 +1,31 @@
+id: ch12_field_progress
+content:
+  - type: text
+    value: |
+      You continue field perception training, practicing until you can consistently perceive causality as a field rather than a line.
+      The field perception becomes more natural over time, requiring less conscious effort as your perception adapts to folded time.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You're ready for layer navigation," Kai says after weeks of training. "Layer navigation is learning to move between different temporal layers, to access different versions of the present moment."
+      "This requires developing temporal mobility—the ability to shift your temporal perspective."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do I shift my temporal perspective?" you ask.
+      "By focusing your perception on a specific temporal layer," Kai explains. "Imagine the present moment as having multiple versions, each representing a different relationship between past, present, and future.
+      Focus on one version, and your perception will shift to that layer."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You attempt to shift your temporal perspective, focusing on a version of the present where the future is more prominent. Your perception shifts, and you perceive the present differently—the future feels closer, more accessible, more like memory.
+      The layer navigation works, though it requires concentration to maintain.
+choices:
+  - text: "Practice layer navigation until it becomes natural"
+    goto: ch12_layer_practice
+    set:
+      field_progress: 1
+      layer_chosen: 1

@@ -1,0 +1,30 @@
+id: ch10_pilot_implementation
+content:
+  - type: text
+    value: |
+      You implement the energy optimization pilot, gradually reducing enforcement while monitoring both energy consumption and stability.
+      As enforcement decreases, energy consumption drops significantly, confirming that singularity is resource-intensive.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      More importantly, stability is maintained. The zone does not collapse, does not experience chaos, does not show any of the problems the leadership fears.
+      Multiplicity emerges naturally as enforcement decreases, and contrary to the leadership's beliefs, the zone remains functional.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The pilot is succeeding on both metrics," Seraph reports. "Energy consumption is down by 40%, and stability is unchanged.
+      This provides compelling evidence that reduced enforcement is viable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The energy savings alone justify broader implementation," you observe. "But the stability of multiplicity provides the ideological justification.
+      We can argue that the system should evolve toward multiplicity not just for efficiency, but because it's actually more aligned with how reality works."
+choices:
+  - text: "Document the pilot results and prepare for expansion"
+    goto: ch10_pilot_expansion
+    set:
+      pilot_implementation: 1
+      expansion_prepared: 1

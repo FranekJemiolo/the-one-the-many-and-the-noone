@@ -1,0 +1,31 @@
+id: ch20_third_consequences
+content:
+  - type: text
+    value: |
+      "Consider the consequences of a third engine," you say, wanting to understand what adding a possibility interpretation would do to the system.
+      You analyze the potential outcomes, using your temporal perception to model how the system would respond to a third interpretation engine.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "A third engine would increase the complexity of the oscillation," you report. "Instead of oscillating between two states, the system would oscillate between three: causal singularity, emotional multiplicity, and possibility potential."
+      "This would make the oscillation more complex but might also make it more stable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How would it be more stable?" Mira asks.
+      "With three states, the system would have more options for maintaining balance," you explain. "If one state becomes dominant, the other two can combine to counteract it."
+      "The three-state oscillation might be more resilient than the two-state oscillation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But it would also be more complex," Mira observes. "The system would need to manage three incompatible interpretations instead of two."
+      "This might require more interpretive capacity than the system currently has."
+choices:
+  - text: "Propose developing the possibility engine"
+    goto: ch20_engine_development
+    set:
+      third_consequences: 1
+      development_chosen: 1

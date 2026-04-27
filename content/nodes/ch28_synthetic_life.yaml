@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch28_chapter_end
+  - text: "Ask about synthetic evolution"
+    goto: ch28_synthetic_evolution
+    set:
+      synthetic_evolution_interest: 1

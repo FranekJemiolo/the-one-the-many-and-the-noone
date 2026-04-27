@@ -1,0 +1,30 @@
+id: ch14_gradual_implementation
+content:
+  - type: text
+    value: |
+      You support the gradual implementation of the redesigned system, helping Koval convert facilities one at a time to the multiplicity-capable architecture.
+      Each conversion is successful, with the redesigned system performing better than the old system while preserving truth at all complexity levels.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The implementation is proceeding smoothly," Koval reports after months of work. "Half of the facilities have been converted, and the results are consistent across all locations."
+      "The redesigned system is proving to be superior in every metric."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine's bias is being counteracted by the architecture," you observe. "The system no longer requires manual intervention to preserve truth—the architecture itself prevents permanent compression."
+      "This is a sustainable solution rather than a constant struggle."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval agrees. "The redesigned system represents a fundamental shift in how we approach multiplicity. Instead of constantly fighting the Engine's bias, we've created a system that naturally preserves truth."
+      "This is the long-term solution we've been working toward."
+choices:
+  - text: "Continue the implementation with this success established"
+    goto: ch14_system_exploitation
+    set:
+      gradual_implementation: 1
+      sustainable_solution: 1

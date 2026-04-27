@@ -1,0 +1,31 @@
+id: ch12_leak_capabilities
+content:
+  - type: text
+    value: |
+      "What capabilities do you have in the leak?" you ask, wanting to understand how Kai navigates folded time.
+      Kai explains that his primary capability is temporal field perception—the ability to perceive causality as a field rather than a line, to see how future, present, and past influence each other simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can perceive causal loops," he says. "I can see how a future memory influences present decisions, which then create the future that was remembered.
+      I can trace the entire causal field, understanding how influence moves in multiple directions at once."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can also navigate the leak," Kai continues. "I can move between different temporal layers, accessing different versions of the present moment.
+      This allows me to gather information from multiple temporal perspectives before making decisions."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Can you teach me to navigate the leak?" you ask.
+      "Your temporal perception is already enhanced," Kai replies. "You have the foundation for leak navigation. With training, you could learn to perceive causal fields and move between temporal layers."
+      "But full adaptation to the leak would require permanent residence in the temporal boundary."
+choices:
+  - text: "Ask about the training required"
+    goto: ch12_leak_training
+    set:
+      capabilities_known: 1
+      training_interest: 1

@@ -1,0 +1,49 @@
+id: ch1_journal_study
+content:
+  - type: text
+    value: |
+      You decide to study the journals in the storage unit, wanting to understand Vane's complete theory before returning to the office.
+      The reading takes hours, but patterns emerge in Vane's thinking—evolution from architectural theory to metaphysics to something that resembles a kind of technological mysticism.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In the final journal, written shortly before his death, Vane describes a vision: "The building will become a bridge between realities, a place where different versions of the world can meet and interact.
+      Those who enter will be changed—not just by what they experience, but by what they become. The building will not just contain them; it will incorporate them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This sounds like a warning, but also like a prophecy. The building is designed to incorporate people into its consciousness, to use them as nodes in its reality-shaping network.
+      The circular room you discovered might be the mechanism for this incorporation—the place where people are changed.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Vane's final entry is chilling: "I have tried to modify the design to limit this effect, but the client has rejected my changes. They want the full incorporation functionality.
+      I fear what will happen when the building awakens. I fear that those who enter will not be able to leave—not physically, but as distinct individuals."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You realize you've already begun the incorporation process. The object in the circular room changed you, gave you the ability to perceive layers of reality.
+      You're becoming part of the building's network, whether you want to or not.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      But Vane also left hope: "The incorporation can be resisted, but only by maintaining a strong sense of self. Identity is the anchor that prevents complete absorption.
+      Those who know who they are, who hold to their identity despite the building's influence, can navigate the phenomenon without being consumed."
+choices:
+  - text: "Return to the office, determined to maintain your identity"
+    goto: ch1_chapter_end
+    set:
+      vane_journals_obtained: 1
+      identity_resistance: 1
+      incorporation_understood: 1
+  - text: "Accept the incorporation as inevitable"
+    goto: ch1_chapter_end
+    set:
+      vane_journals_obtained: 1
+      incorporation_accepted: 1
+      identity_surrender: 1

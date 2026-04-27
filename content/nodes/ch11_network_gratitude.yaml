@@ -1,0 +1,33 @@
+id: ch11_network_gratitude
+content:
+  - type: text
+    value: |
+      "Thank you for the assistance," you say to Lys, expressing gratitude for the network's unseen support. "I want to support the network in return."
+      Lys nods, accepting your gratitude. "The network does not require thanks, but it appreciates recognition."
+      "Your willingness to support the network in return is valuable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How can I support the network?" you ask.
+      "The network needs energy support, temporal perception, and advocacy," Lys explains. "Energy support to maintain sanctuaries. Temporal perception to stabilize interpretive fields.
+      Advocacy to protect the network from the Engine's enforcement."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can provide all three," you say. "Energy support through my temporal perception. Advocacy through my position as an investigator.
+      And I can help others access the network when they need memory reconciliation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Lys accepts your offer. "The network will recognize you as an ally and will provide you with access to its services.
+      When you have contradictory memories that need stabilization, the sanctuary will appear to you."
+      "And when the network needs your assistance, it will request your help."
+choices:
+  - text: "Accept the alliance with the sanctuary network"
+    goto: ch11_network_alliance
+    set:
+      network_gratitude: 1
+      alliance_formed: 1

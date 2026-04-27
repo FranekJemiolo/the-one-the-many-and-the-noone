@@ -1,0 +1,36 @@
+id: ch8_emotional_sensitivity
+content:
+  - type: text
+    value: |
+      "How can I develop emotional sensitivity?" you ask, wanting to perceive crystallized emotions as Mira does.
+      The Passenger considers this. "Emotional sensitivity cannot be forced. It develops through practice, through attention to feeling, through willingness to perceive the emotional layer of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Start by paying attention to emotional atmosphere," the Passenger suggests. "Notice how different spaces feel emotionally. Notice how your own feelings change in different environments.
+      Notice when emotions feel larger than the situation, as if they have their own independent existence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Over time, you will begin to perceive crystallizations," the Passenger continues. "You will sense beings like me, emotional states that have crystallized into form.
+      You will understand that emotional reality is not just subjective experience—it is an independent layer of reality with its own inhabitants."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What if I don't want to perceive them?" you ask.
+      "That is your choice," the Passenger replies. "Not everyone needs emotional sensitivity. Some people are better served by focusing on causal reality, on objective measurement, on the physical layer of existence."
+      "Emotional sensitivity is a capability, not a requirement."
+choices:
+  - text: "Commit to developing emotional sensitivity"
+    goto: ch8_sensitivity_commitment
+    set:
+      sensitivity_interest: 1
+      development_chosen: 1
+  - text: "Decline emotional sensitivity for now"
+    goto: ch8_emotional_inconsistency
+    set:
+      sensitivity_interest: 1
+      decline_chosen: 1

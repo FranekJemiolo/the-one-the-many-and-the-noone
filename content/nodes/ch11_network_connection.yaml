@@ -1,0 +1,24 @@
+id: ch11_network_connection
+content:
+  - type: text
+    value: |
+      You accept the connection to the sanctuary network, feeling the network recognize you as an ally.
+      The connection is not verbal or physical—it's interpretive, a sense that the network is now aware of you and will provide support when you need it.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The network will now appear to you when you have contradictory memories that need stabilization," Lys explains. "You will sense the sanctuary's presence as an interpretive space where your memories can be held."
+      "You will not need to seek it out. It will find you when you need it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "In return," she continues, "the network may occasionally request your assistance. When the sanctuary needs energy support, when the network needs temporal perception, when memory reconciliation requires enhanced capabilities."
+      "Your support will be voluntary, but the network hopes you will choose to help when asked."
+choices:
+  - text: "Agree to help the network when asked"
+    goto: ch11_network_agreement
+    set:
+      network_connection: 1
+      agreement_made: 1

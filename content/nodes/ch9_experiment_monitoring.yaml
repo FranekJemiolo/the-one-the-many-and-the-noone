@@ -1,0 +1,30 @@
+id: ch9_experiment_monitoring
+content:
+  - type: text
+    value: |
+      You monitor the experiment's progress, observing how the system handles multiplicity in the controlled environment.
+      The initial results are promising: the system successfully processes multiple narratives without collapsing, maintaining coherence while preserving divergence.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is adapting," Seraph observes. "It's learning to handle multiple interpretations without requiring compression.
+      The Engine's bias is trying to make multiplicity feel wrong, but the system is resisting that bias, demonstrating that multiplicity can be functional."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Over time, the experiment expands to more complex cases, testing the system's capabilities with increasingly difficult anomalies.
+      The system continues to adapt, suggesting that the current architecture is more flexible than anyone realized.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This experiment could change everything," Seraph says. "If the system can handle multiplicity, then the entire justification for enforcement collapses.
+      We could redesign the entire system based on what we're learning here."
+choices:
+  - text: "Continue monitoring and expand the experiment"
+    goto: ch9_experiment_expansion
+    set:
+      experiment_monitoring: 1
+      expansion_chosen: 1

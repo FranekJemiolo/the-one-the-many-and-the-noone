@@ -1,0 +1,37 @@
+id: ch8_crystallization_fading
+content:
+  - type: text
+    value: |
+      "Can crystallized emotions fade?" you ask, wondering if the Passenger will eventually cease to exist.
+      The Passenger considers this. "Crystallizations can fade, but they do not disappear. When the emotional intensity that sustains them diminishes, they become less active, less visible, less capable of interaction."
+      "But they remain present in the emotional layer, dormant until the intensity returns."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What would cause you to fade?" you ask.
+      "If transit ceased to be emotionally significant," the Passenger explains. "If people stopped experiencing journeys with intensity, if the feeling of passage through space and time became emotionally neutral, then my crystallization would fade."
+      "But as long as transit remains emotionally charged, I will continue to exist."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So crystallizations are sustained by ongoing emotional experience," you realize.
+      "Exactly," the Passenger agrees. "I am not just the crystallization of one commuter's experience. I am the crystallization of all transit experience, the collective feeling of journey that exists across many people."
+      "As long as people feel transit intensely, I will continue to be."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a profound insight: crystallized emotions are sustained by collective emotional experience, not just individual feeling.
+      The Passenger is not just one person's crystallization—they are the crystallization of a universal human experience, the feeling of transit that countless people share.
+choices:
+  - text: "Ask about other collective crystallizations"
+    goto: ch8_collective_crystallizations
+    set:
+      fading_understood: 1
+      collective_interest: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      fading_understood: 1

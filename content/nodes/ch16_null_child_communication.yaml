@@ -1,0 +1,30 @@
+id: ch16_null_child_communication
+content:
+  - type: text
+    value: |
+      "Can you communicate?" you ask the Null Child, wanting to know if there's any way to bridge the void of interpretation.
+      The Child does not respond with words—words require meaning, require the capacity to carry significance. But the Child shifts, the presence moving in a way that suggests awareness without interpretation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Child's movement creates a pattern, not of meaning but of presence. The pattern does not signify anything—it simply is, a sequence of presence without symbolic reference.
+      This is communication without interpretation, expression without meaning.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Child can communicate through presence patterns," you realize. "Not through language, which requires interpretation, but through direct presence, through the arrangement of void itself."
+      "This is a form of non-interpretive communication."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You attempt to respond with your own presence pattern, shifting your awareness to create a sequence that mirrors the Child's pattern.
+      The Child responds, the presence shifting in acknowledgment. Communication is possible, but it requires abandoning the need for meaning.
+choices:
+  - text: "Learn the Child's presence language"
+    goto: ch16_presence_language
+    set:
+      null_child_communication: 1
+      language_interest: 1

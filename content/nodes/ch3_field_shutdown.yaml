@@ -1,0 +1,37 @@
+id: ch3_field_shutdown
+content:
+  - type: text
+    value: |
+      "Can the field be shut down?" you ask, wondering if the temporal instability can be eliminated by deactivating the synchronization field.
+      Vance considers this. "Theoretically, yes. The field can be deactivated. But the consequences would be... unpredictable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The field is maintaining the station's stability across multiple timelines," she explains. "If we shut it down, all those timelines would collapse into a single sequence.
+      The problem is we don't know which sequence would become dominant. It could be any of the timelines currently being experienced—or none of them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What would happen to the researchers?" you ask.
+      "They would be forced into a single timeline," Vance replies. "But if that timeline doesn't match their current experience, the transition could be traumatic.
+      Imagine experiencing a sequence of events, then suddenly finding yourself in a different sequence where those events never happened. The cognitive dissonance could be severe."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Is there a way to control which timeline becomes dominant?" you ask.
+      "Not with current technology," Vance says. "The field operates on principles we don't fully understand. Shutting it down would be like cutting a rope without knowing which side you'll fall on."
+      "The result could be catastrophic—or it could be benign. We have no way to predict."
+choices:
+  - text: "Investigate ways to control the timeline collapse"
+    goto: ch3_collapse_control
+    set:
+      field_mechanism_known: 1
+      control_interest: 1
+  - text: "Leave the field operational for now"
+    goto: ch3_clock_inconsistency
+    set:
+      field_mechanism_known: 1
+      caution_chosen: 1

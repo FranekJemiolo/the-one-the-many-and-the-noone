@@ -1,0 +1,31 @@
+id: ch10_energy_pilot
+content:
+  - type: text
+    value: |
+      "Propose the experiment as a pilot for energy optimization," you suggest. "Frame it as a test of whether reduced enforcement can lower energy consumption while maintaining stability.
+      This aligns with leadership's priorities and provides a legitimate reason to test multiplicity."
+      Seraph agrees. "The energy optimization framing is strategic. Leadership is under pressure to reduce costs, and they're more likely to approve an experiment that promises savings."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She drafts the pilot proposal, emphasizing the potential energy savings while downplaying the ideological implications.
+      The proposal argues that reduced enforcement could lower power consumption without compromising stability, providing a cost-benefit analysis that leadership will find compelling.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If the pilot succeeds," Seraph explains, "we can present the results as evidence that reduced enforcement is viable.
+      The energy savings will provide immediate justification, while the stability of multiplicity will provide long-term justification for broader reform."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The pilot proposal is submitted, and leadership approves it quickly, attracted by the promise of cost savings.
+      Implementation begins immediately, with you providing technical guidance on how to reduce enforcement while monitoring stability.
+choices:
+  - text: "Implement the energy optimization pilot"
+    goto: ch10_pilot_implementation
+    set:
+      energy_pilot: 1
+      pilot_implementation: 1

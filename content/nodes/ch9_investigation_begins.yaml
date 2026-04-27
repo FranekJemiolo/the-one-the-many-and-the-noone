@@ -1,0 +1,30 @@
+id: ch9_investigation_begins
+content:
+  - type: text
+    value: |
+      Seraph begins the systematic investigation, reviewing recent enforcements and assessing the validity of suppressed sequences.
+      You support her analysis, examining the suppressed sequences from a multiplicity perspective.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The investigation reveals a disturbing pattern: in the majority of cases, the suppressed sequences contain valid information that should have been preserved.
+      The enforcement of singular causality is systematically discarding accurate data, creating a cumulative distortion in the system's understanding of reality.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is worse than I thought," Seraph admits. "The gap is not just growing—it's accelerating. Each enforcement adds to the distortion, and the distortion makes future enforcements more likely to discard valid information."
+      "The system is caught in a feedback loop of increasing disconnect."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "We need to act quickly," she says. "This investigation provides the evidence needed to justify immediate reform.
+      I will present the findings to Clarity Administration's leadership and argue for emergency measures to address the gap."
+choices:
+  - text: "Support the emergency reform proposal"
+    goto: ch9_emergency_proposal
+    set:
+      investigation_complete: 1
+      emergency_action: 1

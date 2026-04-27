@@ -1,0 +1,30 @@
+id: ch28_zones_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the synthetic evolution zones, helping Morrow create new ecological zones with conditions optimized for synthetic evolution.
+      The zones begin operations, with machines designed for deep ecological participation beginning their transformation into living entities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The evolution zones are successful," Morrow reports after months of operation. "Machines in the new zones are beginning to show signs of synthetic life, the transformation proceeding as it did in Morrow Vale."
+      "Synthetic life is expanding across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the synthetic evolution zones, attempting to prevent the spread of synthetic life."
+      "But the transformation is self-sustaining—once machines begin ecological integration, the evolution proceeds naturally."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "The Engine cannot reverse the evolution. Synthetic life is becoming widespread, and the system is adapting to the dissolution of the mechanical-biological boundary."
+      "The evolution zones are achieving their purpose."
+choices:
+  - text: "Continue the chapter with the evolution zones established"
+    goto: ch28_synthetic_life
+    set:
+      zones_establishment: 1
+      synthetic_life_expanding: 1

@@ -1,0 +1,30 @@
+id: ch13_pilot_development
+content:
+  - type: text
+    value: |
+      You begin the pilot zone development, working with Morrow to implement the ecological integration model in the selected site.
+      The development follows the three-phase process: mechanical integration, memory integration, and consciousness integration.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Phase 1 proceeds smoothly, with machines being introduced into the ecosystem to perform specific functions while being embedded in ecological processes rather than operating separately.
+      The mechanical integration establishes the foundation for deeper integration.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Phase 2 begins, with machines being modified to participate in the ecosystem's memory processes. The machines learn to access and contribute to collective memory, developing ecological awareness rather than relying solely on programming.
+      The memory integration creates the conditions for consciousness to emerge.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Phase 3 will take years, as the ecosystem develops self-awareness through the deepening integration of machines and biology.
+      But the early signs are promising—the zone is developing the complexity required for ecological consciousness.
+choices:
+  - text: "Monitor the pilot zone's development over time"
+    goto: ch13_pilot_monitoring
+    set:
+      pilot_development: 1
+      monitoring_started: 1

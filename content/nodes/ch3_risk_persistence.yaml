@@ -1,0 +1,37 @@
+id: ch3_risk_persistence
+content:
+  - type: text
+    value: |
+      "I need to learn this," you insist, despite Vance's warning. "I can't wait for perfect training. The situation is urgent."
+      Vance looks at you with concern. "Urgency is the enemy of temporal navigation. When you rush, you make mistakes. When you make mistakes with timelines, the consequences can be permanent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I understand the risks," you say. "But I also understand that waiting might be more dangerous. The organization behind these anomalies is building infrastructure for multiple realities.
+      If I don't develop the ability to navigate those realities, I'll be helpless when their plans reach completion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Vance considers this, then sighs. "I can't stop you from trying. But I can refuse to monitor you. If you attempt navigation without supervision, you do it alone."
+      "And if you get lost—if you spread across timelines and can't reintegrate—I won't be able to help you."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a choice: accept Vance's guidance and proper training, or continue alone with the risk of permanent temporal dissociation.
+      The stakes are higher than you initially understood—this isn't just about learning a skill, it's about the survival of your consciousness.
+choices:
+  - text: "Accept Vance's guidance and train properly"
+    goto: ch3_training_continues
+    set:
+      vance_mentor: 1
+      lesson_learned: 1
+      caution_chosen: 1
+  - text: "Continue alone despite the risks"
+    goto: ch3_solo_attempt
+    set:
+      vance_mentor: 0
+      risk_taking: 3
+      solo_path: 1

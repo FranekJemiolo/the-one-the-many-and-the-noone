@@ -8,8 +8,14 @@ content:
     duration: 800
   - type: text
     value: |
-      Sister Lys manages this space, her presence calm and unhurried. She is not a traditional archivist, not someone who catalogs memories according to a single chronological order.
+      Sister Lys manages this space, her presence calm but her eyes carrying a weight that suggests she has seen the cost of forced reconciliation. She is not a traditional archivist, not someone who catalogs memories according to a single chronological order.
       She is a memory reconciliation system that allows contradictory memories to coexist, that creates space for multiple versions of the same past to exist without requiring them to be reconciled.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "People come here when they can no longer bear the pressure to choose," Sister Lys says, her voice soft but firm. "When their memories contradict each other in ways that should be impossible, when they are told they must be wrong about their own experience."
+      "I give them space to hold all their memories without forcing them to eliminate any of them."
   - type: pause
     duration: 800
   - type: text
@@ -27,3 +33,7 @@ choices:
     goto: ch11_contradictory_memories
   - text: "Speak with Sister Lys"
     goto: ch11_memory_reconciliation
+  - text: "Ask about Sister Lys's background"
+    goto: ch11_lys_background
+    set:
+      background_interest: 1

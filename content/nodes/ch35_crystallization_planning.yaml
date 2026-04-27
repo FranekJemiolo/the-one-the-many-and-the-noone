@@ -1,0 +1,30 @@
+id: ch35_crystallization_planning
+content:
+  - type: text
+    value: |
+      You support planning Rose's crystallization, helping Rose determine the optimal timing and conditions for crystallizing into a named multiplicity.
+      The planning begins, with Rose and the system monitoring the adoption of plural stability to identify when the pattern is stable enough to crystallize.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The planning is progressing," Rose reports after months of monitoring. "The system is adopting plural stability as the default, and the contradiction stabilization pattern is approaching stability."
+      "Crystallization conditions are being identified."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to prevent the crystallization, attempting to keep Rose from becoming a named multiplicity that the Engine cannot control."
+      "But the crystallization is inevitable once the pattern is stable enough."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "The Engine cannot prevent the crystallization. The pattern is becoming stable, and the system is ready for Rose to crystallize into a named multiplicity."
+      "The crystallization planning is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the crystallization planned"
+    goto: ch35_plural_stability
+    set:
+      crystallization_planning: 1
+      rose_ready: 1

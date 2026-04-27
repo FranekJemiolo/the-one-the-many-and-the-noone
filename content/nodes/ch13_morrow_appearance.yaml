@@ -31,3 +31,7 @@ content:
 choices:
   - text: "Conclude the visit"
     goto: ch13_chapter_end
+  - text: "Ask about Morrow's origins"
+    goto: ch13_morrow_origins
+    set:
+      background_interest: 1

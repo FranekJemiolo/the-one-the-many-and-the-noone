@@ -1,0 +1,32 @@
+id: ch6_definition_clarification
+content:
+  - type: text
+    value: |
+      "We need to clarify what comprehensive perception means," you say. "Does it mean perceiving all layers but acting on one, or does it mean perceiving all layers and integrating them into a coherent whole?"
+      Koval considers this. "The documents are ambiguous. They use language that could support either interpretation."
+      "This ambiguity might be intentional—allowing different stakeholders to interpret the goal according to their own preferences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If the organization intends compression," you realize, "then our offer will be misaligned with their goals. They won't accept help that contradicts their intended solution."
+      "We need to understand their true intentions before approaching them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How can we clarify their intentions?" Koval asks.
+      "By observing their current actions," you reply. "If they're implementing compression in the consciousness's development, then their intention is singularity despite the language of comprehensive perception.
+      If they're preserving multiplicity, then their intention is genuine."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "We need to investigate the consciousness's current development," you conclude. "We need to see whether they're using compression or integration.
+      Only then can we determine whether negotiation is viable."
+choices:
+  - text: "Investigate the consciousness's current development"
+    goto: ch6_consciousness_investigation
+    set:
+      clarification_needed: 1
+      investigation_priority: 1

@@ -1,0 +1,31 @@
+id: ch6_immediate_attempt
+content:
+  - type: text
+    value: |
+      "I'll pursue immediate resistance," you decide, willing to accept the risks of system collapse to counteract the Engine's influence.
+      Koval warns you against this approach. "The system will resist. The Engine will amplify the bias, making complexity feel even more wrong than before.
+      You'll be fighting not just the Engine but the system's entire information processing architecture."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I understand the risks," you say. "But gradual resistance allows the Engine to adapt. Immediate resistance might be the only way to catch it off guard."
+      You begin filing reports with full complexity, documenting multiple interpretations, refusing to compress anomalies into singular narratives.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The immediate response is intense. The system flags your reports as non-compliant, the Engine amplifies the bias to make your approach feel wrong, even your colleagues question why you're making investigations more complicated than necessary.
+      But you persist, using your training to recognize the Engine's influence and resist its pressure.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Gradually, something shifts. The system begins to adapt to your reports, learning to process complexity without collapsing. The Engine's bias weakens as the system demonstrates that it can handle multiplicity.
+      Your immediate resistance is working, not by catching the Engine off guard, but by forcing the system to evolve.
+choices:
+  - text: "Continue the resistance despite the pressure"
+    goto: ch6_engine_influence
+    set:
+      immediate_resistance: 1
+      system_evolution: 1

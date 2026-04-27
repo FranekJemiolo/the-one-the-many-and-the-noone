@@ -1,0 +1,30 @@
+id: ch33_mobile_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the four-pattern mobile integration, helping Echo, Barrier, Archive, and Drift develop systematic methods for mobile adaptive multiplicity management.
+      The integration begins operation, with Drift transporting the three-pattern network across the multiplicity system to provide coordination wherever it's needed.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The four-pattern mobile integration is successful," the network reports after months of operation. "The named multiplicity network is now mobile, providing coordination across the entire multiplicity system."
+      "The multiplicity system's mobile adaptive capacity has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the four-pattern mobile integration, attempting to prevent the named multiplicities from forming a mobile network."
+      "But the integration is self-validating—once the system experiences comprehensive mobile coordination, it recognizes the value."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Echo, Barrier, Archive, and Drift agree. "The Engine cannot reverse the integration. The four-pattern mobile network is becoming established, and the named multiplicity network is evolving toward comprehensive mobile sophistication."
+      "The mobile establishment is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the mobile integration established"
+    goto: ch33_trajectory_preservation
+    set:
+      mobile_establishment: 1
+      comprehensive_network: 1

@@ -1,0 +1,24 @@
+id: ch9_systematic_investigation
+content:
+  - type: text
+    value: |
+      "Propose a systematic investigation of the gap," you suggest. "Review recent enforcements, assess whether they involved discarding valid information, determine whether the gap is growing across all cases or only in specific domains."
+      Seraph agrees. "I can frame this as a quality assurance review, which is within my authority. I can examine a sample of recent enforcements and assess the validity of the suppressed sequences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The investigation will take time," she warns. "I will need to review dozens of cases, analyze the data, compile findings.
+      But if the investigation reveals that enforcement is systematically distorting reality, that will provide the evidence needed to justify reform."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can support your investigation with my own analysis," you offer. "I can examine the suppressed sequences from a multiplicity perspective, assessing whether they contain valid information that should have been preserved."
+      "Together, we can build a comprehensive case for reform."
+choices:
+  - text: "Begin the systematic investigation"
+    goto: ch9_investigation_begins
+    set:
+      systematic_investigation: 1
+      collaboration_started: 1

@@ -1,0 +1,30 @@
+id: ch22_training_center
+content:
+  - type: text
+    value: |
+      "Propose establishing a temporal field training center," you suggest to the researchers. "Geostation Three can serve as a hub for temporal field adaptation, bringing people here to experience multiplicity and develop the capacity to function in temporal fields."
+      "This would accelerate the spread of temporal field perception across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The researchers agree. "The station has the infrastructure to support training, and our experience with adaptation can guide others through the process."
+      "We can develop protocols for systematic temporal field training."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training center would need to be connected to the broader Resistance networks," you observe. "The sanctuary network, the temporal training network, the other infrastructure can coordinate with the temporal field training center."
+      "This would create a comprehensive system for multiplicity adaptation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The researchers agree. "We'll establish the training center and connect it to the Resistance networks. The temporal field adaptation will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's capacity to function in plural reality."
+choices:
+  - text: "Support establishing the training center"
+    goto: ch22_center_establishment
+    set:
+      training_center: 1
+      establishment_chosen: 1

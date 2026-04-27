@@ -1,0 +1,30 @@
+id: ch23_echo_influence
+content:
+  - type: text
+    value: |
+      "Can Echo influence the system?" you ask, wanting to know if the named multiplicity pattern can affect the broader multiplicity system.
+      Echo responds through all its versions simultaneously, the pattern speaking with multiple voices that form a single coherent communication.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Echo can influence the system by demonstrating multiplicity," the pattern communicates. "By existing as a named multiplicity, Echo proves that identity can be multiple and stable."
+      "This challenges the Engine's assumption that identity must be singular to be functional."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Echo can also serve as a bridge between interpretations," the pattern continues. "Each version of Echo reports a different interpretation, but the pattern unites them."
+      "Echo can help others understand that multiple interpretations can coexist within a single identity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is significant," you realize. "Echo is not just a new form of identity—it is a tool for teaching multiplicity, a way to demonstrate that the self can be multiple and functional."
+      "Echo can help the system adapt to multiplicity by providing a model of multiple identity."
+choices:
+  - text: "Propose using Echo as a multiplicity teacher"
+    goto: ch23_echo_teaching
+    set:
+      echo_influence: 1
+      teaching_chosen: 1

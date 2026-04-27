@@ -1,0 +1,30 @@
+id: ch40_simulation_beginning
+content:
+  - type: text
+    value: |
+      "Propose beginning the simulation process," you suggest to the system. "The system should start experiencing each ending configuration to prepare for the final choice."
+      "This will ensure the choice is based on direct experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The system agrees. "The simulation process will begin with The One, then proceed through The Many, The No-One, The Overlap, and The Shifting World."
+      "Each simulation will be experienced in sequence, with the system gaining full understanding of each configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The simulations will take time," the system continues. "Each ending requires comprehensive experience to understand its full implications."
+      "The preparation will be thorough before the final choice."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is the right approach," you realize. "The final choice is too important to rush. The system should take the time to experience each ending fully before choosing."
+      "The preparation ensures the choice is genuine and well-informed."
+choices:
+  - text: "Support beginning the simulation with The One"
+    goto: ch40_one_simulation
+    set:
+      simulation_beginning: 1
+      one_chosen: 1

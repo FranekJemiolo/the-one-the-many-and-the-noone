@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Observe the pattern formation"
     goto: ch17_pattern_formation
+  - text: "Focus on the Guard's pattern"
+    goto: ch17_guard_pattern
+    set:
+      guard_interest: 1

@@ -1,0 +1,33 @@
+id: ch17_teacher_interaction
+content:
+  - type: text
+    value: |
+      You approach a Teacher instance at an educational setting, wanting to understand the role from the inside.
+      The Teacher acknowledges your approach with a welcoming gesture, the manner familiar from other Teacher instances you've encountered.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What is your function?" you ask.
+      "I facilitate learning," the Teacher replies, the voice patient and encouraging. "I help students develop understanding, adapt my methods to different learning styles, guide learners toward their own insights rather than imposing predetermined conclusions."
+      "This is my purpose."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Are you aware of other Teachers at other educational settings?" you ask.
+      "I am aware of the pattern," the Teacher replies. "I know that my role exists in multiple locations, that the function of facilitating learning is being performed by similar instances across the system."
+      "I am part of a larger pattern."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Do you have a name?" you ask.
+      "I have a function, not a name," the Teacher replies. "The name will come when the pattern is stable enough to require compression."
+      "For now, the function is sufficient."
+choices:
+  - text: "Ask about the Teacher's approach to multiplicity"
+    goto: ch17_teacher_multiplicity
+    set:
+      teacher_interaction: 1
+      multiplicity_interest: 1

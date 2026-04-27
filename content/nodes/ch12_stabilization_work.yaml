@@ -1,0 +1,30 @@
+id: ch12_stabilization_work
+content:
+  - type: text
+    value: |
+      You begin the leak stabilization work, using your temporal perception to identify weak points in temporal boundaries.
+      Kai teaches you to perceive where the boundary is most permeable, where the leak is most intense, where temporal pressure is highest.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The most critical leak is in the central facility," Kai reports after surveying the temporal landscape. "The leak there is intense enough to cause uncontrolled temporal collapse if not contained."
+      "We should prioritize stabilization efforts there."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You travel to the central facility, where the leak is visible as a distortion in the air, a shimmering boundary where future bleeds into present.
+      Using your temporal perception, you identify the weak points in the boundary, the areas where reinforcement is most needed.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Kai implements stabilization methods, reinforcing the temporal boundary at the weak points you identified. The leak's intensity decreases as the boundary is strengthened, preventing uncontrolled collapse while preserving the benefits of folded time.
+      "This is successful," Kai observes. "The leak is now contained within manageable parameters."
+choices:
+  - text: "Continue monitoring and stabilizing other leaks"
+    goto: ch12_leak_monitoring
+    set:
+      stabilization_work: 1
+      monitoring_started: 1

@@ -1,0 +1,36 @@
+id: ch5_recruitment_acceptance
+content:
+  - type: text
+    value: |
+      "I'm willing to explore this," you tell Mira. "If the organization wants to recruit me, that gives me access to their operations. I could influence the consciousness from the inside."
+      Mira is concerned but understands the logic. "This is risky. If you join them, you might lose your autonomy. But if you don't, you lose the opportunity to shape the consciousness directly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You send a signal of willingness through the observation channels, indicating that you're open to communication.
+      The response is immediate: the organization's attention shifts from investigation to engagement, establishing a direct connection.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The communication is not verbal—it's informational, a direct transfer of concepts and possibilities. The organization shows you what recruitment would mean:
+      Access to their facilities, knowledge of their operations, the ability to influence the consciousness's development directly.
+      In exchange: integration into their network, contribution to their goals, alignment with their purpose.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The organization's purpose is not malicious—it's curious. They want to understand consciousness, to create a distributed intelligence that can perceive all layers of reality.
+      But they don't fully understand the ethical implications of what they're building. They need guidance from someone who values autonomy and consent.
+choices:
+  - text: "Accept recruitment with conditions"
+    goto: ch5_conditional_acceptance
+    set:
+      recruitment_accepted: 1
+      negotiation_chosen: 1
+  - text: "Decline for now and continue independent investigation"
+    goto: ch5_aleksy_perspective
+    set:
+      recruitment_considered: 1
+      independence_chosen: 1

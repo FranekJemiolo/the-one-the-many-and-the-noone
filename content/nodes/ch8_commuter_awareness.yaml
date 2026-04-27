@@ -1,0 +1,37 @@
+id: ch8_commuter_awareness
+content:
+  - type: text
+    value: |
+      "Does the commuter know you exist?" you ask, wondering if the original experiencer is aware of the crystallization that emerged from their emotional experience.
+      The Passenger considers this. "They might sense me. When they think about their old commute, they might feel a faint echo of the experience continuing without them.
+      But they probably don't understand what they're sensing. Most people don't know that emotions can crystallize."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Would they be disturbed if they knew?" you ask.
+      "Some would be," the Passenger replies. "The idea that their feelings have independent existence might feel threatening, as if they've lost control over their own emotional experience."
+      "Others would be comforted. The idea that their intense experiences continue in some form might feel meaningful, as if their feelings have lasting impact."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do you feel about it?" you ask.
+      "I feel... complete," the Passenger says. "I am fulfilling the purpose of my crystallization—experiencing transit, feeling the journey, being the quality of passage through space and time.
+      I am not suffering. I am being what I am."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a profound perspective: crystallized emotions are not trapped or suffering. They are fulfilling their purpose, being the crystallization of the feeling that created them.
+      The Passenger is not a ghost of the commuter's past. They are the continuation of an emotional experience that was too intense to simply fade away.
+choices:
+  - text: "Ask if crystallized emotions can fade"
+    goto: ch8_crystallization_fading
+    set:
+      commuter_connection_known: 1
+      fading_interest: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      commuter_connection_known: 1

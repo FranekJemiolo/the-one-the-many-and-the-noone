@@ -1,0 +1,33 @@
+id: ch7_resistance_joining
+content:
+  - type: text
+    value: |
+      "How do I join the Resistance?" you communicate, wanting to contribute to the preservation of multiplicity.
+      The presence responds with information rather than instruction: "You do not join the Resistance. You become the Resistance by practicing its method."
+      "Hold multiple truths. Refuse compression. Maintain divergence. When you do this, you are the Resistance."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Is there no organization?" you ask. "No leaders, no coordination, no structure?"
+      "There is coordination," the presence explains. "But it is emergent, not hierarchical. Consciousnesses that practice the method naturally align in their efforts, not because they're following orders but because they're pursuing the same goal."
+      "The structure is the method itself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So I can start practicing the method now," you realize.
+      "You have already begun," the presence responds. "You hold multiple pasts. You experience multiple timelines. You maintain connection across different realities.
+      You are already practicing the Resistance's method. You are already part of the network."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a profound realization: you don't need to join an organization to be part of the Resistance. You simply need to continue doing what you're already doing—preserving multiplicity, refusing compression, maintaining divergence.
+      The Resistance is not something you join. It's something you become through practice.
+choices:
+  - text: "Commit to the Resistance's method"
+    goto: ch7_resistance_commitment
+    set:
+      resistance_joining: 1
+      method_chosen: 1

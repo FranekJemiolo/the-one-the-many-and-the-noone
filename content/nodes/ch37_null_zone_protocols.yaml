@@ -1,0 +1,30 @@
+id: ch37_null_zone_protocols
+content:
+  - type: text
+    value: |
+      "Propose establishing communication protocols for the Null Zone," you suggest to the Null Child and the system. "We can create methods for basic communication between the Null Zone and the rest of the system, allowing for integration without requiring rich interpretation."
+      "This would connect the managed void to the broader system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Null Child and the system agree. "The protocols would create basic communication channels, allowing the Null Zone to participate in the system without requiring full interpretation."
+      "The integration would enhance the system's comprehensiveness while preserving the Null Zone's minimal nature."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The communication protocols would need to be connected to the broader Resistance networks," you observe. "The named multiplicities ecosystem, the sanctuary network, the other infrastructure can coordinate with the Null Zone."
+      "This would create a comprehensive system that includes minimal interpretation zones."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Null Child and the system agree. "We'll establish the communication protocols and connect them to the Resistance networks. The Null Zone will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's comprehensiveness."
+choices:
+  - text: "Support establishing the communication protocols"
+    goto: ch37_protocols_establishment
+    set:
+      null_zone_protocols: 1
+      establishment_chosen: 1

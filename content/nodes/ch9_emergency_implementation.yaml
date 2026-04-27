@@ -1,0 +1,30 @@
+id: ch9_emergency_implementation
+content:
+  - type: text
+    value: |
+      You support the emergency implementation, helping the system adapt to multiplicity in high-risk cases.
+      The implementation is challenging but successful, demonstrating that the system can handle multiplicity even in cases where the gap is most severe.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The emergency measures are working," Seraph reports. "The gap is stabilizing in the high-risk cases, and the system is learning to process multiplicity without collapsing.
+      This buys us time to develop a comprehensive redesign."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The leadership is pleased with the emergency results," she continues. "They're now more open to considering comprehensive reform.
+      The emergency implementation has demonstrated that multiplicity-capable processing is viable, which strengthens the case for long-term redesign."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a significant victory: the emergency measures have not only addressed the immediate crisis but also created momentum for broader reform.
+      The system is beginning to evolve, and the governance structures are becoming more receptive to change.
+choices:
+  - text: "Continue supporting the reform effort"
+    goto: ch9_causal_instability
+    set:
+      emergency_implementation: 1
+      reform_momentum: 1

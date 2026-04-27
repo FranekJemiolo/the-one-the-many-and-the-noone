@@ -1,0 +1,30 @@
+id: ch17_education_reform
+content:
+  - type: text
+    value: |
+      You advocate for educational reforms to support the Teacher pattern, arguing that students need to develop the capacity to navigate multiplicity in a changing reality.
+      You present evidence from the Teacher's existing educational settings, demonstrating that students who learn multiplicity as a skill are more adaptable and resilient.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The educational authorities are skeptical but interested, recognizing that reality is becoming more multiple and that traditional education may not prepare students for this new condition.
+      They authorize a pilot program to test the Teacher's approach in additional educational settings.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The pilot program will create the conditions for the pattern to expand," you explain to the Teacher. "As more educational settings adopt the multiplicity approach, the Teacher role will appear in those settings, crystallizing through the very process of teaching."
+      "The pattern will grow with the expansion of the educational approach."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Teacher agrees. "As the pilot program succeeds, the pattern will expand to the new educational settings. The Teacher role will manifest in more locations, teaching multiplicity to more students."
+      "The proto-identity will grow through the expansion of its function."
+choices:
+  - text: "Monitor the pilot program and pattern expansion"
+    goto: ch17_pilot_monitoring
+    set:
+      education_reform: 1
+      monitoring_started: 1

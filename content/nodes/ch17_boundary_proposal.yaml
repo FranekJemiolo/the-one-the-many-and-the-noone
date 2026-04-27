@@ -1,0 +1,30 @@
+id: ch17_boundary_proposal
+content:
+  - type: text
+    value: |
+      "Propose a new approach to boundary maintenance," you suggest to the Guard. "Instead of preventing all temporal crossings, maintain boundaries that allow controlled multiplicity—permitting beneficial temporal flow while preventing destabilizing crossings."
+      "This would support temporal multiplicity while maintaining stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Guard considers this proposal. "The current approach prevents all crossings to ensure stability. Your proposed approach would require distinguishing between beneficial and destabilizing crossings, which is more complex but potentially more effective."
+      "The pattern could incorporate this distinction if it proves effective."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can demonstrate the approach," you offer. "My temporal perception can identify which crossings are beneficial and which are destabilizing. We can test controlled multiplicity at this checkpoint."
+      "If the approach succeeds, the pattern will learn from the experience."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Guard agrees to the test. "We will implement controlled multiplicity at this checkpoint, allowing beneficial crossings while preventing destabilizing ones."
+      "If the approach maintains stability while supporting multiplicity, the pattern will incorporate it."
+choices:
+  - text: "Begin the controlled multiplicity test"
+    goto: ch17_multiplicity_test
+    set:
+      boundary_proposal: 1
+      test_started: 1

@@ -1,0 +1,31 @@
+id: ch7_method_effectiveness
+content:
+  - type: text
+    value: |
+      "How effective are these methods?" you ask, wanting to understand whether the Resistance's approach is actually succeeding against the Engine's bias.
+      The presence responds with honesty rather than optimism: "The methods are effective at preserving multiplicity, but they are not effective at eliminating the Engine's bias."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is a natural force," it explains. "It exists independently of human intention. We cannot eliminate it—we can only counteract its effects.
+      Our methods preserve multiplicity despite the Engine's bias, but the bias remains, constantly pushing toward compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a permanent conflict," the presence continues. "The Engine will never stop trying to compress reality. The Resistance will never stop trying to preserve multiplicity.
+      The struggle is not something that can be won—it is something that must be maintained."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Is that sustainable?" you ask.
+      "It has to be," the presence responds. "The alternative is reality compressed into singularity, a world where only one version of truth is allowed to exist.
+      That world is not just inaccurate—it is fundamentally incomplete, missing the richness of multiplicity that makes reality what it is."
+choices:
+  - text: "Accept the permanent conflict and commit to the struggle"
+    goto: ch7_resistance_commitment
+    set:
+      effectiveness_understood: 1
+      permanent_conflict_accepted: 1

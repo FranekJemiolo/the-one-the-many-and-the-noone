@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Understand truth as a variable"
     goto: ch14_truth_as_variable
+  - text: "Ask about Koval's ethical framework"
+    goto: ch14_koval_ethics
+    set:
+      ethics_interest: 1

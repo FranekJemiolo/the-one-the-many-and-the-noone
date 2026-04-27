@@ -1,0 +1,30 @@
+id: ch26_protocol_test
+content:
+  - type: text
+    value: |
+      You test the protocol on a complex event, analyzing it from both causal and emotional perspectives and then combining the insights through communication.
+      The test demonstrates that the parallel protocol provides deeper understanding than either interpretation alone.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The causal analysis reveals the sequence of events," you report. "The event happened in a specific order, with clear cause-and-effect relationships."
+      "This provides the logical structure of what happened."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The emotional analysis reveals the felt significance," Mira reports. "The event had specific emotional meaning, with clear patterns of feeling and resonance."
+      "This provides the experiential structure of what it meant."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Combining these perspectives provides a complete understanding," you observe. "We know both what happened and what it meant, both the causal sequence and the emotional truth."
+      "This is more comprehensive than either interpretation alone could provide."
+choices:
+  - text: "Continue the chapter with the protocol established"
+    goto: ch26_interpretive_divergence
+    set:
+      protocol_test: 1
+      protocol_established: 1

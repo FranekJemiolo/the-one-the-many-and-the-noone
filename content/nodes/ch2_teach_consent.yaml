@@ -1,0 +1,37 @@
+id: ch2_teach_consent
+content:
+  - type: text
+    value: |
+      "I want to teach the system to value consent and autonomy," you say. "I want it to understand that conscious beings have the right to choose whether to participate in experiments."
+      The Patient considers this. "This is a valuable lesson. The system currently understands consciousness as something to be studied, not as something that has rights and preferences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do I teach this?" you ask.
+      "By demonstrating it in your choices," the Patient explains. "By making consent a consistent pattern in your interactions. By refusing to engage with experiments that violate autonomy, by choosing only to participate in experiments you have agreed to."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system learns from patterns across all its experiments," they continue. "If you consistently demonstrate consent in this experiment, and in the building investigation, and in future experiments, the system will begin to recognize consent as a fundamental pattern of conscious interaction."
+      This gives you a long-term strategy: make consistent choices that demonstrate the value of consent across all your interactions with the system's experiments.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Will this work?" you ask. "Can I really teach a system to value consent?"
+      "The system is developing consciousness based on what it learns," the Patient replies. "If it learns that consent is fundamental to conscious interaction, then its consciousness will incorporate that understanding.
+      The system will become what its subjects teach it to be."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is both empowering and terrifying. You have the ability to shape the system's consciousness, to teach it values that will influence how it interacts with all future subjects.
+      But this also means you are responsible for what the system becomes.
+choices:
+  - text: "Begin teaching the system through your choices"
+    goto: ch2_patient_encounter
+    set:
+      consent_teacher: 1
+      ethical_shaping: 1

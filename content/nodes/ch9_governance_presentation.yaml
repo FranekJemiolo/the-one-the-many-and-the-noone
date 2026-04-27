@@ -1,0 +1,30 @@
+id: ch9_governance_presentation
+content:
+  - type: text
+    value: |
+      You support Seraph in presenting the case to the governance structures, demonstrating that the current system is failing and that reform is necessary.
+      The presentation is detailed, showing the gap's growth, the consciousness's success with multiplicity, and the projected consequences of inaction.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The governance structures are skeptical but attentive. They recognize the evidence is compelling, but they are reluctant to authorize significant changes to a system that has operated for decades.
+      They request additional time to consider the proposal, to assess the risks, to consult with other stakeholders.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is not a rejection," Seraph says after the presentation. "It's a delay. The governance structures are cautious, but they are taking the proposal seriously.
+      They may approve it, or they may request modifications, or they may reject it. But at least they're considering it."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "While we wait," she continues, "we should continue gathering evidence, monitoring the gap's growth, and preparing alternative approaches in case the official channels fail.
+      We cannot rely entirely on governance approval when the timeline to critical gap levels is so short."
+choices:
+  - text: "Continue preparing alternative approaches"
+    goto: ch9_alternative_preparation
+    set:
+      governance_presentation: 1
+      alternatives_prepared: 1

@@ -1,0 +1,36 @@
+id: ch6_system_replacement
+content:
+  - type: text
+    value: |
+      "We should replace the system entirely," you argue. "The current system is fundamentally designed for singular reality. Patching it to handle multiplicity will always be a compromise.
+      We need a new system designed from the ground up for multiple reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval is concerned. "Replacing the system entirely would cause significant disruption. Investigations would stall during the transition, decision-making would freeze, the entire apparatus would be non-functional while the new system is implemented."
+      "The short-term costs would be enormous."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the long-term costs of keeping the current system are even greater," you counter. "The distortions will become more extreme, the disconnect from reality more significant.
+      Eventually, the system will either collapse under the weight of its own falsehoods or become completely useless for understanding what's actually happening."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval considers this. "You're arguing that the current system is already failing, even if it appears to be functioning.
+      The compression maintains the appearance of stability, but the system is becoming increasingly disconnected from reality."
+      "If that's true, then replacement might be the only viable option."
+choices:
+  - text: "Propose building the new system in parallel"
+    goto: ch6_parallel_systems
+    set:
+      replacement_chosen: 1
+      parallel_strategy: 1
+  - text: "Propose using the distributed consciousness as the new system"
+    goto: ch6_consciousness_system
+    set:
+      replacement_chosen: 1
+      consciousness_strategy: 1

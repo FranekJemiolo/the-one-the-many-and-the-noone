@@ -1,0 +1,35 @@
+id: ch10_zone_mechanisms
+content:
+  - type: text
+    value: |
+      You investigate the mechanisms that maintain the Clarity zone, wanting to understand how the environment prevents multiplicity from forming.
+      The system uses a combination of interpretive fields, cognitive biasing, and reality-shaping technologies to ensure that only one interpretation crystallizes for any given event.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The interpretive fields are subtle, almost invisible to normal perception. They create a bias toward certain interpretations, making them feel more natural while making alternatives feel wrong.
+      This is the Engine's bias operating at a local level, amplified by the facility's technology.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The cognitive biasing works through suggestion rather than force. The environment contains subtle cues that guide perception toward the preferred interpretation, nudging consciousness without overt direction.
+      People in the zone don't realize they're being guided—they simply find themselves naturally agreeing with the singular interpretation.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The reality-shaping technologies are the most sophisticated component. They don't just bias perception—they actually shape what crystallizes, ensuring that only one version of reality becomes substantial enough to be considered real.
+      Alternatives exist as possibilities but never become actualities.
+choices:
+  - text: "Ask if the mechanisms can be reversed"
+    goto: ch10_mechanism_reversal
+    set:
+      mechanisms_investigated: 1
+      reversal_interest: 1
+  - text: "Ask about the energy cost of maintaining the zone"
+    goto: ch10_energy_cost
+    set:
+      mechanisms_investigated: 1
+      energy_interest: 1

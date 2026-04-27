@@ -1,0 +1,31 @@
+id: ch9_proposal_submission
+content:
+  - type: text
+    value: |
+      You help Seraph complete the proposal, incorporating evidence of the current system's failure and the viability of multiplicity-capable alternatives.
+      The proposal argues for gradual adaptation, introducing multiplicity incrementally while monitoring the system's response.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal will be submitted to Clarity Administration's leadership," Seraph explains. "They will review it, assess the evidence, and decide whether to approve implementation.
+      The process could take weeks or months, depending on their priorities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What if they reject the proposal?" you ask.
+      "Then we will need to consider other options," Seraph replies. "Local experiments, bypassing governance, working with external actors like the organization building the distributed consciousness.
+      But we should try the official channels first."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The proposal is submitted, and the waiting begins. Seraph continues her enforcement duties while monitoring the leadership's response, prepared to pivot to alternative approaches if the official channels fail.
+      You have planted the seed of reform within Clarity Administration. Whether it grows remains to be seen.
+choices:
+  - text: "Continue the investigation while waiting for the response"
+    goto: ch9_causal_instability
+    set:
+      proposal_submitted: 1
+      waiting_started: 1

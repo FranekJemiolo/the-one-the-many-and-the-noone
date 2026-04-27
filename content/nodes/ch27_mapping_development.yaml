@@ -1,0 +1,30 @@
+id: ch27_mapping_development
+content:
+  - type: text
+    value: |
+      You support developing the mapping language, helping Kai develop methods to translate circular causality into linear terms.
+      The research center begins operations, comparing how systems appear in both temporal structures and developing translation protocols.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The mapping language is successful," Kai reports after months of research. "We've developed methods to describe circular causality in linear terms, allowing linear time zones to understand patterns of mutual causality."
+      "The system's capacity to understand complex dynamics is increasing significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the mapping language, attempting to prevent the spread of temporal field insights."
+      "But the insights are self-validating—once linear time zones understand the patterns, they can recognize them independently."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Kai agrees. "The Engine cannot reverse the understanding. Temporal field insights are becoming widespread, and the system is adapting to more sophisticated temporal analysis."
+      "The mapping language is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the mapping language established"
+    goto: ch27_temporal_field
+    set:
+      mapping_development: 1
+      insights_spreading: 1

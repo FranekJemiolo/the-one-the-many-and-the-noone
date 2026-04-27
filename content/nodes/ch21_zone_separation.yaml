@@ -1,0 +1,30 @@
+id: ch21_zone_separation
+content:
+  - type: text
+    value: |
+      "Propose creating separate zones for each approach," you suggest to the conflict zone. "Instead of Rose and Nemesis competing in the same territory, create coexistence zones where Rose operates and resolution zones where Nemesis operates."
+      "This would allow both approaches to exist without direct conflict."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The conflict zone responds with a pattern of interest, suggesting that spatial separation might indeed reduce the tension between the two approaches.
+      The oscillation slows as the possibility of separation is considered.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But how would the zones be defined?" you ask. "What criteria would determine whether a territory is a coexistence zone or a resolution zone?"
+      "The criteria would need to be based on the nature of the territory itself, not on arbitrary assignment."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Coexistence zones could be areas where multiplicity is naturally occurring," you propose. "Anomaly zones, contradiction zones, areas where reality is already multiple."
+      "Resolution zones could be areas where singularity is naturally occurring. Administrative zones, operational zones, areas where singular interpretation is functionally necessary."
+choices:
+  - text: "Begin implementing the zone separation"
+    goto: ch21_separation_implementation
+    set:
+      zone_separation: 1
+      implementation_chosen: 1

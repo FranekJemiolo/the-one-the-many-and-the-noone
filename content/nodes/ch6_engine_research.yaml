@@ -1,0 +1,37 @@
+id: ch6_engine_research
+content:
+  - type: text
+    value: |
+      You decide to research the Quiet Engine directly, wanting to understand its nature and origins before engaging with Dr. Koval.
+      The organization's archives contain references to the Engine, but they're coded in language that suggests deliberate obfuscation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Engine is described as a "stability maintenance system," a "cognitive coherence framework," an "interpretive alignment protocol."
+      The language is technical, neutral, but the function is clear: the Engine maintains stability by aligning interpretation toward singularity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      What you find most disturbing is the Engine's origin: it was not designed by the organization. It was discovered.
+      The organization found the Engine already operating in the gaps between realities, a natural force that makes singularity feel natural.
+      They didn't create it—they learned to use it.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This changes everything. The Engine is not an artificial system created by the organization. It's a natural feature of reality, a force that exists independently of human intention.
+      The organization is harnessing a natural phenomenon, not creating an artificial one.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      If the Engine is natural, then resistance is not about fighting an artificial system. It's about learning to work with or around a natural force.
+      The question is whether the Engine's tendency toward singularity is beneficial or harmful to a reality that has become multiple.
+choices:
+  - text: "Meet with Dr. Koval with this understanding"
+    goto: ch6_koval_appearance
+    set:
+      engine_researched: 1
+      natural_understood: 1

@@ -1,0 +1,35 @@
+id: ch5_blocking_attempt
+content:
+  - type: text
+    value: |
+      "I want to try blocking them," you insist, not willing to accept passive observation.
+      You focus on the gaps between realities, using the techniques Vance taught you to perceive the organization's observation channels.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You perceive them—thin filaments of attention connecting the room to the organization's operational layer. The observation is sophisticated, layered, designed to be undetectable to normal perception.
+      But with your enhanced temporal perception, you can feel the connections, sense where they originate, understand how they function.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You attempt to sever the connections, focusing your will on breaking the observation channels. The resistance is significant—the organization's attention is persistent, almost intelligent in its adaptability.
+      But you manage to weaken the connections, reducing the flow of information without completely breaking them.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Immediately, you feel a response—the organization notices the interference. A ripple of attention focuses on your location, trying to identify the source of the blocking.
+      You've made yourself visible to them, and they are investigating.
+choices:
+  - text: "Restore the connections before they identify you"
+    goto: ch5_restoration
+    set:
+      blocking_attempted: 1
+      caution_chosen: 1
+  - text: "Maintain the blocking and accept the consequences"
+    goto: ch5_blocking_maintained
+    set:
+      blocking_attempted: 1
+      resistance_chosen: 1

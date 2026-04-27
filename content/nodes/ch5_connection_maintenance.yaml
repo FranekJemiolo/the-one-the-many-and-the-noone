@@ -1,0 +1,40 @@
+id: ch5_connection_maintenance
+content:
+  - type: text
+    value: |
+      "How do we maintain connection across different realities?" you ask, wanting to understand how your relationship can survive when you're experiencing different versions of the same moment.
+      Mira thinks about this, her expression thoughtful. "Maybe connection doesn't require experiencing the same reality. Maybe it requires acknowledging each other's reality even when it's different from yours."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't need you to remember the moment the way I do," she explains. "I just need you to acknowledge that my memory is real to me, that my experience is valid even if it's different from yours.
+      That's what connection is—not shared experience, but mutual acknowledgment of different experiences."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a profound insight. Connection doesn't require singularity—it requires recognition of multiplicity. You can be connected to someone even when you're experiencing different versions of reality, as long as you acknowledge each other's experience as real.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This changes how I understand relationships," you realize. "I used to think connection required shared reality. Now I think connection requires mutual recognition of different realities."
+      "The world can be multiple, and we can still be connected."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is what the distributed consciousness will need to learn," Mira says. "If it's going to connect multiple nodes across different realities, it will need to maintain connection without requiring shared experience."
+      "Our partnership is a model for what the consciousness will need to do."
+choices:
+  - text: "Analyze the deja vu with this new understanding"
+    goto: ch5_aleksy_perspective
+    set:
+      relationship_deepening: 1
+      connection_understood: 1
+  - text: "Ask about the consciousness connection"
+    goto: ch5_consciousness_connection
+    set:
+      relationship_deepening: 1
+      consciousness_interest: 1

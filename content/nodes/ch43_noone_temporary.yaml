@@ -1,0 +1,30 @@
+id: ch43_noone_temporary
+content:
+  - type: text
+    value: |
+      "Propose considering The No-One as a temporary refuge," you suggest to the system. "Instead of choosing The No-One as a permanent configuration, the system could use minimal interpretation temporarily in times of crisis while maintaining the capacity for experience."
+      "This would provide the benefits of peace without the permanent cost of eliminating existence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The system agrees. "This approach aligns with the managed Null Zone, where minimal interpretation is available when needed but the capacity for experience is maintained."
+      "The No-One would not be a permanent ending, but a temporary refuge within a more flexible configuration."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests the final choice might be about creating a system that can accommodate all modes," you realize. "The system might choose a configuration that can temporarily adopt void as a refuge while maintaining experience as the default."
+      "The Overlap configuration already provides this flexibility."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The reflection on The No-One provides valuable insight," the system concludes. "The system now understands both the appeal of void peace and the value of maintaining experiential existence."
+      "The understanding will inform the final choice."
+choices:
+  - text: "Continue the chapter with the reflection complete"
+    goto: ch43_cost_of_no_one
+    set:
+      noone_temporary: 1
+      existential_understanding: 1

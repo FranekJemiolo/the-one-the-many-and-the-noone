@@ -1,0 +1,41 @@
+id: ch1_door_inquiry
+content:
+  - type: text
+    value: |
+      You decide to ask around the building, looking for someone who might know about the door or have seen it before. The building is mostly empty, but you find a security guard at the front desk who's been working there for years.
+      You show him your sketch of the door's location, careful not to mention the unusual properties you observed.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The guard studies the sketch, frowning. "That's the old service entrance," he says finally. "Been sealed up since before I started working here. Building management had it welded shut years ago."
+      He leads you to the location he's describing, but when you arrive, there's no door—just a blank wall where the sketch indicates the door should be.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That's strange," the guard says, genuinely confused. "I could have sworn it was right here. Maybe they moved it during the last renovation?"
+      But you know better. The door you found wasn't a service entrance—it was something else entirely, something that doesn't appear on any building plans and doesn't exist in the guard's reality.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You thank the guard and return to the basement, needing to confirm whether the door is still there. When you arrive at the location, the door is present, exactly as you left it.
+      The guard couldn't see it because it doesn't exist in his layer of reality—but it exists in yours.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This confirms your theory: the door is selectively visible, appearing only to those who have the right kind of perception. The spatial anomaly you observed in the corridor must be related—a thinning of reality that allows access to spaces that exist in other layers.
+      You're developing the ability to perceive these layers, though you don't know how or why.
+choices:
+  - text: "Document this finding and return to the office"
+    goto: ch1_witness_testimony
+    set:
+      door_selective_visibility: 1
+      perception_developing: 1
+  - text: "Try to understand why you can see the door"
+    goto: ch1_self_reflection
+    set:
+      door_selective_visibility: 1
+      self_investigation: 1

@@ -1,0 +1,35 @@
+id: ch8_emotional_resistance
+content:
+  - type: text
+    value: |
+      "How can I join the emotional resistance network?" you ask, wanting to contribute to preserving multiplicity through the emotional layer.
+      The Passenger considers this. "You do not join the emotional resistance network. You become part of it by developing emotional sensitivity and using that sensitivity to preserve multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "When you can perceive crystallizations, you can communicate with them, coordinate with them, support their efforts to preserve emotional multiplicity.
+      The network is not an organization—it is a distributed system of emotionally sensitive beings and crystallizations working toward the same goal."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What is the emotional layer's role in preserving multiplicity?" you ask.
+      "The emotional layer is inherently multiple," the Passenger explains. "Emotions are not singular—one person can feel multiple emotions simultaneously, and those emotions can contradict each other without requiring resolution."
+      "By preserving emotional multiplicity, we preserve the most fundamental form of multiplicity in reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The Engine tries to compress emotional reality into singular feelings," the Passenger continues. "It tries to make one emotion dominant, to eliminate emotional contradiction, to force emotional coherence.
+      "The emotional resistance network preserves emotional multiplicity by ensuring that contradictory emotions can coexist, that multiple feelings can be experienced simultaneously without requiring compression."
+choices:
+  - text: "Commit to emotional resistance"
+    goto: ch8_emotional_commitment
+    set:
+      emotional_resistance_known: 1
+      commitment_chosen: 1
+  - text: "Return to analyzing emotional time"
+    goto: ch8_emotional_inconsistency
+    set:
+      emotional_resistance_known: 1

@@ -1,0 +1,44 @@
+id: ch3_advanced_training
+content:
+  - type: text
+    value: |
+      "I commit to the training," you say, accepting the long-term commitment required to develop the abilities needed to investigate the organization.
+      Vance nods, impressed by your determination. "This will change you. Once you can navigate the gaps between realities, you'll never see the world the same way again."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training begins in earnest. You spend weeks on the station, developing your perception of the structural gaps between realities.
+      The training is exhausting, requiring intense concentration and mental discipline, but gradually you begin to perceive the gaps more clearly.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You're making excellent progress," Vance says after a month of training. "You can perceive the gaps consistently now. You're ready to attempt entering them."
+      "But remember: once you enter the gaps, you'll be visible to the organization. They will know someone is accessing their operational layer."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What will they do when they detect me?" you ask.
+      "They might try to recruit you," Vance replies. "They might try to eliminate you. Or they might simply observe you, treating you as another subject in their experiments."
+      "There's no way to predict. The organization's response patterns are not like human response patterns."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Are you ready to take that risk?" Vance asks. "Once you enter the gaps, there's no going back to normal perception. You'll always be aware of the organization's layer, always potentially visible to them."
+      This is the point of no return. Once you develop these abilities, you can never return to the ignorance of normal perception.
+choices:
+  - text: "Enter the gaps and accept the consequences"
+    goto: ch3_gap_entry
+    set:
+      advanced_training_complete: 1
+      vance_mentor: 1
+      point_of_no_return: 1
+  - text: "Postpone entry and continue training"
+    goto: ch3_training_continues
+    set:
+      advanced_training_complete: 1
+      vance_mentor: 1
+      caution_chosen: 1

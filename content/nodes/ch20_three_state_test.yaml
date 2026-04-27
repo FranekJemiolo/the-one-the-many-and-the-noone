@@ -1,0 +1,30 @@
+id: ch20_three_state_test
+content:
+  - type: text
+    value: |
+      You test the three-state oscillation, observing how the system responds when causal, emotional, and possibility interpretations are all active.
+      The oscillation becomes more complex, shifting between three states instead of two, but as predicted, it becomes more stable.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The three-state oscillation is more stable," you report. "When one state becomes dominant, the other two can combine to counteract it. The system has more options for maintaining balance."
+      "The oscillation frequency is decreasing rather than increasing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is significant," Mira observes. "The three-state oscillation might be sustainable indefinitely, preventing the collapse that the two-state oscillation was approaching."
+      "The possibility engine has provided the stability the system needed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But the conflict is not resolved," you caution. "Causal and emotional interpretations are still incompatible, still requiring each other to be secondary to be fully true."
+      "The three-state oscillation is stable, but it's still a stalemate."
+choices:
+  - text: "Accept the three-state stalemate as the new normal"
+    goto: ch20_stalemate_acceptance
+    set:
+      three_state_test: 1
+      acceptance_chosen: 1

@@ -1,0 +1,32 @@
+id: ch10_energy_cost
+content:
+  - type: text
+    value: |
+      "What is the energy cost of maintaining the zone?" you ask, wanting to understand the resource requirements for enforcing singularity.
+      Seraph accesses the energy consumption data, her expression revealing that the cost is significant.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Clarity zone requires constant energy input," she reports. "The interpretive fields, cognitive biasing, and reality-shaping technologies all consume power continuously.
+      The cost scales with the size of the zone—larger zones require exponentially more energy."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How many Clarity zones exist?" you ask.
+      "Currently, seven," Seraph replies. "Each major facility has a Clarity zone where critical decisions are made.
+      The total energy cost is substantial, consuming a significant portion of the system's power budget."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "If multiplicity doesn't require enforcement," you realize, "then multiplicity zones would cost less energy to maintain.
+      The system could redirect the energy currently used for singularity enforcement to other purposes."
+      "Singularity is not just ideologically questionable—it's resource-intensive."
+choices:
+  - text: "Propose converting Clarity zones to multiplicity zones"
+    goto: ch10_zone_conversion
+    set:
+      energy_cost_known: 1
+      conversion_proposed: 1

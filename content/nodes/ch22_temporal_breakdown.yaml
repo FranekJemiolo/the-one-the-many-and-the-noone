@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Observe the station fragmentation"
     goto: ch22_station_fragmentation
+  - text: "Ask about the researchers' adaptation"
+    goto: ch22_researcher_adaptation
+    set:
+      adaptation_interest: 1

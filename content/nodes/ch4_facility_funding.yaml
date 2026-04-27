@@ -1,0 +1,43 @@
+id: ch4_facility_funding
+content:
+  - type: text
+    value: |
+      "What about the facility's funding?" you ask, noticing the acceleration in research breakthroughs. "Who's supporting this work?"
+      Chen hesitates, then accesses the financial records. "The funding comes through multiple shell companies. Aether Structural Solutions, Chronos Dynamics, several others."
+      "They all trace back to a single source, but we haven't been able to identify it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This connects to what you learned in previous chapters: Aether Structural Solutions from the building investigation, Chronos Dynamics from the station investigation.
+      The same organization is funding all these facilities, all these experiments in multiple realities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The funding increased significantly six months ago," Chen continues. "That's when the breakthrough acceleration began. We received new research directives, new equipment, new protocols."
+      "The directives came with specific goals: develop entities that can navigate multiple realities, create memory systems that can hold contradictory histories, build infrastructure for plural consciousness."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What are the ultimate goals?" you ask.
+      "That's above my clearance level," Chen admits. "But the pattern suggests they're building toward something—a network of facilities, each specializing in a different aspect of multiple reality capability."
+      "This facility focuses on memory. The station focuses on time. The building focuses on space. The medical facility focuses on emotion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This confirms Vance's theory from chapter 3: the organization is building a distributed consciousness across multiple layers of reality.
+      Each facility is a node in this consciousness, and the cyborg might be a test subject for the memory component.
+choices:
+  - text: "Ask about the cyborg's role in the network"
+    goto: ch4_cyborg_network_role
+    set:
+      chen_contact: 1
+      network_interest: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      network_known: 1

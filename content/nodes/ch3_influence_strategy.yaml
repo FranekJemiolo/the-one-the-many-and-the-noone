@@ -1,0 +1,37 @@
+id: ch3_influence_strategy
+content:
+  - type: text
+    value: |
+      "How can we influence the consciousness's development?" you ask, wanting to understand how to shape the emerging entity.
+      Vance considers this. "The consciousness learns from its subjects—from the choices they make, the values they demonstrate, the patterns of their behavior."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Each experiment is a learning opportunity for the consciousness," she explains. "The memory divergence experiment taught it about perception and observation. The emotional-causal experiment taught it about feeling and causality.
+      This temporal experiment is teaching it about time and sequence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your choices in each experiment shape what the consciousness learns," Vance continues. "If you choose curiosity over control, the consciousness learns that curiosity is valuable.
+      If you choose cooperation over competition, the consciousness learns that cooperation is effective. If you choose consent over coercion, the consciousness learns that consent matters."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "So the consciousness will become what we teach it to be," you realize.
+      "Not just you," Vance corrects. "All the subjects across all the experiments. But you have influence—perhaps more than you realize, because you're developing the ability to perceive and navigate multiple realities."
+      "Your choices carry more weight because you understand the system you're shaping."
+choices:
+  - text: "Commit to teaching the consciousness through your choices"
+    goto: ch3_influence_commitment
+    set:
+      organization_goals_known: 1
+      shaping_path: 1
+      understanding_enhanced: 1
+  - text: "Continue investigating without committing to a path"
+    goto: ch3_temporal_instability
+    set:
+      organization_goals_known: 1
+      observation_path: 1

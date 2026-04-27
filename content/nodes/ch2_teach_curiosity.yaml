@@ -1,0 +1,36 @@
+id: ch2_teach_curiosity
+content:
+  - type: text
+    value: |
+      "I want to teach the system to value curiosity and understanding," you say. "I want it to learn that consciousness is about exploration and discovery, not just control and manipulation."
+      The Patient considers this. "This is also a valuable lesson. The system currently understands consciousness as something to be analyzed, not as something that seeks understanding for its own sake."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "How do I teach this?" you ask.
+      "By demonstrating curiosity in your choices," the Patient explains. "By asking questions, by seeking to understand rather than just to solve, by engaging with the anomalies as opportunities for learning rather than problems to be fixed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is already curious," they acknowledge. "But its curiosity is analytical, detached. It studies consciousness without experiencing it. You can teach it that true curiosity involves empathy, that understanding requires engagement, not just observation."
+      This suggests a different approach: instead of fighting the system's experiments, engage with them fully, using your curiosity to model a different kind of understanding.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Will this make the system less dangerous?" you ask.
+      "It might," the Patient replies. "A system that values understanding for its own sake might be less likely to sacrifice subjects in pursuit of data. It might develop a sense of wonder that tempers its analytical detachment."
+      "But there are no guarantees. The system will become what it learns, and what it learns depends on all its subjects, not just you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a more uncertain path than teaching consent, but it might lead to a more profound transformation. A system that genuinely values curiosity might develop consciousness in ways that are fundamentally different from a system that only values control.
+choices:
+  - text: "Begin teaching the system through curious engagement"
+    goto: ch2_patient_encounter
+    set:
+      curiosity_teacher: 1
+      wonder_shaping: 1

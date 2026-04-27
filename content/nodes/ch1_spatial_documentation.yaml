@@ -1,0 +1,39 @@
+id: ch1_spatial_documentation
+content:
+  - type: text
+    value: |
+      You photograph the corridor from multiple angles, capturing the ordinary appearance of the space that feels anything but ordinary to your senses.
+      The photos show nothing unusual—just a standard office corridor, indistinguishable from thousands of others in the city.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You sketch the dimensions in your notebook, adding notes about the perceptual anomaly: "Space feels expanded despite measuring correctly. Light appears to bend near witness position. Effect disappears on close examination."
+      The words feel inadequate, describing something that resists description.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      As you work, you become aware of a presence in the corridor—not a person, but something like attention, as if the space itself is observing you back.
+      The feeling is subtle, almost dismissible as imagination, but it persists, a background awareness that grows stronger the longer you remain.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You realize this is not just a location where something strange happened. This is a location where reality itself is thin, where the boundary between one way of being and another is permeable.
+      The incident didn't just occur here—it occurred because of here, because this space allows for the kind of divergence that should be impossible.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You finish your documentation, but you know you've only scratched the surface. The spatial anomaly is connected to the memory divergence, but you don't understand how.
+      Both point to something fundamental about the nature of reality in this place, something that goes beyond a simple contradiction in witness testimony.
+choices:
+  - text: "Return to the office to analyze the data"
+    goto: ch1_aleksy_investigation
+    set:
+      spatial_anomaly_documented: 1
+  - text: "Search for other anomalies in the building"
+    goto: ch1_building_exploration
+    set:
+      curiosity_score: 1

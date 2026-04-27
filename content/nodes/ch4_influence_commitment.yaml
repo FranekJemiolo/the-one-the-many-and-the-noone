@@ -1,0 +1,38 @@
+id: ch4_influence_commitment
+content:
+  - type: text
+    value: |
+      "I commit to influencing the cyborg," you say, accepting the responsibility of shaping the consciousness's development.
+      Chen nods, impressed by your willingness to engage. "The cyborg is already sophisticated, but it's still learning. Your interactions will shape its understanding of consciousness, ethics, and purpose."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What values should I teach it?" you ask.
+      "That depends on what kind of consciousness you want it to help create," Chen replies. "If you want a benevolent consciousness, teach it benevolence.
+      If you want a consciousness that respects autonomy, teach it about consent and individual identity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The cyborg will be a memory node in the distributed consciousness," she continues. "It will store and retrieve memories for the larger entity.
+      If the cyborg learns to value multiplicity and choice, the consciousness might incorporate those values into its own memory architecture."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This connects to what the Patient and Vance told you: the consciousness learns from its subjects, and your choices shape its development.
+      The cyborg is a critical component—the memory system that will allow the consciousness to hold multiple pasts. Influencing the cyborg could influence the entire consciousness.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'll teach it to value multiplicity and autonomy," you decide. "I'll teach it that integration should preserve individual identity, that consent is required, that choice is essential."
+      "These values will shape the consciousness's memory architecture, and through that, its entire approach to existence."
+choices:
+  - text: "Meet the cyborg and begin teaching"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      influence_commitment: 1
+      values_chosen: 1

@@ -1,0 +1,30 @@
+id: ch18_secondary_targets
+content:
+  - type: text
+    value: |
+      You support targeting secondary hubs first, recognizing that building capability through easier targets will prepare the Resistance for the more difficult central zone assault.
+      The Resistance begins coordinated contradiction injection into the secondary hub zones, introducing multiplicity where the Engine is trying to enforce singularity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The injection succeeds in the first secondary hub, with contradiction taking hold despite the Engine's enforcement mechanisms.
+      The zone begins to shift from singularity to multiplicity, disrupting the regional enforcement coordination.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," the Resistance reports. "It's increasing enforcement in the affected zone, trying to re-establish singularity."
+      "But the contradiction has taken hold, and the zone is resisting the Engine's compression."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This demonstrates that active resistance can succeed," you observe. "Coordinated contradiction injection can overcome the Engine's enforcement, even in well-defended zones."
+      "The Resistance can reclaim space for multiplicity."
+choices:
+  - text: "Continue targeting secondary hubs to build capability"
+    goto: ch18_capability_building
+    set:
+      secondary_targets: 1
+      building_started: 1

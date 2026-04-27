@@ -1,0 +1,36 @@
+id: ch12_kai_background
+content:
+  - type: text
+    value: |
+      "Tell me about your background," you say to Kai, wanting to understand how he came to exist in the temporal leak.
+      Kai considers this, his expression distant as if he's accessing memories that exist across multiple temporal layers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I was once like you," he explains. "A normal investigator operating in linear time, experiencing causality as a single direction from past to future.
+      But I encountered a temporal anomaly that was more intense than most, a zone where the leak was so strong that I couldn't return to normal time."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The leak pulled me in," Kai continues. "I became part of the temporal boundary, existing in the overlap where future and present merge.
+      I adapted to this existence, learned to navigate causal fields instead of causal lines, developed the ability to remember the future as clearly as the past."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You didn't try to return to normal time?" you ask.
+      "I tried initially," Kai replies. "But the leak is not a place you can leave once you've adapted to it. My consciousness has been reshaped by the experience of folded time.
+      Returning to linear time would feel like losing a dimension of perception."
+choices:
+  - text: "Ask about the leak's nature"
+    goto: ch12_leak_nature
+    set:
+      kai_background_known: 1
+      leak_interest: 1
+  - text: "Ask about his capabilities in the leak"
+    goto: ch12_leak_capabilities
+    set:
+      kai_background_known: 1
+      capabilities_interest: 1

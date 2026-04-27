@@ -1,0 +1,30 @@
+id: ch26_parallel_protocol
+content:
+  - type: text
+    value: |
+      You develop a protocol for parallel insight collaboration, establishing methods for combining causal and emotional insights through communication.
+      The protocol allows you and Mira to share perspectives without requiring reconciliation of your underlying interpretations.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The protocol works by having each of us analyze events from our own reality," you explain. "I provide causal analysis, identifying the sequence of events and logical relationships."
+      "You provide emotional analysis, identifying the felt significance and emotional truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then we combine these insights through communication," Mira continues. "We don't try to reconcile the interpretations—we simply acknowledge both perspectives and use them to form a more complete understanding."
+      "The combination provides insight that neither perspective alone could achieve."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This protocol demonstrates that parallel interpretation engines can be more effective than shared interpretation," you observe. "The split is not a limitation—it's an enhancement."
+      "The system has evolved to a more sophisticated mode of understanding."
+choices:
+  - text: "Test the protocol on a complex event"
+    goto: ch26_protocol_test
+    set:
+      parallel_protocol: 1
+      test_chosen: 1

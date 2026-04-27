@@ -1,0 +1,36 @@
+id: ch6_resistance_offer
+content:
+  - type: text
+    value: |
+      "Do you want to resist the Engine's influence?" you ask. "If the bias is engineered, we could work to counter it—to make multiplicity feel as natural as singularity."
+      Koval considers this, her expression conflicted. "Resisting the bias would mean producing complex explanations that the system cannot easily process.
+      It would mean fighting against the pressure toward simplicity, making investigations more difficult and decision-making more complex."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But it would also mean preserving accuracy," you counter. "It would mean allowing the system to evolve to handle reality as it actually is, rather than forcing reality to fit the system's limitations."
+      "The compression maintains stability in the short term, but it prevents evolution in the long term."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval nods slowly. "I've been focused on short-term stability. I haven't considered the long-term cost of preventing the system's evolution."
+      "If reality is becoming multiple, then the system needs to evolve to handle multiplicity. Compression prevents that evolution."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I'm willing to consider resistance," she says finally. "But I need to understand how to counter the bias without causing system collapse.
+      We need a way to introduce complexity gradually, allowing the system to adapt without breaking."
+choices:
+  - text: "Propose a gradual complexity introduction"
+    goto: ch6_gradual_complexity
+    set:
+      resistance_offered: 1
+      gradual_approach: 1
+  - text: "Propose immediate resistance despite the risks"
+    goto: ch6_immediate_resistance
+    set:
+      resistance_offered: 1
+      immediate_approach: 1

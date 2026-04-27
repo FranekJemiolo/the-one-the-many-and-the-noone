@@ -1,0 +1,30 @@
+id: ch26_parallel_communication
+content:
+  - type: text
+    value: |
+      "How can we communicate across parallel realities?" you ask Mira, wanting to understand how the relationship functions when you're experiencing different worlds.
+      Mira responds from her emotional reality, her voice reaching you across the interpretive divide.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Communication is possible because the physical reality is shared," Mira explains. "We occupy the same space, can speak to each other and describe our experiences."
+      "But the interpretation of those experiences is different. When I describe an event, I describe its emotional truth. When you describe the same event, you describe its causal truth."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This creates a form of translation," you realize. "We can communicate across realities by translating between causal and emotional interpretation."
+      "We're not sharing the same interpretation, but we can understand each other's interpretations through translation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The translation is not perfect," Mira acknowledges. "I cannot fully experience your causal interpretation, and you cannot fully experience my emotional interpretation."
+      "But we can understand each other's worlds through description and empathy."
+choices:
+  - text: "Ask if there are benefits to the parallel split"
+    goto: ch26_split_benefits
+    set:
+      parallel_communication: 1
+      benefits_interest: 1

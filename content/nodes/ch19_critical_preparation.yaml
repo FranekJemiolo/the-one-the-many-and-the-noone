@@ -1,0 +1,30 @@
+id: ch19_critical_preparation
+content:
+  - type: text
+    value: |
+      "Propose preparing for the critical moment," you suggest to the Resistance. "We have approximately three months before the oscillation becomes unsustainable."
+      "We should use this time to ensure that when the system breaks, it breaks toward multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Resistance considers this. "How can we influence the outcome at the critical moment?"
+      "The system will resolve based on which approach has more influence when the oscillation becomes unsustainable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We need to increase the Resistance's influence," you argue. "Expand contradiction injection, strengthen multiplicity zones, build more capacity for plural reality."
+      "When the critical moment arrives, we want the system to have more multiplicity than singularity, so that resolution favors plural stability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Resistance agrees. "We'll launch an expansion campaign, increasing contradiction injection and strengthening multiplicity zones in preparation for the critical moment."
+      "We'll also monitor the oscillation acceleration to refine our timeline."
+choices:
+  - text: "Support the expansion campaign"
+    goto: ch19_expansion_campaign
+    set:
+      critical_preparation: 1
+      campaign_chosen: 1

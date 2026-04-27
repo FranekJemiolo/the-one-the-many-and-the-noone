@@ -1,0 +1,29 @@
+id: ch6_phased_implementation
+content:
+  - type: text
+    value: |
+      "We can implement the redesign in phases," you propose. "Phase 1: train investigators in different interpretive frameworks. Phase 2: implement parallel processing for different frameworks.
+      Phase 3: integrate results without requiring compression. Phase 4: decommission the old system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "This would allow the system to adapt gradually, minimizing disruption while transitioning to the new architecture.
+      But we would need to maintain both systems during the transition, which requires additional resources and complexity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The phased approach also gives us time to test each component," you add. "We can verify that the new framework works before expanding it, adjust the design based on real-world performance, and ensure the transition doesn't cause system collapse."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is viable," Koval agrees. "It will take longer than a direct replacement, but it's safer and more likely to succeed.
+      We can begin with Phase 1 immediately—training a pilot group of investigators in different interpretive frameworks."
+choices:
+  - text: "Begin Phase 1 training"
+    goto: ch6_phase1_training
+    set:
+      phased_implementation: 1
+      training_started: 1

@@ -1,0 +1,30 @@
+id: ch14_monitoring_continues
+content:
+  - type: text
+    value: |
+      You continue the bias monitoring collaboration, intervening multiple times to prevent permanent truth loss.
+      Each intervention becomes more efficient as you learn to recognize the signs earlier and develop methods for reintroducing truth with minimal system disruption.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The collaboration is working," Koval reports after months of monitoring. "The rate of permanent truth loss has decreased significantly, and we've successfully restored truth in cases where it would have been lost."
+      "Your temporal perception is invaluable for identifying risks before they become irreversible."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the Engine's bias continues to intensify," she continues. "As reality becomes more multiple, the pressure toward compression increases, making the bias stronger and more pervasive."
+      "We will need to scale our monitoring efforts to keep pace with the intensifying bias."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "We can train additional investigators to recognize the bias," you suggest. "Your method of controlled falsehoods combined with my bias monitoring could be taught to others."
+      "This would create a distributed network of bias monitors, scaling our capacity to counteract the Engine's influence."
+choices:
+  - text: "Propose creating a bias monitoring network"
+    goto: ch14_monitoring_network
+    set:
+      monitoring_continues: 1
+      network_proposed: 1

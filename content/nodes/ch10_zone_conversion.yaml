@@ -1,0 +1,24 @@
+id: ch10_zone_conversion
+content:
+  - type: text
+    value: |
+      "Propose converting Clarity zones to multiplicity zones," you suggest. "The energy savings alone would justify the conversion, even before considering the ideological benefits."
+      Seraph considers this. "The energy argument is compelling. Clarity Administration is under pressure to reduce power consumption, and converting zones would free up significant resources."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the leadership would resist," she continues. "They believe singularity is necessary for stability, and they would view conversion as risking chaos regardless of the energy savings.
+      We would need to demonstrate that multiplicity zones are stable before leadership would approve conversion."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So we need an experiment first," you realize. "A small-scale test that demonstrates multiplicity can be stable, providing evidence to justify broader conversion."
+      "The energy savings provide an additional incentive, but stability is the primary concern."
+choices:
+  - text: "Propose the experiment as a pilot for energy optimization"
+    goto: ch10_energy_pilot
+    set:
+      conversion_proposed: 1
+      pilot_chosen: 1

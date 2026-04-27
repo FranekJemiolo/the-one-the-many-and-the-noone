@@ -1,0 +1,30 @@
+id: ch14_proposal_presentation
+content:
+  - type: text
+    value: |
+      You support presenting the proposal to leadership, advocating for system redesign based on the evidence of growing disconnect and the viability of multiplicity-capable systems.
+      Leadership is skeptical but attentive, recognizing that the current system has limitations but reluctant to authorize the significant changes required for redesign.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal is compelling," leadership acknowledges, "but the risks of transition are significant. Redesign would require system downtime, potential disruption to operations, and uncertainty about the new system's performance."
+      "We need more evidence that the benefits justify the risks."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We can implement a pilot program," you suggest. "Test the redesigned system in a controlled environment, demonstrate its viability with minimal risk."
+      "If the pilot succeeds, we can expand to full implementation with confidence."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Leadership agrees to the pilot program, authorizing a limited test of the redesigned system in a single facility.
+      The pilot will be monitored closely, and if it succeeds, the proposal for full redesign will be reconsidered.
+choices:
+  - text: "Begin the pilot implementation"
+    goto: ch14_pilot_implementation
+    set:
+      proposal_presentation: 1
+      pilot_authorized: 1

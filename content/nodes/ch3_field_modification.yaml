@@ -1,0 +1,41 @@
+id: ch3_field_modification
+content:
+  - type: text
+    value: |
+      "How would we modify the field for selective participation?" you ask, wanting to understand the technical requirements.
+      Vance brings up the field's specifications, highlighting the components that would need to be modified.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The field currently treats all observers equally," she explains. "It splits time for everyone in the station's radius. To allow selective participation, we would need to add individual synchronization controls—allowing each observer to choose whether to experience multiple timelines or a single timeline."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The modification would require redesigning the field's core algorithms," Vance continues. "It's not a simple adjustment. It would require weeks of work, possibly months.
+      And there's no guarantee it would work—the field operates on principles we don't fully understand."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What are the risks of attempting the modification?" you ask.
+      "We could break the field entirely," Vance warns. "If the modification fails, the field might collapse unpredictably, forcing all observers into a random timeline without any control.
+      Or the field might become unstable, creating temporal chaos that could be dangerous for everyone on the station."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a significant risk. Attempting the modification could make the situation worse rather than better.
+      But leaving the field unchanged means the station continues to operate in a state that normal reality doesn't support, with unknown long-term consequences.
+choices:
+  - text: "Attempt the field modification"
+    goto: ch3_modification_attempt
+    set:
+      technical_complexity: 1
+      risk_acceptance: 1
+  - text: "Leave the field unchanged"
+    goto: ch3_clock_inconsistency
+    set:
+      technical_complexity: 1
+      caution_chosen: 1

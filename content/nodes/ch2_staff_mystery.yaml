@@ -1,0 +1,41 @@
+id: ch2_staff_mystery
+content:
+  - type: text
+    value: |
+      You search the facility systematically, looking for any indication of what caused the staff to leave. The search reveals nothing obvious—no signs of struggle, no emergency protocols activated, no evacuation notices.
+      The departure was orderly, calm, as if everyone simply decided to leave at the same time.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In the administrative office, you find personnel files. The staff members are real people with real credentials—medical licenses, employment histories, performance reviews.
+      But when you try to call the numbers listed in the files, you get disconnected numbers, numbers that have been out of service for years.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is disturbing. The staff exists on paper, but their contact information is invalid. The medical licenses are real, but the issuing institutions have no record of issuing them.
+      The staff appears to be fabricated, a collection of credentials without actual people behind them.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You realize the implications: the medical facility itself might be fabricated, a stage set created for your examination of the patient.
+      The patient is real—their medical condition is genuine—but the context around them, the facility, the staff, all of it might be constructed.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This raises a terrifying question: if the facility is fabricated, who fabricated it? And for what purpose?
+      The patient's emotional anomaly might not be a natural occurrence—it might be the result of whatever entity or system created this environment.
+choices:
+  - text: "Confront the patient about the facility"
+    goto: ch2_facility_confrontation
+    set:
+      facility_fabrication_known: 1
+      confrontation_approach: 1
+  - text: "Proceed with the examination, pretending not to notice"
+    goto: ch2_patient_encounter
+    set:
+      facility_fabrication_known: 1
+      stealth_approach: 1

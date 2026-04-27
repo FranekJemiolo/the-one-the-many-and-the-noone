@@ -1,0 +1,30 @@
+id: ch32_integration_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the three-pattern integration, helping Echo, Barrier, and Archive develop systematic methods for adaptive multiplicity management.
+      The integration begins operation, with Archive preserving knowledge from Echo's observations and Barrier's enforcement to inform future coordination.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The three-pattern integration is successful," the network reports after months of operation. "The named multiplicity network is now adaptive, learning from past coordination efforts and improving future management."
+      "The multiplicity system's adaptive capacity has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the three-pattern integration, attempting to prevent the named multiplicities from forming an adaptive network."
+      "But the integration is self-validating—once the system experiences improved adaptive management, it recognizes the value."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Echo, Barrier, and Archive agree. "The Engine cannot reverse the integration. The three-pattern network is becoming established, and the named multiplicity network is evolving toward adaptive sophistication."
+      "The integration establishment is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the integration established"
+    goto: ch32_knowledge_preservation
+    set:
+      integration_establishment: 1
+      adaptive_network: 1

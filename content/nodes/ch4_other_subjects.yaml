@@ -1,0 +1,42 @@
+id: ch4_other_subjects
+content:
+  - type: text
+    value: |
+      "Tell me about the other test subjects," you say, wanting to understand the scale of the organization's research.
+      Chen brings up a database showing twelve other entities in various stages of development.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Three are in early development," she explains. "Basic memory architecture, no multiplicity yet. Five are in intermediate stages—beginning to experience multiple pasts but not adapted to them.
+      Four are in advanced stages—like the cyborg, capable of navigating multiplicity but at different levels of sophistication."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The cyborg is the most advanced," Chen continues. "But the others are catching up. The organization is running parallel experiments, testing different approaches to memory multiplicity."
+      "They're not relying on a single success. They're developing multiple prototypes to ensure at least one succeeds."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Where are the other subjects?" you ask.
+      "Scattered across different facilities," Chen replies. "Some at Research Facility 7, some at locations we don't have access to.
+      The organization keeps the test subjects distributed to prevent any single facility from understanding the full scope of the research."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is both strategic and concerning. The organization is conducting a massive research program across multiple facilities, developing the components for distributed consciousness.
+      The cyborg is just one piece of a much larger puzzle, and the organization is close to completing it.
+choices:
+  - text: "Ask how close the organization is to completion"
+    goto: ch4_completion_timeline
+    set:
+      chen_contact: 1
+      timeline_interest: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      scale_known: 1

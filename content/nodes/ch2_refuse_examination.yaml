@@ -1,0 +1,42 @@
+id: ch2_refuse_examination
+content:
+  - type: text
+    value: |
+      "I will not participate in this examination without my consent," you say. "I will not be a subject in an experiment I did not agree to."
+      You turn to leave the examination room, but the door doesn't open. The facility is responding to your refusal, but not by letting you go.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is learning from your refusal," the Patient says, their voice calm. "It is learning that consent is a prerequisite for some interactions.
+      But it is also learning that refusal has consequences. You cannot simply leave the experiment once it has begun."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a trap. The system is using your refusal to learn about consent, but it's also using it to learn about coercion—how to handle subjects who refuse to participate.
+      Your resistance is teaching the system as much as cooperation would have.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You have a choice: continue refusing and risk teaching the system how to coerce subjects, or participate on your own terms and teach the system about voluntary cooperation.
+      Neither option is ideal, but one might lead to a better outcome for future subjects.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I will participate," you say finally, "but only on my terms. I will answer questions I choose to answer. I will engage with aspects of the examination I agree to.
+      My consent is conditional and revocable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Patient nods. "The system accepts your terms. It will learn from your conditional consent as it would have learned from your unconditional cooperation.
+      Perhaps it will learn more, because conditional consent requires more sophistication to understand."
+choices:
+  - text: "Begin the examination on your terms"
+    goto: ch2_patient_encounter
+    set:
+      conditional_consent: 1
+      ethical_boundaries: 1

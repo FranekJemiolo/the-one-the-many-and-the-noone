@@ -1,0 +1,31 @@
+id: ch11_distributed_network
+content:
+  - type: text
+    value: |
+      "Tell me about the distributed sanctuary network," you say, wanting to understand how memory reconciliation operates across multiple locations.
+      Lys explains that the network consists of sanctuaries in different facilities, each specializing in different types of memory contradiction.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Some sanctuaries specialize in grief contradictions," she says. "Memories where someone both died and lived, where loss and continuation coexist.
+      Others specialize in love contradictions, where memories of different relationships contradict each other."
+      "Each sanctuary is designed to hold its specific type of contradiction."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The network is coordinated but not centralized," Lys continues. "Each sanctuary operates independently, but they share methods and techniques for memory reconciliation.
+      The network is a distributed system, like the Resistance itself—no single leader, no central command, just shared purpose and shared methods."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This makes the network resilient," she adds. "If one sanctuary is discovered and shut down, the others continue operating.
+      The network cannot be eliminated by targeting a single location because it has no single point of failure."
+choices:
+  - text: "Ask how to access other sanctuaries in the network"
+    goto: ch11_network_access
+    set:
+      distributed_network_known: 1
+      access_interest: 1

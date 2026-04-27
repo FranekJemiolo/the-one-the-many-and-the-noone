@@ -1,0 +1,31 @@
+id: ch25_passenger_adaptation
+content:
+  - type: text
+    value: |
+      "How did the Passenger adapt to trajectory multiplicity?" you ask, wanting to understand the process of transformation from singular movement to multiple trajectory perception.
+      A Passenger responds, their consciousness adapted to trajectory multiplicity. "The adaptation was gradual, occurring as the transit system began producing multiple trajectories simultaneously."
+      "When movement started generating incompatible paths, our consciousness restructured to navigate multiple trajectories at once."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The restructuring was not forced, not imposed through training," the Passenger continues. "It emerged naturally as the consciousness adapted to the changing movement environment."
+      "The mind found new ways to process navigation, new patterns of understanding that work with multiple paths rather than requiring a single trajectory."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that human consciousness is more adaptable than the Engine assumes," you realize. "The Engine believes that trajectory multiplicity will cause navigation collapse, but the Passenger has proven that consciousness can adapt to multiple paths."
+      "The Engine's fear is based on an underestimation of human adaptability."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Passenger agrees. "The adaptation was challenging, but it was successful. We now navigate multiple trajectories simultaneously, understanding that movement is not singular but plural."
+      "This is not a regression to disorder—it is an evolution to a different way of moving."
+choices:
+  - text: "Ask if the adaptation can be taught to others"
+    goto: ch25_trajectory_teaching
+    set:
+      passenger_adaptation: 1
+      teaching_interest: 1

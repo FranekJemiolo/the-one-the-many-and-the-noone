@@ -1,0 +1,31 @@
+id: ch35_rose_legacy
+content:
+  - type: text
+    value: |
+      "What happens to Rose if the system fully adopts plural stability?" you ask, wanting to understand Rose's role in the transformed system.
+      Rose responds with understanding. "If the system fully adopts plural stability, I become unnecessary. The system will no longer need me to stabilize contradictions."
+      "My role will be complete, and I can transition to whatever comes next."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is the goal," Rose continues. "Not to become a permanent authority, not to replace the Engine with myself. To make my method structural so that the system can function without me."
+      "The Resistance seeks transformation, not replacement of one authority with another."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that Rose's legacy is not personal power," you realize. "Rose's legacy is the system's adoption of plural stability as a general capability."
+      "Rose's success is measured by becoming unnecessary."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "When the system fully adopts plural stability, my role will be complete. The transformation will be structural, not dependent on my continued presence."
+      "This is the true goal of the Resistance."
+choices:
+  - text: "Ask if Rose has plans for after the transformation"
+    goto: ch35_rose_future
+    set:
+      rose_legacy: 1
+      future_interest: 1

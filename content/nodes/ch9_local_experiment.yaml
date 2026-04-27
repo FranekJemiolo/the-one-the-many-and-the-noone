@@ -1,0 +1,29 @@
+id: ch9_local_experiment
+content:
+  - type: text
+    value: |
+      "Propose the local experiment," you say, willing to take the risk of bypassing governance to test multiplicity-capable systems.
+      Seraph drafts the experiment proposal, framing it as a test of adaptive processing in a controlled environment.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The experiment will be limited in scope," she explains. "We will implement multiplicity-capable processing in this facility only, for a specific type of investigation, for a defined period.
+      If the experiment succeeds, we can expand it. If it fails, we can revert to current protocols."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a calculated risk," you acknowledge. "If the experiment is discovered and disapproved, there could be consequences.
+      But if it succeeds, it could provide the evidence needed to justify broader reform."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph authorizes the experiment, using her authority to approve local adaptive processing tests. The implementation begins immediately, with you providing technical guidance on how to handle multiplicity without collapse.
+choices:
+  - text: "Monitor the experiment's progress"
+    goto: ch9_experiment_monitoring
+    set:
+      local_experiment: 1
+      monitoring_started: 1

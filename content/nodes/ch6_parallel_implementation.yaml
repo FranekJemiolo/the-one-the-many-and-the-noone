@@ -1,0 +1,30 @@
+id: ch6_parallel_implementation
+content:
+  - type: text
+    value: |
+      You implement the parallel systems approach, establishing the new multiplicity-capable system alongside the existing compression-based system.
+      The new system is initially used only for complex anomalies that the old system cannot handle without extreme distortion.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The transition is smooth. Investigators appreciate having the option to use the new system for difficult cases, and the old system continues to handle routine investigations without disruption.
+      Over time, as investigators become more comfortable with the new system, they begin using it for increasingly complex anomalies.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Engine's bias tries to make the new system feel unnecessary, to frame multiplicity as inefficiency. But the comparative results speak for themselves: the new system produces more accurate accounts of complex anomalies, even if they're less comfortable to process.
+      Gradually, investigators begin preferring the new system even for routine cases.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval monitors the transition, documenting the system's response and adjusting the pace based on performance. The parallel operation is working better than expected—the two systems complement each other rather than competing.
+      The old system provides quick, simple answers for straightforward cases. The new system provides complex, accurate answers for difficult cases.
+choices:
+  - text: "Continue monitoring the parallel systems"
+    goto: ch6_engine_influence
+    set:
+      parallel_implementation: 1
+      transition_successful: 1

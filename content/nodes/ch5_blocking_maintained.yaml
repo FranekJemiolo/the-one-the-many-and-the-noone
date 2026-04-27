@@ -1,0 +1,35 @@
+id: ch5_blocking_maintained
+content:
+  - type: text
+    value: |
+      You maintain the blocking, refusing to back down despite the organization's investigation. The ripple of attention intensifies, focusing more precisely on your location.
+      You can feel the organization's consciousness beginning to form a hypothesis about who is interfering.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Then you feel something else—a communication, not through language but through intent. The organization is not angry at the interference. It's curious.
+      It wants to understand who has the capability to perceive and block its observation channels.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "They're not trying to eliminate me," you realize. "They're trying to recruit me. They want to know who I am and what I can do."
+      This changes everything. The organization doesn't see you as a threat—it sees you as a potential asset, someone with capabilities that could be useful to the distributed consciousness.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is dangerous," Mira warns. "If they recruit you, you might become part of the consciousness against your will."
+      "Or I might join them willingly and influence the consciousness from the inside," you counter. "This could be an opportunity, not just a threat."
+choices:
+  - text: "Restore the connections and refuse recruitment"
+    goto: ch5_restoration
+    set:
+      blocking_attempted: 1
+      recruitment_refused: 1
+  - text: "Accept the potential recruitment opportunity"
+    goto: ch5_recruitment_acceptance
+    set:
+      blocking_attempted: 1
+      recruitment_accepted: 1

@@ -1,0 +1,30 @@
+id: ch6_goals_research
+content:
+  - type: text
+    value: |
+      "We should research the organization's goals before approaching them," you decide. "If we understand what they want from the consciousness, we can frame our offer in terms that align with their interests."
+      Koval agrees. "I can access some of the organization's strategic documents through my system administrator clearance. Not everything, but enough to understand their high-level objectives."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She brings up the documents, which reveal the organization's primary goal: they want the consciousness to achieve "comprehensive reality perception."
+      The consciousness should be able to perceive all layers of reality simultaneously, process all possible experiences, and make decisions based on complete information rather than partial understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This aligns with our interests," you realize. "Comprehensive perception requires preserving multiplicity. If the consciousness collapses reality into singularity, it cannot achieve comprehensive perception."
+      "We can frame our offer as helping them achieve their goal by ensuring the consciousness preserves multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But there's a risk," Koval warns. "The organization might interpret comprehensive perception differently. They might think it means perceiving all layers but choosing one to act on—essentially the same as compression."
+      "We need to clarify what comprehensive perception means before approaching them."
+choices:
+  - text: "Clarify the definition of comprehensive perception"
+    goto: ch6_definition_clarification
+    set:
+      goals_researched: 1
+      clarification_needed: 1

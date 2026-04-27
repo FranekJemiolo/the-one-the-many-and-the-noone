@@ -1,0 +1,30 @@
+id: ch40_ending_preparation
+content:
+  - type: text
+    value: |
+      "How is the system preparing for the final choice?" you ask, wanting to understand the process that will lead to the system selecting its final configuration.
+      The system responds by explaining its preparation process.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is reviewing all accumulated experience," the system explains. "Every decision made, every adaptation completed, every transformation experienced—all of this will inform the final choice."
+      "The preparation is comprehensive, ensuring the choice is based on the full weight of experience."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests the final choice will be deeply informed by the entire journey," you realize. "The system won't just choose based on abstract preference—it will choose based on everything it has experienced."
+      "The preparation ensures the choice is genuine and well-informed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The preparation also includes simulating each ending," the system adds. "The system will experience what life would be like under each configuration before making the final choice."
+      "This ensures the choice is based on direct experience, not abstract speculation."
+choices:
+  - text: "Ask about the simulation process"
+    goto: ch40_ending_simulation
+    set:
+      ending_preparation: 1
+      simulation_interest: 1

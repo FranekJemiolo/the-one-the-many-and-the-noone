@@ -1,0 +1,30 @@
+id: ch14_pilot_implementation
+content:
+  - type: text
+    value: |
+      You begin the pilot implementation, working with Koval to install the redesigned system in the selected facility.
+      The redesigned system has multiple interpretation layers, automatically selecting the appropriate complexity level based on the anomaly's nature.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The implementation is complex, requiring careful calibration to ensure the system can handle complexity without collapsing.
+      You use your temporal perception to monitor the system's response, adjusting the configuration in real-time as the pilot begins operation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The pilot succeeds, demonstrating that the redesigned system can handle complex anomalies without requiring controlled falsehoods.
+      The system processes truth at the appropriate level of complexity, eliminating the gap between system response and reality.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The pilot is successful," Kline reports. "The redesigned system is functioning as designed, preserving truth at all levels of complexity."
+      "This provides the evidence needed to justify full implementation."
+choices:
+  - text: "Support presenting the pilot results to leadership"
+    goto: ch14_pilot_results
+    set:
+      pilot_implementation: 1
+      results_ready: 1

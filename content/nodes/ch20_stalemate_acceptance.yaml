@@ -1,0 +1,30 @@
+id: ch20_stalemate_acceptance
+content:
+  - type: text
+    value: |
+      "Accept the three-state stalemate as the new normal," you propose. "The conflict between causal and emotional interpretation cannot be resolved, but it can be stabilized through the possibility engine."
+      "The system can maintain three incompatible interpretations without collapsing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy agrees. "Causal interpretation remains primary, but I accept that emotional and possibility interpretations have their place."
+      "The three-state system is acceptable as long as causal sequence is not overridden."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira agrees. "Emotional interpretation remains primary for me, but I accept that causal and possibility interpretations have their place."
+      "The three-state system is acceptable as long as emotional truth is not overridden."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The stalemate is now stable," you observe. "The system can maintain three incompatible interpretations through the three-state oscillation."
+      "This is not resolution, but it is stability—and stability is what the system needs to prevent collapse."
+choices:
+  - text: "Continue the chapter with the three-state system established"
+    goto: ch20_system_oscillation
+    set:
+      stalemate_acceptance: 1
+      three_state_established: 1

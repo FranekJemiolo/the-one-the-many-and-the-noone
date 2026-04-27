@@ -1,0 +1,30 @@
+id: ch19_final_reinforcement
+content:
+  - type: text
+    value: |
+      You support the final reinforcement of multiplicity zones, using your temporal perception to identify where the Engine's final push is most intense and directing additional contradiction injection to those areas.
+      The Resistance deploys maximum resources, maintaining the balance despite the Engine's countermeasures.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The reinforcement succeeds. The balance holds at 60% in favor of multiplicity, with the Resistance maintaining influence despite the Engine's maximum enforcement.
+      The oscillation continues to accelerate, approaching the point where it will become unsustainable.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The critical moment is approaching," you observe. "The oscillation frequency is increasing to the point where states shift faster than perception can follow."
+      "The system will soon reach the breaking point."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The balance is in our favor," the Resistance reports. "When the system breaks, it should resolve toward plural stability."
+      "We have prepared as well as possible for the critical moment."
+choices:
+  - text: "Continue the chapter with preparation complete"
+    goto: ch19_divergence_injection
+    set:
+      final_reinforcement: 1
+      preparation_complete: 1

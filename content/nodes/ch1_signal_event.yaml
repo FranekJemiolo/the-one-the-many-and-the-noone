@@ -14,6 +14,12 @@ content:
     duration: 800
   - type: text
     value: |
+      What disturbs you most is not the contradiction itself, but the way your mind slides between the two accounts without resistance.
+      You read the first statement, and it feels absolutely true. You read the second, and it feels equally true. The contradiction doesn't create cognitive dissonance—it creates a sickening sense that reality itself has split.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
       You pick up the first statement. The details are precise, chronological, causal. Every event follows logically from the one before it.
       The causal chain is unbroken, clear, undeniable. This is how reality should work—cause and effect in perfect alignment.
   - type: pause
@@ -22,6 +28,12 @@ content:
     value: |
       Then you read the second. The emotional sequence is different. The timing doesn't match. The causal connections are absent.
       Yet it feels equally true, perhaps more so in its way. The emotional resonance creates its own kind of coherence, one that logic cannot explain but intuition recognizes immediately.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Your hands tremble slightly as you set the papers down. Not from fear—from the vertigo of standing on ground that suddenly feels unstable.
+      If both accounts are true, then the world is not what you thought it was. If both accounts are true, then you need to understand what that means before it spreads.
 choices:
   - text: "Investigate the causal chain (Aleksy perspective)"
     goto: ch1_aleksy_investigation
@@ -31,3 +43,7 @@ choices:
     goto: ch1_mira_observation
     set:
       mira_dominance: 1
+  - text: "Visit the incident location immediately"
+    goto: ch1_location_investigation
+    set:
+      investigation_approach: physical

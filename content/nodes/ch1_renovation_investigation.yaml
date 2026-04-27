@@ -1,0 +1,49 @@
+id: ch1_renovation_investigation
+content:
+  - type: text
+    value: |
+      The renovation company, "Aether Structural Solutions," has no physical presence but does have a paper trail—bank accounts, tax filings, business registrations.
+      The trail leads to a post office box in the city, but when you visit the address, you find only a mail forwarding service with no records of who actually rents the box.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You try a different approach: tracking the building official who signed the permits. His name is Thomas Chen, and according to public records, he now works as a consultant for private clients.
+      You find his contact information and arrange a meeting, presenting yourself as a researcher studying unusual architectural phenomena.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Chen meets you at a coffee shop, his demeanor guarded. When you mention Aether Structural Solutions, he stiffens visibly.
+      "I don't discuss that work," he says. "It was classified as a matter of public safety. The building was... unstable. The renovation was necessary to prevent a catastrophic failure."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What kind of failure?" you press. "Structural? Electrical?"
+      Chen hesitates, then lowers his voice. "Reality failure. The building was experiencing... dimensional instability. Spaces were overlapping in ways that shouldn't be possible.
+      The renovation was designed to stabilize the building, to reinforce the boundaries between different layers of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This confirms your suspicion: the renovation was an intervention to address the very anomalies you're now investigating. But if the renovation was supposed to stabilize the building, why are the anomalies getting worse?
+      Chen seems to anticipate this question. "The stabilization was temporary. The building's fundamental nature hasn't changed—it's just been suppressed. And suppression isn't a permanent solution."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What is the building's fundamental nature?" you ask.
+      Chen looks around to ensure no one is listening. "The building is a node. A point where multiple realities intersect. It's always been this way, since it was built.
+      The renovation just... tuned it. Made the intersections more manageable. But the building is still what it is, and it's still trying to express its nature."
+choices:
+  - text: "Ask Chen who designed the building"
+    goto: ch1_building_origin
+    set:
+      building_nature_confirmed: 1
+      chen_informant: 1
+  - text: "Return to the office with this information"
+    goto: ch1_chapter_end
+    set:
+      building_nature_confirmed: 1
+      renovation_understood: 1

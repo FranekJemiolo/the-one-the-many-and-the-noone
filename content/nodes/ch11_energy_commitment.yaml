@@ -1,0 +1,25 @@
+id: ch11_energy_commitment
+content:
+  - type: text
+    value: |
+      "I commit to ongoing energy support for the sanctuary," you say, willing to use your temporal perception to help maintain the space where contradictory memories can coexist.
+      Lys accepts your commitment with gratitude. "This support will allow the sanctuary to expand its capacity significantly."
+      "We will be able to hold many more contradictory memories, serving more people who cannot bear to eliminate their multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Your support also connects you to the sanctuary network," she adds. "By providing energy, you become part of the network's infrastructure.
+      The network will recognize you as an ally and will provide you with access to its services when you need them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a significant commitment: you are not just visiting the sanctuary but becoming part of its infrastructure, using your enhanced capabilities to support memory reconciliation.
+      In exchange, you gain access to the distributed network's services, connecting to the Resistance's memory stabilization infrastructure.
+choices:
+  - text: "Accept the connection to the sanctuary network"
+    goto: ch11_network_connection
+    set:
+      energy_commitment: 1
+      network_joined: 1

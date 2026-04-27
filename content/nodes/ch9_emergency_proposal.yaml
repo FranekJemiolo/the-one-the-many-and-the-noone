@@ -1,0 +1,30 @@
+id: ch9_emergency_proposal
+content:
+  - type: text
+    value: |
+      Seraph presents the emergency reform proposal to Clarity Administration's leadership, arguing that the accelerating gap requires immediate action.
+      The leadership is alarmed by the investigation's findings, recognizing that the system is caught in a feedback loop of increasing disconnect.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "They approve emergency measures," Seraph reports. "They authorize immediate implementation of multiplicity-capable processing in high-risk cases, where the gap is most severe.
+      They also authorize a comprehensive review of all enforcement protocols, with the goal of identifying where multiplicity can be safely introduced."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is a significant victory," you observe. "The leadership has acknowledged the problem and authorized action to address it."
+      "But it's only a first step," Seraph cautions. "Emergency measures are temporary. We need to develop a long-term solution, a comprehensive redesign that addresses the system's fundamental architecture."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The emergency implementation begins immediately, with you providing technical guidance on how to handle multiplicity without collapse.
+      The system begins to adapt, suggesting that reform is possible even within the existing governance structures.
+choices:
+  - text: "Continue supporting the emergency implementation"
+    goto: ch9_emergency_implementation
+    set:
+      emergency_proposal: 1
+      implementation_started: 1

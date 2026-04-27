@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch29_chapter_end
+  - text: "Ask about layer switching mechanism"
+    goto: ch29_layer_switching
+    set:
+      switching_interest: 1

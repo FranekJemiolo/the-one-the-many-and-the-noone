@@ -1,0 +1,35 @@
+id: ch9_gap_analysis
+content:
+  - type: text
+    value: |
+      "Is the gap growing?" you ask, wanting to understand whether the disconnect between system response and reality is worsening over time.
+      Seraph accesses the gap monitoring data, her expression grim as she reviews the trends.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The gap is growing exponentially," she reports. "As reality becomes more multiple, the system requires more extreme enforcement to maintain singularity.
+      The more we compress, the more distortion we introduce, and the more the system's decisions diverge from what is actually happening."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is unsustainable," you realize. "Eventually, the gap will become so large that the system's decisions will have no relationship to reality at all.
+      The system will be operating in a fantasy world of its own making while reality continues to exist independently."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph nods. "Clarity Administration is aware of this trend. We have projected that the gap will reach critical levels within five years if current patterns continue.
+      At that point, the system will either collapse or become completely disconnected from reality."
+choices:
+  - text: "Propose addressing the gap before it becomes critical"
+    goto: ch9_gap_addressing
+    set:
+      gap_analyzed: 1
+      addressing_chosen: 1
+  - text: "Ask what happens when the gap becomes critical"
+    goto: ch9_critical_projection
+    set:
+      gap_analyzed: 1
+      projection_interest: 1

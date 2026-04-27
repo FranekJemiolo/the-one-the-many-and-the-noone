@@ -1,0 +1,30 @@
+id: ch20_aleksy_approach
+content:
+  - type: text
+    value: |
+      You approach Aleksy about developing the possibility engine, explaining that a third interpretation engine might stabilize the oscillation between causal and emotional states.
+      Aleksy listens, his expression skeptical but attentive.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Possibility interpretation is not causal interpretation," Aleksy objects. "It focuses on what could happen rather than what did happen. This dilutes the importance of actual causal sequence."
+      "If we allow possibility interpretation, we're accepting that what might have happened is as important as what actually happened."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the current oscillation is unsustainable," you argue. "The system cannot maintain the tension between causal and emotional interpretation indefinitely."
+      "A third engine might provide the stability needed to prevent collapse."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy considers this. "If the alternative is system collapse, then possibility interpretation might be acceptable as a stabilizing measure."
+      "But I will not accept possibility interpretation as equal to causal interpretation. Causal sequence must remain primary, with possibility interpretation serving a secondary role."
+choices:
+  - text: "Accept Aleksy's condition and begin possibility training"
+    goto: ch20_possibility_training
+    set:
+      aleksy_approach: 1
+      training_chosen: 1

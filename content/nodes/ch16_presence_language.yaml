@@ -1,0 +1,30 @@
+id: ch16_presence_language
+content:
+  - type: text
+    value: |
+      You learn the Child's presence language, developing the capacity to communicate through patterns of presence rather than through interpreted meaning.
+      The language is difficult, requiring you to abandon the habit of seeking significance in every pattern.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The presence language is not about conveying information," you realize. "It's about sharing awareness, about creating resonance between presences without requiring symbolic reference."
+      "This is communication at the most fundamental level—presence responding to presence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The Child teaches you through pattern repetition, showing you how to create presence sequences that can be recognized and responded to.
+      Over time, you develop fluency in this non-interpretive form of communication.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This language exists outside the Engine's domain," you realize. "The Engine operates on interpreted meaning, on symbols that carry significance. The presence language operates on direct presence, on patterns that require no interpretation."
+      "This is a form of communication that the Engine cannot compress."
+choices:
+  - text: "Ask the Child about the void's origins"
+    goto: ch16_void_origins
+    set:
+      presence_language: 1
+      origins_interest: 1

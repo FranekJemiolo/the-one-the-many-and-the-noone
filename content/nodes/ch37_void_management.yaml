@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch37_chapter_end
+  - text: "Ask about the Null Child's perspective"
+    goto: ch37_null_child_perspective
+    set:
+      null_child_perspective_interest: 1

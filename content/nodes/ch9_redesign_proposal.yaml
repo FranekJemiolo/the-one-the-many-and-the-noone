@@ -1,0 +1,30 @@
+id: ch9_redesign_proposal
+content:
+  - type: text
+    value: |
+      "Let's collaborate on system redesign," you propose. "We can design a new system that can handle multiplicity without requiring enforcement of singular causality."
+      Seraph is skeptical. "Clarity Administration's mandate is to maintain the current system, not to replace it.
+      Redesign would require authorization beyond my authority, approval from levels above my position."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But if the current system is becoming increasingly disconnected from reality," you argue, "then maintaining it is not preserving stability—it's preserving an illusion.
+      True stability requires a system that can handle reality as it actually is, not as it should be according to outdated assumptions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Seraph considers this. "I can present a proposal to my superiors. I cannot guarantee approval, but I can argue that system redesign might be necessary if reality has fundamentally changed."
+      "The proposal would need to demonstrate that the current system is failing, that redesign is viable, and that the benefits outweigh the risks."
+choices:
+  - text: "Help draft the redesign proposal"
+    goto: ch9_proposal_drafting
+    set:
+      redesign_proposed: 1
+      collaboration_started: 1
+  - text: "Continue resisting enforcement independently"
+    goto: ch9_causal_instability
+    set:
+      redesign_proposed: 1
+      independent_resistance: 1

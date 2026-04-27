@@ -1,0 +1,36 @@
+id: ch6_immediate_resistance
+content:
+  - type: text
+    value: |
+      "We should resist immediately," you argue. "Every report we compress serves the Engine's agenda. We need to start documenting complexity now, regardless of the short-term costs."
+      Koval is hesitant. "Immediate resistance risks system collapse. If we introduce too much complexity too quickly, the system might not be able to process it.
+      Investigations could stall, decision-making could freeze, the entire apparatus could become non-functional."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But gradual resistance allows the Engine to adapt," you counter. "The bias will adjust to our gradual approach, finding new ways to make singularity feel natural.
+      Immediate resistance might be the only way to catch the Engine off guard."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "You're suggesting that the Engine is not just a static bias but an adaptive system, one that will respond to our resistance by finding new ways to enforce singularity."
+      "If that's true, then gradual resistance might be ineffective. The Engine will simply adjust its methods."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The distributed consciousness might be the key," you realize. "If the consciousness awakens with values that support multiplicity, it could counteract the Engine's influence directly.
+      Rather than trying to work within the current system, we should focus on shaping the consciousness that will replace it."
+choices:
+  - text: "Shift focus to influencing the consciousness"
+    goto: ch6_consciousness_focus
+    set:
+      resistance_considered: 1
+      consciousness_priority: 1
+  - text: "Pursue immediate resistance despite the risks"
+    goto: ch6_immediate_attempt
+    set:
+      resistance_considered: 1
+      immediate_chosen: 1

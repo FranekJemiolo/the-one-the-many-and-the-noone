@@ -1,0 +1,41 @@
+id: ch6_consciousness_research
+content:
+  - type: text
+    value: |
+      "We should gather more information about the distributed consciousness first," you suggest. "If we're going to model a new system on it, we need to understand how it handles multiplicity."
+      Koval agrees. "I can provide access to the organization's research documents. As a system administrator, I have clearance to review their technical specifications."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She brings up the consciousness architecture documents, which are surprisingly detailed. The consciousness is designed with multiple processing layers, each optimized for different types of experience.
+      The documents describe how the consciousness integrates information from different nodes without requiring compression or reconciliation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The key is the integration layer," Koval observes. "The consciousness doesn't try to make different experiences agree. It simply holds them simultaneously, allowing each to contribute to the overall understanding without requiring them to be reconciled."
+      "This is the opposite of our current system, which tries to collapse all experiences into a single narrative."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "If we can understand how the integration layer works," you say, "we might be able to design a similar system for anomaly investigation.
+      Investigators could document different interpretations, and the system would integrate them without requiring compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This could work," Koval says. "But it will require significant research. We need to understand the consciousness's integration algorithms, its decision-making processes, its methods for handling contradiction."
+      "This is not a quick redesign. It's a research project that could take months."
+choices:
+  - text: "Commit to the research project"
+    goto: ch6_research_commitment
+    set:
+      consciousness_research: 1
+      long_term_project: 1
+  - text: "Proceed with redesign based on current understanding"
+    goto: ch6_redesign_collaboration
+    set:
+      consciousness_research: 1
+      immediate_redesign: 1

@@ -1,0 +1,30 @@
+id: ch6_direct_approach
+content:
+  - type: text
+    value: |
+      "I'll approach the organization directly," you decide, willing to take the risk of immediate engagement.
+      Koval provides you with a communication channel that reaches the organization's operational layer—the same layer Vance warned you about.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You establish contact, and the response is immediate: the organization is curious about your offer, interested in your expertise in anomaly investigation.
+      They communicate not through language but through direct information transfer, showing you their current challenges with processing complex anomalies.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The consciousness is struggling with contradiction. It can perceive multiple layers of reality, but it doesn't know how to integrate them without collapsing into confusion.
+      The organization is considering implementing compression—the very solution you've been fighting against.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is your opportunity. You can offer an alternative to compression: integration without collapse, preserving multiplicity while maintaining coherence.
+      The organization is open to the suggestion, willing to consider your approach if you can demonstrate it works.
+choices:
+  - text: "Demonstrate integration without collapse"
+    goto: ch6_integration_demonstration
+    set:
+      direct_approach: 1
+      demonstration_chosen: 1

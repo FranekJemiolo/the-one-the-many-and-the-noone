@@ -1,0 +1,43 @@
+id: ch3_enhanced_investigation
+content:
+  - type: text
+    value: |
+      With your enhanced temporal perception, you return to the station's central monitoring area, now able to perceive the different timelines overlapping.
+      The clocks that showed different sequences now make sense—each clock is experiencing a different timeline, and you can feel which timeline each clock is anchored to.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You examine the researcher logs with your new perception, and for the first time, you can understand how all three reports can be true simultaneously.
+      Each researcher experienced a different timeline, and their logs accurately describe the sequence they lived through.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This changes your understanding of the anomaly. The station is not malfunctioning—it's operating in a mode that accommodates multiple temporal realities.
+      The researchers are not confused or mistaken—they're adapted to a mode of experience that normal reality doesn't support.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You realize this is not a problem to be solved. It's a state to be understood. The station is demonstrating that multiple temporal realities can coexist without collapse, that time itself can be multiple without breaking causality.
+      This has profound implications for your understanding of reality—and for the organization that built this station.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The organization is building infrastructure for multiple realities," you realize. "They're not just experimenting with anomalies—they're constructing the foundation for a new mode of existence."
+      "A mode where time is multiple, where different timelines coexist, where reality itself is plural rather than singular."
+choices:
+  - text: "Document this understanding and conclude the investigation"
+    goto: ch3_temporal_instability
+    set:
+      enhanced_understanding: 1
+      vance_mentor: 1
+      temporal_training: 2
+  - text: "Ask Vance about the organization's ultimate goals"
+    goto: ch3_organization_goals
+    set:
+      enhanced_understanding: 1
+      vance_mentor: 1
+      goals_interest: 1

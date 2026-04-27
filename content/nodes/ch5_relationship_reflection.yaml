@@ -1,0 +1,36 @@
+id: ch5_relationship_reflection
+content:
+  - type: text
+    value: |
+      Before analyzing the deja vu, you take a moment to reflect on your relationship with Mira. You've been partners for years, investigating anomalies together, developing complementary approaches to understanding reality.
+      But this is the first time you've experienced the same divergence simultaneously, and it changes something fundamental about how you understand your partnership.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We've always had different perspectives," you say, thinking aloud. "I approach things causally, you approach them emotionally. We've always known that about each other."
+      "But this is different," Mira responds. "We're not just having different interpretations of the same event. We're experiencing different versions of the same event."
+      "The moment itself is multiple, and we're each accessing a different version."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This raises a question about your relationship: if you and Mira can experience the same moment differently, what does that mean for your shared reality?
+      Can you truly say you're experiencing the same world together, or are you each experiencing your own version of the world that happens to overlap?
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Does this change our partnership?" you ask.
+      Mira considers this. "It changes how I understand it. I used to think we were two people seeing the same thing differently. Now I think we're two people seeing different things that happen to overlap."
+      "But that doesn't make our partnership less real. If anything, it makes it more remarkable—that we can maintain connection across different versions of reality."
+choices:
+  - text: "Ask how to maintain connection across different realities"
+    goto: ch5_connection_maintenance
+    set:
+      relationship_deepening: 1
+      connection_interest: 1
+  - text: "Analyze the deja vu directly"
+    goto: ch5_aleksy_perspective
+    set:
+      relationship_reflected: 1

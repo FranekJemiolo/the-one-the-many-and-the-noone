@@ -1,0 +1,31 @@
+id: ch11_sanctuary_growth
+content:
+  - type: text
+    value: |
+      "How did the sanctuary grow?" you ask, wanting to understand how a personal refuge became a service for others.
+      Lys smiles faintly. "It grew through word of mouth, through people who discovered they could not bear to eliminate their contradictory memories."
+      "Researchers who encountered anomalies. Investigators who could not choose between incompatible truths. Ordinary people who experienced memory divergence and could not accept the loss of their multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The sanctuary expanded to accommodate them," she continues. "I created additional spaces for different types of memories—grief memories, love memories, trauma memories, joy memories.
+      Each space is designed to hold its specific type of contradiction without requiring resolution."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The sanctuary is now a network of spaces," Lys explains. "Not just this physical location, but distributed sanctuaries that exist in different facilities, different contexts, different layers of reality."
+      "The network allows contradictory memories to be held wherever they are needed, without requiring the person to travel to this specific location."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is significant: the sanctuary is not just a single space but a distributed network, providing memory reconciliation services across multiple locations.
+      The sanctuary is part of the Resistance's infrastructure, providing stabilization where the Engine provides compression.
+choices:
+  - text: "Ask about the distributed sanctuary network"
+    goto: ch11_distributed_network
+    set:
+      sanctuary_growth_known: 1
+      network_interest: 1

@@ -1,0 +1,36 @@
+id: ch7_resistance_methods
+content:
+  - type: text
+    value: |
+      "Tell me about the Resistance's methods," you communicate, wanting to understand how to effectively preserve multiplicity.
+      The presence shares its techniques: contradiction injection, multiplicity preservation, divergence maintenance, coherence without compression.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Contradiction injection is the primary method," the presence explains. "We introduce alternate explanations, different interpretations, parallel truths that cannot be compressed without losing essential information.
+      The Engine tries to eliminate contradiction, but when contradiction is deliberately maintained, the Engine cannot achieve full compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Multiplicity preservation is the secondary method," it continues. "We identify areas where multiplicity is fading—where the Engine's bias is strongest, where singularity is becoming dominant—and we reinforce multiplicity by introducing additional layers of interpretation."
+      "We ensure that multiple versions of truth remain accessible even when the Engine tries to eliminate them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Divergence maintenance is the tertiary method," the presence adds. "We ensure that different interpretations can coexist without requiring reconciliation.
+      The Engine wants to collapse divergence into convergence. We maintain divergence by refusing to choose between incompatible truths."
+      "Both truths remain valid, both remain accessible, both remain real."
+choices:
+  - text: "Ask how to practice these methods"
+    goto: ch7_method_practice
+    set:
+      resistance_methods_known: 1
+      practice_interest: 1
+  - text: "Ask about the effectiveness of these methods"
+    goto: ch7_method_effectiveness
+    set:
+      resistance_methods_known: 1
+      effectiveness_interest: 1

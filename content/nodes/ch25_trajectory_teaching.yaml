@@ -1,0 +1,31 @@
+id: ch25_trajectory_teaching
+content:
+  - type: text
+    value: |
+      "Can the adaptation be taught to others?" you ask, wanting to know if trajectory multiplicity perception can be spread beyond the Passengers in this transit system.
+      The Passenger considers this. "The adaptation emerged naturally from exposure to trajectory multiplicity. It might be possible to accelerate the process through training, but the fundamental requirement is exposure to multiple trajectories."
+      "People cannot learn trajectory multiplicity without experiencing the transit system generating incompatible paths."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But we could create training zones," you suggest. "Areas where trajectory multiplicity is induced, allowing people to experience multiple paths and develop the adaptation."
+      "This would accelerate the spread of trajectory multiplicity perception across the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is possible," the Passenger agrees. "The transit system can serve as a training center, bringing people here to experience trajectory multiplicity and develop the capacity to navigate multiple paths."
+      "With proper guidance, the adaptation could be accelerated and made more systematic."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This would strengthen the Resistance," you realize. "More people with trajectory multiplicity perception would increase the system's capacity to function in plural movement."
+      "The Engine's assumption that movement must follow a single path would be further disproven."
+choices:
+  - text: "Propose establishing a trajectory multiplicity training center"
+    goto: ch25_trajectory_center
+    set:
+      trajectory_teaching: 1
+      center_chosen: 1

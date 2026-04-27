@@ -1,0 +1,42 @@
+id: ch3_chronos_investigation
+content:
+  - type: text
+    value: |
+      "Tell me about Chronos Dynamics," you say, suspecting this company is connected to the other shell companies you've encountered.
+      Vance accesses her research files, bringing up documents that have been pieced together from fragmented sources.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Chronos Dynamics was a front," she explains. "On paper, they were a temporal research company. In reality, they were a shell for something else—an organization that doesn't have a name, only a purpose."
+      "The purpose was to build infrastructure for multiple realities. Buildings that exist in spatial layers. Stations that exist in temporal layers. Networks that connect them all."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This confirms your suspicion: the building from chapter 1, this station, the medical facility from chapter 2—they're all part of a coordinated effort to build infrastructure for multiple realities.
+      The system is not just experimenting with anomalies—it's constructing a network of spaces that exist across layers of reality.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Who is behind this?" you ask.
+      "That's what I've been trying to find out," Vance replies. "Chronos Dynamics dissolved before I could trace the funding back to its source.
+      But the projects continued. The building downtown. This station. Other facilities I haven't located yet. They're all still being built, still being activated, even though the company that commissioned them no longer exists."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The projects are continuing because the organization behind them still exists," Vance says. "Chronos Dynamics was just a public face. The real organization operates in the layers between realities, where normal investigation can't reach."
+      This is terrifying. The system is not just a network of experiments—it's an organization that exists across multiple layers of reality, constructing infrastructure for purposes you don't yet understand.
+choices:
+  - text: "Ask how to investigate an organization that exists between realities"
+    goto: ch3_layer_investigation
+    set:
+      organization_identified: 1
+      investigation_deepening: 1
+  - text: "Focus on the station's immediate anomaly"
+    goto: ch3_clock_inconsistency
+    set:
+      organization_identified: 1
+      immediate_focus: 1

@@ -1,0 +1,25 @@
+id: ch9_governance_work
+content:
+  - type: text
+    value: |
+      "We should work within the governance structures," you suggest. "Build support for redesign gradually, demonstrate its viability through evidence, make the case that reform is necessary for long-term stability."
+      Seraph nods. "This is the safer approach. Working within governance structures takes longer, but it avoids the risks of unauthorized action."
+      "We would need to build a coalition of supporters, gather evidence of the gap's growth, demonstrate that multiplicity-capable systems are viable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can begin gathering evidence," Seraph says. "I have access to gap monitoring data, enforcement records, system performance metrics.
+      I can compile a case that the current system is failing and that redesign is necessary."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can support your case with evidence from the distributed consciousness," you add. "If the consciousness is successfully handling multiplicity, that demonstrates that multiplicity-capable systems are viable."
+      "Together, we can build a compelling argument for reform."
+choices:
+  - text: "Begin the evidence-gathering collaboration"
+    goto: ch9_evidence_collaboration
+    set:
+      governance_work: 1
+      collaboration_started: 1

@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Observe the system deliberates"
     goto: ch46_system_deliberates
+  - text: "Ask about alternative choices based on accumulated state"
+    goto: ch46_alternative_choices
+    set:
+      alternative_interest: 1

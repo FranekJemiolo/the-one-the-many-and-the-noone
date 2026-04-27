@@ -1,0 +1,30 @@
+id: ch12_leak_monitoring
+content:
+  - type: text
+    value: |
+      You continue monitoring and stabilizing leaks, traveling to different facilities where temporal boundaries are weakening.
+      Each leak requires different stabilization methods, depending on its intensity and the local temporal conditions.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The number of leaks is growing," Kai reports after months of work. "As reality becomes more multiple, the temporal pressure increases, creating new breaches in the temporal boundary."
+      "Our stabilization efforts are containing the leaks, but we cannot eliminate them entirely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that linear time is becoming less viable," you realize. "The leaks are not anomalies—they're evidence that reality is transitioning to a different temporal modality."
+      "Folded time might be the future of temporal experience."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Kai nods. "I have considered this possibility. Perhaps the leaks are not problems to be solved but features of a transitioning reality.
+      Perhaps folded time is not a distortion but the natural state of a multiple reality."
+choices:
+  - text: "Discuss the implications of folded time as the new normal"
+    goto: ch12_folded_normal
+    set:
+      leak_monitoring: 1
+      folded_discussion: 1

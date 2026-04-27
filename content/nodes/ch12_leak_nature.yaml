@@ -1,0 +1,32 @@
+id: ch12_leak_nature
+content:
+  - type: text
+    value: |
+      "What is the nature of the leak?" you ask, wanting to understand this temporal boundary where future bleeds into present.
+      Kai considers this. "The leak is a breach in the normal constraints of time, a location where the temporal boundary between past, present, and future has become permeable."
+      "It is not a physical location but a temporal modality—a way time can work when it is not constrained to linear flow."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The leak occurs where temporal pressure is highest," he explains. "Where the weight of multiple possible futures creates enough stress to break through the boundary between what has happened and what will happen."
+      "The leak is not random—it occurs at specific points where reality is under maximum temporal stress."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Is the leak growing?" you ask.
+      "Yes," Kai confirms. "As reality becomes more multiple, the temporal pressure increases, creating more leaks across the system.
+      The number of temporal anomaly zones is growing, and the leaks are becoming more intense."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests that linear time is not the natural state of reality," you realize. "It's a constraint that is breaking down as reality becomes more multiple."
+      "The leak reveals what time looks like when the constraint is removed."
+choices:
+  - text: "Ask if the leak can be stabilized"
+    goto: ch12_leak_stabilization
+    set:
+      leak_nature_known: 1
+      stabilization_interest: 1

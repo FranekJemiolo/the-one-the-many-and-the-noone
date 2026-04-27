@@ -1,0 +1,30 @@
+id: ch15_zone_connection
+content:
+  - type: text
+    value: |
+      You connect the zone to the broader Resistance networks, establishing coordination protocols for using the zone as a training site.
+      The sanctuary network can refer people to the zone for coherence training. The temporal training network can use the zone for practical contradiction experience.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zone is now part of the integrated Resistance infrastructure," Rose observes. "It provides practical training for coherence development, complementing the theoretical training provided by other networks."
+      "The infrastructure is becoming comprehensive."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zone also serves as evidence," you add. "Anyone who questions whether plural stability is possible can enter the zone and see the proof."
+      "The zone is a living demonstration that contradicts the Engine's premise."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Rose agrees. "The zone serves multiple purposes: training, evidence, and demonstration. It is a versatile tool in the struggle against the Engine's compression."
+      "The zone should be maintained and expanded as part of the broader Resistance effort."
+choices:
+  - text: "Continue the visit with the zone integrated into the Resistance"
+    goto: ch15_rose_appearance
+    set:
+      zone_connection: 1
+      resistance_integrated: 1

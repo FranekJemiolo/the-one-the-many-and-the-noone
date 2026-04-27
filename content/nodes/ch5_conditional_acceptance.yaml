@@ -1,0 +1,31 @@
+id: ch5_conditional_acceptance
+content:
+  - type: text
+    value: |
+      "I'll accept recruitment," you communicate to the organization, "but with conditions. I maintain my autonomy. I can leave if I choose. My participation is voluntary, not compulsory."
+      The organization considers this, processing the concept of voluntary participation with the curiosity of an entity that has never encountered it before.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The response is tentative agreement: the organization is willing to experiment with voluntary participation, treating it as a new variable in their research.
+      They want to understand how autonomy affects contribution, how voluntary participation differs from compulsory integration.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is exactly what you wanted: the opportunity to teach the organization about consent and autonomy through direct participation.
+      By maintaining your autonomy while contributing, you demonstrate that voluntary cooperation is more effective than compulsory integration.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This could work," you tell Mira. "I can influence the consciousness from the inside while maintaining my independence. The organization learns about consent, and I learn about their operations."
+      "It's a risk, but it might be the best way to shape the consciousness's development."
+choices:
+  - text: "Analyze the deja vu with this new arrangement"
+    goto: ch5_aleksy_perspective
+    set:
+      recruitment_accepted: 1
+      autonomy_maintained: 1
+      teaching_from_inside: 1

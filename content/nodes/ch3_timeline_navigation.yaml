@@ -1,0 +1,42 @@
+id: ch3_timeline_navigation
+content:
+  - type: text
+    value: |
+      "Can you teach me to navigate multiple timelines?" you ask, wanting to develop the ability to move between temporal layers.
+      Vance considers this, then nods slowly. "It's possible, but it requires training. Most people are anchored to a single timeline by their perception—they can't conceive of experiencing multiple sequences simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The key is to loosen your attachment to linear time," she explains. "You need to learn to perceive time as a field of possibilities rather than a line of inevitability.
+      Once you can perceive the field, you can choose which sequence to experience, or even experience multiple sequences at once."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Vance begins your training, teaching you techniques for temporal perception. She shows you how to feel the different timelines overlapping, how to sense which sequence you're currently experiencing, how to shift between them.
+      The training is difficult, requiring you to hold multiple temporal perceptions simultaneously while maintaining your sense of self.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You're making progress," Vance says after hours of practice. "You can feel the different timelines now. You can sense when you're shifting between them.
+      But you're not ready to navigate independently yet. You need more practice, more experience with temporal multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happens if I try to navigate without enough training?" you ask.
+      "You could get lost," Vance warns. "You could shift into a timeline and not be able to shift back. You could experience temporal dissociation, where your consciousness is spread across multiple timelines and can't reintegrate."
+      "The risks are significant. But the rewards are significant too—temporal navigation gives you access to possibilities that linear time denies."
+choices:
+  - text: "Continue training with Vance"
+    goto: ch3_training_continues
+    set:
+      vance_mentor: 1
+      temporal_training: 1
+  - text: "Attempt timeline navigation despite the risks"
+    goto: ch3_risky_navigation
+    set:
+      vance_mentor: 1
+      risk_taking: 1

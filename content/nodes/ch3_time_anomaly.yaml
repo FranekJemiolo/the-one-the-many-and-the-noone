@@ -33,3 +33,7 @@ choices:
     goto: ch3_clock_inconsistency
   - text: "Speak with the station Guard"
     goto: ch3_guard_interaction
+  - text: "Explore the station first"
+    goto: ch3_station_exploration
+    set:
+      investigation_thoroughness: 1

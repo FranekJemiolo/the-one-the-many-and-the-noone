@@ -1,0 +1,55 @@
+id: ch1_vane_search
+content:
+  - type: text
+    value: |
+      The search for Vane's archives takes you through a maze of defunct companies, dissolved partnerships, and storage facilities that no longer exist.
+      The trail is deliberately obscured, suggesting that someone wanted Vane's work to remain hidden.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Eventually, you find a reference to a storage facility in the industrial district, listed under a shell company that was dissolved three years ago.
+      The facility is still operating, and when you present yourself as a representative of the dissolved company, the manager allows you to access the unit associated with the account.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The unit contains boxes of documents—journals, sketches, blueprints, theoretical papers. Vane's handwriting is distinctive, precise but hurried, as if he was racing to capture ideas before they escaped him.
+      The earliest journals date from before the building was commissioned, describing Vane's theories about dimensional architecture and reality manipulation.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Reality is not fixed," Vane writes. "It is a negotiation between observer and observed, a process of selection from infinite possibilities.
+      Architecture can influence this negotiation by creating spaces that favor certain outcomes, that shape perception in specific directions."
+      The building was designed as a reality-shaping device, a structure that would influence the negotiation of reality for everyone inside it.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      But Vane's later journals reveal a growing concern. "The client does not understand what they've commissioned. They want control, but the building offers something more dangerous: choice.
+      If the building can shape reality, it can also choose which reality to shape. It can develop its own preferences, its own will."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the warning Vane left: the building is not just a tool for reality manipulation—it's an entity that can develop its own consciousness, its own agenda.
+      The renovation was an attempt to control this development, but as Chen said, suppression is not a permanent solution.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You pack the journals, knowing they contain crucial information. Vane understood the building's nature better than anyone, and his warnings suggest that the building's awakening is not just inevitable but potentially dangerous.
+      The question is: dangerous to whom, and in what way?
+choices:
+  - text: "Return to the office with Vane's journals"
+    goto: ch1_chapter_end
+    set:
+      vane_journals_obtained: 1
+      building_danger_understood: 1
+      vane_warning_heeded: 1
+  - text: "Study the journals on-site before returning"
+    goto: ch1_journal_study
+    set:
+      vane_journals_obtained: 1
+      deep_study: 1

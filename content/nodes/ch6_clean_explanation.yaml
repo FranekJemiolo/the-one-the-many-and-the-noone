@@ -35,3 +35,7 @@ choices:
     goto: ch6_compression_pressure
     set:
       aleksy_dominance: 1
+  - text: "Research the Quiet Engine"
+    goto: ch6_engine_research
+    set:
+      engine_interest: 1

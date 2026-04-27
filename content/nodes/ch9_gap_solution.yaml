@@ -1,0 +1,32 @@
+id: ch9_gap_solution
+content:
+  - type: text
+    value: |
+      "Is there a solution to the gap?" you ask. "Can the system be modified to handle multiplicity without requiring enforcement?"
+      Seraph considers this. "Theoretically, yes. The system could be redesigned to process multiple narratives simultaneously, to make decisions based on multiplicity rather than singularity."
+      "But such a redesign would require fundamental changes to the system's architecture."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Has anyone attempted this redesign?" you ask.
+      "There have been proposals," Seraph replies. "But they have been rejected by the system's governance structures, which prioritize stability over innovation.
+      The system is designed to resist changes that might introduce instability, even if those changes would improve long-term functionality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So the system is designed to prevent its own evolution," you realize.
+      "The system is designed to maintain its current form," Seraph confirms. "This design was reasonable when reality was singular. But now that reality has become multiple, the design has become maladaptive."
+      "The system is resisting the very changes it needs to survive."
+choices:
+  - text: "Propose bypassing the governance structures"
+    goto: ch9_governance_bypass
+    set:
+      gap_solution_known: 1
+      bypass_chosen: 1
+  - text: "Propose working within the governance structures"
+    goto: ch9_governance_work
+    set:
+      gap_solution_known: 1
+      governance_chosen: 1

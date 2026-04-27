@@ -1,0 +1,32 @@
+id: ch14_alternative_methods
+content:
+  - type: text
+    value: |
+      "Is there an alternative to controlled falsehoods?" you ask, wanting to know if there's a way to preserve truth without using deception.
+      Koval considers this. "The alternative is system redesign—creating a system that can handle complexity without requiring compression, that can process multiple truths without collapsing."
+      "But redesign would require fundamental changes to the system's architecture, and the current governance structures are resistant to such changes."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Have you proposed redesign?" you ask.
+      "I have," Koval replies. "Multiple times. The leadership rejects the proposals, arguing that the current system is stable and that redesign introduces unnecessary risk."
+      "They prefer controlled falsehoods to the uncertainty of redesign."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But the current system is becoming increasingly disconnected from reality," you argue. "The gap between system response and actual events is growing."
+      "At some point, the system will become so disconnected that it cannot function effectively, regardless of how stable it appears."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval nods. "I have made this argument. The leadership acknowledges the gap but believes it can be managed through continued use of controlled falsehoods."
+      "They do not see that the gap is accelerating, that the system is approaching a point where the disconnect will become catastrophic."
+choices:
+  - text: "Propose collaborating on a redesign proposal"
+    goto: ch14_redesign_collaboration
+    set:
+      alternative_methods_known: 1
+      redesign_chosen: 1

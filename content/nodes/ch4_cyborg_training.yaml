@@ -1,0 +1,42 @@
+id: ch4_cyborg_training
+content:
+  - type: text
+    value: |
+      "Who trained the cyborg?" you ask, suspecting deliberate cultivation rather than spontaneous development.
+      Chen accesses the cyborg's development logs, her expression darkening as she reviews the data.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The logs show a training program," she says. "But not from our facility. The cyborg was transferred here three months ago, already exhibiting advanced memory multiplicity."
+      "The training happened before the transfer, at a location that's not listed in the records."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She brings up the transfer documentation. The cyborg was sent from "Research Facility 7," a location that doesn't appear on any official maps.
+      The transfer was authorized by Chronos Dynamics, with a note that the cyborg was "ready for advanced testing."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Research Facility 7," you say. "Have you tried to locate it?"
+      "We tried," Chen replies. "The coordinates lead to empty space. The facility doesn't exist in normal space—it exists in a layer of reality that our sensors can't access."
+      "The organization has facilities that exist between realities, just like Vance said."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is significant. The cyborg was trained in a facility that exists between realities, by the organization that's building the distributed consciousness.
+      The cyborg is not just an anomaly—it's a product of the organization's research, deliberately cultivated to navigate multiple pasts.
+choices:
+  - text: "Ask what the cyborg was trained for"
+    goto: ch4_cyborg_purpose
+    set:
+      chen_contact: 1
+      purpose_interest: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      origin_known: 1

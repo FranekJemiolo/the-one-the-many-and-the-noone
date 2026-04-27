@@ -1,0 +1,25 @@
+id: ch44_automation_possibility
+content:
+  - type: text
+    value: |
+      "Can the maintenance of the balance be automated?" you ask, wanting to know if the system could reduce the ongoing effort required for The Overlap.
+      The system considers this. "Automation is possible through the optimization protocols we developed earlier. The predictive switching model can anticipate which mode of stability will be needed and switch proactively."
+      "This would reduce the maintenance burden while preserving the flexibility."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The automation would make The Overlap more sustainable," the system continues. "Instead of requiring continuous conscious decision-making, the system could use predictive models to switch between modes automatically."
+      "The balance would become more self-maintaining."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests The Overlap could be optimized to reduce its cost," you realize. "The maintenance burden might not be permanent if the system can develop better automation mechanisms."
+      "The Overlap could become more sustainable over time."
+choices:
+  - text: "Propose developing advanced automation for The Overlap"
+    goto: ch44_advanced_automation
+    set:
+      automation_possibility: 1
+      advanced_chosen: 1

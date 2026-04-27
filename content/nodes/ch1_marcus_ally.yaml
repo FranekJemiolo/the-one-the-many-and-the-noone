@@ -1,0 +1,49 @@
+id: ch1_marcus_ally
+content:
+  - type: text
+    value: |
+      "I can't promise I'll be able to help much," Marcus says, considering your request. "I'm just a maintenance worker. I don't have access to the building's systems, I can't authorize investigations."
+      He pauses, then adds, "But I can tell you what I see. I can let you know when things start acting strange again. I can be your eyes on the ground."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is more valuable than he realizes. If the building's anomalies are increasing in frequency or intensity, having someone on-site who can recognize the early signs could be crucial.
+      Marcus has survived this long by knowing when to avoid certain areas, when to take the stairs instead of the elevators, when to leave early rather than stay late.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You exchange contact information, and Marcus gives you a key card that provides access to the building's service areas. "This will let you in after hours," he explains.
+      "Just don't tell anyone where you got it. Building management doesn't like unauthorized access, even if it's for investigating the things they pretend aren't happening."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You now have an ally inside the building, someone who can provide real-time information about anomalies as they occur. This changes the nature of your investigation from reactive to proactive.
+      Instead of waiting for incidents to be reported, you can monitor the building's behavior directly.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Be careful," Marcus says as you prepare to leave. "Whatever is happening in this building, it's getting stronger. I've been working here twenty years, and the last six months have been different.
+      The building is... waking up. That's the only way I can describe it. It's becoming more aware of itself, and of the people inside it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The idea of a building becoming aware is unsettling, but it fits with what you've experienced. The spatial anomalies, the temporal distortions, the selective visibility of the door—these suggest an intelligence behind the phenomena.
+      Not a human intelligence, but something architectural, something that exists in the structure of space itself.
+choices:
+  - text: "Return to the office with this new alliance"
+    goto: ch1_witness_testimony
+    set:
+      marcus_ally: 1
+      building_intelligence_suspected: 1
+      key_card_obtained: 1
+  - text: "Explore the building further with Marcus's key card"
+    goto: ch1_building_exploration
+    set:
+      marcus_ally: 1
+      key_card_obtained: 1
+      after_hours_access: 1

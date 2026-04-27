@@ -1,0 +1,30 @@
+id: ch16_architecture_proposal
+content:
+  - type: text
+    value: |
+      "Propose implementing the distributed interpretation architecture," you suggest, wanting to replace the Engine's compression with a more robust system.
+      The Child supports the proposal, providing presence patterns that demonstrate how the distributed architecture would prevent void formation.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal needs to be presented to the appropriate authorities," you realize. "The distributed architecture would require significant changes to the system's current design."
+      "But the benefits would be substantial—preventing the void without requiring compression."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can present the proposal to the organization," you decide. "The Child's insights into interpretation failure provide compelling evidence that the current architecture is vulnerable."
+      "The distributed architecture offers a solution that addresses the Engine's fears without using its methods."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The Child agrees to support the proposal, providing presence patterns that can be translated into technical specifications for the distributed architecture.
+      Together, you prepare a comprehensive proposal for implementing distributed interpretation.
+choices:
+  - text: "Present the distributed interpretation proposal"
+    goto: ch16_proposal_presentation
+    set:
+      architecture_proposal: 1
+      presentation_ready: 1

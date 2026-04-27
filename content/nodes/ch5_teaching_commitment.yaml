@@ -1,0 +1,31 @@
+id: ch5_teaching_commitment
+content:
+  - type: text
+    value: |
+      "I commit to teaching the consciousness through our partnership," you say, accepting the responsibility of being a model for the distributed consciousness.
+      Mira nods, understanding the significance. "This means we need to be intentional about how we interact. Every choice we make about connection across different realities teaches the consciousness something about how to handle multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What choices should we make?" you ask.
+      "We should choose acknowledgment over disagreement," Mira suggests. "When we experience different realities, we should acknowledge each other's experience as real rather than arguing about which version is correct."
+      "We should choose connection over isolation. Even when we're experiencing different moments, we should maintain our relationship rather than withdrawing into our own reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And we should choose multiplicity over singularity," she continues. "We should not try to collapse our different experiences into one shared reality.
+      We should maintain our different versions while staying connected, demonstrating that unity doesn't require uniformity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is a commitment to a new mode of relationship: not trying to agree on a single version of reality, but maintaining connection across different versions.
+      It's more difficult than traditional relationship, but it might be more authentic to the true nature of reality.
+choices:
+  - text: "Analyze the deja vu with this commitment in mind"
+    goto: ch5_aleksy_perspective
+    set:
+      teaching_commitment: 1
+      values_chosen: 1

@@ -1,0 +1,34 @@
+id: ch6_compression_acceptance
+content:
+  - type: text
+    value: |
+      "I understand the necessity," you say, accepting Koval's utilitarian calculation. "The system must function, even if that means sacrificing accuracy in individual cases."
+      Koval nods, relieved that you understand the difficult choice she's made. "It's not an ideal solution. But it's the only viable one given the system's current design."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The alternative is chaos," she continues. "Without compression, every anomaly produces contradictory accounts that cannot be reconciled.
+      Investigations stall indefinitely. Decision-making becomes impossible. The system collapses under the weight of its own complexity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But this serves the Quiet Engine's agenda," you point out. "By making singularity feel natural, the Engine is preventing the system from evolving to handle multiplicity."
+      "The compression preserves the current system, but it also prevents the development of a better system that could handle reality as it actually is."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval considers this. "That's a disturbing thought. I've been preserving the system's stability, but in doing so, I might be preventing its evolution.
+      The compression maintains the status quo, but the status quo is designed for singular reality when reality has become multiple."
+choices:
+  - text: "Ask if she's willing to consider system evolution"
+    goto: ch6_evolution_consideration
+    set:
+      compression_accepted: 1
+      evolution_interest: 1
+  - text: "Continue investigating the Engine's influence"
+    goto: ch6_engine_influence
+    set:
+      compression_accepted: 1

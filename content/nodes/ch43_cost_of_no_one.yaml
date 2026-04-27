@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch43_chapter_end
+  - text: "Ask about the system's reflection on The No-One"
+    goto: ch43_noone_reflection
+    set:
+      reflection_interest: 1

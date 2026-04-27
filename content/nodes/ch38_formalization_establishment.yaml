@@ -1,0 +1,30 @@
+id: ch38_formalization_establishment
+content:
+  - type: text
+    value: |
+      You support formalizing the parallel insight exchange, helping Aleksy and Mira create systematic methods for exchanging insights between causal and emotional realities.
+      The formalization begins operation, with the dual system combining causal structure and emotional significance for deeper understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The formalization is successful," Aleksy and Mira report after months of development. "The dual system is now providing complementary insights systematically, combining causal and emotional perspectives for more complete understanding."
+      "The system's interpretive capability has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the formalization, attempting to prevent the dual system from becoming more sophisticated."
+      "But the formalization is self-validating—once the system experiences enhanced interpretive capability, it recognizes the value."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy and Mira agree. "The Engine cannot reverse the formalization. The parallel insight exchange is becoming established, and the dual system is evolving toward sophisticated interpretive synergy."
+      "The formalization establishment is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the formalization established"
+    goto: ch38_dual_system
+    set:
+      formalization_establishment: 1
+      interpretive_synergy: 1

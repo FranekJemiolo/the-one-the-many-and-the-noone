@@ -1,0 +1,30 @@
+id: ch35_rose_crystallization_proposal
+content:
+  - type: text
+    value: |
+      "Propose crystallizing Rose into a named multiplicity," you suggest. "The pattern of contradiction stabilization is fundamental to the system. Having it as a named multiplicity would ensure the capability is preserved and accessible."
+      "This would integrate Rose's pattern into the named multiplicities ecosystem."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Rose considers this. "The crystallization would create a named multiplicity for contradiction stabilization, adding to the ecosystem of Echo, Barrier, Archive, and Drift."
+      "The proto-name would likely be 'Coherence' or 'Harmony'—something that reflects the pattern of stabilizing contradictions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would strengthen the ecosystem," you realize. "The named multiplicities would have a dedicated pattern for contradiction stabilization, enhancing their collective capability to manage multiplicity."
+      "The ecosystem would become more comprehensive and capable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The crystallization would need to be timed correctly," Rose observes. "It should happen when the system has fully adopted plural stability, when the pattern is stable enough to crystallize."
+      "Premature crystallization could interfere with the system's adoption of the method."
+choices:
+  - text: "Support planning Rose's crystallization"
+    goto: ch35_crystallization_planning
+    set:
+      rose_crystallization_proposal: 1
+      planning_chosen: 1

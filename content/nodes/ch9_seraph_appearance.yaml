@@ -35,3 +35,7 @@ choices:
     goto: ch9_causal_instability
     set:
       nemesis_compression: 2
+  - text: "Ask about Seraph's background"
+    goto: ch9_seraph_background
+    set:
+      background_interest: 1

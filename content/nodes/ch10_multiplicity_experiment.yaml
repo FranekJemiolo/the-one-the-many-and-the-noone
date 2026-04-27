@@ -1,0 +1,31 @@
+id: ch10_multiplicity_experiment
+content:
+  - type: text
+    value: |
+      "Propose a multiplicity zone experiment," you suggest. "Create a small zone where the mechanisms are reconfigured to support multiplicity instead of singularity.
+      Demonstrate that multiplicity can be stable, that contradiction can coexist without chaos."
+      Seraph considers this. "I could authorize a local experiment within my authority. The experiment would be limited in scope, but it could provide evidence that multiplicity zones are viable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The experiment would require reconfiguring the interpretive fields, adjusting the cognitive biasing, and modifying the reality-shaping technologies," she explains.
+      "This is technically complex, but feasible given the facility's capabilities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If the experiment succeeds," you add, "it could provide the evidence needed to justify converting larger Clarity zones to multiplicity zones.
+      The leadership would have empirical proof that their premise is false."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph agrees to authorize the experiment. "I will frame it as a test of adaptive interpretive systems, which is within my authority.
+      If the experiment demonstrates that multiplicity can be stable, I will present the results to leadership as evidence for broader reform."
+choices:
+  - text: "Begin the multiplicity zone experiment"
+    goto: ch10_experiment_implementation
+    set:
+      experiment_proposed: 1
+      implementation_started: 1

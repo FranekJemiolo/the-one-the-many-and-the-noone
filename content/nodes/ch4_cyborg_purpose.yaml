@@ -1,0 +1,43 @@
+id: ch4_cyborg_purpose
+content:
+  - type: text
+    value: |
+      "What was the cyborg trained for?" you ask, needing to understand the organization's intent for this entity.
+      Chen reviews the training logs, which are fragmented but revealing.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The training focused on three capabilities," she explains. "First: navigating multiple pasts without psychological distress. Second: selecting appropriate pasts for different contexts.
+      Third: integrating multiple histories into a coherent decision-making process."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "These are the capabilities a distributed consciousness would need," Chen realizes. "The consciousness would experience multiple timelines simultaneously.
+      It would need to select which timeline to act in, integrate information from multiple pasts, and make decisions based on multiplicity rather than singularity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "So the cyborg is a prototype," you say. "A test of whether memory systems can support distributed consciousness."
+      "That's my theory," Chen agrees. "The cyborg is demonstrating that memory can hold multiple pasts and use them functionally.
+      If the cyborg succeeds, it proves that distributed consciousness is viable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happens if the cyborg fails?" you ask.
+      "Then the organization will try again with another entity," Chen replies. "They have multiple test subjects in development.
+      The cyborg is just one of many attempts to perfect the memory component of the distributed consciousness."
+choices:
+  - text: "Ask about the other test subjects"
+    goto: ch4_other_subjects
+    set:
+      chen_contact: 1
+      subjects_interest: 1
+  - text: "Meet the cyborg now"
+    goto: ch4_cyborg_encounter
+    set:
+      chen_contact: 1
+      purpose_known: 1

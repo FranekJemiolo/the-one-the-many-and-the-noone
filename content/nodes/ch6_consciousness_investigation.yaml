@@ -1,0 +1,35 @@
+id: ch6_consciousness_investigation
+content:
+  - type: text
+    value: |
+      "We need to investigate the consciousness's current development," you say. "We need to see whether the organization is using compression or integration."
+      Koval can provide access to some of the consciousness's development data through her system administrator clearance, but not to the consciousness itself.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She brings up the available data, which shows the consciousness's current processing architecture. The consciousness has multiple nodes processing different layers of reality, but the integration layer is designed to select one "primary" interpretation for decision-making.
+      This is compression disguised as integration—the consciousness perceives multiplicity but acts on singularity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This confirms our fears," you say. "The organization intends compression despite the language of comprehensive perception.
+      They want the consciousness to perceive everything but choose one to act on."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Negotiation is not viable if their intention is compression," Koval concludes. "They won't accept help that contradicts their intended solution.
+      We need a different approach—either resistance or direct intervention to change the consciousness's design."
+choices:
+  - text: "Pursue resistance to prevent compression"
+    goto: ch6_compression_resistance
+    set:
+      consciousness_investigated: 1
+      resistance_chosen: 1
+  - text: "Propose direct intervention to change the design"
+    goto: ch6_design_intervention
+    set:
+      consciousness_investigated: 1
+      intervention_chosen: 1

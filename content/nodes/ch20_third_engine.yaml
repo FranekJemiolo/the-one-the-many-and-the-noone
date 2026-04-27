@@ -1,0 +1,37 @@
+id: ch20_third_engine
+content:
+  - type: text
+    value: |
+      "Propose a third interpretation engine," you suggest, the idea forming with sudden clarity. "An engine that doesn't prioritize causal sequence or emotional experience, but instead asks a different question entirely."
+      "Perhaps an engine that asks: what is possible?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira considers this, her eyes widening with the implications. "A possibility engine would focus on what could happen rather than what did happen or what it meant."
+      "It would interpret events in terms of their potential, their capacity to generate multiple futures rather than their actual past or emotional present."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This engine would be compatible with both causal and emotional interpretation," you realize, excitement building. "It wouldn't require either to yield, because it's asking a different question."
+      "Causal interpretation describes what happened. Emotional interpretation describes what it meant. Possibility interpretation describes what could happen."
+      "The three engines could operate in parallel, each answering its own question without needing to eliminate the others."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "But would this engine actually resolve the conflict?" Mira asks, her expression cautious. "Or would it just add a third interpretation to the stalemate, making the oscillation more complex without solving it?"
+      "The system would oscillate between three states instead of two, which might be even more unstable. We could be accelerating the collapse rather than preventing it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The weight of the decision settles over you. A third engine could be the solution—or it could be the final push that breaks the system entirely.
+      You need to understand the consequences before proposing something that could reshape the entire interpretive landscape.
+choices:
+  - text: "Consider the consequences of a third engine"
+    goto: ch20_third_consequences
+    set:
+      third_engine: 1
+      consequences_chosen: 1

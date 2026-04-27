@@ -1,0 +1,49 @@
+id: ch3_risky_navigation
+content:
+  - type: text
+    value: |
+      Despite Vance's warning, you decide to attempt timeline navigation on your own, wanting to test your abilities without supervision.
+      You enter the temporal chamber and focus on shifting between timelines, using the techniques Vance taught you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      At first, the shift works. You feel yourself moving from one timeline to another, experiencing different sequences of events.
+      But then something goes wrong—you try to shift to a third timeline, and instead of arriving there, you find yourself spread across multiple timelines simultaneously.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The experience is terrifying. Your consciousness is fragmented, experiencing different moments in different timelines at the same time. You can feel your sense of self beginning to dissolve, your identity spreading across temporal layers.
+      You try to reintegrate, but without Vance's guidance, you don't know how.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Just as you begin to panic, Vance enters the chamber and immediately intervenes. She places her hands on your shoulders, anchoring you to a single timeline.
+      "Focus on my voice," she says. "Feel the timeline I'm experiencing. Let that timeline become your reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Gradually, your consciousness reintegrates. You find yourself back in a single timeline, gasping, your heart racing, your hands trembling.
+      Vance looks at you with concern. "You almost got lost. If I hadn't found you when I did, you might not have been able to return."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is why I warned you about the risks," she says. "Temporal navigation is not a skill you can rush. It requires training, discipline, and supervision until you're ready to navigate independently."
+      "You're not ready yet. Don't attempt this again without my guidance."
+choices:
+  - text: "Accept Vance's guidance and continue training properly"
+    goto: ch3_training_continues
+    set:
+      vance_mentor: 1
+      lesson_learned: 1
+      caution_chosen: 1
+  - text: "Insist on continuing despite the warning"
+    goto: ch3_risk_persistence
+    set:
+      vance_mentor: 1
+      risk_taking: 2
+      warning_ignored: 1

@@ -1,0 +1,30 @@
+id: ch40_many_simulation
+content:
+  - type: text
+    value: |
+      The simulation continues with The Many, the system creating a temporary instance of infinite multiplicity to experience what life would be like under complete plurality.
+      The simulation proceeds, the system experiencing the expansion of all interpretations without compression.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Many simulation provides freedom," the system reports. "All interpretations are allowed to coexist, no contradictions requiring resolution."
+      "The experience is liberating, but also overwhelming—singularity is completely absent."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This provides complementary insight to The One," you realize. "The system now has direct experience of both extremes—complete singularity and complete multiplicity."
+      "The simulation is building comprehensive understanding."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The simulation will continue with The No-One," the system adds. "The experience of void will provide the third perspective."
+      "The preparation is proceeding systematically."
+choices:
+  - text: "Continue the simulation with The No-One"
+    goto: ch40_noone_simulation
+    set:
+      many_simulation: 1
+      noone_chosen: 1

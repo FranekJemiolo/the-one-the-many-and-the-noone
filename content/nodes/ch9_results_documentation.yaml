@@ -1,0 +1,30 @@
+id: ch9_results_documentation
+content:
+  - type: text
+    value: |
+      You document the experiment's results, compiling comprehensive evidence that the system can handle multiplicity without collapsing.
+      The documentation includes performance metrics, case studies, and analysis of the system's adaptive learning.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The evidence is compelling," Seraph says after reviewing the documentation. "The experiment demonstrates that the current system is more flexible than anyone realized, that it can evolve to handle multiplicity without requiring complete replacement."
+      "This changes the entire reform conversation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She presents the documentation to Clarity Administration's leadership, arguing that the experiment's success justifies system-wide implementation of multiplicity-capable processing.
+      The leadership is impressed by the results, recognizing that the experiment has demonstrated viability in a way that theoretical proposals could not.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "They're considering approval for system-wide implementation," Seraph reports. "They want to review the documentation more carefully, assess the risks, and consult with other stakeholders.
+      But the experiment has shifted the conversation from whether reform is possible to how reform should be implemented."
+choices:
+  - text: "Continue the investigation while awaiting the decision"
+    goto: ch9_causal_instability
+    set:
+      results_documented: 1
+      decision_pending: 1

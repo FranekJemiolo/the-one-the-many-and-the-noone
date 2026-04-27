@@ -25,3 +25,7 @@ content:
 choices:
   - text: "Conclude the chapter"
     goto: ch36_chapter_end
+  - text: "Ask about Nemesis's response to the failure"
+    goto: ch36_nemesis_response
+    set:
+      nemesis_response_interest: 1

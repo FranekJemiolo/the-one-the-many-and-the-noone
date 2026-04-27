@@ -1,0 +1,32 @@
+id: ch14_redesign_collaboration
+content:
+  - type: text
+    value: |
+      "Let's collaborate on a redesign proposal," you propose, wanting to create a system that can handle complexity without requiring controlled falsehoods.
+      Koval agrees. "I have technical specifications for a multiplicity-capable system, but I need help making the case to leadership."
+      "Your perspective as an investigator could strengthen the proposal by demonstrating the practical need for redesign."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What would the redesigned system look like?" you ask.
+      "The redesigned system would have multiple interpretation layers," Koval explains. "Each layer would handle a different level of complexity, with the system automatically selecting the appropriate layer based on the anomaly's nature."
+      "Simple anomalies would use simple interpretations. Complex anomalies would use complex interpretations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This would eliminate the need for controlled falsehoods," you realize. "The system could handle truth at the appropriate level of complexity without requiring simplification."
+      "The Engine's bias would be counteracted by the system's architecture."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval nods. "The redesigned system would preserve truth at all levels of complexity, eliminating the gap between system response and reality."
+      "But convincing leadership to approve the redesign will require demonstrating that the current system is failing and that the redesign is viable."
+choices:
+  - text: "Help draft the redesign proposal"
+    goto: ch14_proposal_drafting
+    set:
+      redesign_collaboration: 1
+      drafting_chosen: 1

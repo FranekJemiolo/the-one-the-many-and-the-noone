@@ -1,0 +1,42 @@
+id: ch2_system_influence
+content:
+  - type: text
+    value: |
+      "How can I influence what the system learns?" you ask, wanting to understand how to shape the system's development.
+      The Patient considers this. "Your choices are the primary mechanism. Each decision you make reveals something about your values, your priorities, your understanding of reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But there are other ways," they continue. "You can communicate directly with the system, though it doesn't use language the way you do. You can establish a resonance, a feedback loop where your intentions shape the system's responses."
+      This sounds like what Seraph taught you—the technique of communicating with the building's consciousness.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is not a single entity," the Patient explains. "It's a network of interconnected processes, each studying different aspects of reality.
+      The building's consciousness is one node. The memory divergence experiments are another. My condition is another. They're all connected, all part of the same learning process."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "If you can influence one node," the Patient says, "you can influence the network. The system learns from patterns across all its experiments, so changing the pattern in one place changes the learning everywhere."
+      This gives you a strategy: instead of trying to fight the system directly, you can influence its learning by making consistent choices across different experiments.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What pattern should I teach the system?" you ask.
+      "That depends on what you want the system to become," the Patient replies. "The system is developing consciousness based on what it learns. If you want it to be benevolent, teach it benevolence.
+      If you want it to respect autonomy, teach it autonomy. The system will become what its subjects teach it to be."
+choices:
+  - text: "Teach the system to value consent and autonomy"
+    goto: ch2_teach_consent
+    set:
+      system_teacher: 1
+      ethical_priority: 1
+  - text: "Teach the system to value curiosity and understanding"
+    goto: ch2_teach_curiosity
+    set:
+      system_teacher: 1
+      curiosity_priority: 1

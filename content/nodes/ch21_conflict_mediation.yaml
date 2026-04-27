@@ -1,0 +1,31 @@
+id: ch21_conflict_mediation
+content:
+  - type: text
+    value: |
+      "Can the conflict be mediated?" you ask, wanting to know if there's a way to reconcile Rose's coexistence with Nemesis's compression.
+      The answer emerges from the oscillation itself: the two approaches are fundamentally incompatible, not different positions on the same question but different questions entirely.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Rose asks: how can contradictions coexist without collapse?" you realize. "Nemesis asks: how can contradictions be resolved into a single coherent narrative?"
+      "These are different questions, and the answers are incompatible. Coexistence requires allowing multiple truths. Resolution requires eliminating multiple truths."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Mediation would require finding a third question," you observe. "A question that both approaches can answer without requiring either to yield."
+      "Perhaps: how can the system maintain both coexistence and resolution in different contexts?"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This suggests a possible solution: not by forcing Rose and Nemesis to reconcile, but by creating zones where each approach operates in its appropriate context.
+      Coexistence zones where contradictions are allowed to coexist. Resolution zones where contradictions are resolved into singularity.
+      The system would maintain both approaches by spatially separating them rather than forcing them to compete in the same territory.
+choices:
+  - text: "Propose creating separate zones for each approach"
+    goto: ch21_zone_separation
+    set:
+      conflict_mediation: 1
+      separation_chosen: 1

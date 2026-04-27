@@ -1,0 +1,30 @@
+id: ch10_gradual_conversion
+content:
+  - type: text
+    value: |
+      You support the gradual conversion approach, helping Seraph convert one Clarity zone at a time while monitoring stability.
+      The first conversion succeeds, with the new multiplicity zone remaining stable while demonstrating the benefits of interpretive freedom.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leadership observes the success and authorizes a second conversion. Then a third. Each conversion provides additional evidence that multiplicity is stable, gradually building the case for complete reform.
+      The ideological commitment to singularity weakens as the evidence accumulates.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The leadership is beginning to accept that multiplicity is viable," Seraph reports. "They still prefer singularity ideologically, but they can no longer argue that it's necessary for stability.
+      The evidence is too strong to ignore."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is significant progress: the system is evolving, not through confrontation but through evidence, not through resistance but through demonstration.
+      The gradual approach is working, slowly shifting the system toward multiplicity while maintaining stability at each step.
+choices:
+  - text: "Continue the gradual conversion process"
+    goto: ch10_conversion_continues
+    set:
+      gradual_conversion: 1
+      process_ongoing: 1

@@ -1,0 +1,43 @@
+id: ch3_training_continues
+content:
+  - type: text
+    value: |
+      You continue training with Vance, spending hours developing your temporal perception. The training is exhausting, requiring intense concentration and mental discipline.
+      But gradually, you begin to develop the ability to navigate multiple timelines with increasing confidence.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You're ready for basic navigation," Vance says after another session. "You can shift between timelines consciously, though you should still avoid complex maneuvers."
+      "With more practice, you'll be able to navigate independently. For now, stay within the station's field where I can monitor you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training has changed your perception permanently. Even when you're not actively navigating timelines, you can feel the multiplicity of temporal experience around you.
+      You can sense which timeline you're currently experiencing, and you can feel the other timelines overlapping, accessible if you choose to shift.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This ability will be useful," Vance says. "Not just for understanding the station's anomaly, but for investigating the organization behind these projects.
+      If you can navigate multiple realities, you can access the layers where they operate."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But remember the risk," she warns. "Once you can access those layers, you become visible to the organization. They will know you're developing abilities that could threaten their operations."
+      "Use your new perception carefully. Don't reveal your capabilities until you understand what you're dealing with."
+choices:
+  - text: "Use your new perception to investigate the station"
+    goto: ch3_enhanced_investigation
+    set:
+      vance_mentor: 1
+      temporal_training: 2
+      perception_enhanced: 1
+  - text: "Return to normal investigation for now"
+    goto: ch3_clock_inconsistency
+    set:
+      vance_mentor: 1
+      temporal_training: 2
+      caution_chosen: 1

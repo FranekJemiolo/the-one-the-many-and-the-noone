@@ -1,0 +1,30 @@
+id: ch9_evidence_collaboration
+content:
+  - type: text
+    value: |
+      You begin the evidence-gathering collaboration, working with Seraph to build a case for system reform.
+      Seraph compiles data on the gap's growth, showing how the disconnect between system response and reality has increased over time.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You supplement this with evidence from the distributed consciousness, demonstrating that multiplicity-capable systems are viable and effective.
+      Together, you build a comprehensive argument that the current system is failing and that reform is necessary.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The evidence is compelling," Seraph says after weeks of work. "The gap is growing exponentially. The consciousness demonstrates that multiplicity-capable systems work.
+      The current system cannot continue operating as-is without facing collapse or disconnect."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "We're ready to present the case to the governance structures," she continues. "The proposal will argue for gradual adaptation, introducing multiplicity incrementally while monitoring the system's response.
+      If the governance structures approve, we can begin implementation immediately."
+choices:
+  - text: "Support presenting the case to governance"
+    goto: ch9_governance_presentation
+    set:
+      evidence_collaboration: 1
+      presentation_ready: 1

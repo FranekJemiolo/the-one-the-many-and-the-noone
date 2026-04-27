@@ -1,0 +1,30 @@
+id: ch9_experiment_expansion
+content:
+  - type: text
+    value: |
+      The experiment expands to cover more complex cases, testing the system's capabilities with increasingly difficult anomalies.
+      The system continues to adapt, demonstrating remarkable flexibility in handling multiplicity without collapsing.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system is learning," Seraph observes. "It's developing new processing methods for multiple narratives, new integration techniques for contradictory data, new decision-making protocols for multiplicity.
+      The Engine's bias is trying to resist this learning, but the system is overcoming the bias through demonstrated success."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This experiment could become the foundation for system-wide reform," you realize. "If we can demonstrate that the system can handle multiplicity across all types of cases, we can justify ending enforcement entirely."
+      "The current system could evolve into a multiplicity-capable system without requiring complete replacement."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Seraph nods. "I will document the experiment's results and present them to Clarity Administration's leadership as evidence that reform is not just necessary but viable.
+      The experiment could be the catalyst for system-wide change."
+choices:
+  - text: "Document the results and prepare for presentation"
+    goto: ch9_results_documentation
+    set:
+      experiment_expansion: 1
+      documentation_started: 1

@@ -1,0 +1,30 @@
+id: ch14_proposal_drafting
+content:
+  - type: text
+    value: |
+      You help draft the redesign proposal, combining Koval's technical specifications with your practical experience as an investigator.
+      The proposal argues that the current system is becoming increasingly disconnected from reality, that controlled falsehoods are creating a growing gap, and that redesign is necessary to prevent catastrophic failure.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The proposal needs to demonstrate that the redesign is viable," Koval explains. "We need to show that a multiplicity-capable system can function without collapsing, that the benefits of redesign outweigh the risks of transition."
+      "We can use the distributed consciousness as evidence—if it's successfully handling multiplicity, that demonstrates that multiplicity-capable systems are viable."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You incorporate evidence from the consciousness, demonstrating that multiplicity-capable systems are not just theoretical but already in operation.
+      The proposal becomes compelling, showing both the necessity of redesign and the viability of the proposed solution.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The proposal is ready for presentation," Koval says. "I will submit it to leadership and advocate for approval."
+      "With your support, we have a stronger case than I've ever made before."
+choices:
+  - text: "Support presenting the proposal to leadership"
+    goto: ch14_proposal_presentation
+    set:
+      proposal_drafting: 1
+      presentation_ready: 1

@@ -1,0 +1,42 @@
+id: ch1_room_escaped
+content:
+  - type: text
+    value: |
+      You step back from the pedestal, resisting the compulsion to touch the object. The voice in your mind fades, the object's pulse slowing until it becomes almost imperceptible.
+      You turn toward the door, and it opens at your approach—as if the room itself is acknowledging your decision to leave.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      As you step through the doorway, you feel the room trying to hold you back—not physically, but through a subtle resistance, as if the space itself wants you to stay.
+      You push through, and the resistance vanishes. The door closes behind you, and when you turn to look, it's gone—replaced by blank wall.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You stand in the basement corridor, your heart racing, your mind trying to process what you just experienced. The room was real—you know that with certainty—but it doesn't exist in normal space.
+      It exists in a layer of reality that you can access but don't understand.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You document what you remember: the circular room, the mirrors, the object, the voice. The words feel inadequate, but they're the best you can do.
+      You add a note about the compulsion you felt, the sense that touching the object would have changed you in ways you couldn't anticipate.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You've seen something that shouldn't exist, experienced something that defies explanation. But you've also made a choice—to step back rather than forward—and that choice might be as significant as touching the object would have been.
+      The room acknowledged your decision. The building is aware of you now.
+choices:
+  - text: "Return to the office with what you've learned"
+    goto: ch1_chapter_end
+    set:
+      room_seen: 1
+      caution_score: 3
+      building_aware: 1
+  - text: "Research similar phenomena"
+    goto: ch1_research_anomalies
+    set:
+      room_seen: 1
+      research_initiated: 1

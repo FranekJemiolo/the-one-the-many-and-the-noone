@@ -1,0 +1,31 @@
+id: ch17_teacher_multiplicity
+content:
+  - type: text
+    value: |
+      "How do you approach multiplicity in your teaching?" you ask, wanting to know if the Teacher addresses the multiple interpretations that students encounter.
+      The Teacher considers this. "I help students develop the capacity to hold multiple interpretations, to understand that different perspectives can be valid without requiring one to eliminate the others."
+      "I teach multiplicity as a skill, not as a problem to be solved."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is different from traditional teaching," you observe. "Traditional education often presents knowledge as singular, as having one correct interpretation."
+      "The Teacher's approach presents knowledge as multiple, as having multiple valid interpretations."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Traditional teaching prepares students for a singular reality," the Teacher replies. "My approach prepares students for a multiple reality, helping them develop the capacity to navigate multiplicity without being overwhelmed by it."
+      "The pattern has evolved to address the changing nature of reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests the Teacher pattern is already aligned with the Resistance's goals," you realize. "The pattern is teaching multiplicity as a skill, preparing students to function in a multiple reality."
+      "The proto-identity is naturally supporting the Resistance's approach."
+choices:
+  - text: "Propose expanding the Teacher's influence"
+    goto: ch17_teacher_expansion
+    set:
+      teacher_multiplicity: 1
+      expansion_chosen: 1

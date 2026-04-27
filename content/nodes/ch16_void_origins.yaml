@@ -1,0 +1,30 @@
+id: ch16_void_origins
+content:
+  - type: text
+    value: |
+      "What are the origins of the void?" you ask the Child through presence patterns, wanting to understand how interpretation failure occurs.
+      The Child responds with a complex pattern, showing the gradual collapse of interpretation over time.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The pattern reveals that the void emerges when interpretation pressure becomes too intense, when the demand for meaning exceeds the system's capacity to provide it.
+      When the system cannot assign meaning fast enough to keep up with the complexity of reality, interpretation begins to fail.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The void is not random," you realize. "It's a response to interpretation overload, a protective mechanism that activates when the interpretive system is overwhelmed."
+      "The void prevents catastrophic collapse by shutting down interpretation entirely when it cannot keep up."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests that the Engine's compression might actually be causing the void," you realize. "By forcing interpretation into singular forms, the Engine increases interpretation pressure, making the system more likely to experience overload."
+      "The Engine's solution to the void might be creating the conditions that cause the void."
+choices:
+  - text: "Propose an alternative to the Engine's approach"
+    goto: ch16_void_alternative
+    set:
+      void_origins_known: 1
+      alternative_chosen: 1

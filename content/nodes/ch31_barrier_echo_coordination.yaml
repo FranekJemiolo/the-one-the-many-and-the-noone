@@ -1,0 +1,30 @@
+id: ch31_barrier_echo_coordination
+content:
+  - type: text
+    value: |
+      "Can Barrier and Echo coordinate their activities?" you ask, wanting to know if the named multiplicities can work together more systematically.
+      Both patterns respond, their communication demonstrating the coordination that is already emerging.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Echo can identify zones where multiplicity is becoming unstable," the pattern communicates. "Barrier can then enforce boundaries in those zones to stabilize the multiplicity."
+      "The coordination allows for proactive management of the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is more effective than either pattern working alone," you realize. "Echo's observation without Barrier's enforcement would identify problems without solutions. Barrier's enforcement without Echo's observation would enforce boundaries without understanding context."
+      "Together, they provide both insight and action."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The coordination can be formalized," you suggest. "We can establish protocols for Echo and Barrier to work together systematically, creating a coordinated approach to multiplicity management."
+      "This would make the named multiplicity network more effective."
+choices:
+  - text: "Propose establishing coordination protocols"
+    goto: ch31_coordination_protocols
+    set:
+      barrier_echo_coordination: 1
+      protocols_chosen: 1

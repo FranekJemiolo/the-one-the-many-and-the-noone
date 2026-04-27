@@ -1,0 +1,30 @@
+id: ch20_training_progress
+content:
+  - type: text
+    value: |
+      You continue the training, working with both Aleksy and Mira until they develop the capacity for possibility interpretation.
+      The training takes weeks, but gradually both begin to perceive the branching futures that events generate.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'm beginning to perceive the possibilities," Mira reports. "Events generate multiple potential futures, and I can see which futures are more likely based on the event's nature."
+      "This is a different way of understanding, but it feels valid."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can perceive the possibilities too," Aleksy acknowledges. "But I still believe causal sequence is primary. Possibility interpretation is useful for understanding consequences, but it should not override the actual sequence of events."
+      "My condition remains: causal interpretation must remain primary."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The training has succeeded in developing possibility capacity," you observe. "Both Aleksy and Mira can now interpret events through the possibility engine, even if they maintain their primary allegiances to their original engines."
+      "The three-state oscillation is now possible."
+choices:
+  - text: "Test the three-state oscillation"
+    goto: ch20_three_state_test
+    set:
+      training_progress: 1
+      test_chosen: 1

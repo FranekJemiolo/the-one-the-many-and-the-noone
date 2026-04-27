@@ -1,0 +1,29 @@
+id: ch6_gradual_transition
+content:
+  - type: text
+    value: |
+      "We can implement a gradual transition," you propose. "Start by allowing multiple interpretations in low-stakes investigations, where the system can handle the additional complexity.
+      As the system adapts, we can expand multiplicity to more significant cases."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "This would require careful monitoring. We would need to identify which investigations can handle complexity and which cannot.
+      We would need to track the system's response to multiplicity and adjust the pace accordingly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The key is to stay ahead of the Engine's bias," you explain. "The bias will try to make the transition feel wrong, to frame complexity as inefficiency.
+      We need to consciously resist that framing, reminding ourselves that the current system is designed for singular reality when reality has become multiple."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a long-term project," Koval says. "It will take years to fully transition the system. But if we succeed, the system will be able to handle reality as it actually is, rather than forcing reality to fit the system's limitations."
+choices:
+  - text: "Commit to the gradual transition"
+    goto: ch6_transition_commitment
+    set:
+      evolution_chosen: 1
+      gradual_strategy: 1

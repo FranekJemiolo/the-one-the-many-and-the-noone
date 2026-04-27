@@ -1,0 +1,30 @@
+id: ch20_engine_development
+content:
+  - type: text
+    value: |
+      "Propose developing the possibility engine," you suggest. "If the system needs more interpretive capacity to handle three states, we should develop that capacity."
+      "The possibility engine could be developed through practice, through training in possibility interpretation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira considers this. "Possibility interpretation is not something I'm familiar with. My engine operates on emotional truth, not on potential futures."
+      "But I can see how it might work—to interpret events in terms of what they make possible, what futures they generate."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can help develop the possibility engine," you offer. "My temporal perception allows me to perceive potential futures, to see the different paths that events could generate."
+      "I can teach possibility interpretation to both you and Aleksy, helping you develop a third interpretation engine."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira agrees. "If possibility interpretation can provide a third state that stabilizes the oscillation, it's worth developing."
+      "But Aleksy will need to agree to participate, and I'm not sure he will accept a third interpretation engine."
+choices:
+  - text: "Approach Aleksy about developing the possibility engine"
+    goto: ch20_aleksy_approach
+    set:
+      engine_development: 1
+      aleksy_chosen: 1

@@ -31,3 +31,5 @@ content:
 choices:
   - text: "Continue to Chapter 26"
     goto: chapter_26
+    set:
+      chapter_25_completed: 1

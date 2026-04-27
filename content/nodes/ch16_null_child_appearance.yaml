@@ -3,25 +3,29 @@ content:
   - type: text
     value: |
       Something appears in the Null Zone, a presence emerging from the emptiness where meaning cannot crystallize. Not a person, not an entity in the traditional sense. Something that represents the absence of interpretation itself.
-      The presence feels like a void, like the very concept of meaning given form as absence.
+      The presence feels like a void, like the very concept of meaning given form as absence. There is a profound loneliness to the presence, as if it represents the ultimate isolation of being without meaning.
   - type: pause
     duration: 800
   - type: text
     value: |
       The Null Child. A being that exists in the void where meaning cannot crystallize, where the capacity to interpret has been stripped away. The Child does not have identity because identity requires interpretation, requires the weaving of experience into a coherent self.
-      Without interpretation, there can be no identity—only presence without definition.
+      Without interpretation, there can be no identity—only presence without definition. The Child is not malevolent, but the absence of meaning is terrifying in its own way.
   - type: pause
     duration: 800
   - type: text
     value: |
       The Child does not speak. Speaking requires meaning, requires the capacity to form words that carry significance. The Child simply exists as a presence that erases relational consistency, that dissolves the connections between things that normally give them meaning.
-      The presence is not hostile—it is simply the absence of the interpretive field that makes meaning possible.
+      The presence is not hostile—it is simply the absence of the interpretive field that makes meaning possible. But this absence is not peaceful. It is the peace of non-existence, the peace of never having been.
   - type: pause
     duration: 1000
   - type: text
     value: |
       You realize this is what happens when the interpretation field fails completely. The Null Child is not malicious, not trying to destroy meaning. The Child is simply what exists when meaning cannot form, when the capacity to interpret has been stripped away.
-      The Child is the void of interpretation made manifest, the absence of meaning given form.
+      The Child is the void of interpretation made manifest, the absence of meaning given form. And the void is not empty—it is filled with the terrifying potential of what could have been.
 choices:
   - text: "Understand the interpretation void"
     goto: ch16_interpretation_void
+  - text: "Attempt to communicate with the Null Child"
+    goto: ch16_null_child_communication
+    set:
+      communication_interest: 1

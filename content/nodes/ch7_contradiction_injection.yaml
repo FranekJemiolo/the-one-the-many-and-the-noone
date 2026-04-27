@@ -35,3 +35,7 @@ choices:
     goto: ch7_divergence_stabilized
     set:
       nemesis_compression: 1
+  - text: "Trace the injection to its source"
+    goto: ch7_injection_source
+    set:
+      investigation_thoroughness: 1

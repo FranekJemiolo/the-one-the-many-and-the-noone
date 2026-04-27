@@ -1,0 +1,30 @@
+id: ch31_coordination_protocols
+content:
+  - type: text
+    value: |
+      "Propose establishing coordination protocols," you suggest to Echo and Barrier. "We can create systematic methods for Echo to identify unstable multiplicity zones and for Barrier to enforce boundaries in those zones."
+      "This would formalize the coordination between the named multiplicities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Echo and Barrier agree. "The protocols would create a systematic approach to multiplicity management, allowing us to work together more effectively."
+      "The coordination would enhance the stability of the multiplicity system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The coordination protocols would need to be connected to the broader Resistance networks," you observe. "The sanctuary network, the temporal training network, the other infrastructure can coordinate with the named multiplicity network."
+      "This would create a comprehensive system for multiplicity management."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Echo and Barrier agree. "We'll establish the coordination protocols and connect them to the Resistance networks. The named multiplicity network will become part of the integrated multiplicity infrastructure."
+      "This will significantly increase the system's capacity to manage multiplicity."
+choices:
+  - text: "Support establishing the coordination protocols"
+    goto: ch31_protocols_establishment
+    set:
+      coordination_protocols: 1
+      establishment_chosen: 1

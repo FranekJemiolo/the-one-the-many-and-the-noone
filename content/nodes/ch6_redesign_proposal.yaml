@@ -1,0 +1,36 @@
+id: ch6_redesign_proposal
+content:
+  - type: text
+    value: |
+      "Let's collaborate on system redesign," you propose. "We can design a new information processing architecture that can handle multiplicity without compression."
+      Koval's eyes light up with interest. "I've never considered this possibility. But if reality is fundamentally multiple, then the system should be designed to match that reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What would such a system look like?" she asks.
+      "It would allow multiple valid interpretations of the same anomaly," you explain. "It would document contradictory accounts without requiring them to be reconciled.
+      It would make decisions based on multiplicity rather than forcing singular narratives."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The distributed consciousness might be a model," you continue. "It's designed to exist across multiple layers of reality, to process different experiences simultaneously.
+      If we can understand how it handles multiplicity, we might be able to design a similar system for anomaly investigation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Koval considers this. "This would be a fundamental redesign. It would require rethinking every aspect of how we process information.
+      But if the current system is designed for singular reality when reality has become multiple, then redesign is not just desirable—it's necessary."
+choices:
+  - text: "Begin the redesign collaboration"
+    goto: ch6_redesign_collaboration
+    set:
+      redesign_proposed: 1
+      collaboration_started: 1
+  - text: "Gather more information about the distributed consciousness first"
+    goto: ch6_consciousness_research
+    set:
+      redesign_proposed: 1
+      research_priority: 1

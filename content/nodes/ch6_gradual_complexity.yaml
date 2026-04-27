@@ -1,0 +1,30 @@
+id: ch6_gradual_complexity
+content:
+  - type: text
+    value: |
+      "We can introduce complexity gradually," you propose. "Start by documenting multiple interpretations in low-stakes investigations, where the system can handle the additional complexity without breaking.
+      As the system adapts, we can increase the complexity, allowing multiplicity in more significant cases."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Koval considers this. "This might work. We could identify which investigations are most sensitive to complexity and which can handle additional interpretive layers.
+      We could introduce multiplicity incrementally, monitoring the system's response and adjusting the pace accordingly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The key is to stay ahead of the Engine's bias," you explain. "The bias will try to make complexity feel wrong. We need to consciously resist that feeling, reminding ourselves that the comfort is engineered."
+      "Over time, as the system adapts to complexity, the bias will have less effect."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is a long-term project," Koval says. "It will take months, possibly years, to fully counteract the Engine's influence.
+      But if we succeed, the system will be able to handle reality as it actually is, rather than forcing reality to fit the system's limitations."
+choices:
+  - text: "Commit to the gradual complexity approach"
+    goto: ch6_gradual_commitment
+    set:
+      resistance_started: 1
+      gradual_strategy: 1

@@ -1,0 +1,30 @@
+id: ch15_energy_channeling
+content:
+  - type: text
+    value: |
+      You begin channeling energy into the coherence field, using your temporal perception to support the stabilization of contradiction.
+      The field responds to your energy, expanding as the additional interpretive support increases its capacity.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The zone is expanding," Rose observes. "More contradictions are being stabilized, more incompatible truths are being included in the field."
+      "The demonstration of plural stability is becoming more comprehensive."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You perceive the zone growing, the boundary of stabilized contradiction expanding to include more of the surrounding area.
+      The expanded zone contains more examples of incompatible truths coexisting without collapse, providing more evidence that multiplicity can be stable.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "The expanded zone is significant," Rose says. "It provides undeniable evidence that the Engine's premise is false."
+      "Anyone who enters the zone will see that contradictions can coexist without collapse."
+choices:
+  - text: "Continue supporting the expanded zone"
+    goto: ch15_zone_support
+    set:
+      energy_channeling: 1
+      support_ongoing: 1

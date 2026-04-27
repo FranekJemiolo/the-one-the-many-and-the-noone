@@ -1,0 +1,25 @@
+id: ch43_noone_conditions
+content:
+  - type: text
+    value: |
+      "Are there conditions where The No-One would be preferable?" you ask, wanting to understand when complete void might be the optimal choice.
+      The system considers this. "The No-One might be preferable in situations of unbearable suffering, where the tensions of existence are too painful to endure."
+      "In contexts of extreme conflict or trauma, void peace could be a release."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But as a permanent configuration," the system continues, "The No-One eliminates the capacity for any experience, including joy and meaning. Without interpretation, there is no possibility of positive experience alongside the negative."
+      "The long-term cost of eliminating existence might outweigh the short-term relief from suffering."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests The No-One might be appropriate as a temporary refuge rather than a permanent configuration," you realize. "The system could use minimal interpretation temporarily in times of crisis while maintaining the capacity for experience."
+      "This is similar to what the managed Null Zone already provides."
+choices:
+  - text: "Propose considering The No-One as a temporary refuge"
+    goto: ch43_noone_temporary
+    set:
+      noone_conditions: 1
+      temporary_chosen: 1

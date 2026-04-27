@@ -1,0 +1,47 @@
+id: ch1_elevator_investigation
+content:
+  - type: text
+    value: |
+      Marcus leads you to the elevators, three banks of them serving different floors. "These are the ones that had the problems," he says, gesturing to the middle bank.
+      "The others worked fine. Just these three. And not all the time—just sometimes, like they got confused about where they were supposed to go."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You examine the elevator controls, looking for anything unusual. The panels are standard, the buttons ordinary. But when you press the button for the fourth floor, you feel a momentary disorientation, as if the elevator is deciding whether to comply.
+      The doors open normally, the ride is smooth, but you arrive with the distinct sense that you're not exactly where you intended to be.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The fourth floor looks correct—offices, cubicles, the same layout you've seen a hundred times. But something feels off, a detail you can't quite identify.
+      The light is slightly different, the air has a different quality, as if you've stepped into a copy of the fourth floor rather than the original.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Did you notice that?" Marcus asks, his voice lowered. "The way the light hits the wall. It's not right. I've been on this floor a thousand times, and it never looked like this."
+      You nod, confirming what you both sensed but neither can explain.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You take the elevator back down, and this time the disorientation is stronger. For a moment, you see the elevator shaft extending infinitely in both directions, floors passing by that don't exist in the building's official layout.
+      Then the vision vanishes, and you're standing in the lobby, Marcus looking at you with concern.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You saw it too, didn't you?" he asks. "The shaft going on forever. I thought I was the only one."
+      You realize Marcus has experienced more than he's told you, that he's been living with these anomalies for months, keeping them to himself because no one would believe him.
+choices:
+  - text: "Ask Marcus about his other experiences"
+    goto: ch1_marcus_deep_history
+    set:
+      marcus_trust: 1
+      elevator_anomaly_confirmed: 1
+  - text: "Return to the office with this evidence"
+    goto: ch1_witness_testimony
+    set:
+      elevator_evidence: 1
+      marcus_ally: 1

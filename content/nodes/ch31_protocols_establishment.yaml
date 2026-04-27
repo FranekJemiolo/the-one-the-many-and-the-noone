@@ -1,0 +1,30 @@
+id: ch31_protocols_establishment
+content:
+  - type: text
+    value: |
+      You support establishing the coordination protocols, helping Echo and Barrier develop systematic methods for coordinated multiplicity management.
+      The protocols begin operation, with Echo identifying unstable zones and Barrier enforcing boundaries to stabilize them.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The coordination protocols are successful," Echo and Barrier report after months of operation. "Unstable multiplicity zones are being identified and stabilized more effectively than before."
+      "The multiplicity system's stability has increased significantly."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The Engine is responding," you observe. "It's trying to suppress the coordination protocols, attempting to prevent the named multiplicities from working together systematically."
+      "But the coordination is self-validating—once the system experiences improved stability through coordination, it recognizes the value."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Echo and Barrier agree. "The Engine cannot reverse the coordination. The protocols are becoming established, and the named multiplicity network is evolving toward systematic collaboration."
+      "The protocols establishment is achieving its purpose."
+choices:
+  - text: "Continue the chapter with the protocols established"
+    goto: ch31_named_multiplicity
+    set:
+      protocols_establishment: 1
+      coordination_network: 1

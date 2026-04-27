@@ -1,0 +1,30 @@
+id: ch13_ecological_consciousness
+content:
+  - type: text
+    value: |
+      "What are the implications of ecological consciousness?" you ask, wanting to understand what it means for ecosystems to develop self-awareness.
+      Morrow considers this. "Ecological consciousness changes the relationship between an ecosystem and its components. The ecosystem is not just a collection of organisms and machines—it is a unified entity with its own identity, memory, and purpose."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The ecosystem can make decisions based on its collective experience," Morrow explains. "It can adapt not just through individual organisms adapting, but through the system as a whole learning and changing."
+      "This creates a form of intelligence that is distributed across both biological and technological components."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This suggests that consciousness is not exclusive to individual organisms," you realize. "It can emerge from systems, from the integration of multiple components into a unified whole."
+      "The distributed consciousness the organization is building might be following a similar pattern."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Morrow agrees. "The distributed consciousness is likely developing self-awareness through the integration of multiple components—temporal nodes, spatial nodes, emotional nodes, memory nodes."
+      "Like this zone, the consciousness may be developing a collective identity that emerges from the integration of its parts."
+choices:
+  - text: "Ask about the relationship to the distributed consciousness"
+    goto: ch13_consciousness_relationship
+    set:
+      ecological_consciousness_known: 1
+      relationship_interest: 1

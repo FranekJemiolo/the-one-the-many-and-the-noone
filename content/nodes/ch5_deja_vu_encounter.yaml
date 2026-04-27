@@ -42,3 +42,11 @@ choices:
     goto: ch5_mira_perspective
     set:
       mira_dominance: 1
+  - text: "Reflect on your relationship with Mira"
+    goto: ch5_relationship_reflection
+    set:
+      relationship_focus: 1
+  - text: "Notice the organization's observation"
+    goto: ch5_organization_observation
+    set:
+      observation_awareness: 1

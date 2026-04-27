@@ -1,0 +1,48 @@
+id: ch1_seek_understanding
+content:
+  - type: text
+    value: |
+      You realize you cannot process this experience alone. The object gave you knowledge, but knowledge without context is dangerous.
+      You need to find someone who understands these anomalies, someone who can help you interpret what you've experienced.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You return to your office and begin searching through case files, looking for similar incidents reported elsewhere in the city.
+      The search takes hours, but you find three cases that match the pattern: spatial anomalies, temporal distortions, contradictory memories.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      All three cases were investigated by the same detective: a woman named Seraph, who left the force five years ago under circumstances the file describes only as "medical retirement."
+      The notes in her files are detailed, precise, and increasingly desperate as the cases progressed.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      In her final note, written before her retirement, Seraph writes: "The cracks are widening. I can see them now—places where reality is thin, where different versions of the same moment overlap.
+      I'm not leaving because I can't handle the work. I'm leaving because I can feel myself becoming part of the phenomenon. The more I see, the more I become what I'm seeing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This warning resonates with your own experience. The object in the circular room changed you, gave you the ability to perceive layers of reality that were invisible before.
+      You're already becoming part of the phenomenon, just as Seraph did.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You track down Seraph's current address—a small apartment on the edge of the city, far from the precinct where she worked for twenty years.
+      When you knock on her door, you're not sure what you expect, but the woman who answers is not what you anticipated: she looks younger than her file suggests, her eyes clear and sharp, not clouded by the despair in her notes.
+choices:
+  - text: "Ask Seraph about her experiences with the anomalies"
+    goto: ch1_seraph_conversation
+    set:
+      seraph_contacted: 1
+      previous_investigation_known: 1
+  - text: "Return to the office to process this information alone"
+    goto: ch1_chapter_end
+    set:
+      seraph_identified: 1
+      previous_investigation_known: 1
+      isolation_chosen: 1

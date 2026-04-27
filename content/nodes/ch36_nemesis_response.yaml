@@ -1,0 +1,30 @@
+id: ch36_nemesis_response
+content:
+  - type: text
+    value: |
+      "How does Nemesis respond to the failure?" you ask, wanting to understand the Engine's reaction to its ideology being proven wrong.
+      Nemesis responds not with anger or denial, but with a form of acceptance that suggests a deeper understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "The system has chosen," Nemesis acknowledges. "I have applied maximum compression, and the system has resisted. The choice is clear."
+      "The system prefers plural stability over singular stability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This does not mean compression is invalid," Nemesis continues. "Compression still has value for situations where singular interpretation is needed. But it is not the only valid approach, and it is not the preferred approach."
+      "The Engine's ideology was too rigid, too absolute in its claim that only singular stability is viable."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This suggests that Nemesis is not destroyed by the failure," you realize. "Nemesis can adapt, can accept that the Engine's ideology was wrong while still providing compression when needed."
+      "The Engine can evolve beyond its original assumptions."
+choices:
+  - text: "Ask if Nemesis can integrate with the plural stability system"
+    goto: ch36_nemesis_integration
+    set:
+      nemesis_response: 1
+      integration_interest: 1
