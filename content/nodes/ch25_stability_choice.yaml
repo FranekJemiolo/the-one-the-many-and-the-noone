@@ -1,0 +1,34 @@
+id: ch25_stability_choice
+content:
+  - type: text
+    value: |
+      "I need to prioritize my stability," you say. "I can't risk fracturing while waiting for her."
+      Sava nods. "That's a valid choice. Stability is important. You can't help anyone if you fracture."
+      She pauses. "But understand the cost. If you make your choice alone, and her choice later doesn't align, you'll end up in different versions."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I know. But I'd rather be stable in a different version than fractured in this one."
+      "That's a rational perspective. But Mira might not see it that way."
+      She meets your eyes. "She might see it as abandonment. As choosing yourself over her."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then I'll explain it to her. I'll help her understand."
+      "You can try. But perception development is emotional. Rational explanations don't always address the fear of being left behind."
+      She pauses. "This is the complication the timing mismatch creates. It forces you to choose between your stability and your connection."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Leaving Sava's office, you feel conflicted. You want to be stable, but you don't want to abandon Mira.
+      The legal battle taught you that fighting for your rights requires strategic choices. This is another strategic choice—prioritizing your stability to ensure you can continue the journey.
+      But it comes at a cost.
+choices:
+  - text: "Continue to Chapter 26"
+    goto: ch25_chapter_end
+    set:
+      sava_relationship: 1
+      stability_priority: 1

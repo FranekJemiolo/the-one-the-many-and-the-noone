@@ -1,0 +1,34 @@
+id: ch25_waiting_choice
+content:
+  - type: text
+    value: |
+      "I'll wait for her," you say. "I won't make my choice alone."
+      Sava considers this. "That's a noble choice. But understand the risk. The longer you wait at the threshold, the more unstable your perception becomes."
+      "How unstable?"
+      "Fracture risk increases. Identity dissolution. The sense of self breaks down under the pressure of accessing multiple realities without choosing one."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'll take that risk. I'm not leaving her behind."
+      Sava nods. "Then you'll need support. You'll need people to help you maintain your anchor while you wait."
+      She pauses. "Mira can be that anchor. But she'll need to understand what's happening. She'll need to know how to help you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'll tell her. We'll face this together."
+      Leaving Sava's office, you feel resolved. You'll wait for Mira, even if it means risking your own stability.
+      The legal battle taught you that fighting for your rights requires sacrifice. This is another sacrifice—risking your stability for your connection.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      But it's a sacrifice you're willing to make. Because Mira is worth it. Because the connection you share is worth it.
+      And because you'd rather fracture together than be whole alone.
+choices:
+  - text: "Continue to Chapter 26"
+    goto: ch25_chapter_end
+    set:
+      sava_relationship: 1
+      loyalty_priority: 1

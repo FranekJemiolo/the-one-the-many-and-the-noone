@@ -2,29 +2,39 @@ id: ch25_trajectory_establishment
 content:
   - type: text
     value: |
-      You support establishing the trajectory training center, helping the Passengers develop protocols for systematic trajectory multiplicity adaptation.
-      The center begins operations, bringing people from across the system to experience multiple paths and develop the capacity to navigate plural movement.
+      Weeks pass after your conversation with Mira. You continue meeting with Sava, documenting your perception development while supporting Mira through her own emerging perception.
+      Sava is impressed by your progress. "Your perception is developing faster than most cases. The threshold is approaching sooner than I expected."
+      "How soon?"
+      "Months. Maybe less."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The training is successful," the Passengers report after months of operation. "Hundreds of people have developed trajectory multiplicity perception, and the adaptation is spreading as they return to their home zones."
-      "The system's capacity for plural movement is increasing significantly."
+      "And Mira?"
+      "Her perception is developing too, but at a slower pace. She's at an earlier stage."
+      Sava pauses. "This creates a timing mismatch. You might reach your threshold before she reaches hers. You might have to make your choice before she's ready to make hers."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The Engine is responding," you observe. "It's trying to suppress the trajectory multiplicity training, attempting to prevent the spread of plural movement."
-      "But the adaptation is self-propagating—once people experience trajectory multiplicity, they retain the capacity even in singular movement zones."
+      "What happens then?"
+      "Then you'll have to decide whether to wait for her, or make your choice alone."
+      She meets your eyes. "Waiting is risky. The longer you wait at the threshold, the more unstable your perception becomes. You could fracture before she catches up."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Passengers agree. "The Engine cannot reverse the adaptation. Trajectory multiplicity perception is becoming widespread, and the system is adapting to plural movement at scale."
-      "The training center is achieving its purpose."
+      "And if I make my choice alone?"
+      "Then she'll have to make hers later. And if your choices don't align, you'll end up in different versions."
+      She pauses. "The timing mismatch is a real complication. It's forcing you to choose between your stability and your connection."
 choices:
-  - text: "Continue the chapter with the trajectory center established"
-    goto: ch25_trajectory_multiplicity
+  - text: "Decide to wait for Mira, risk instability"
+    goto: ch25_waiting_choice
     set:
-      trajectory_establishment: 1
-      adaptation_spreading: 1
+      sava_relationship: 1
+      loyalty_priority: 1
+  - text: "Decide to prioritize stability, make choice when ready"
+    goto: ch25_stability_choice
+    set:
+      sava_relationship: 1
+      stability_priority: 1
