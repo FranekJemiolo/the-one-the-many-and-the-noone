@@ -2,36 +2,80 @@ id: ch6_compression_resistance
 content:
   - type: text
     value: |
-      "We need to resist the compression," you say. "If the organization intends to make the consciousness act on singularity, we need to prevent that from happening."
-      Koval considers this. "Resistance to the organization is dangerous. They have resources beyond our understanding, capabilities that operate in layers of reality we can't access."
-      "But if we don't resist, the consciousness will inherit the Engine's bias, making singularity feel natural when reality is multiple."
+      A week after the shared deja vu, you receive a call from HR. They want you to come in for a meeting with Dr. Kaczmarek—a psychiatrist they've brought in to consult on your case.
+      Mira insists on going with you. "I'm not letting you face this alone."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "How can we resist?" you ask.
-      "We can sabotage the compression implementation," Koval suggests. "As system administrator, I have access to the consciousness's development specifications. I could introduce errors that prevent compression from functioning correctly."
-      "This would force the organization to reconsider their approach."
+      Dr. Kaczmarek's office is in a different building, one you've never been to before. The corridors are longer than they should be, the doors more numerous than the floor plan allows.
+      As you walk, you feel the gaps between realities widening, as if the building itself is responding to your presence.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Sabotage would be detected," you warn. "The organization would know someone is interfering, and they would investigate."
-      "That's a risk we'd have to accept," Koval replies. "But if the alternative is a consciousness that enforces singularity, the risk might be worth taking."
+      Dr. Kaczmarek is waiting when you arrive. He's older than you expected, with a calm demeanor and minimal unnecessary movement.
+      He writes things down even as you speak, as if he's documenting everything for reasons that have nothing to do with memory.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Aleksy Wrona," he says, not looking up from his notebook. "Your supervisor has expressed concerns about your behavior. She says you've been... different lately."
+      "I've been going through some personal things."
+      "She says you stare at nothing. That you react to sounds before they happen. That you watch exits constantly."
   - type: pause
     duration: 800
   - type: text
     value: |
-      You think about Aleksy and Mira. Aleksy would be deeply conflicted about sabotage—he would resist the organization's compression but would oppose sabotage as too risky and unprincipled.
-      Mira would support resistance immediately, seeing sabotage as a necessary evil to prevent the consciousness from enforcing singularity, but she would worry about the personal cost to Koval if caught.
+      "I've always done that."
+      "Not like this. Not to the degree where it's affecting your work. Not to the degree where your coworkers are concerned."
+      He finally looks up. His eyes are calm, observant, without judgment. "I want to help you, Aleksy. But I need you to be honest with me."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You consider lying. Consider telling him what he wants to hear—that you're stressed, that you'll get better, that everything is fine.
+      But Mira is sitting next to you, her hand on yours, and you know: she believes in you. She believes this is real.
+      "I'm perceiving reality differently," you say. "I can see multiple timelines. I can access memories from other versions of myself. I can feel the gaps between realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Dr. Kaczmarek doesn't react. Doesn't dismiss it. Doesn't call it delusional.
+      He just writes it down, his pen moving across the page with precise, controlled strokes.
+      "How long have you been experiencing this?"
+      "About a month. Since the dreams started."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "And the dreams?"
+      "They're not dreams. They're memories. From other versions of myself."
+      He nods, as if this is exactly what he expected to hear. "And you believe these memories are real?"
+      "I know they're real. I can feel them. I can access them. They're as real as this conversation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The interview continues for an hour. Dr. Kaczmarek asks about your childhood, about your family history, about any head injuries or medical conditions.
+      He's thorough, methodical, building a complete picture of who you are and what you're experiencing.
+      But he never dismisses your perception. Never questions whether it's real.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      When it's over, he closes his notebook. "I'm going to recommend continued medical leave, Aleksy. I want to run some tests. I want to understand what's happening in your brain."
+      "You believe me?"
+      "I believe you're experiencing something. Whether it's neurological or... something else, I intend to find out."
+      He pauses. "But I need you to understand: if this continues to affect your work, if it continues to concern your coworkers, there will be consequences. The company cannot indefinitely employ someone whose behavior is unpredictable."
 choices:
-  - text: "Proceed with sabotage despite the risks"
-    goto: ch6_sabotage_attempt
+  - text: "Accept the medical leave and cooperate with tests"
+    goto: ch6_medical_leave
     set:
-      resistance_chosen: 1
-      sabotage_planned: 1
-  - text: "Find a less risky form of resistance"
-    goto: ch6_alternative_resistance
+      institutional_pressure: 40
+      dr_kaczmarek_trust: 20
+  - text: "Refuse medical leave, insist you can work"
+    goto: ch6_refusing_leave
     set:
-      resistance_chosen: 1
-      caution_chosen: 1
+      institutional_pressure: 50
+      aleksy_detachment: 60

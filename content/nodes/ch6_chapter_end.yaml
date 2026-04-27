@@ -2,32 +2,40 @@ id: ch6_chapter_end
 content:
   - type: text
     value: |
-      You leave the administrative facility, the doors closing behind you as you step out into the corridor. The clean explanation remains in the system, accepted as truth because it is comfortable, because it removes the ambiguity that reality actually contains.
-      The system has chosen comfort over accuracy, simplicity over complexity, singularity over multiplicity.
+      The chapter ends with you leaving Dr. Kaczmarek's office, the institutional pressure now more defined.
+      If you accepted medical leave, you're entering a period of evaluation—tests, interviews, attempts to understand what's happening in your brain.
+      But Dr. Kaczmarek didn't dismiss you. He took your perception seriously. That's something.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Dr. Koval continues her work, managing anomalies by compressing them into explanations the system can tolerate. She is not malicious—she is managing a system that cannot tolerate too much ambiguity, that would collapse if forced to confront the full complexity of reality.
-      But she is serving the Quiet Engine's agenda, whether she realizes it or not, by making singularity feel natural and multiplicity feel like error.
+      If you refused medical leave, you're continuing to work, continuing to develop your perception while the system watches.
+      The collision between your abilities and the system's requirements is inevitable. It's only a matter of time.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is how the Engine operates. Not by forcing reality, not by overtly controlling what people think, but by making certain interpretations feel more natural than others.
-      Compression becomes comfort. Singularity becomes truth. The Engine's influence is not visible as power—it is visible as preference.
+      Either way, Dr. Kaczmarek is now part of your story. The institutional mind, the rational integrator, the one who wants to understand rather than dismiss.
+      He may be an ally. He may be an adversary. For now, he's simply a question mark.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The cracks are still there—memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory. Reality is still fundamentally multiple.
-      But the Engine is making them feel like errors that need to be fixed, like anomalies that should be compressed into singular narratives rather than accepted as structural features.
+      Mira is still with you, still supporting you, still anchoring you while your perception fractures.
+      But the institutional pressure is real now. The system has noticed. The machinery of normalcy is engaged.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the beginning of the conflict. Reality is becoming multiple, revealing its true nature as fundamentally plural. The Engine is trying to make it feel singular, to compress multiplicity into singularity for the sake of stability.
-      The resistance will be about preserving multiplicity, about refusing to let comfort dictate what counts as truth.
+      This is the beginning of institutional conflict. The first serious collision between your developing perception and the system that requires everyone to perceive reality the same way.
+      It won't be the last. The more you develop your abilities, the more the system will push back—or try to accommodate you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But the system is starting to ask questions about who you really are.
+      And for the first time, there's someone within the system who might actually listen to the answers.
 choices:
   - text: "Continue to Chapter 7"
     goto: chapter_7

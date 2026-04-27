@@ -1,0 +1,49 @@
+id: ch6_medical_leave
+content:
+  - type: text
+    value: |
+      "I'll accept the leave," you say. "I'll cooperate with the tests."
+      Dr. Kaczmarek nods. "Good. I'll have my office contact you with the schedule."
+      He stands, extends his hand. "I want to help you, Aleksy. Whatever is happening, we'll figure it out together."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You shake his hand. His grip is firm, professional.
+      As you leave, Mira speaks for the first time since the interview began. "He didn't dismiss you. He didn't call you delusional."
+      "No. He took it seriously. That's... unusual."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "It's almost like he's seen this before," Mira says. "Like he knows what you're experiencing."
+      "Or like he's smart enough not to dismiss it without evidence."
+      She considers this. "Maybe. But there's something about him. The way he writes everything down. The way he asks questions without judgment."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Outside the building, the city feels different. The gaps between realities are still there, but something has shifted.
+      Dr. Kaczmarek's evaluation wasn't a rejection. It was an attempt to understand.
+      Maybe the institutional system isn't entirely hostile. Maybe there are people within it who want to help.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What do you think the tests will show?" Mira asks.
+      "I don't know. If they're looking for neurological problems, they won't find any. My brain is fine. It's my perception that's different."
+      "And if they can't explain it medically?"
+      "Then they'll have to accept that it's real. That I'm perceiving something they can't."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira takes your hand. "Whatever happens, I'm here. We'll face the tests together."
+      You nod. For the first time since this began, you feel like you might actually have allies within the system.
+      Not just Mira, but Dr. Kaczmarek too.
+choices:
+  - text: "Continue to Chapter 7"
+    goto: ch6_chapter_end
+    set:
+      institutional_pressure: 40
+      dr_kaczmarek_trust: 30

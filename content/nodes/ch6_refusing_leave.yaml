@@ -1,0 +1,58 @@
+id: ch6_refusing_leave
+content:
+  - type: text
+    value: |
+      "I can work," you say. "My perception doesn't affect my ability to do my job."
+      Dr. Kaczmarek considers this. "Your supervisor disagrees. Your coworkers are concerned. The company cannot indefinitely employ someone whose behavior is unpredictable."
+      "My behavior isn't unpredictable. I'm just... perceiving more than most people."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That's exactly my concern," he says. "If you're perceiving things others can't, then your actions may not make sense to them. You may react to stimuli they don't perceive. You may make decisions based on information they don't have access to."
+      He pauses. "This creates unpredictability in the workplace. Unpredictability that the company cannot tolerate indefinitely."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So what? I'm supposed to pretend I don't perceive what I perceive? Lie about what I'm experiencing?"
+      "I'm not asking you to lie. I'm asking you to consider whether your current path is sustainable. Whether you can continue working in an environment that requires everyone to perceive reality the same way."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The question hangs in the air. Can you continue working in an environment that requires conformity?
+      Can you suppress your perception enough to appear normal, while still developing it in private?
+      Or is the collision between your developing abilities and the system's requirements inevitable?
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira speaks up for the first time. "What if he can't go back? What if his perception has changed too much to fit into normal work?"
+      Dr. Kaczmarek looks at her. "Then we'll need to find a different arrangement. One that accommodates his abilities rather than requiring him to suppress them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is unexpected. You expected dismissal, demands for conformity, threats of termination.
+      Instead, Dr. Kaczmarek is offering accommodation. A way to work with your perception rather than against it.
+      "What kind of arrangement?" you ask.
+      "That depends on the tests. On what we learn about your abilities. On whether they can be channeled productively."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'll consider it," you say. "But I'm not taking medical leave unless the tests show something actually wrong with my brain."
+      "Fair enough. But understand: if you continue working and your behavior continues to concern your coworkers, the company may take action regardless of my recommendation."
+      He stands. "Think about it, Aleksy. Consider whether fighting the system is the best use of your energy."
+choices:
+  - text: "Accept the tests and consider accommodation"
+    goto: ch6_medical_leave
+    set:
+      institutional_pressure: 35
+      dr_kaczmarek_trust: 25
+  - text: "Refuse and insist on working as normal"
+    goto: ch6_chapter_end
+    set:
+      institutional_pressure: 55
+      aleksy_detachment: 65
