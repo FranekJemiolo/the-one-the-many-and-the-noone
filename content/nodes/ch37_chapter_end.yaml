@@ -2,32 +2,39 @@ id: ch37_chapter_end
 content:
   - type: text
     value: |
-      You leave the Null Zone, the zone now stabilized with minimal interpretation. The Null Child has adapted to the coherence field, the Child now able to exist in the zone of minimal interpretation without threatening the system.
-      The transformation is complete, the void managed.
+      The chapter ends with the endgame beginning. The transformation is accelerating, the system preparing to finalize its adaptation to multiplicity.
+      Sava explained that the boundaries between versions are stabilizing, the enhanced accessibility of multiplicity becoming permanent, the new configuration of reality locking in.
+      The transformation will take days or weeks, and after it's complete, the new configuration will be irreversible.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not eliminating the void, not the complete removal of the Null Zone. The Null Zone still exists as a place of minimal interpretation, a zone where meaning is reduced rather than rich.
-      But the system has found a way to manage it without being threatened by complete interpretation failure, without the void causing system collapse.
+      Sava asked if you're ready for the permanent restructuring of reality. You've been living with multiplicity for years—you're prepared.
+      But permanent is different from temporary. After the endgame, there's no going back to the old configuration.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear was unfounded. The void is not a threat, not an existential danger to the system. The system has proven that interpretation failure can be managed through the coherence field, that the void can be tolerated without collapse.
-      The Engine's assumption that interpretation failure leads to chaos was wrong.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The Null Zone is now a managed zone of minimal interpretation that the system can tolerate without collapse. The Engine's fear has been addressed without requiring singular interpretation, without eliminating the void entirely.
-      The system has found a way to accommodate the void while maintaining stability.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence, the beginning endgame.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This completes the adaptation phase. The system has adapted to all forms of multiplicity: temporal fields, named multiplicities, plural stability, and managed voids. The system has proven that it can function with multiplicity in all its forms.
-      The endgame can now begin, the system ready for the final phase of its transformation.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's witnessing the endgame begin, the final phase of the transformation that will make the new configuration of reality permanent.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality have widened. The system has restructured and stabilized.
+      The endgame has begun—and it will finalize everything.
 choices:
   - text: "Continue to Chapter 38"
     goto: chapter_38

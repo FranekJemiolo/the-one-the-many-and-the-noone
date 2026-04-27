@@ -2,32 +2,40 @@ id: ch34_chapter_end
 content:
   - type: text
     value: |
-      You observe the named multiplicities ecosystem continuing to operate, Echo, Barrier, Archive, and Drift forming a stable network of complementary patterns. The ecosystem is functioning, the patterns supporting each other in ways that maintain stability despite the multiplicity they contain.
-      The transformation of identity is complete, the ecosystem stable.
+      The chapter ends with the new reality configuration established. The convergence has transformed reality—the boundaries between versions are now permeable, the multiplicity more accessible than ever before.
+      If you chose to stay, you're adapting to the new configuration, able to access other versions while remaining anchored in this one with minimal effort.
+      If you chose to shift, you're adapting to the new configuration, able to access this version while remaining anchored in the new one with minimal effort.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a breakdown of identity, not a failure of the self to maintain coherence. It is an evolution of identity, a transformation into a new mode of existence. The system has adapted to multiplicity by creating an ecosystem of named multiplicities that support each other.
-      The adaptation is structural, not temporary.
+      Either way, the convergence has changed everything. The legal battle established your rights. The threshold gave you the freedom to choose. The convergence has transformed reality itself.
+      You're living in a new configuration of reality—one that accommodates multiplicity more fully than ever before.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear is unfounded. Named multiplicities are not chaos, not the breakdown of identity into disorder. They are a different form of identity that the Engine cannot control, but that functions perfectly well.
-      The Engine's assumption that identity must be singular is proven wrong by the very existence of functional named multiplicities.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The collapse of singular identity has not destroyed the system. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The identity ecosystem operates according to different principles, but it operates.
-      The transformation is successful, the adaptation complete.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
-      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's witnessing the convergence she predicted, the new reality configuration that accommodates multiplicity more fully.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality have widened. The system has restructured.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      The convergence has transformed reality—and you're adapting to the new configuration.
 choices:
   - text: "Continue to Chapter 35"
     goto: chapter_35

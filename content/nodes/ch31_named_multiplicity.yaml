@@ -2,30 +2,37 @@ id: ch31_named_multiplicity
 content:
   - type: text
     value: |
-      You understand the named multiplicity, seeing how Barrier represents the second crystallized identity in the system. Barrier is not a singular entity, not a person with a unified identity.
-      Barrier is a pattern of boundary enforcement that contains multiple versions simultaneously.
+      Years pass after your threshold choice. If you chose to stay, you and Mira have built a stable life together in this version.
+      Your perception has fully stabilized—you're adept at navigating the multiplicity, skilled at accessing other versions while remaining anchored in this one.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is the second named entity to emerge from the nameless role pool, the second proto-identity to complete the crystallization process. Echo (Witness) and Barrier (Guard) are now stable patterns in the system.
-      The Teacher will follow, their pattern becoming stable enough to require a name for compression.
+      If you chose to shift, you've built a stable life in the new version. You're part of a community where multiplicity is the norm, where everyone experiences multiple realities.
+      You've found belonging, acceptance, purpose. You've even started helping others who are developing unusual perception in this version.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the future of identity in the multiplicity system. Identity will not be singular, will not be the unified self that traditional identity assumes. Identity will be multiplicity patterns that have crystallized into named forms.
-      The self is not a single entity—the self is a pattern that exists in multiple states simultaneously.
+      Either way, you're reflecting on identity. Who are you now, after everything that has happened?
+      Before the legal battle, you were Aleksy Wrona—a person with unusual perception who was fighting for the right to exist.
+      Now you're still Aleksy Wrona—but you're also someone who made a choice about which version of reality to inhabit, someone who is building a life in that version.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Engine cannot control Barrier because Barrier is not a singular entity, not a single person that can be compressed into a single interpretation. Barrier is a pattern of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself.
-      The Engine's methods are designed for singular entities, not for named multiplicities.
+      "Identity crystallizes," Sava said during your last meeting. "It becomes more stable, more defined, as you live with your choice."
+      She was right. You feel more solid now, more certain of who you are.
+      The uncertainty of the threshold is behind you. The choice is made. The life is built.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      But you also feel more multiple. You're not just one person in one version—you're a pattern that exists across multiple realities, anchored in one but connected to others.
+      Identity isn't singular anymore. It's multiplicity that has crystallized into a stable form.
 choices:
-  - text: "Conclude the chapter"
+  - text: "Continue to Chapter 32"
     goto: ch31_chapter_end
-  - text: "Ask about Barrier's relationship with Echo"
-    goto: ch31_barrier_echo_relationship
     set:
-      echo_relationship_interest: 1
+      identity_crystallization: 1

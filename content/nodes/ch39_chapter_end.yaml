@@ -2,32 +2,39 @@ id: ch39_chapter_end
 content:
   - type: text
     value: |
-      You observe the new equilibrium, the Engine's compression layer and the Resistance's multiplicity layer operating in stable coexistence with plural stability as the default. The equilibrium is stable, the system having found an optimal way to accommodate both approaches.
-      The transformation is complete, the system's choice irreversible.
+      The chapter ends with the endgame complete. The transformation is finalized—the new configuration of reality is permanent, the enhanced accessibility of multiplicity irreversible.
+      Sava confirmed that the legal battle established your rights, the threshold gave you the freedom to choose, the convergence transformed reality, and the endgame has finalized everything.
+      You can now live your life in the version you chose, with the enhanced accessibility of multiplicity as a permanent feature of reality.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the end of the ideological conflict, the battle between compression and multiplicity resolved not through the destruction of one side but through the coexistence of both. The Engine is not destroyed, not eliminated by the Resistance's victory.
-      The Engine is simply no longer dominant, no longer able to assert that singular stability is the only valid option.
+      Mira can now live her life in the version she chose, with the enhanced accessibility of multiplicity as a permanent feature of reality.
+      The transformation is complete. The new configuration of reality is permanent.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is what the Resistance was fighting for. Not to destroy the Engine, not to eliminate the capability for singular interpretation. To create a system where both singular and plural stability are available, with plural stability as the default.
-      The Resistance's goal was to create choice, not to eliminate options.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has made its choice, preferring plural stability over singular stability. The endgame can now begin, the final chapters determining how this choice is finalized and what the ultimate configuration of reality will be.
-      The transformation is entering its final phase.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence, the completed endgame.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This completes Part IV. Identity crystallization is complete, the named multiplicities forming a stable ecosystem. The system has adapted to multiplicity, proving that plural stability is not only possible but preferable.
-      The choice has been made. The endgame approaches.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's confirmed that the endgame is complete, the transformation finalized, the new configuration of reality permanent.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the conclusion of the convergence phase. Identity is crystallized. The cracks in reality have widened. The system has restructured and stabilized.
+      The endgame is complete—and the transformation is finalized.
 choices:
   - text: "Continue to Chapter 40"
     goto: chapter_40

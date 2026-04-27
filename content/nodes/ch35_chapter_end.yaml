@@ -2,32 +2,41 @@ id: ch35_chapter_end
 content:
   - type: text
     value: |
-      You observe the coherence field continuing to expand, Rose's method becoming a structural feature of the multiplicity system. The coherence field is no longer dependent on Rose's direct intervention, not limited to zones where Rose is present.
-      It has become a general capability of the system, the default mode of operation for handling contradictions.
+      The chapter ends with the convergence stabilizing. The new reality configuration has transformed reality, and now the system is settling into its new mode of operation.
+      If you chose to stay, you're finding your rhythm in the new configuration, able to access other versions while remaining anchored in this one without being overwhelmed.
+      If you chose to shift, you're finding your rhythm in the new configuration, able to access this version while remaining anchored in the new one without being overwhelmed.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not Rose becoming dominant, not the Resistance replacing the Engine's authority with Rose's personal influence. This is the system adopting plural stability as the default, internalizing the capability to stabilize contradictions without requiring Rose to be present.
-      The Engine's compression is still available, but the system is choosing plural stability.
+      Either way, the convergence has completed its transformation. Reality has restructured to accommodate multiplicity more fully.
+      The legal battle established your rights. The threshold gave you the freedom to choose. The convergence has transformed reality itself.
+      Now the system is stabilizing in its new configuration.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the system's choice. The system has experienced both singular stability and plural stability, has functioned under both approaches. And it is choosing plural stability as the default, preferring the stabilization of contradictions over their compression.
-      The choice is deliberate, not accidental.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      This is the proof the Engine was wrong. Plural stability is not just possible, not merely functional under specific conditions. It is preferable, the system choosing it over singular stability when both options are available.
-      The Engine's assumption that singular stability is the only valid form of stability is proven wrong by the system's own choice.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next chapters will show the final crystallization phase. The system will complete its adaptation to multiplicity, the transformation reaching its terminal state. The endgame will approach, the conflict between compression and multiplicity reaching its resolution.
-      The system is approaching the final phase of its evolution.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's witnessing the convergence stabilize, the new reality configuration settling into its new mode of operation.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality have widened. The system has restructured and stabilized.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      The convergence has transformed reality—and you're adapting to the new configuration.
 choices:
   - text: "Continue to Chapter 36"
     goto: chapter_36

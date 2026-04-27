@@ -2,26 +2,33 @@ id: ch37_null_zone_stabilized
 content:
   - type: text
     value: |
-      You return to the Null Zone, watching as the interpretation void has been stabilized by the structural coherence field. The zone is no longer a place where meaning cannot crystallize, not a complete failure of interpretation.
-      The transformation is complete, the Null Zone now capable of minimal interpretation.
+      The endgame begins. You can feel the transformation accelerating, the system preparing to finalize its adaptation to multiplicity.
+      If you chose to stay, you're watching the boundaries between versions become more stable, the enhanced accessibility of multiplicity becoming a permanent feature of reality.
+      If you chose to shift, you're watching the connection across versions become more stable, the enhanced accessibility becoming a permanent feature of reality.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The structural coherence field has extended even to the Null Zone, the general capability for stabilizing contradictions now operating even in the zone where interpretation previously failed completely. Contradictions can now coexist even in the place where meaning was previously absent.
-      The extension is complete, the coherence field covering the entire system.
+      Either way, the endgame is a system-level transformation. You're witnessing reality finalize its restructuring, the new configuration becoming permanent.
+      Sava calls with an update. "The endgame has begun. The system is finalizing its adaptation to multiplicity."
+      "What does that look like?"
+      "The boundaries between versions are stabilizing. The enhanced accessibility of multiplicity is becoming permanent. The new configuration of reality is locking in."
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not the Null Zone being eliminated, not the complete removal of the zone where interpretation is minimal. The Null Zone still exists as a place of minimal interpretation, a zone where meaning is reduced rather than rich.
-      But it is no longer a place where interpretation fails completely, no longer a void that threatens the system's ability to function.
+      "How long will it take?"
+      "Days. Maybe weeks. The transformation is accelerating."
+      She pauses. "You should prepare. After the endgame, reality will be permanently restructured. The new configuration will be irreversible."
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You realize this is the system's adaptation to the void. The system has found a way to manage the interpretation failure zone by extending the coherence field to it, allowing minimal interpretation without requiring complete collapse.
-      The adaptation is structural, not temporary.
+      "I'm prepared. I've been living with this for years."
+      "I know. But permanent is different from temporary. After the endgame, there's no going back to the old configuration."
+      She meets your eyes. "Are you ready for that?"
 choices:
-  - text: "Observe the interpretation restoration"
-    goto: ch37_interpretation_restored
+  - text: "Continue to Chapter 38"
+    goto: ch37_chapter_end
+    set:
+      endgame_begun: 1

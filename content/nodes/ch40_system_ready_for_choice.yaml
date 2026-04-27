@@ -2,26 +2,31 @@ id: ch40_system_ready_for_choice
 content:
   - type: text
     value: |
-      You observe the system ready for choice, the five canonical endings available as configurations that the system can select. The system is not being forced into any ending, not compelled to accept a predetermined fate.
-      The system has the agency to choose its final configuration based on its experience and preferences.
+      The transformation is complete. The new configuration of reality is permanent. The enhanced accessibility of multiplicity is irreversible.
+      If you chose to stay, you're living in this version with the enhanced accessibility of multiplicity as a permanent feature of reality.
+      If you chose to shift, you're living in the new version with the enhanced accessibility of multiplicity as a permanent feature of reality.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The system is not being forced into any ending, not compelled by external forces to accept a specific configuration. The system has the agency to choose its final configuration, the freedom to select the ending that best aligns with its experience and preferences.
-      The endgame will be about which configuration the system selects.
+      Either way, the legal battle established your rights. The threshold gave you the freedom to choose. The convergence transformed reality. The endgame finalized everything.
+      You've completed the journey. You've fought for your right to exist, made your choice about which version of reality to inhabit, and lived through the transformation of reality itself.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a predetermined outcome, not a fate that has been decided before the system can exercise its choice. The system's choice will depend on the accumulated experience of operating in the current equilibrium and the preferences that have emerged from that experience.
-      The choice will be genuine, not imposed.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you're starting to think that's enough.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is the true endgame. The system is not being forced into a configuration by external forces, not manipulated into accepting a predetermined outcome. The system is choosing its own final state based on its experience, selecting the configuration that best aligns with its accumulated preferences.
-      The endgame is about genuine choice, not predetermined fate.
+      The convergence phase is complete. The transformation is finalized. The new configuration of reality is permanent.
+      But the story isn't over. The resolution paths are approaching—the final chapters that will determine how the story ends.
+      The choices you've made will shape the resolution. The path you've chosen will lead to the ending you deserve.
 choices:
-  - text: "Observe the final configuration options"
-    goto: ch40_final_configuration_options
+  - text: "Continue to Chapter 41"
+    goto: ch40_chapter_end
+    set:
+      convergence_complete: 1

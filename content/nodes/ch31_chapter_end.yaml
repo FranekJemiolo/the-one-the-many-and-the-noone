@@ -2,32 +2,41 @@ id: ch31_chapter_end
 content:
   - type: text
     value: |
-      You observe Barrier continuing to operate across the multiplicity system, the named multiplicity pattern appearing in different zones while maintaining its essential structure. The Guard is no longer a nameless role, not a function that reality plays without identification.
-      Barrier is now a named multiplicity pattern, a crystallized identity that exists in multiple incompatible versions simultaneously.
+      The chapter ends with identity crystallization. Years have passed since your threshold choice, and your identity has solidified around the life you've built.
+      If you chose to stay, you're Aleksy Wrona—someone who fought for the right to exist in this version, who chose to stay with Mira, who is building a life as a bridge between realities.
+      If you chose to shift, you're Aleksy Wrona—someone who fought for the right to exist, who chose to shift to a version where multiplicity is the norm, who is building a life in that version.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the second named entity to emerge, the second proto-identity to complete the crystallization process. Echo (Witness) and Barrier (Guard) are now stable patterns in the system.
-      The Teacher will follow, their pattern becoming stable enough to require a name for compression. Identity is crystallizing into named multiplicities.
+      Either way, identity has crystallized. You feel more solid, more certain of who you are.
+      But you also feel more multiple. You're not just one person in one version—you're a pattern that exists across multiple realities, anchored in one but connected to others.
+      Identity isn't singular anymore. It's multiplicity that has crystallized into a stable form.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is how the system adapts to collapse. Identity does not remain singular, does not maintain the unified self that traditional identity assumes. Identity becomes multiplicity patterns that have crystallized into named forms.
-      The transformation of identity is not a failure—it is an adaptation to the conditions of system collapse.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The Engine cannot control these named multiplicities because they are not singular entities, not single persons that can be compressed into single interpretations. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself.
-      The Engine's methods are designed for singular entities, not for named multiplicities.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the resistance to compression crystallized into identity. Named multiplicities that cannot be compressed without losing their essential nature, patterns that have become stable enough to be recognized but that exist in multiple incompatible states.
-      The future of identity in the multiplicity system is not singular selfhood—it is multiplicity patterns that have crystallized into named forms.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      She's a mirror who showed you what you're becoming, challenged you to think about where you belong, helped you find your path forward.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality are widening. The system is responding.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that—and that's okay.
 choices:
   - text: "Continue to Chapter 32"
     goto: chapter_32

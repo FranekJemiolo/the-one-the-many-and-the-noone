@@ -2,26 +2,33 @@ id: ch39_system_selects_plural
 content:
   - type: text
     value: |
-      The system makes its final choice, the accumulated experience of operating in both modes leading to a definitive preference. After experiencing both singular stability and plural stability, the system selects plural stability as its default configuration.
-      The choice is deliberate, not accidental—the system has experienced both approaches and chosen the one it prefers.
+      The endgame reaches its final phase. The transformation is nearly complete, the new configuration of reality almost permanent.
+      If you chose to stay, you're watching the enhanced accessibility of multiplicity lock in as a permanent feature of this version.
+      If you chose to shift, you're watching the enhanced accessibility of multiplicity lock in as a permanent feature of the new version.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a decision made by any individual entity, not a choice imposed by the Resistance or the Engine. It is a system-level choice emerging from the accumulated experience of operating in both modes.
-      The system has learned through experience which approach it prefers.
+      Either way, the transformation is visible. Reality has restructured itself, the new configuration stable and permanent.
+      Sava calls with a final update. "The endgame is complete. The transformation is finalized."
+      "What does that mean?"
+      "It means the new configuration of reality is permanent. The enhanced accessibility of multiplicity is irreversible."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The system has proven that plural stability is not only possible, not merely functional under specific conditions. It is preferable, the system choosing it over singular stability when both options are available. The structural coherence field, the named multiplicities, the parallel interpretation engines—all have demonstrated that multiplicity can be stable.
-      The evidence is comprehensive, the system's preference clear.
+      "So it's done?"
+      "It's done. The legal battle established your rights. The threshold gave you the freedom to choose. The convergence transformed reality. The endgame has finalized everything."
+      She pauses. "You can now live your life in the version you chose, with the enhanced accessibility of multiplicity as a permanent feature of reality."
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You realize this is the final validation of the Resistance's position. The system itself has chosen plural stability over singular stability, not through external pressure but through its own experience and preference.
-      The Resistance's position has been validated by the system's own choice.
+      "And Mira?"
+      "She can now live her life in the version she chose, with the enhanced accessibility of multiplicity as a permanent feature of reality."
+      She meets your eyes. "The transformation is complete. The new configuration of reality is permanent."
 choices:
-  - text: "Observe the Engine accepts defeat"
-    goto: ch39_engine_accepts_defeat
+  - text: "Continue to Chapter 40"
+    goto: ch39_chapter_end
+    set:
+      endgame_complete: 1

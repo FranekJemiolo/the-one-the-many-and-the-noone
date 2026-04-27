@@ -2,30 +2,33 @@ id: ch36_nemesis_fails
 content:
   - type: text
     value: |
-      You observe that Nemesis fails, the unification event unable to succeed because the system itself is resisting the compression. The failure is not due to external opposition, not caused by the Resistance interfering with the Engine's attempt.
-      The unification event fails because the system itself is resisting, because the system has chosen plural stability.
+      The convergence has stabilized, and now the endgame is approaching. The system has completed its restructuring, and the final phase of the transformation is beginning.
+      Sava calls with an update. "The convergence is complete. The system has restructured to accommodate multiplicity more fully."
+      "What happens now?"
+      "Now the endgame begins. The system will finalize its adaptation to multiplicity. The transformation will reach its terminal state."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The structural coherence field is too strong, the system's adaptation to plural stability too complete. The system has adapted to plural stability and now actively prefers it, the structural coherence field operating as a general capability that cannot be overridden by external compression.
-      Nemesis's maximum compression cannot overcome the system's choice.
+      "What does that mean for me?"
+      "It means the configuration of reality will become permanent. The new accessibility of multiplicity will become the default, not a temporary state."
+      She pauses. "The legal battle established your rights. The threshold gave you the freedom to choose. The convergence transformed reality. Now the endgame will finalize everything."
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a defeat for Nemesis, not a personal failure of the entity that represents the Engine's compression. This is a validation of the system's preference, the system demonstrating through its resistance that it has experienced both singular and plural stability and has chosen plural stability.
-      The failure proves the system's preference.
+      "Is there anything I need to do?"
+      "No. The endgame is a system-level transformation. You've already made your choices. You've already adapted to the new configuration."
+      She meets your eyes. "The endgame is about the system, not about you. You've done your part. Now the system will do its part."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is the final proof the Engine was wrong. The Engine's ideology was based on the false premise that multiplicity leads to chaos, that only singular interpretation can provide stability. The system has proven that plural stability is not only possible, but preferable.
-      The Engine's fundamental assumption has been proven wrong by the system's own choice.
+      "And after the endgame?"
+      "After the endgame, the transformation will be complete. The new configuration of reality will be permanent. Multiplicity will be fully accommodated."
+      She pauses. "You'll be able to live your life in the version you chose, with the enhanced accessibility of multiplicity as a permanent feature of reality."
 choices:
-  - text: "Conclude the chapter"
+  - text: "Continue to Chapter 37"
     goto: ch36_chapter_end
-  - text: "Ask about Nemesis's response to the failure"
-    goto: ch36_nemesis_response
     set:
-      nemesis_response_interest: 1
+      endgame_approaching: 1

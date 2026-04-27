@@ -2,26 +2,33 @@ id: ch38_parallel_realities_stabilized
 content:
   - type: text
     value: |
-      You and Mira are still in parallel realities, the emotional-causal split that divided your experiences still operating. But the split has stabilized, the parallel worlds no longer a source of conflict.
-      They are a stable configuration, the system having adapted to the coexistence of incompatible realities.
+      The endgame continues. Days pass as the transformation accelerates, the boundaries between versions becoming more stable, the enhanced accessibility of multiplicity becoming more permanent.
+      If you chose to stay, you're watching the gaps between realities solidify, the enhanced accessibility locking in as a permanent feature of this version.
+      If you chose to shift, you're watching the connection across versions solidify, the enhanced accessibility locking in as a permanent feature of the new version.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Aleksy's reality: Causal sequences are clear, events happening in specific orders that follow logical chains. Interpretation follows logical chains, reality singular and coherent in its causal structure.
-      The causal interpretation engine operates consistently, producing a coherent reality.
+      Either way, the transformation is visible. Reality is restructuring itself, the new configuration becoming more stable with each passing day.
+      Sava calls with an update. "The transformation is progressing faster than expected. The new configuration is stabilizing rapidly."
+      "How much longer?"
+      "Days. Maybe less. The system is committing to the new configuration."
   - type: pause
     duration: 800
   - type: text
     value: |
-      Mira's reality: Emotional sequences are clear, events feeling specific ways that follow emotional resonance. Interpretation follows emotional resonance, reality multiple and coherent in its emotional structure.
-      The emotional interpretation engine operates consistently, producing a coherent reality.
+      "What happens when it's complete?"
+      "The new configuration of reality will be permanent. The enhanced accessibility of multiplicity will be irreversible."
+      She pauses. "You'll be able to live your life in the version you chose, with the enhanced accessibility of multiplicity as a permanent feature of reality."
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      Both realities are internally coherent, each maintaining consistency within its own framework. Both are mutually incompatible, unable to be reconciled into a single shared reality. But the split is no longer a source of tension, no longer a conflict that threatens the relationship.
-      It is a stable configuration that the system has adapted to.
+      "And Mira?"
+      "She'll be able to live her life in the version she chose, with the enhanced accessibility of multiplicity as a permanent feature of reality."
+      She meets your eyes. "The endgame is almost complete. The transformation is nearly finalized."
 choices:
-  - text: "Observe the mutual acknowledgment"
-    goto: ch38_mutual_acknowledgment
+  - text: "Continue to Chapter 39"
+    goto: ch38_chapter_end
+    set:
+      endgame_progressing: 1

@@ -2,26 +2,28 @@ id: ch34_system_adaptation
 content:
   - type: text
     value: |
-      You observe the system adaptation, watching how the named multiplicities ecosystem represents a fundamental transformation of identity. The named multiplicities ecosystem is not a breakdown of identity, not a failure of the self to maintain coherence.
-      It is an evolution of identity, a transformation into a new mode of existence.
+      The convergence has transformed reality. The boundaries between versions are now permeable. People with unusual perception can access multiple realities with minimal effort.
+      The system has restructured to accommodate multiplicity more fully. This is the new configuration Sava predicted.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The system has adapted to multiplicity pressure by crystallizing nameless roles into named multiplicities that form a stable ecosystem. The adaptation is structural, not temporary—a fundamental reorganization of how identity functions in the multiplicity system.
-      The transformation is complete, the ecosystem stable despite the multiplicity it contains.
+      If you chose to stay, you're adapting to the new configuration. You can access other versions while remaining anchored in this one, but the effort required has decreased significantly.
+      The multiplicity is more accessible, the gaps between realities more permeable.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not chaos, not the breakdown of identity into disorder. The ecosystem is stable, the patterns supporting each other in complementary ways. The system functions with identity as multiplicity rather than singularity.
-      The stability is genuine, not temporary or fragile.
+      If you chose to shift, you're adapting to the new configuration. You can access this version while remaining anchored in the new one, but the effort required has decreased significantly.
+      The connection across versions has strengthened, the ability to bridge realities enhanced.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is what the Engine fears. Named multiplicities are not chaos, not the breakdown of identity into disorder. They are a different form of identity that the Engine cannot control, but that functions perfectly well.
-      The Engine's assumption that identity must be singular is proven wrong by the very existence of functional named multiplicities.
+      Either way, the convergence has changed everything. The legal battle established your rights. The threshold gave you the freedom to choose. The convergence has transformed reality itself.
+      You're living in a new configuration of reality—one that accommodates multiplicity more fully than ever before.
 choices:
-  - text: "Understand the identity ecosystem"
-    goto: ch34_identity_ecosystem
+  - text: "Continue to Chapter 35"
+    goto: ch34_chapter_end
+    set:
+      new_reality_config: 1

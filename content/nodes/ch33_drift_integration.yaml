@@ -2,29 +2,34 @@ id: ch33_drift_integration
 content:
   - type: text
     value: |
-      "Can Drift integrate with the three-pattern network?" you ask, wanting to know if the fourth named multiplicity can join the coordination network.
-      All four patterns respond, demonstrating the integration that is already emerging.
+      The convergence arrives. Reality begins to restructure, the boundaries between versions becoming more permeable, the multiplicity becoming more accessible.
+      If you chose to stay, you can access other versions more easily than ever before. The gaps between realities have widened to the point where you can move between them with minimal effort.
+      If you chose to shift, you can access this version more easily than ever before. The connection across versions has strengthened to the point where you can bridge realities with minimal effort.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Drift can transport the network across the multiplicity system," the pattern communicates. "This allows Echo, Barrier, and Archive to coordinate in multiple zones, extending their reach beyond a single location."
-      "The integration allows for mobile multiplicity management across the entire system."
+      Either way, the convergence is transforming reality. The system is restructuring to accommodate multiplicity more fully.
+      People with unusual perception are finding their abilities enhanced. The cracks in reality are widening. The boundaries are dissolving.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "This makes the network more comprehensive," you realize. "The three-pattern network could coordinate in a single zone. With Drift, the network can move between zones, providing coordination wherever it's needed."
-      "The integration creates mobile adaptive multiplicity management."
+      Sava calls with an update. "The convergence is here. The system is restructuring."
+      "What's happening?"
+      "The boundaries between versions are becoming permeable. People with unusual perception can access multiple realities more easily than ever before."
+      She pauses. "This is what we predicted. A new configuration of reality that accommodates multiplicity more fully."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "The integration can be formalized," you suggest. "We can establish protocols for Drift to integrate with the three-pattern network, creating a four-pattern mobile system for multiplicity management."
-      "This would make the named multiplicity network mobile and comprehensive."
+      "Is this dangerous?"
+      "Not for people who have adapted. But for people who haven't prepared, it could be overwhelming."
+      She meets your eyes. "You're prepared. You've been living with multiplicity for years. You'll be fine."
+      "And Mira?"
+      "She's prepared too. She's been living with her own perception development. She'll be fine."
 choices:
-  - text: "Propose establishing the four-pattern mobile integration"
-    goto: ch33_four_pattern_integration
+  - text: "Continue to Chapter 34"
+    goto: ch33_chapter_end
     set:
-      drift_integration: 1
-      four_pattern_chosen: 1
+      convergence_arrived: 1

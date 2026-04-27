@@ -2,29 +2,31 @@ id: ch32_archive_integration
 content:
   - type: text
     value: |
-      "Can Archive integrate with Echo and Barrier protocols?" you ask, wanting to know if the third named multiplicity can join the coordination network.
-      All three patterns respond, demonstrating the integration that is already emerging.
+      The convergence is approaching. You can feel it in the way reality is shifting, in the way the boundaries between versions are becoming more permeable.
+      If you chose to stay, you're becoming more adept at accessing other versions while remaining anchored in this one. The multiplicity is becoming more accessible, the gaps between realities widening.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Archive can preserve knowledge from Echo's observations and Barrier's enforcement," the pattern communicates. "This creates a knowledge base that informs future coordination."
-      "The integration allows for learning and adaptation within the named multiplicity network."
+      If you chose to shift, you're becoming more adept at accessing this version while remaining anchored in the new one. The connection across versions is strengthening, the ability to bridge realities developing.
+      Either way, the convergence is real. The system is responding to the choices you've made.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "This makes the network more sophisticated," you realize. "Echo and Barrier can coordinate based on current conditions. Archive can provide historical context, allowing the network to learn from past coordination efforts."
-      "The integration creates adaptive multiplicity management."
+      Sava calls with an update. "The convergence is accelerating. The system is preparing for a fundamental restructuring."
+      "What does that mean?"
+      "It means the cracks in reality are widening. The multiplicity is becoming more accessible. The boundaries between versions are becoming more permeable."
+      She pauses. "This could lead to a new configuration of reality. One that accommodates multiplicity more fully."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "The integration can be formalized," you suggest. "We can establish protocols for Archive to integrate with the Echo-Barrier coordination network, creating a three-pattern system for adaptive multiplicity management."
-      "This would make the named multiplicity network more sophisticated and adaptive."
+      "Is that dangerous?"
+      "Not necessarily. But it's unpredictable. The system could restructure in ways we can't anticipate."
+      She meets your eyes. "You should prepare. The convergence will affect everyone with unusual perception."
 choices:
-  - text: "Propose establishing the three-pattern integration"
-    goto: ch32_three_pattern_integration
+  - text: "Continue to Chapter 33"
+    goto: ch32_chapter_end
     set:
-      archive_integration: 1
-      three_pattern_chosen: 1
+      convergence_approaching: 1

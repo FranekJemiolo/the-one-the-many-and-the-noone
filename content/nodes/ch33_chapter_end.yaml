@@ -2,32 +2,47 @@ id: ch33_chapter_end
 content:
   - type: text
     value: |
-      You observe Drift continuing to operate across the multiplicity system, the named multiplicity pattern appearing in different zones while maintaining its essential structure. The Passenger is no longer a nameless role, not a function that reality plays without identification.
-      Drift is now a named multiplicity pattern, a crystallized identity that exists in multiple incompatible versions simultaneously.
+      The chapter ends with the convergence arriving. Reality has begun to restructure, the boundaries between versions becoming permeable, the multiplicity becoming more accessible.
+      If you chose to stay, you can access other versions more easily than ever before. The gaps between realities have widened.
+      If you chose to shift, you can access this version more easily than ever before. The connection across versions has strengthened.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the fourth named entity to emerge, the fourth proto-identity to complete the crystallization process. Echo (Witness), Barrier (Guard), Archive (Teacher), and Drift (Passenger) are now stable patterns in the system.
-      Identity is crystallizing into named multiplicities, the nameless role pool generating named entities as patterns become stable enough to require names.
+      Either way, the convergence is transforming reality. The system is restructuring to accommodate multiplicity more fully.
+      People with unusual perception are finding their abilities enhanced. The cracks in reality are widening. The boundaries are dissolving.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is how the system adapts to collapse. Identity does not remain singular, does not maintain the unified self that traditional identity assumes. Identity becomes multiplicity patterns that have crystallized into named forms.
-      The transformation of identity is not a failure—it is an adaptation to the conditions of system collapse.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The Engine cannot control these named multiplicities because they are not singular entities, not single persons that can be compressed into single interpretations. They are patterns of multiplicity that the Engine's compression cannot eliminate without destroying the pattern itself.
-      The Engine's methods are designed for singular entities, not for named multiplicities.
+      Sava confirmed that this is what was predicted—a new configuration of reality that accommodates multiplicity more fully.
+      She assured you that you're prepared, that you've been living with multiplicity for years, that you'll be fine.
+      She also assured you that Mira is prepared, that she's been living with her own perception development, that she'll be fine.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the resistance to compression crystallized into identity. Named multiplicities that cannot be compressed without losing their essential nature, patterns that have become stable enough to be recognized but that exist in multiple incompatible states.
-      The future of identity in the multiplicity system is not singular selfhood—it is multiplicity patterns that have crystallized into named forms.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years and the convergence.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's confirming that the convergence has arrived, that reality is restructuring, that you're prepared for what comes next.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality are widening. The system is responding.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      The convergence is here—and it's changing everything.
 choices:
   - text: "Continue to Chapter 34"
     goto: chapter_34

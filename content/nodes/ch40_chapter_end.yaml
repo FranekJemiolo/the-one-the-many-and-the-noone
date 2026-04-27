@@ -2,32 +2,40 @@ id: ch40_chapter_end
 content:
   - type: text
     value: |
-      You observe the system ready for the endgame, the five canonical endings available as configurations that the system can choose. The system has the agency to choose its final state, the freedom to select the configuration that best aligns with its experience and preferences.
-      The endgame is about genuine choice, not predetermined fate.
+      The chapter ends with the convergence complete. The transformation is finalized—the new configuration of reality is permanent, the enhanced accessibility of multiplicity irreversible.
+      You've completed the journey. You've fought for your right to exist, made your choice about which version of reality to inhabit, and lived through the transformation of reality itself.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the end of Part IV. Identity crystallization is complete, the named multiplicities forming a stable ecosystem. The system has adapted to multiplicity, proving that plural stability is not only possible but preferable.
-      The choice has been made, the system preferring plural stability over singular stability. The endgame approaches.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you're starting to think that's enough.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The next chapters will explore each canonical ending in detail, showing what it would mean for the system to choose that configuration. The system will experience each configuration, understanding what life would be like under each philosophical position.
-      The exploration will be comprehensive, the system gaining full understanding of each option.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      You realize this is the true nature of the endgame. The system is not being forced into a configuration, not manipulated into accepting a predetermined outcome. The system is choosing its own final state based on its experience and preferences.
-      The endgame is about genuine choice, not predetermined fate.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence, the completed endgame.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Part V begins. The endgame will determine the ultimate configuration of reality, the system choosing between The One, The Many, The No-One, The Overlap, and The Shifting World.
-      The final phase of the transformation begins.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's witnessed the convergence complete, the transformation finalized, the new configuration of reality permanent.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the conclusion of the convergence phase. Identity is crystallized. The cracks in reality have widened. The system has restructured and stabilized.
+      The convergence is complete. The transformation is finalized.
+      But the story isn't over. The resolution paths are approaching—the final chapters that will determine how the story ends.
 choices:
   - text: "Continue to Chapter 41"
     goto: chapter_41

@@ -2,32 +2,40 @@ id: ch38_chapter_end
 content:
   - type: text
     value: |
-      You and Mira sit in the same physical space, experiencing parallel realities that are mutually incompatible but internally coherent. The split is no longer a source of conflict, not a battle between incompatible interpretations that must be resolved.
-      It is a stable configuration, the system having adapted to the coexistence of incompatible realities.
+      The chapter ends with the endgame progressing. Days have passed, and the transformation is accelerating—the boundaries between versions are becoming more stable, the enhanced accessibility of multiplicity becoming more permanent.
+      Sava reported that the transformation is progressing faster than expected, the new configuration stabilizing rapidly.
+      The endgame is almost complete.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a breakdown of shared reality, not a failure of the system to maintain a common experience. It is an evolution of reality, a transformation into a new mode of existence where different interpretation engines can operate in parallel.
-      The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel.
+      When the endgame is complete, the new configuration of reality will be permanent. The enhanced accessibility of multiplicity will be irreversible.
+      You'll be able to live your life in the version you chose, with the enhanced accessibility of multiplicity as a permanent feature of reality.
+      Mira will be able to live her life in the version she chose, with the enhanced accessibility of multiplicity as a permanent feature of reality.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear is unfounded. Parallel interpretation engines are not chaos, not the breakdown of coherent interpretation into disorder. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well.
-      The Engine's assumption that interpretation must be singular is proven wrong by the very existence of functional parallel interpretation engines.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The collapse of shared interpretation has not destroyed your relationship with Mira. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The relationship operates according to different principles, but it operates.
-      The transformation is successful, the adaptation complete.
+      Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence, the progressing endgame.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This completes the dual system adaptation. The system has adapted to emotional-causal multiplicity by allowing both interpretation engines to operate in parallel. The endgame can now begin, the system ready for the final phase of its transformation.
-      The adaptation phase is complete.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's witnessing the endgame progress, the transformation nearly finalized.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality have widened. The system has restructured and stabilized.
+      The endgame is progressing—and it will finalize everything soon.
 choices:
   - text: "Continue to Chapter 39"
     goto: chapter_39

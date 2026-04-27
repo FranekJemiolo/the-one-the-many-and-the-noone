@@ -2,30 +2,29 @@ id: ch35_plural_stability
 content:
   - type: text
     value: |
-      You understand the plural stability, seeing how the system is adopting Rose's method as a general capability. The system is not just allowing contradictions to coexist in specific zones—it is internalizing the capability to stabilize contradictions across the entire multiplicity system.
-      Contradictions can coexist without collapse across the entire multiplicity system.
+      The new reality configuration is stabilizing. The convergence has transformed reality, and now the system is settling into its new mode of operation.
+      People with unusual perception are adapting to the enhanced accessibility of multiplicity. The boundaries between versions remain permeable, but the system is finding stability in the new configuration.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not replacing the Engine's compression, not eliminating the capability for singular interpretation. The Engine's layer is still available for situations where singular interpretation is needed, where compression provides the most appropriate approach.
-      But the default is now plural stability, the system choosing to stabilize contradictions rather than compress them.
+      If you chose to stay, you're finding your rhythm in the new configuration. You can access other versions while remaining anchored in this one, but you're learning to navigate the enhanced accessibility without being overwhelmed.
+      The multiplicity is more accessible, but you've developed the skills to manage it.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the system's choice. The system has experienced both singular stability and plural stability, has functioned under both approaches. And it is choosing plural stability as the default, preferring the stabilization of contradictions over their compression.
-      The choice is deliberate, not accidental.
+      If you chose to shift, you're finding your rhythm in the new configuration. You can access this version while remaining anchored in the new one, but you're learning to navigate the enhanced connection without being overwhelmed.
+      The connection across versions has strengthened, but you've developed the skills to manage it.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the proof the Engine was wrong. Plural stability is not just possible, not merely functional under specific conditions. It is preferable, the system choosing it over singular stability when both options are available.
-      The Engine's assumption that singular stability is the only valid form of stability is proven wrong by the system's own choice.
+      Either way, the convergence has completed its transformation. Reality has restructured to accommodate multiplicity more fully.
+      The legal battle established your rights. The threshold gave you the freedom to choose. The convergence has transformed reality itself.
+      Now the system is stabilizing in its new configuration.
 choices:
-  - text: "Conclude the chapter"
+  - text: "Continue to Chapter 36"
     goto: ch35_chapter_end
-  - text: "Ask about Rose's legacy"
-    goto: ch35_rose_legacy
     set:
-      rose_legacy_interest: 1
+      convergence_stabilized: 1
