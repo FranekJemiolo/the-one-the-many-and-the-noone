@@ -2,8 +2,8 @@ id: ch1_self_reflection
 content:
   - type: text
     value: |
-      You return to your office and sit with the question: why can you see the door when the security guard cannot? What makes you different?
-      The answer comes gradually, as you review your experiences over the past years.
+      You sit with the memory of the hunt, trying to understand what it means. The details are vivid—too vivid for a dream.
+      The cold in your bones. The focus that narrowed your world to a single moment. The impossible miss when the moment itself changed.
   - type: pause
     duration: 800
   - type: text
@@ -20,28 +20,28 @@ content:
     duration: 1000
   - type: text
     value: |
-      The spatial anomaly in the corridor, the selective visibility of the door—these aren't new abilities. They're the awakening of abilities you've always had but suppressed to fit into normal reality.
-      The building is simply amplifying what was already there, making visible what you've always been able to perceive.
+      The hunt memory isn't new. It's the awakening of something you've always had but suppressed to fit into normal reality.
+      The recognition—that you've missed before, as something else—suggests this isn't an isolated incident. It's part of a pattern you've been ignoring your entire life.
   - type: pause
     duration: 800
   - type: text
     value: |
       This realization brings both comfort and fear. Comfort because it explains your sensitivity, fear because it suggests that your entire life has been a gradual approach to this moment.
-      You didn't stumble into the anomalies by chance—you were drawn to them by something in your nature.
+      You didn't stumble into this by chance—you were drawn to it by something in your nature.
   - type: pause
     duration: 800
   - type: text
     value: |
       You have a choice: embrace this sensitivity and develop it further, or suppress it and try to return to normal perception.
-      But you suspect the choice has already been made. The door is visible to you because you're ready to see it, and there's no going back to not seeing.
+      But you suspect the choice has already been made. The memory is too vivid, the recognition too certain. There's no going back to not seeing.
 choices:
   - text: "Embrace your sensitivity and develop it"
     goto: ch1_chapter_end
     set:
+      aleksy_fracture_level: 15
       self_acceptance: 1
-      perception_developing: 2
   - text: "Try to suppress your sensitivity"
     goto: ch1_chapter_end
     set:
+      aleksy_detachment: 15
       self_denial: 1
-      perception_suppressed: 1

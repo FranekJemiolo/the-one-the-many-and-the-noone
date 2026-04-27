@@ -2,25 +2,25 @@ id: ch1_chapter_end
 content:
   - type: text
     value: |
-      You close the case file, the folder clicking shut with a sound that feels final even though nothing has been resolved.
-      The incident is not solved, not explained, not understood—but it is contained, at least for now, within the bureaucratic structure of an investigation that cannot comprehend what it has encountered.
+      You return to your office, the day ending around you. The fluorescent lights hum. The computer screen glows with unfinished work.
+      But something has changed. Something fundamental.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Outside your window, the city continues functioning as if nothing has changed. People walk along the sidewalks, traffic moves through the streets, reality behaves as if it is singular, coherent, unproblematic.
-      The world continues to operate on the assumption that moments happen one way, that memories record what happened, that truth is singular and discoverable.
+      The memory of the hunt lingers—not fading like a normal dream, but settling into your consciousness like something that belongs there.
+      The cold. The height. The impossible miss. The recognition that you've been here before, as something else.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But you know differently now. Somewhere beneath the surface of agreement, beneath the shared illusion of singular reality, multiple versions of the same moment are coexisting.
-      Not fighting each other, not collapsing into chaos, not demanding resolution. Just... being. Existing simultaneously, each one true in its own way.
+      Outside your window, the city continues functioning as if nothing has changed. People walk along the sidewalks, traffic moves through the streets, reality behaves as if it is singular, coherent, unproblematic.
+      But you know differently now. Somewhere beneath the surface of agreement, beneath the shared illusion of singular reality, something else is happening.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the first crack. Not in reality itself, which seems as solid as ever, but in the assumption that reality must be one thing, one way, one truth.
+      This is the first crack. Not in reality itself, which seems as solid as ever, but in the assumption that you are who you thought you were.
       The crack is small, almost invisible, but it is there, and you know with a certainty that disturbs you that it will not close on its own.
   - type: pause
     duration: 800
@@ -28,6 +28,12 @@ content:
     value: |
       You don't know what comes next. You don't know if this is an isolated anomaly or the beginning of something larger, something that will change everything.
       But you know this: the crack will not close on its own. It will either widen or be sealed by force, and neither option feels safe.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But for the first time in your life, you're not sure that's all you are.
 choices:
   - text: "Continue to Chapter 2"
     goto: chapter_2

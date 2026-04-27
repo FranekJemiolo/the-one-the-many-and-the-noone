@@ -2,46 +2,52 @@ id: ch1_building_exploration
 content:
   - type: text
     value: |
-      Instead of returning to the office, you decide to explore the building further, searching for other signs of the anomaly that might reveal its nature.
-      The building has five floors above ground, two below. You start at the top and work your way down, methodical in your investigation.
+      You try to focus on work, but the memory of the hunt keeps intruding. The cold. The height. The impossible miss.
+      Your mind keeps returning to it, unable to let it go, as if there's something important you're missing.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The upper floors are ordinary—offices, cubicles, meeting rooms. Nothing unusual. But as you descend, you notice a pattern:
-      the feeling of spatial expansion, the sense that rooms are slightly larger than they should be, grows stronger the lower you go.
+      You stand up, needing to move. Needing to do something other than sit at your desk and think about a dream that shouldn't feel this real.
+      You decide to walk through the building, clear your head, maybe find coffee.
   - type: pause
     duration: 800
   - type: text
     value: |
-      By the time you reach the basement, the effect is unmistakable. The underground parking garage feels vast, its dimensions extending beyond what the blueprint allows.
-      When you walk to the far wall and back, the distance feels different each time, as if the space is actively adjusting to your presence.
+      The building has five floors above ground, two below. You start at your office on the third floor and head toward the stairs.
+      As you walk, you notice something strange—the building feels larger than it should. The corridors stretch further than the blueprint allows.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      In the corner of the basement, you find something unexpected: a door that doesn't appear on the building plans. It's unmarked, unpainted, as if it was added after the original construction but never integrated into the building's official layout.
-      The handle is cold to the touch, colder than the surrounding air.
+      You've worked here for two years. You know this building. But today, the distances feel wrong.
+      When you reach the stairwell and look down, the basement seems deeper than it should be, the stairs extending further than physics allows.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You descend anyway, telling yourself it's just fatigue, just stress, just your mind playing tricks.
+      But with each step, the feeling grows stronger—the building is expanding, adjusting to your presence, responding to something in you that you don't understand.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In the basement, you find something unexpected: a door that doesn't appear on the building plans. It's unmarked, unpainted, as if it was added after the original construction but never integrated into the building's official layout.
+      The handle is cold to the touch—colder than the surrounding air, colder than it should be.
   - type: pause
     duration: 800
   - type: text
     value: |
       You try the door. It's locked. But as you touch the handle, you feel a response—not from the lock mechanism, but from something deeper, as if the building itself is acknowledging your presence.
       The feeling is not hostile, but it is aware, and it is assessing you.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      You have a choice: force the door and risk triggering whatever security system the building might have, or leave it for now and return with proper authorization.
-      But part of you suspects that authorization won't matter—that this door responds to something other than bureaucratic permission.
 choices:
   - text: "Force the door"
     goto: ch1_forced_entry
     set:
+      aleksy_fracture_level: 20
       risk_taking: 1
-      door_attempted: 1
   - text: "Leave the door and document its location"
     goto: ch1_door_documented
     set:
+      aleksy_detachment: 5
       caution_score: 1
-      door_location_known: 1

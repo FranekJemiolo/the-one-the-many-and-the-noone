@@ -1,0 +1,55 @@
+id: ch1_mira_monitoring
+content:
+  - type: text
+    value: |
+      "So how do we do this?" you ask. "How do we monitor something that might not even be real?"
+      "We make it real," Mira says. "We track it. We document it. We turn it into data instead of just... feelings."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She pulls out her phone, opens a notes app. "Every time you have one of these dreams. Every time you feel like you're remembering something that wasn't you. Every time you have that recognition feeling."
+      "You want me to keep a diary?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I want you to have evidence. Either evidence that you're losing your mind, or evidence that something else is happening."
+      She looks up from her phone. "And if it's the second one, we figure out what that means. Together."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You nod. It makes sense. It's practical. It's something Mira would think of.
+      "Okay. I'll do it."
+      "Good." She finishes her coffee, stands up. "I need to get back to work. But call me if anything changes. Anything at all."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I will."
+      She pauses at the door, turns back. "And Aleksy?"
+      "Yeah?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Whatever this is... we'll figure it out. You're not alone in this."
+      She leaves before you can respond.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The office is quiet again. But it feels different now. Less empty.
+      You open your phone, create a new note. "Dream 1: The Hunt."
+      And you start writing.
+choices:
+  - text: "Document the dream in detail"
+    goto: ch1_self_reflection
+    set:
+      aleksy_fracture_level: 10
+      mira_trust: 50
+  - text: "Return to work and try to focus"
+    goto: ch1_building_exploration
+    set:
+      aleksy_detachment: 10

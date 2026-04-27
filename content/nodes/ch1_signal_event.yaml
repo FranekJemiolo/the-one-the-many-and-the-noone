@@ -2,48 +2,65 @@ id: ch1_signal_event
 content:
   - type: text
     value: |
-      The incident report sits on your desk, its edges worn from repeated handling. Two witnesses. Same event. Incompatible accounts.
-      The paper feels heavier than it should, as if the weight of the contradiction has settled into the fibers themselves.
+      Cold. The kind that settles in bones and doesn't leave. You are crouched on something high—a branch, a ledge, something that offers perspective.
+      Below, movement. Small, frantic, unaware of being watched.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This should be impossible. In a singular reality, memory converges on fact—different perspectives might exist, but they should resolve into a single coherent narrative.
-      But here, both accounts feel internally consistent, each one complete in its own right, each one telling a truth that cannot be reconciled with the other.
+      Your focus narrows. Everything else falls away. There is only the movement, the timing, the moment when everything depends on one precise action.
+      Your muscles coil. Your breathing slows. This is not thought. This is older than thought.
   - type: pause
     duration: 800
   - type: text
     value: |
-      What disturbs you most is not the contradiction itself, but the way your mind slides between the two accounts without resistance.
-      You read the first statement, and it feels absolutely true. You read the second, and it feels equally true. The contradiction doesn't create cognitive dissonance—it creates a sickening sense that reality itself has split.
+      You strike.
   - type: pause
-    duration: 800
+    duration: 500
   - type: text
     value: |
-      You pick up the first statement. The details are precise, chronological, causal. Every event follows logically from the one before it.
-      The causal chain is unbroken, clear, undeniable. This is how reality should work—cause and effect in perfect alignment.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      Then you read the second. The emotional sequence is different. The timing doesn't match. The causal connections are absent.
-      Yet it feels equally true, perhaps more so in its way. The emotional resonance creates its own kind of coherence, one that logic cannot explain but intuition recognizes immediately.
+      And miss.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Your hands tremble slightly as you set the papers down. Not from fear—from the vertigo of standing on ground that suddenly feels unstable.
-      If both accounts are true, then the world is not what you thought it was. If both accounts are true, then you need to understand what that means before it spreads.
+      The failure is not physical. You were close enough. Fast enough. The timing was perfect.
+      But something shifted at the last moment—not the prey, not the wind, not the light. The moment itself changed.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You wake up.
+  - type: pause
+    duration: 500
+  - type: text
+    value: |
+      The office is quiet. Fluorescent lights hum above your desk. Your computer screen glows with unfinished work—lines of text you don't remember writing.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      But the memory of the hunt is still with you. The cold. The focus. The impossible failure.
+      And something else—a recognition, as if you've missed that strike before, in another life, as something that wasn't human at all.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You rub your eyes, trying to shake the feeling. It was just a dream. It had to be a dream.
+      But your hands are still trembling, and when you look at them, you notice something unsettling—you were gripping the edge of your desk so hard your knuckles are white.
+      As if you'd been holding on to something high, something precarious, something that required absolute stillness.
 choices:
-  - text: "Investigate the causal chain (Aleksy perspective)"
-    goto: ch1_aleksy_investigation
+  - text: "Try to understand what the memory means"
+    goto: ch1_self_reflection
     set:
-      aleksy_dominance: 1
-  - text: "Observe the emotional residue (Mira perspective)"
-    goto: ch1_mira_observation
+      aleksy_fracture_level: 5
+      animal_pov_access: true
+  - text: "Dismiss it and focus on work"
+    goto: ch1_building_exploration
     set:
-      mira_dominance: 1
-  - text: "Visit the incident location immediately"
-    goto: ch1_location_investigation
+      aleksy_detachment: 5
+  - text: "Call Mira"
+    goto: ch1_mira_introduction
     set:
-      investigation_approach: physical
+      relationship_focus: true

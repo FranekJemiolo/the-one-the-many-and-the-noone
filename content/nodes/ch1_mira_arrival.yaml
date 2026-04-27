@@ -1,0 +1,92 @@
+id: ch1_mira_arrival
+content:
+  - type: text
+    value: |
+      Mira arrives twenty minutes later, coffee in hand, already halfway through a comment about the traffic.
+      She doesn't wait to be invited in—just drops into the chair across from you, her eyes scanning your face for signs of whatever you're not saying.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So," she says. "Hunting. As something that wasn't you."
+      "It sounds worse when you say it out loud."
+      "Everything sounds worse when you say it out loud. That's not the point."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She leans forward, her expression serious but not judgmental. Not yet.
+      "Tell me everything. From the beginning. Don't leave anything out because it sounds crazy. If we're going to figure out if you're losing your mind, I need the actual data."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You tell her. The cold. The height. The focus. The strike. The impossible miss.
+      The way the moment itself changed, as if reality shifted at the last second.
+      The recognition—that you've missed before, as something else.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira listens without interrupting. This is new—usually she has a response for everything, a joke or a deflection or a sharp observation.
+      But now she just listens, her eyes narrowing in concentration.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      When you finish, she doesn't speak immediately. She sets her coffee down, turns it in her hands, thinking.
+      "Okay," she says finally. "I have questions."
+      "I figured."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "First: has this happened before?"
+      "The dream?"
+      "The feeling. The recognition. The sense that you're remembering something that wasn't human."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about it. Really think about it.
+      "I don't know. Maybe. Small things. Deja vu that feels too specific. Moments where I feel like I'm watching myself from somewhere else."
+      "How long?"
+      "A few weeks. Maybe a month."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira nods slowly. "Okay. Second question: does it scare you?"
+      "Yes."
+      "Good."
+      "Good?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "If it didn't scare you, I'd be worried. Fear is the appropriate response to your brain doing things it shouldn't do."
+      She meets your eyes directly, her gaze intense. "But here's the thing, Aleksy. You're not crazy. Not yet. Crazy people don't ask if they're crazy. They just are."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "So what do I do?"
+      "We watch it. We track it. We figure out if it's getting worse or if it's stable."
+      She pauses. "And if it gets worse, we get help. Real help. Not just me asking questions over coffee."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You'd do that?"
+      "I'm already doing it, idiot." She smiles, but it's small, careful. "I'm not going anywhere. Whatever this is, we handle it together."
+choices:
+  - text: "Accept her offer to help monitor"
+    goto: ch1_mira_monitoring
+    set:
+      mira_trust: 40
+      relationship_focus: true
+  - text: "Express concern about dragging her into this"
+    goto: ch1_mira_concern
+    set:
+      aleksy_detachment: 5
+      mira_trust: 30

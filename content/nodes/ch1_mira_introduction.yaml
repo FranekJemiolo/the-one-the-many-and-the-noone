@@ -1,0 +1,121 @@
+id: ch1_mira_introduction
+content:
+  - type: text
+    value: |
+      You reach for your phone, then hesitate. Mira would ask questions. She always does. She sees through bullshit quickly, and you're not sure you're ready for her to see through this.
+      But the alternative is sitting alone with the memory of a hunt that never happened, with the feeling that something in you is shifting in ways you can't control.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You dial.
+  - type: pause
+    duration: 500
+  - type: text
+    value: |
+      "You look like you're about to either quit or kill someone."
+      Mira. She doesn't wait for permission to speak—just launches in, already halfway through a smirk.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Those are the only two options?" you ask, and your voice sounds normal, which is a relief.
+      "For you? Lately? Yeah." She tilts her head, studying you even through the phone. "You've been weird."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I've always been weird."
+      "Not like this." Her tone shifts—sharper, more serious. "You've been... distant. Like you're somewhere else even when you're here."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You consider lying. Consider deflecting with a joke. Consider hanging up.
+      But Mira would know. She always knows when you're hiding something.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I had a dream," you say finally.
+      "A dream." Flat. Unimpressed.
+      "It felt real. More real than dreams usually do."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What kind of dream?"
+      "I was..." You stop. How do you say this without sounding insane? "I was hunting. Something small. And I missed."
+  - type: pause
+    duration: 500
+  - type: text
+    value: |
+      Silence on the line.
+      Then: "You?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I wasn't—" You stop. Recalibrate. "It wasn't me. Not like that. But it was also... it was also me."
+      "That doesn't make sense, Aleksy."
+      "I know."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Okay," she says. Calm. Careful. "Let's say I don't immediately call that insane."
+      "That's generous."
+      "Don't interrupt. I'm building a bridge here." She pauses. "What exactly are you saying?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You don't answer right away. Because now that the words are here, they feel too small. Too human.
+      But there's no other way to say it.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I think," you say slowly, "that I'm remembering something that wasn't... me."
+      "Not human?"
+      "Not this."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira doesn't respond immediately. That's new. Usually she fills silence like it owes her money.
+      Now she just waits, measuring risk. Meaning. Consequence.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You're serious," she says.
+      "I am."
+      "That's..." She stops herself. Starts again. "That's not a normal sentence, Aleksy."
+      "I know."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Okay." She nods once, decisively. "Good. We agree on something."
+      "That I'm insane?"
+      "That this isn't normal." A beat. "I'm coming over."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You don't have to—"
+      "I do." Her voice leaves no room for argument. "We're going to figure this out. Together. Or at least we're going to figure out if we need to be worried about you losing your mind."
+      "Comforting."
+      "I'm not here to be comforting, Aleksy. I'm here to keep you grounded."
+choices:
+  - text: "Accept her help"
+    goto: ch1_mira_arrival
+    set:
+      mira_trust: 20
+      relationship_focus: true
+  - text: "Try to push her away"
+    goto: ch1_mira_pushed
+    set:
+      aleksy_detachment: 10
+      mira_fear: 10

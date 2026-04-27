@@ -1,0 +1,44 @@
+id: ch1_mira_apology
+content:
+  - type: text
+    value: |
+      You dial again before you can talk yourself out of it.
+      She picks up on the third ring. "What?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'm sorry," you say. "I shouldn't have snapped. I'm just—scared."
+      Silence on the line.
+      Then: "Scared of what?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That I'm losing my mind. That this is real. That I'm remembering something that can't be remembered."
+      "Okay," she says, her voice softening slightly. "That's a valid fear. But you don't get to push me away because you're scared. That's not how this works."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I know."
+      "Do you? Because you keep doing it. Every time things get real, you pull back."
+      "I'm trying not to."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Try harder." A beat. "I'm still coming over. You can be scared, but you don't have to be scared alone."
+      "You don't have to—"
+      "I do. See you in twenty minutes."
+  - type: pause
+    duration: 500
+  - type: text
+    value: |
+      She hangs up before you can argue.
+choices:
+  - text: "Wait for her arrival"
+    goto: ch1_mira_arrival
+    set:
+      mira_trust: 25
+      relationship_focus: true

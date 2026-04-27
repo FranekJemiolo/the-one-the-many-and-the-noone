@@ -1,0 +1,52 @@
+id: ch1_mira_pushed
+content:
+  - type: text
+    value: |
+      "You don't need to come over," you say, your voice sharper than you intended. "I'm fine. It was just a dream."
+      "Bullshit," Mira says, and there's no humor in it now.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'm serious, Mira. I don't want to make this into something it's not."
+      "You're the one who called me, Aleksy. You're the one who brought this up. Now you're trying to back away because it got real?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I just—I need to think about it. Alone."
+      "Fine." Her voice is cold now. "Think about it alone. But don't call me if you decide you need help. I'm not here to be your emotional punching bag."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      She hangs up.
+  - type: pause
+    duration: 500
+  - type: text
+    value: |
+      You stare at the phone in your hand. The screen is dark, reflecting your own face back at you.
+      You look tired. You look like someone who's been missing sleep.
+      You look like someone who's afraid.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The office is quiet again. The fluorescent lights hum. The dream memory lingers at the edge of your consciousness—the cold, the height, the impossible miss.
+      And now there's something else: the feeling that you just made a mistake. That pushing Mira away was the wrong choice.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      But it's done. And you're alone with whatever this is.
+choices:
+  - text: "Try to work through it alone"
+    goto: ch1_self_reflection
+    set:
+      aleksy_detachment: 15
+      aleksy_fracture_level: 10
+  - text: "Call her back and apologize"
+    goto: ch1_mira_apology
+    set:
+      mira_trust: 10
+      relationship_focus: true
