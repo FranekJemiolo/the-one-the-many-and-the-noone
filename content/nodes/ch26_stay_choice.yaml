@@ -1,0 +1,43 @@
+id: ch26_stay_choice
+content:
+  - type: text
+    value: |
+      "I choose to stay," you say. "This version is my home. Mira is here. My life is here."
+      Sava nods. "That's a valid choice. But understand what it means. You'll need to adapt to the multiplicity while remaining anchored in this version."
+      "I know. I'll make this version my home base while visiting others as needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And Mira? Her perception is still developing. She'll reach her own threshold eventually."
+      "I know. We'll face that when it comes. Together."
+      Sava pauses. "The adaptation path is harder. But it's also more powerful. You'll become a bridge between versions, able to access multiple realities while remaining anchored in one."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Hanging up, you feel resolved. You're choosing to stay in this version, to fight for your right to exist here despite the challenges of multiplicity.
+      The legal battle established your rights. Now you're establishing your life—building a future with Mira, living without constant conflict.
+      This is the victory you fought for.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting when you arrive. "What did Sava say?"
+      "I reached the threshold. I made my choice."
+      She holds her breath. "What did you choose?"
+      "I chose to stay. This version is my home. You're my home."
+      She exhales, tears in her eyes. "I was so afraid you'd choose to leave."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I fought for my right to exist in this version. I'm not going to abandon it now."
+      She wraps her arms around you. "I love you, Aleksy. I'm so glad you stayed."
+      "I love you too. We're in this together. Whatever comes next, we face it together."
+choices:
+  - text: "Continue to Chapter 27"
+    goto: ch26_chapter_end
+    set:
+      threshold_reached: 1
+      stay_choice: 1

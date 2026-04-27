@@ -2,32 +2,42 @@ id: ch26_chapter_end
 content:
   - type: text
     value: |
-      You and Mira sit in the same physical space, but you are no longer sharing the same reality. The split has become permanent, the two interpretation engines operating independently in parallel worlds.
-      The relationship has transformed, but it has not been destroyed.
+      The chapter ends with you reaching the threshold and making your choice.
+      If you chose to stay, you're committing to the adaptation path—making this version your home base while accessing other versions as needed.
+      Mira is relieved that you stayed, that you chose her and this version over the comfort of a version where your perception is the norm.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a tragedy, not a failure of the relationship or a breakdown of communication. It is an evolution, a transformation into a new mode of coexistence. The system has adapted to interpretive multiplicity by allowing different interpretation engines to operate in parallel.
-      The split is not a problem—it is a solution to the stalemate that could not be resolved through reconciliation.
+      If you chose to shift, you're choosing to leave this version behind for a version where your perception is the norm.
+      Mira is devastated, feeling abandoned after fighting for you through the legal battle.
+      The shift isn't death, but to her it feels like loss.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is what the Engine fears. Parallel interpretation engines are not chaos, not the breakdown of shared reality into disorder. They are a different way of experiencing reality that the Engine cannot control, but that functions perfectly well.
-      The Engine's assumption that shared interpretation is necessary for stability is proven wrong by the very existence of functional parallel realities.
+      Either way, the choice is made. The threshold is crossed. Your perception will stabilize in the version you've chosen.
+      The legal battle established your rights. Now you're establishing your life—either here with Mira, or elsewhere where you belong.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The collapse of shared interpretation has not destroyed your relationship with Mira. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The relationship operates according to different principles, but it operates.
-      The transformation is successful, the adaptation complete.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      If you stayed, she's celebrating your choice to remain with her.
+      If you shifted, she's grieving your departure, even though you still exist in another version.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
-      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
+      Dr. Kaczmarek is still your ally—connecting you with Sava, supporting your exploration, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part III. The legal battle is won, but the personal journey continues.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And Sava Illich has been your guide through the threshold—helping you make the choice that will determine your future.
 choices:
   - text: "Continue to Chapter 27"
     goto: chapter_27

@@ -2,29 +2,36 @@ id: ch26_aleksy_mira_realities_diverge
 content:
   - type: text
     value: |
-      You and Mira are no longer experiencing the same reality, the stalemate between causal and emotional interpretation transforming into a permanent structural split. The emotional-causal split has become permanent, the two interpretation engines no longer able to communicate or reconcile their different versions of reality.
-      The oscillation has broken, the system collapsing into parallel worlds that cannot access each other.
+      The weeks after your decision with Sava are difficult. If you chose to wait for Mira, you're feeling the strain of maintaining stability at the threshold.
+      Your perception is becoming more unstable. The dreams are more vivid. The temporal perception is more pronounced. The sense of self is starting to fracture.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Aleksy's reality: Causal sequences are clear, events following a linear chain of cause and effect that makes sense according to the rules of logical progression. Events happen in specific orders, the timeline unambiguous and coherent.
-      Interpretation follows logical chains, reality singular and coherent according to the principles of causal analysis.
-      Aleksy has found a version of reality that validates everything he believed from the beginning—but the cost is that he can no longer access Mira's perspective.
+      If you chose to prioritize stability, you're feeling the guilt of making your choice alone. Mira is supportive but distant, sensing that you're preparing to move forward without her.
+      The tension between your stability and your connection is growing.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Mira's reality: Emotional sequences are clear, events following a pattern of feeling and meaning that makes sense according to the rules of emotional experience. Events feel specific ways, the emotional truth of the experience more significant than the temporal sequence.
-      Interpretation follows emotional resonance, reality multiple and coherent according to the principles of emotional understanding.
-      Mira has found a version of reality that validates everything she believed from the beginning—but the cost is that she can no longer access Aleksy's perspective.
+      Either way, the threshold is approaching. Sava calls with an update. "Your perception is at the threshold. The multiplicity is fully accessible. You can see all versions simultaneously. You can move between them."
+      "What do I do?"
+      "You choose. You choose which version to make your home."
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      Both realities are internally coherent, each making complete sense within its own framework. Both are mutually incompatible, each requiring the other to be false in order to be fully true.
-      Neither can access the other's interpretation of the same moment, each interpretation engine generating a complete world that excludes the other.
-      The friendship that began with their shared testimony in Chapter 1 has been broken by the very reality they helped reveal—each vindicated in their perspective, but separated by the victory.
+      "How do I choose?"
+      "You choose based on what feels like home. Which version feels most like you? Which version has the people you love? Which version has the life you want to live?"
+      She pauses. "The choice is personal. There's no right answer. But you have to make it soon. The longer you wait, the greater the risk."
 choices:
-  - text: "Observe that reconciliation is no longer possible"
-    goto: ch26_no_reconciliation_possible
+  - text: "Choose to stay in this version with Mira"
+    goto: ch26_stay_choice
+    set:
+      threshold_reached: 1
+      stay_choice: 1
+  - text: "Choose to shift to a version where perception is the norm"
+    goto: ch26_shift_choice
+    set:
+      threshold_reached: 1
+      shift_choice: 1

@@ -1,0 +1,51 @@
+id: ch26_shift_choice
+content:
+  - type: text
+    value: |
+      "I choose to shift," you say. "I need to be in a version where my perception is the norm. Where I don't have to fight for my right to exist."
+      Sava nods. "That's a valid choice. But understand what it means. You'll leave this version behind. The people here will see you as gone. You'll exist in a different version of reality."
+      "I know. But I can't keep fighting. I need to be somewhere I belong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And Mira?"
+      "She'll have to make her own choice when she reaches her threshold. I hope she chooses to join me. But I can't wait for her. I need to stabilize my perception now."
+      Sava pauses. "The shift is not death. You'll still exist. Just in a different version. But the people here will experience it as loss."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Hanging up, you feel conflicted. You're choosing to shift to a version where you belong, but you're leaving behind the person who makes life worth living.
+      The legal battle established your rights. But it didn't make this version feel like home.
+      Sometimes winning the right to exist isn't the same as feeling like you belong.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting when you arrive. "What did Sava say?"
+      "I reached the threshold. I made my choice."
+      She holds her breath. "What did you choose?"
+      "I chose to shift. I need to be in a version where my perception is the norm."
+      The color drains from her face. "You're leaving?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'm not dying. I'm shifting to a different version of reality. I'll still exist. Just not here."
+      "That's the same thing. If you're not here, you're gone."
+      She starts to cry. "I fought for you through the legal battle. I supported you through everything. And now you're leaving?"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I'm sorry. I can't keep fighting. I need to be somewhere I belong."
+      "You belong here. With me."
+      She meets your eyes. "Please don't go. Please stay."
+      You want to stay. But you also need to stabilize your perception. And you don't know if you can do both.
+choices:
+  - text: "Continue to Chapter 27"
+    goto: ch26_chapter_end
+    set:
+      threshold_reached: 1
+      shift_choice: 1
