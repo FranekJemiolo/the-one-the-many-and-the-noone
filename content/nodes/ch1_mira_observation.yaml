@@ -14,6 +14,12 @@ content:
     duration: 800
   - type: text
     value: |
+      "I know how it felt," Mira says, her voice soft but certain. "The fear was real. The confusion was real. The relief when it was over was real. You can't tell me that what I felt didn't happen just because the timing doesn't match someone else's watch."
+      She's not defensive—she's insistent. And her insistence carries a weight that Aleksy's certainty doesn't.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
       The second witness remembers confusion first, then recognition, then a strange calm. Also coherent in its own way.
       The emotional progression is different, but equally valid as a sequence of human feeling. The calm that follows recognition is not the relief that follows fear, but it is no less real.
   - type: pause
@@ -22,12 +28,7 @@ content:
     value: |
       You notice something unsettling: neither witness is lying. Both are describing what they felt, what they experienced in their bodies and their hearts.
       The contradiction is not in their honesty—it's in reality itself, which seems to contain multiple emotional truths that cannot be reduced to a single sequence.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      You write in your notebook with flowing script, the words capturing your intuition: 'Emotional truth diverges without breaking.
-      Both sequences internally coherent. Neither contains fabrication. This is not error. This is multiplicity.'
+      Mira meets your eyes, her expression open and vulnerable. "Please believe me. I'm not making this up. I'm not confused. I felt what I felt."
 choices:
   - text: "Interview the witnesses directly"
     goto: ch1_witness_testimony

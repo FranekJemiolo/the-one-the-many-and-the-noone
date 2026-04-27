@@ -16,6 +16,10 @@ The story explores philosophical questions about the nature of truth, the value 
 
 - **The Witness (You)**: An investigator of anomalies who discovers that reality is fracturing into multiple layers. Your choices will determine which interpretation layer becomes dominant and how the conflict between singularity and multiplicity is resolved.
 
+- **Aleksy**: One of the two original witnesses whose incompatible testimony first revealed the anomaly. Aleksy represents the causal perspective—trained to seek linear truth through precise chronological sequences and unbroken chains of cause and effect. As the story progresses, Aleksy becomes a champion of the Engine's compression approach, believing that reality must be singular to be meaningful.
+
+- **Mira**: The second original witness whose emotional account contradicted Aleksy's causal sequence. Mira represents the emotional perspective—trusting intuition and feeling over linear logic, believing that emotional truth is equally valid regardless of timing. As the story progresses, Mira becomes a champion of the Resistance's multiplicity approach, believing that reality contains multiple truths that cannot be reduced to a single narrative.
+
 - **Marcus**: A building maintenance worker with twenty years of experience who has witnessed the growing anomalies firsthand. He becomes an ally in the investigation, providing practical knowledge of the building's strange history.
 
 - **Vance**: A mysterious figure who operates in the gaps between realities. She offers training in temporal navigation and access to layers of reality that normal perception cannot reach.

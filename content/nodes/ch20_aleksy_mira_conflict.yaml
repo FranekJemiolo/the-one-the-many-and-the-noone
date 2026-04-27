@@ -3,25 +3,33 @@ content:
   - type: text
     value: |
       You and Mira are experiencing the same moment, but your interpretations are in direct conflict. This is not the gentle dual-reality of Chapter 5, where multiple versions of memory could coexist without tension.
-      This is war, a direct confrontation between two incompatible ways of understanding the same event.
+      This is war, a direct confrontation between two incompatible ways of understanding the same event. And Aleksy and Mira are at the center of it.
   - type: pause
     duration: 800
   - type: text
     value: |
       Aleksy's interpretation: The causal sequence is clear, unambiguous, linear. The event happened in a specific order, cause leading to effect in a single chain that cannot be broken.
       Any other interpretation is incorrect, any suggestion of multiple causal sequences is a failure to understand what actually happened.
+      Aleksy has become more rigid over time, his certainty hardening into something that looks like conviction but feels like fear.
   - type: pause
     duration: 800
   - type: text
     value: |
       Mira's interpretation: The emotional sequence is clear, vivid, undeniable. The event felt a specific way, the emotional truth of the experience is what matters most.
       Any other interpretation is incomplete, any focus on causal sequence at the expense of emotional experience is a failure to understand what the event meant.
+      Mira has become more passionate, her intuition sharpening into something that looks like wisdom but feels like desperation.
   - type: pause
     duration: 800
   - type: text
     value: |
       Both interpretations are internally consistent, each coherent within its own framework. Both are mutually incompatible, each requiring the other to be false in order to be true.
-      Neither will yield, neither will acknowledge the validity of the other's approach.
+      Neither will yield, neither will acknowledge the validity of the other's approach. And their friendship—the connection that began with their shared testimony in Chapter 1—is straining under the weight of this fundamental disagreement.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You have to choose," Aleksy says, his voice uncharacteristically harsh. "You can't keep pretending both perspectives are valid. One of us is right, and one of us is wrong. And if you won't choose, then reality will choose for you."
+      Mira meets his gaze, her eyes filled with sadness. "That's your problem, Aleksy. You think there has to be a winner and a loser. But maybe the point is that we're both right—and that's what makes this so hard."
 choices:
   - text: "Observe the interpretation conflict peak"
     goto: ch20_interpretation_conflict_peaks

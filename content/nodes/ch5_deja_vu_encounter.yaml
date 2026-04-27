@@ -15,7 +15,7 @@ content:
   - type: text
     value: |
       Mira looks at you, her expression mirroring your own recognition. She feels it too—the sense that this moment has occurred before, that you are living through a repetition of something that already happened.
-      But when you compare notes, when you try to articulate what you remember about the previous iteration of this moment, something impossible emerges.
+      But there's something else in her expression—fear, mixed with wonder. She's been experiencing this more frequently lately, and it's beginning to affect her.
   - type: pause
     duration: 800
   - type: text
@@ -28,11 +28,13 @@ content:
     value: |
       Mira shakes her head slowly, her brow furrowing in confusion. "I remember this too. But I said something about the feeling of the room, how the air seemed to hold its breath.
       Then you responded about the emotional weight, about how the silence felt heavy with something unsaid."
+      She pauses, her voice dropping to a whisper. "This keeps happening. Not just with you. With everything. I feel like I'm living through moments that have already happened, but slightly different each time."
   - type: pause
     duration: 800
   - type: text
     value: |
       Both memories feel equally authentic. Both describe the same moment in time. But they are incompatible—you cannot both be remembering correctly, unless the moment itself contains multiple versions that different observers access differently.
+      And Mira's fear suggests this isn't just philosophical—it's becoming personal, affecting her sense of reality itself.
 choices:
   - text: "Analyze from Aleksy's causal perspective"
     goto: ch5_aleksy_perspective

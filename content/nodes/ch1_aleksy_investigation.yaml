@@ -10,7 +10,13 @@ content:
     value: |
       You map the first witness's sequence with meticulous precision: 14:03 arrival, 14:05 confrontation, 14:07 departure.
       Clean. Linear. No gaps. Every moment follows the one before it in an unbroken chain of cause and effect.
-      This is how reality operates—this is how it must operate.
+      This is how reality operates—this is how it must operate. The witness, Aleksy, watches you work with an intensity that suggests he understands the stakes.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I know what I saw," Aleksy says, his voice tight with frustration. "The timing was exact. I checked my watch immediately after—it was 14:07. There's no way I could be wrong about this."
+      He's not arrogant—he's certain. And his certainty is unsettling because it feels so genuine.
   - type: pause
     duration: 800
   - type: text
@@ -24,12 +30,7 @@ content:
     value: |
       The problem is not inconsistency. It's that both sequences are internally perfect, each one complete and unbroken in its causality.
       As if reality itself branched at the moment of observation, creating two parallel timelines that cannot be reconciled because neither is false.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      You write in your notebook with deliberate strokes, the ink sinking into the paper: 'Temporal overlap without contradiction.
-      Both sequences internally consistent. Neither contains logical error. Requires further investigation into the nature of observation itself.'
+      Aleksy looks at you, his expression desperate. "You have to find the error. One of us has to be wrong. Please."
 choices:
   - text: "Interview the witnesses directly"
     goto: ch1_witness_testimony
