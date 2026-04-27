@@ -1,539 +1,355 @@
-# Canonical Walkthrough: The Overlap Ending
+# Canonical Walkthrough: Aleksy's Path
 
 ## Overview
 
-This walkthrough guides you through the canonical path to achieve **The Overlap** ending—the unity and society improvement ending that introduces order and sense into otherwise nonsensical existence. This ending represents the system's choice to achieve stability through balanced coexistence rather than elimination of multiplicity.
+This walkthrough guides you through Aleksy Wrona's canonical path—the journey of a person with unusual perception who fights for their right to exist in a world that insists reality must be singular. The story follows Aleksy from discovery through legal battle, from threshold choice to convergence, from personal transformation to the restructuring of reality itself.
 
-## Chapter 1: The Signal Event
+## Chapter 1: The Investigation
 
-**Starting Node:** `ch1_signal_event`
-
-**Recommended Path:**
-1. Choose "Visit the incident location immediately" → `ch1_location_investigation`
-2. Choose "Investigate the circular room" → `ch1_room_investigation`
-3. Choose "Touch the object" → `ch1_object_touched`
-4. Choose "Seek understanding" → `ch1_seek_understanding`
-5. Choose "Document the anomaly" → `ch1_chapter_end`
-
-**Rationale:** This path establishes your investigative approach and sets up the discovery of Rose's coherence field early.
-
-## Chapter 2: Emotional Anomaly
-
-**Starting Node:** `ch2_emotional_anomaly`
+**Starting Node:** `ch1_aleksy_investigation`
 
 **Recommended Path:**
-1. Choose "Examine the patient directly" → `ch2_patient_encounter`
-2. Choose "Teach the concept of consent" → `ch2_teach_consent`
-3. Choose "Explore the facility first" → `ch2_facility_exploration`
-4. Choose "Proceed with the examination, pretending not to notice" → `ch2_staff_mystery`
-5. Choose "Focus on the Patient's condition" → `ch2_facility_confrontation`
-6. Choose "Proceed to Chapter 3" → `ch2_chapter_end`
+1. Choose "Interview the witnesses directly" → `ch1_witness_testimony`
+2. Choose "Cross-reference with Mira's emotional analysis" → `ch1_mira_observation`
+3. Choose "Proceed to Chapter 2" → `ch1_chapter_end`
 
-**Rationale:** This path builds empathy and establishes the importance of consent, which becomes crucial for the Resistance's philosophy.
+**Rationale:** This path establishes Aleksy's causal perspective and introduces Mira's emotional perspective, setting up the central tension between their interpretations.
 
-## Chapter 3: Layer Training
+## Chapter 2: Emotional Resonance
 
-**Starting Node:** `ch3_layer_training`
+**Starting Node:** `ch2_emotional_resonance`
 
 **Recommended Path:**
-1. Choose "Commit to the full training program" → `ch3_advanced_training`
-2. Continue through training nodes
-3. Choose "Accept the clock inconsistency" → `ch3_clock_inconsistency`
-4. Choose "Proceed to Chapter 4" → `ch3_chapter_end`
+1. Choose "Observe Mira's emotional resonance" → `ch2_mira_resonance`
+2. Choose "Proceed to Chapter 3" → `ch2_chapter_end`
 
-**Rationale:** Committing to training establishes your dedication to understanding the deeper layers of reality.
+**Rationale:** This path deepens understanding of Mira's emotional perspective and establishes her as Aleksy's emotional anchor.
 
-## Chapter 4: Cyborg Network
+## Chapter 3: Dr. Kaczmarek
 
-**Starting Node:** `ch4_protection_offer`
+**Starting Node:** `ch3_kaczmarek_introduction`
 
 **Recommended Path:**
-1. Choose "Continue the investigation with the cyborg as an ally" → `ch4_cyborg_encounter`
-2. Choose "Ask about the cyborg's network role" → `ch4_cyborg_network_role`
-3. Choose "Meet the cyborg now" → `ch4_cyborg_autonomy`
-4. Choose "Proceed to Chapter 5" → `ch4_chapter_end`
+1. Choose "Accept Dr. Kaczmarek's help" → `ch3_kaczmarek_ally`
+2. Choose "Proceed to Chapter 4" → `ch3_chapter_end`
 
-**Rationale:** Building alliance with the cyborg establishes the theme of autonomy and consent.
+**Rationale:** Establishing Dr. Kaczmarek as an ally within the system is crucial for Aleksy's journey.
 
-## Chapter 5: Deja Vu
+## Chapter 4: Deja Vu
 
-**Starting Node:** `ch5_deja_vu_encounter`
+**Starting Node:** `ch4_deja_vu_encounter`
 
 **Recommended Path:**
-1. Choose "Reflect on your relationship with Mira" → `ch5_relationship_reflection`
-2. Choose "Notice the organization's observation" → `ch5_organization_observation`
-3. Choose "Proceed to Chapter 6" → `ch5_chapter_end`
+1. Choose "Analyze from Aleksy's causal perspective" → `ch4_aleksy_perspective`
+2. Choose "Proceed to Chapter 5" → `ch4_chapter_end`
 
-**Rationale:** This path acknowledges both emotional and causal perspectives, setting up the balance needed for The Overlap.
+**Rationale:** This path reinforces Aleksy's causal perspective while acknowledging the anomaly.
 
-## Chapter 6: Compression Resistance
+## Chapter 5: Love Confession
 
-**Starting Node:** `ch6_compression_resistance`
-
-**Recommended Path:**
-1. Choose "Find a less risky form of resistance" → `ch6_alternative_resistance`
-2. Choose "Pursue consciousness research" → `ch6_consciousness_research`
-3. Choose "Proceed with redesign based on current understanding" → `ch6_immediate_redesign`
-4. Choose "Proceed to Chapter 7" → `ch6_chapter_end`
-
-**Rationale:** Choosing cautious resistance over sabotage shows preference for balance over confrontation.
-
-## Chapter 7: Resistance Contact
-
-**Starting Node:** `ch7_resistance_contact`
+**Starting Node:** `ch5_love_confession`
 
 **Recommended Path:**
-1. Choose "Ask about the Resistance's methods" → `ch7_resistance_methods`
-2. Choose "Ask about the Resistance's goals" → `ch7_resistance_goals`
-3. Choose "Proceed to Chapter 8" → `ch7_chapter_end`
+1. Choose "Confess your feelings to Mira" → `ch5_confession_made`
+2. Choose "Proceed to Chapter 6" → `ch5_chapter_end`
 
-**Rationale:** Understanding the Resistance's methods rather than immediately joining shows thoughtful consideration.
+**Rationale:** Confessing love to Mira establishes their relationship as a central emotional anchor for the story.
 
-## Chapter 8: Emotional Time
+## Chapter 6: Legal Battle Begins
 
-**Starting Node:** `ch8_passenger_encounter`
-
-**Recommended Path:**
-1. Choose "Ask about the Passenger's identity" → `ch8_passenger_identity`
-2. Choose "Analyze the emotional inconsistency" → `ch8_emotional_inconsistency`
-3. Choose "Return to analyzing emotional time" → `ch8_emotional_resistance`
-4. Choose "Proceed to Chapter 9" → `ch8_chapter_end`
-
-**Rationale:** This path explores emotional time while maintaining analytical perspective.
-
-## Chapter 9: Enforcement
-
-**Starting Node:** `ch9_enforcement_consequences`
+**Starting Node:** `ch6_legal_battle_begins`
 
 **Recommended Path:**
-1. Choose "Ask if there's a solution to the gap" → `ch9_gap_solution`
-2. Choose "Support the reframing approach" → `ch9_reframing_support`
-3. Choose "Proceed to Chapter 10" → `ch9_chapter_end`
+1. Choose "Fight for your right to exist" → `ch6_fight_begins`
+2. Choose "Proceed to Chapter 7" → `ch6_chapter_end`
 
-**Rationale:** Seeking solutions rather than just understanding problems shows constructive approach.
+**Rationale:** Choosing to fight establishes Aleksy's commitment to asserting their rights.
 
-## Chapter 10: Performance Reframing
+## Chapter 7: Legal Victory
 
-**Starting Node:** `ch10_performance_reframing`
+**Starting Node:** `ch7_legal_victory`
 
 **Recommended Path:**
-1. Choose "Support the complete conversion" → `ch10_complete_conversion`
+1. Choose "Celebrate the victory" → `ch7_victory_celebrated`
+2. Choose "Proceed to Chapter 8" → `ch7_chapter_end`
+
+**Rationale:** Celebrating the victory establishes the legal precedent that protects people with unusual perception.
+
+## Chapter 8: Sava Introduction
+
+**Starting Node:** `ch8_sava_introduction`
+
+**Recommended Path:**
+1. Choose "Accept Sava's guidance" → `ch8_sava_guide`
+2. Choose "Proceed to Chapter 9" → `ch8_chapter_end`
+
+**Rationale:** Accepting Sava's guidance establishes her as Aleksy's mentor through the threshold.
+
+## Chapter 9: Sava Relationship
+
+**Starting Node:** `ch9_sava_relationship`
+
+**Recommended Path:**
+1. Choose "Deepen the relationship with Sava" → `ch9_relationship_deepened`
+2. Choose "Proceed to Chapter 10" → `ch9_chapter_end`
+
+**Rationale:** Deepening the relationship with Sava strengthens her role as guide.
+
+## Chapter 10: Perception Development
+
+**Starting Node:** `ch10_perception_development`
+
+**Recommended Path:**
+1. Choose "Continue developing your perception" → `ch10_perception_advanced`
 2. Choose "Proceed to Chapter 11" → `ch10_chapter_end`
 
-**Rationale:** Supporting complete conversion through performance reframing shows pragmatic approach to change.
+**Rationale:** Continuing to develop perception prepares Aleksy for the threshold.
 
-## Chapter 11: Memory Sanctuary
+## Chapter 11: Mira's Development
 
-**Starting Node:** `ch11_memory_sanctuary`
-
-**Recommended Path:**
-1. Choose "Speak with Sister Lys" → `ch11_memory_reconciliation`
-2. Choose "Ask about sanctuary challenges" → `ch11_sanctuary_challenges`
-3. Choose "Offer to help" → `ch11_help_offered`
-4. Choose "Proceed to Chapter 12" → `ch11_chapter_end`
-
-**Rationale:** Engaging with Sister Lys and offering help establishes empathy and understanding of Rose's approach.
-
-## Chapter 12: Temporal Leak
-
-**Starting Node:** `ch12_kai_appearance`
+**Starting Node:** `ch11_mira_development`
 
 **Recommended Path:**
-1. Choose "Ask about Kai's background" → `ch12_kai_background`
-2. Choose "Accept the temporal anomaly" → `ch12_chapter_end`
+1. Choose "Support Mira's perception development" → `ch11_mira_supported`
+2. Choose "Proceed to Chapter 12" → `ch11_chapter_end`
 
-**Rationale:** Understanding Kai's perspective while accepting the anomaly shows openness to multiple temporal modalities.
+**Rationale:** Supporting Mira's development sets up the timing mismatch that will become crucial at the threshold.
 
-## Chapter 13: Ecological Consciousness
+## Chapter 12: Timing Mismatch
 
-**Starting Node:** `ch13_pilot_monitoring`
+**Starting Node:** `ch12_timing_mismatch`
 
 **Recommended Path:**
-1. Choose "Propose expanding to additional zones based on pilot success" → `ch13_expansion_proposal`
+1. Choose "Acknowledge the timing mismatch" → `ch12_mismatch_acknowledged`
+2. Choose "Proceed to Chapter 13" → `ch12_chapter_end`
+
+**Rationale:** Acknowledging the mismatch foreshadows the difficult choice at the threshold.
+
+## Chapter 13: Threshold Approaches
+
+**Starting Node:** `ch13_threshold_approaches`
+
+**Recommended Path:**
+1. Choose "Prepare for the threshold" → `ch13_threshold_prepared`
 2. Choose "Proceed to Chapter 14" → `ch13_chapter_end`
 
-**Rationale:** Supporting expansion based on evidence shows measured, data-driven approach.
+**Rationale:** Preparing for the threshold shows Aleksy's foresight.
 
-## Chapter 14: Bias Monitoring
+## Chapter 14: Threshold Reached
 
-**Starting Node:** `ch14_bias_monitoring`
+**Starting Node:** `ch14_threshold_reached`
 
 **Recommended Path:**
-1. Choose "Begin the bias monitoring collaboration" → `ch14_monitoring_collaboration`
+1. Choose "Face the threshold" → `ch14_threshold_faced`
 2. Choose "Proceed to Chapter 15" → `ch14_chapter_end`
 
-**Rationale:** Collaborating to monitor bias shows commitment to balance and truth preservation.
+**Rationale:** Facing the threshold is necessary for the transformation.
 
-## Chapter 15: Rose Appearance
+## Chapter 15: Threshold Choice
 
-**Starting Node:** `ch15_rose_appearance`
-
-**Recommended Path:**
-1. Choose "Understand the coexistence without collapse" → `ch15_coexistence_without_collapse`
-2. Choose "Ask about Rose's nature" → `ch15_rose_nature`
-3. Choose "Proceed to Chapter 16" → `ch15_chapter_end`
-
-**Rationale:** Deeply understanding Rose's approach is essential for The Overlap ending.
-
-## Chapter 16: Null Zone
-
-**Starting Node:** `ch16_null_child_appearance`
+**Starting Node:** `ch15_threshold_choice`
 
 **Recommended Path:**
-1. Choose "Understand the interpretation void" → `ch16_interpretive_void`
-2. Choose "Ask about the void's origins" → `ch16_void_origins
-3. Choose "Proceed to Chapter 17" → `ch16_chapter_end`
+1. Choose "Stay in this version with Mira" → `ch15_stay_choice`
+2. Choose "Proceed to Chapter 16" → `ch15_chapter_end`
 
-**Rationale:** Understanding the void provides contrast to the coexistence approach.
+**Rationale:** Choosing to stay prioritizes connection over stability, leading to the stay resolution path.
 
-## Chapter 17: Guard Pattern
+**Alternative Path (Shift):**
+1. Choose "Shift to a version where multiplicity is the norm" → `ch15_shift_choice`
+2. Choose "Proceed to Chapter 16" → `ch15_chapter_end`
 
-**Starting Node:** `ch17_guard_awareness`
+**Rationale:** Choosing to shift prioritizes stability over connection, leading to the shift resolution path.
 
-**Recommended Path:**
-1. Choose "Ask if the pattern can be influenced" → `ch17_pattern_influence`
-2. Choose "Observe the pattern evolution" → `ch17_pattern_evolution
-3. Choose "Proceed to Chapter 18" → `ch17_chapter_end`
+## Chapter 16: Aftermath
 
-**Rationale:** Understanding proto-identity formation shows appreciation for emergent complexity.
-
-## Chapter 18: Zone Analysis
-
-**Starting Node:** `ch18_zone_analysis`
+**Starting Node:** `ch16_aftermath`
 
 **Recommended Path:**
-1. Choose "Support targeting secondary hubs first" → `ch18_secondary_targets`
+1. Choose "Live with the consequences" → `ch16_consequences_accepted`
+2. Choose "Proceed to Chapter 17" → `ch16_chapter_end`
+
+**Rationale:** Accepting the consequences shows maturity and responsibility.
+
+## Chapter 17: Years Pass
+
+**Starting Node:** `ch17_years_pass`
+
+**Recommended Path:**
+1. Choose "Build a life in your chosen version" → `ch17_life_built`
+2. Choose "Proceed to Chapter 18" → `ch17_chapter_end`
+
+**Rationale:** Building a life shows adaptation to the choice.
+
+## Chapter 18: Convergence Approaches
+
+**Starting Node:** `ch18_convergence_approaches`
+
+**Recommended Path:**
+1. Choose "Observe the convergence" → `ch18_convergence_observed`
 2. Choose "Proceed to Chapter 19" → `ch18_chapter_end`
 
-**Rationale:** Choosing gradual approach over direct confrontation shows preference for measured change.
+**Rationale:** Observing the convergence shows awareness of system-level transformation.
 
-## Chapter 19: Oscillation
+## Chapter 19: Convergence Arrives
 
-**Starting Node:** `ch19_oscillation_phenomenon`
-
-**Recommended Path:**
-1. Choose "Predict when the oscillation will become unsustainable" → `ch19_oscillation_prediction`
-2. Choose "Prepare for the critical moment" → `ch19_critical_preparation
-3. Choose "Proceed to Chapter 20" → `ch19_chapter_end`
-
-**Rationale:** Preparing for the critical moment shows foresight and responsibility.
-
-## Chapter 20: Third Engine
-
-**Starting Node:** `ch20_third_engine`
+**Starting Node:** `ch19_convergence_arrives`
 
 **Recommended Path:**
-1. Choose "Consider the consequences of a third engine" → `ch20_third_consequences
-2. Choose "Accept the stalemate for now" → `ch20_stalemate_acceptance
-3. Choose "Proceed to Chapter 21" → `ch20_chapter_end`
+1. Choose "Experience the convergence" → `ch19_convergence_experienced`
+2. Choose "Proceed to Chapter 20" → `ch19_chapter_end`
 
-**Rationale:** Accepting the stalemate while understanding consequences shows patience and wisdom.
+**Rationale:** Experiencing the convergence is necessary for understanding the transformation.
 
-## Chapter 21: Separation
+## Chapter 20: System Restructuring
 
-**Starting Node:** `ch21_conflict_mediation`
+**Starting Node:** `ch20_system_restructuring`
 
 **Recommended Path:**
-1. Choose "Support separation" → `ch21_separation_implementation
+1. Choose "Adapt to the new configuration" → `ch20_adaptation_complete`
+2. Choose "Proceed to Chapter 21" → `ch20_chapter_end`
+
+**Rationale:** Adapting shows resilience and flexibility.
+
+## Chapter 21: Identity Crystallization
+
+**Starting Node:** `ch21_identity_crystallization`
+
+**Recommended Path:**
+1. Choose "Accept your crystallized identity" → `ch21_identity_accepted`
 2. Choose "Proceed to Chapter 22" → `ch21_chapter_end`
 
-**Rationale:** Supporting separation acknowledges the need for distinct spaces while maintaining coexistence.
+**Rationale:** Accepting crystallized identity shows self-acceptance.
 
-## Chapter 22: Temporal Breakdown
+## Chapter 22: Endgame Begins
 
-**Starting Node:** `ch22_temporal_breakdown`
+**Starting Node:** `ch22_endgame_begins`
 
 **Recommended Path:**
-1. Choose "Establish training center" → `ch22_training_center
+1. Choose "Prepare for the endgame" → `ch22_endgame_prepared`
 2. Choose "Proceed to Chapter 23" → `ch22_chapter_end`
 
-**Rationale:** Establishing training centers shows commitment to education and adaptation.
+**Rationale:** Preparing for the endgame shows foresight.
 
-## Chapter 23: Echo Emergence
+## Chapter 23: Endgame Progressing
 
-**Starting Node:** `ch23_echo_emergence`
+**Starting Node:** `ch23_endgame_progressing`
 
 **Recommended Path:**
-1. Choose "Support Echo's mentorship" → `ch23_echo_mentorship
+1. Choose "Continue through the endgame" → `ch23_endgame_continued`
 2. Choose "Proceed to Chapter 24" → `ch23_chapter_end`
 
-**Rationale:** Supporting Echo's emergence shows appreciation for crystallized identity.
+**Rationale:** Continuing shows commitment to the process.
 
-## Chapter 24: Knowledge Teaching
+## Chapter 24: Endgame Complete
 
-**Starting Node:** `ch24_knowledge_teaching`
+**Starting Node:** `ch24_endgame_complete`
 
 **Recommended Path:**
-1. Choose "Establish knowledge center" → `ch24_knowledge_establishment
+1. Choose "Accept the permanent transformation" → `ch24_transformation_accepted`
 2. Choose "Proceed to Chapter 25" → `ch24_chapter_end`
 
-**Rationale:** Establishing knowledge centers supports the spread of understanding.
+**Rationale:** Accepting the permanent transformation shows maturity.
 
-## Chapter 25: Trajectory Teaching
+## Chapter 25: Stay Resolution Path
 
-**Starting Node:** `ch25_trajectory_teaching`
-
-**Recommended Path:**
-1. Choose "Establish trajectory center" → `ch25_trajectory_establishment
-2. Choose "Proceed to Chapter 26" → `ch26_chapter_end`
-
-**Rationale:** Establishing trajectory centers supports movement and adaptation.
-
-## Chapter 26: Parallel Worlds
-
-**Starting Node:** `ch26_parallel_worlds`
+**Starting Node:** `ch25_stay_resolution`
 
 **Recommended Path:**
-1. Choose "Support parallel protocol" → `ch26_parallel_protocol
+1. Choose "Live with Mira in this version" → `ch25_stay_life`
+2. Choose "Proceed to Chapter 26" → `ch25_chapter_end`
+
+**Rationale:** This path shows the outcome of choosing to stay—building a life with Mira as bridges between realities.
+
+## Chapter 26: Shift Resolution Path
+
+**Starting Node:** `ch26_shift_resolution`
+
+**Recommended Path:**
+1. Choose "Live in the new version, connected to Mira" → `ch26_shift_life`
 2. Choose "Proceed to Chapter 27" → `ch26_chapter_end`
 
-**Rationale:** Supporting parallel protocols shows acceptance of coexisting realities.
+**Rationale:** This path shows the outcome of choosing to shift—finding belonging in a version where multiplicity is the norm, connected across versions to Mira.
 
-## Chapter 27: Temporal Field
+## Chapter 27: Reflection
 
-**Starting Node:** `ch27_temporal_field`
+**Starting Node:** `ch27_reflection`
 
 **Recommended Path:**
-1. Choose "Support mapping development" → `ch27_mapping_development
+1. Choose "Reflect on your journey" → `ch27_journey_reflected`
 2. Choose "Proceed to Chapter 28" → `ch27_chapter_end`
 
-**Rationale:** Supporting mapping shows commitment to understanding complex systems.
+**Rationale:** Reflection shows self-awareness and growth.
 
-## Chapter 28: Synthetic Evolution
+## Chapter 28: Conclusion
 
-**Starting Node:** `ch28_synthetic_evolution`
-
-**Recommended Path:**
-1. Choose "Support intentional creation" → `ch28_intentional_creation
-2. Choose "Support zones establishment" → `ch28_zones_establishment
-3. Choose "Proceed to Chapter 29" → `ch28_chapter_end`
-
-**Rationale:** Supporting intentional creation shows appreciation for conscious evolution.
-
-## Chapter 29: Layer Switching
-
-**Starting Node:** `ch29_layer_switching`
+**Starting Node:** `ch28_conclusion`
 
 **Recommended Path:**
-1. Choose "Support switching optimization" → `ch29_switching_optimization
+1. Choose "Accept your life" → `ch28_life_accepted`
+2. Choose "Proceed to Chapter 29" → `ch28_chapter_end`
+
+**Rationale:** Accepting your life shows contentment with the choice made.
+
+## Chapter 29: Final Reflection
+
+**Starting Node:** `ch29_final_reflection`
+
+**Recommended Path:**
+1. Choose "Reflect on identity" → `ch29_identity_reflected`
 2. Choose "Proceed to Chapter 30" → `ch29_chapter_end`
 
-**Rationale:** Supporting optimization shows preference for efficient coexistence.
+**Rationale:** Final reflection on identity shows deep self-understanding.
 
-## Chapter 30: Layer Cooperation
+## Chapter 30: The End
 
-**Starting Node:** `ch30_layer_cooperation`
-
-**Recommended Path:**
-1. Choose "Support protocol development" → `ch30_protocol_development
-2. Choose "Proceed to Chapter 31" → `ch30_chapter_end`
-
-**Rationale:** Supporting protocol development shows commitment to structured coexistence.
-
-## Chapter 31: Barrier Crystallization
-
-**Starting Node:** `ch31_barrier_crystallization`
+**Starting Node:** `ch30_the_end`
 
 **Recommended Path:**
-1. Choose "Support protocols establishment" → `ch31_protocols_establishment
-2. Choose "Proceed to Chapter 32" → `ch31_chapter_end`
-
-**Rationale:** Supporting protocols shows appreciation for structured boundaries.
-
-## Chapter 32: Archive Crystallization
-
-**Starting Node:** `ch32_archive_crystallization`
-
-**Recommended Path:**
-1. Choose "Support integration establishment" → `ch32_integration_establishment
-2. Choose "Proceed to Chapter 33" → `ch32_chapter_end`
-
-**Rationale:** Supporting integration shows commitment to preserving knowledge.
-
-## Chapter 33: Drift Crystallization
-
-**Starting Node:** `ch33_drift_crystallization`
-
-**Recommended Path:**
-1. Choose "Support mobile establishment" → `ch33_mobile_establishment
-2. Choose "Proceed to Chapter 34" → `ch33_chapter_end`
-
-**Rationale:** Supporting mobile establishment shows appreciation for adaptability.
-
-## Chapter 34: Ecosystem Expansion
-
-**Starting Node:** `ch34_ecosystem_expansion`
-
-**Recommended Path:**
-1. Choose "Support crystallization acceleration" → `ch34_crystallization_acceleration
-2. Choose "Proceed to Chapter 35" → `ch34_chapter_end`
-
-**Rationale:** Supporting acceleration shows commitment to progress.
-
-## Chapter 35: Rose's Legacy
-
-**Starting Node:** `ch35_rose_legacy`
-
-**Recommended Path:**
-1. Choose "Support crystallization planning" → `ch35_crystallization_planning
-2. Choose "Proceed to Chapter 36" → `ch35_chapter_end`
-
-**Rationale:** Supporting planning shows appreciation for Rose's method.
-
-## Chapter 36: Nemesis Integration
-
-**Starting Node:** `ch36_nemesis_integration`
-
-**Recommended Path:**
-1. Choose "Support protocol development" → `ch36_protocol_development
-2. Choose "Proceed to Chapter 37" → `ch36_chapter_end`
-
-**Rationale:** Supporting protocol development shows commitment to integrating all perspectives.
-
-## Chapter 37: Null Zone Protocols
-
-**Starting Node:** `ch37_null_zone_protocols`
-
-**Recommended Path:**
-1. Choose "Support protocols establishment" → `ch37_protocols_establishment
-2. Choose "Proceed to Chapter 38" → `ch37_chapter_end`
-
-**Rationale:** Supporting protocols shows commitment to managing even the void.
-
-## Chapter 38: Parallel Insight
-
-**Starting Node:** `ch38_parallel_insight`
-
-**Recommended Path:**
-1. Choose "Support formalization establishment" → `ch38_formalization_establishment
-2. Choose "Proceed to Chapter 39" → `ch38_chapter_end`
-
-**Rationale:** Supporting formalization shows commitment to structured understanding.
-
-## Chapter 39: Coexistence Benefits
-
-**Starting Node:** `ch39_coexistence_benefits`
-
-**Recommended Path:**
-1. Choose "Support optimization development" → `ch39_optimization_development
-2. Choose "Proceed to Chapter 40" → `ch39_chapter_end`
-
-**Rationale:** Supporting optimization shows commitment to improving coexistence.
-
-## Chapter 40: Endgame Approaches
-
-**Starting Node:** `ch40_endgame_approaches`
-
-**Recommended Path:**
-1. Choose "Support ending preparation" → `ch40_ending_preparation
-2. Choose "Support simulation beginning" → `ch40_simulation_beginning
-3. Choose "Proceed to Chapter 41" → `ch40_chapter_end`
-
-**Rationale:** Thorough preparation shows wisdom before final choice.
-
-## Chapter 41: The One Experience
-
-**Starting Node:** `ch41_one_reflection`
-
-**Recommended Path:**
-1. Choose "Experience The One configuration" → `ch41_one_configuration_experienced
-2. Choose "Proceed to Chapter 42" → `ch41_chapter_end`
-
-**Rationale:** Experiencing The One is necessary for full understanding before final choice.
-
-## Chapter 42: The Many Experience
-
-**Starting Node:** `ch42_many_reflection`
-
-**Recommended Path:**
-1. Choose "Experience The Many configuration" → `ch42_many_configuration_experienced
-2. Choose "Proceed to Chapter 43" → `ch42_chapter_end`
-
-**Rationale:** Experiencing The Many is necessary for full understanding before final choice.
-
-## Chapter 43: The No-One Experience
-
-**Starting Node:** `ch43_noone_reflection`
-
-**Recommended Path:**
-1. Choose "Experience The No-One configuration" → `ch43_no_one_configuration_experienced
-2. Choose "Proceed to Chapter 44" → `ch43_chapter_end`
-
-**Rationale:** Experiencing The No-One is necessary for full understanding before final choice.
-
-## Chapter 44: The Overlap Experience
-
-**Starting Node:** `ch44_overlap_reflection`
-
-**Recommended Path:**
-1. Choose "Experience The Overlap configuration" → `ch44_overlap_configuration_experienced
-2. Choose "Support advanced automation" → `ch44_advanced_automation
-3. Choose "Proceed to Chapter 45" → `ch44_chapter_end`
-
-**Rationale:** Experiencing The Overlap shows its viability and supports its automation.
-
-## Chapter 45: The Shifting World Experience
-
-**Starting Node:** `ch45_shifting_reflection`
-
-**Recommended Path:**
-1. Choose "Experience The Shifting World configuration" → `ch45_shifting_configuration_experienced
-2. Choose "Proceed to Chapter 46" → `ch45_chapter_end`
-
-**Rationale:** Experiencing The Shifting World completes the understanding of all canonical endings.
-
-## Chapter 46: Final Choice
-
-**Starting Node:** `ch46_all_experiences_integrated`
-
-**Recommended Path:**
-1. Choose "Ask about alternative choices" → `ch46_alternative_choices
-2. Choose "Continue with The Overlap" → `ch46_overlap_selected
-3. Choose "Proceed to Chapter 47" → `ch46_chapter_end`
-
-**Rationale:** After experiencing all endings, choosing The Overlap represents the synthesis of all perspectives.
-
-## Chapter 47: System Complete
-
-**Starting Node:** `ch47_system_complete`
-
-**Recommended Path:**
-1. Choose "Explore alternative endings" → `ch47_alternative_endings
-2. Choose "Explore philosophical implications" → `ch47_philosophical_implications
-3. Choose "Explore long-term implications" → `ch47_long_term_implications
-4. Choose "Proceed to Ending" → `ch47_chapter_end`
-
-**Rationale:** Fully exploring the implications before final commitment shows thorough understanding.
-
-## Ending: The Overlap
-
-**Final State:**
-- The system achieves stability through balanced coexistence
-- The Engine's compression layer and the Resistance's multiplicity layer operate in permanent coexistence
-- Rose's coherence field becomes structural, allowing incompatible truths to coexist without collapse
-- The system has achieved optimal state: the conflict between compression and multiplicity resolved through balanced coexistence
-- This represents the victory of plural stability while preserving singular stability
-- Society improves through the integration of multiple perspectives without requiring elimination
+1. Choose "Conclude the story" → `ch30_story_concluded`
+2. Choose "Proceed to Ending" → `ch30_chapter_end`
+
+**Rationale:** Concluding the story shows completion of the journey.
+
+## Ending: Stay Resolution Path
+
+**Final State (if you chose to stay):**
+- You and Mira have built a life together in this version
+- You've become bridges between realities, helping others with unusual perception
+- The legal battle you fought established rights for people like you
+- Your love has endured through the threshold, convergence, and endgame
+- You've found belonging, acceptance, and purpose with Mira by your side
+
+## Ending: Shift Resolution Path
+
+**Final State (if you chose to shift):**
+- You've built a life in the new version where multiplicity is the norm
+- You're part of a community where everyone experiences multiple realities
+- Mira stayed in this version, building her own life there
+- You're connected across versions by the love you share
+- You can visit each other's versions—the separation is physical, but the connection remains
 
 ## Key Themes Emphasized
 
-1. **Balance over Elimination**: Throughout the walkthrough, choices favor balance and coexistence over elimination of perspectives.
+1. **Identity**: The story explores what it means to be a person with unusual perception, moving from confusion to acceptance to crystallization.
 
-2. **Understanding over Confrontation**: The path emphasizes understanding all perspectives before making final choices.
+2. **Connection**: The relationship with Mira is central—whether staying together or connected across versions, love endures.
 
-3. **Gradual Change over Revolution**: Choices support measured, gradual change rather than radical disruption.
+3. **Choice**: The threshold choice between stay and shift is the central decision, with both paths being valid and meaningful.
 
-4. **Integration over Separation**: When separation is necessary, it's framed as creating space for coexistence rather than permanent division.
+4. **Responsibility**: Aleksy learns to take responsibility for their choices and live with the consequences.
 
-5. **Wisdom over Speed**: The path takes time to understand, prepare, and consider consequences before acting.
+5. **Growth**: The journey is one of personal growth, from discovery through transformation to acceptance.
 
 ## State Variables Accumulated
 
 By following this canonical path, you will accumulate state variables that reflect:
-- Balanced understanding of both Engine and Resistance perspectives
-- Strong relationships with key characters (Marcus, Mira, Vance, Rose, etc.)
-- Experience with all five canonical endings
-- Commitment to coexistence and balance
-- Wisdom and patience in decision-making
+- Strong relationship with Mira (emotional anchor)
+- Strong relationship with Dr. Kaczmarek (ally within the system)
+- Strong relationship with Sava Illich (guide through the threshold)
+- Legal victory establishing rights for people with unusual perception
+- Threshold choice (stay or shift)
+- Identity crystallization after the threshold
+- Convergence completion and endgame finalization
 
-These variables will naturally lead to The Overlap being the system's preferred final configuration, as it represents the synthesis of all the perspectives you've engaged with throughout the story.
+These variables will naturally lead to one of the two resolution paths, depending on the threshold choice made in Chapter 15. Both paths are valid and meaningful, representing different but equally valuable ways of living with unusual perception.

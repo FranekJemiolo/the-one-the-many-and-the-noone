@@ -87,7 +87,7 @@ arcs:
 stateMappings:
   - var: "aleksy_dominance"
     label: "Causal Interpretation"
-    description: "Strength of Aleksy's causal reality layer"
+    description: "Strength of Aleksy's causal perspective"
     ranges:
       - min: 0
         max: 3
@@ -101,7 +101,7 @@ stateMappings:
 
   - var: "mira_dominance"
     label: "Emotional Interpretation"
-    description: "Strength of Mira's emotional reality layer"
+    description: "Strength of Mira's emotional perspective"
     ranges:
       - min: 0
         max: 3
@@ -113,58 +113,55 @@ stateMappings:
         max: 10
         label: "Dominant"
 
-  - var: "nemesis_compression"
-    label: "Interpretive Compression"
-    description: "Level of Nemesis/Engine reality compression"
-    ranges:
-      - min: 0
-        max: 3
-        label: "Minimal"
-      - min: 4
-        max: 6
-        label: "Partial"
-      - min: 7
-        max: 10
-        label: "Maximum"
-
-  - var: "rose_coherence"
-    label: "Coherence Field"
-    description: "Strength of Rose's contradiction stabilization"
-    ranges:
-      - min: 0
-        max: 3
-        label: "Weak"
-      - min: 4
-        max: 6
-        label: "Moderate"
-      - min: 7
-        max: 10
-        label: "Strong"
-
-  - var: "null_exposure"
-    label: "Void Exposure"
-    description: "Exposure to Null Child interpretation failure zones"
+  - var: "sava_relationship"
+    label: "Sava Relationship"
+    description: "Depth of relationship with Sava Illich"
     ranges:
       - min: 0
         max: 2
-        label: "None"
+        label: "Acquaintance"
       - min: 3
         max: 5
-        label: "Limited"
+        label: "Collaborator"
       - min: 6
         max: 10
-        label: "Severe"
+        label: "Close Guide"
 
-  - flag: "witness_crystallized"
-    label: "Witness Identity"
-    description: "Whether the Witness has crystallized into a named entity"
-    booleanValues:
-      true: "Echo Emerged"
-      false: "Nameless"
+  - var: "threshold_reached"
+    label: "Perception Threshold"
+    description: "Whether Aleksy has reached his perception threshold"
+    ranges:
+      - min: 0
+        max: 0
+        label: "Not Reached"
+      - min: 1
+        max: 10
+        label: "Threshold Reached"
 
-  - flag: "guard_crystallized"
-    label: "Guard Identity"
-    description: "Whether the Guard has crystallized into a named entity"
+  - flag: "stay_choice"
+    label: "Stay Choice"
+    description: "Whether Aleksy chose to stay with Mira"
     booleanValues:
-      true: "Identity Formed"
-      false: "Nameless"
+      true: "Chose to Stay"
+      false: "Did Not Stay"
+
+  - flag: "shift_choice"
+    label: "Shift Choice"
+    description: "Whether Aleksy chose to shift to new version"
+    booleanValues:
+      true: "Chose to Shift"
+      false: "Did Not Shift"
+
+  - flag: "identity_crystallization"
+    label: "Identity Crystallization"
+    description: "Whether identity has crystallized after threshold"
+    booleanValues:
+      true: "Crystallized"
+      false: "Not Crystallized"
+
+  - flag: "convergence_complete"
+    label: "Convergence Complete"
+    description: "Whether the convergence phase is complete"
+    booleanValues:
+      true: "Complete"
+      false: "Incomplete"

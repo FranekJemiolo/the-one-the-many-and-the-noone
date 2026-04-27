@@ -4,43 +4,31 @@ An interactive narrative exploring the nature of reality, interpretation, and id
 
 ## About the Book
 
-You are an investigator of anomalies, drawn into a mystery that begins with strange reports from a seemingly ordinary building. As you dig deeper, you discover that reality itself is fracturing—not into chaos, but into multiple incompatible layers, each one equally true.
+You are Aleksy Wrona, a person with unusual perception who experiences multiple versions of reality. When your perception becomes impossible to ignore, you find yourself fighting for your right to exist in a world that insists reality must be singular.
 
-The building is a testing ground for a fundamental conflict between two approaches to reality: **The Engine**, which seeks to compress all interpretations into a single coherent narrative, and **The Resistance**, which fights to preserve multiplicity by allowing incompatible truths to coexist.
+The story follows your journey from discovery through legal battle, from threshold choice to convergence, from personal transformation to the restructuring of reality itself. Along the way, you must navigate your relationship with Mira—your emotional anchor whose developing perception creates a timing mismatch that threatens to pull you apart—and seek guidance from Sava Illich, an independent researcher who understands what you're becoming.
 
-As you navigate this conflict, you will encounter entities that exist between realities, witness the crystallization of identity from pure potential, and ultimately participate in choosing the final configuration of reality itself.
+At the threshold, you must make a choice: stay in this version with Mira, risking instability to preserve your connection, or shift to a version where multiplicity is the norm, finding belonging at the cost of physical proximity. Either choice leads to a life where you become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
 
-The story explores philosophical questions about the nature of truth, the value of contradiction, and whether reality must be singular or can genuinely be multiple.
+The story explores philosophical questions about the nature of identity, the value of connection, and whether reality must be singular or can genuinely be multiple. It's about the freedom to choose—and the responsibility to live with that choice.
 
 ## Main Characters
 
-- **The Witness (You)**: An investigator of anomalies who discovers that reality is fracturing into multiple layers. Your choices will determine which interpretation layer becomes dominant and how the conflict between singularity and multiplicity is resolved.
+- **Aleksy Wrona (You)**: The protagonist. A person with unusual perception who experiences multiple versions of reality. You represent the causal perspective—trained to seek linear truth through precise chronological sequences and unbroken chains of cause and effect. Your journey from discovery through legal battle to threshold choice drives the narrative.
 
-- **Aleksy**: One of the two original witnesses whose incompatible testimony first revealed the anomaly. Aleksy represents the causal perspective—trained to seek linear truth through precise chronological sequences and unbroken chains of cause and effect. As the story progresses, Aleksy becomes a champion of the Engine's compression approach, believing that reality must be singular to be meaningful.
+- **Mira**: Your emotional anchor and love interest. Mira represents the emotional perspective—trusting intuition and feeling over linear logic, believing that emotional truth is equally valid regardless of timing. As the story progresses, Mira's developing perception creates a timing mismatch that threatens to pull you apart, forcing you to make a difficult choice at the threshold.
 
-- **Mira**: The second original witness whose emotional account contradicted Aleksy's causal sequence. Mira represents the emotional perspective—trusting intuition and feeling over linear logic, believing that emotional truth is equally valid regardless of timing. As the story progresses, Mira becomes a champion of the Resistance's multiplicity approach, believing that reality contains multiple truths that cannot be reduced to a single narrative.
+- **Dr. Kaczmarek**: An ally within the system who believes in understanding. He works for the institution that seeks to suppress unusual perception, but he goes against his employers to support your journey. He believes your perception is real and is willing to help you find answers.
 
-- **Marcus**: A building maintenance worker with twenty years of experience who has witnessed the growing anomalies firsthand. He becomes an ally in the investigation, providing practical knowledge of the building's strange history.
-
-- **Vance**: A mysterious figure who operates in the gaps between realities. She offers training in temporal navigation and access to layers of reality that normal perception cannot reach.
-
-- **Rose**: A vast presence that manifests as the coherence field itself—the force that allows incompatible truths to coexist without collapse. Rose represents the philosophy of plural stability, preserving multiplicity through stabilization rather than compression.
-
-- **The Engine**: An interpretive system that seeks to compress reality into singular coherence. The Engine represents the philosophy of singular stability, eliminating contradiction to achieve absolute clarity.
-
-- **The Resistance**: A distributed network of consciousnesses that preserves multiplicity by deliberately injecting contradiction into reality. The Resistance is not an organization but a method—a practice of refusing compression.
-
-- **Null Child**: An entity that exists in zones where interpretation fails completely. Null Child represents the void—the absence of interpretation and the peace that comes from the elimination of meaning.
-
-- **Echo, Barrier, Archive, Drift**: Crystallized identities that emerge from pure potential as the story progresses. Each represents a different aspect of the system's adaptation to multiplicity.
+- **Sava Illich**: An independent researcher who understands what you're becoming. Sava becomes your guide through the threshold, helping you understand your perception, navigate the choice to stay or shift, and live with the consequences. She represents the bridge between institutional knowledge and lived experience.
 
 ## Features
 
-- **Branching Narrative**: Create complex story graphs with conditional choices
+- **Branching Narrative**: Navigate complex story paths with conditional choices
 - **State Management**: Track variables, flags, and player progress
-- **Multiple Endings**: Five canonical endings based on your choices throughout the story
-- **Philosophical Depth**: Explore questions about truth, identity, and the nature of reality
-- **Character Development**: Build relationships with entities that exist between realities
+- **Resolution Paths**: Two main endings based on your threshold choice (stay or shift)
+- **Philosophical Depth**: Explore questions about identity, connection, and the nature of reality
+- **Character Development**: Build relationships with Mira, Dr. Kaczmarek, and Sava Illich
 
 ## Architecture
 
