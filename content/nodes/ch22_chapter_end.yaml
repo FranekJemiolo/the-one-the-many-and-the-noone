@@ -2,32 +2,42 @@ id: ch22_chapter_end
 content:
   - type: text
     value: |
-      You leave Geostation Three, the station continuing to operate in temporal multiplicity. The researchers move through temporal fields, accessing different moments without traversing the intervening sequence. The Guard checkpoints passengers across temporal versions, processing travelers who exist in multiple temporal states simultaneously.
-      The station has adapted completely to the collapse of linear time.
+      The chapter ends with your second meeting with Sava. She's shown you that your perception is accelerating toward a threshold—the point where you can choose which version of reality to inhabit.
+      If you asked about adaptation, you learned that the key is having an anchor—a home base in one version while visiting others as needed.
+      For you, that anchor is Mira. She's what makes this version feel like home.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a breakdown, not a failure of the station's systems. It is an evolution, a transformation into a different mode of existence. The station has adapted to temporal multiplicity and found a way to function within it.
-      The researchers have developed new protocols, new ways of thinking about causality that work in a temporal field rather than a temporal line.
+      If you asked about shifting, you learned that people choose based on comfort, connection, or purpose—what feels like home.
+      Shifting isn't death—it's relocation. The person still exists, just in a different version of reality.
+      But that doesn't make it easier for the people left behind.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear is unfounded. Temporal multiplicity is not chaos, not the breakdown of order into disorder. It is a different way of existing that the Engine cannot control, but that can function perfectly well.
-      The Engine's assumption that plural reality inevitably leads to collapse is proven wrong by the very existence of a functioning Geostation Three.
+      Either way, Sava is challenging you to think about where you belong. In this version, with Mira? Or in another version, where your perception is the norm?
+      The threshold is approaching. The choice will have to be made.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The collapse of linear time has not destroyed the station. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The station operates according to different principles, but it operates.
-      The transformation is successful, the adaptation complete.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's your reason to stay in this version, your connection to the life you've built.
+      But Sava is suggesting that staying might not be a choice you get to make.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the pattern for the system collapse phase. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
-      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
+      Dr. Kaczmarek is still your ally—connecting you with Sava, supporting your exploration, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part III. The legal battle is won, but the personal journey continues.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And Sava Illich is becoming a mirror—showing you what you're becoming, challenging you to think about where you belong.
 choices:
   - text: "Continue to Chapter 23"
     goto: chapter_23

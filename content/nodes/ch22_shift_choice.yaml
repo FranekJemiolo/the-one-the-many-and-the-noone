@@ -1,0 +1,33 @@
+id: ch22_shift_choice
+content:
+  - type: text
+    value: |
+      "Tell me about the choice to shift," you say. "How do people decide which version to make their home?"
+      Sava considers this. "Some choose based on comfort. They shift to the version where their perception is the norm, where they don't have to fight for their right to exist."
+      "Others choose based on connection. They shift to be with people they love, people who understand them in ways this version doesn't."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And others choose based on purpose. They shift to versions where they can do things they can't do here—where their perception is an asset rather than a liability."
+      She pauses. "The choice is personal. There's no right answer. But it's always driven by what feels like home."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happens to the people they leave behind?"
+      "In this version, they disappear. They're gone. But in the version they shift to, they're present. They're living their lives there."
+      She meets your eyes. "It's not death. It's relocation. The person still exists—just in a different version of reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "That doesn't make it easier for the people left behind."
+      "No. It doesn't. But it's not about making it easier. It's about finding where you belong."
+      She pauses. "The question is: where do you belong? In this version, with Mira? Or in another version, where your perception is the norm?"
+choices:
+  - text: "Continue to Chapter 23"
+    goto: ch22_chapter_end
+    set:
+      sava_relationship: 1
+      shift_interest: 1

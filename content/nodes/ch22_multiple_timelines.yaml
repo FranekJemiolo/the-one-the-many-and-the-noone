@@ -2,26 +2,39 @@ id: ch22_multiple_timelines
 content:
   - type: text
     value: |
-      You understand the multiple timelines, seeing how Geostation Three has adapted to the collapse of linear time. The station is not experiencing time incorrectly, not malfunctioning in its perception of temporal sequence.
-      It is experiencing time as a field of simultaneous possibilities, as a landscape where all moments coexist rather than a line where moments follow each other in sequence.
+      You begin meeting with Sava regularly. She wants to document your perception in detail, to understand how it develops over time.
+      "Your perception is evolving," she says during your second meeting. "The patterns are accelerating. The gaps between realities are widening."
+      "What does that mean?"
+      "It means you're getting closer to the threshold. The point where you can choose which version of reality to inhabit."
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a breakdown, not a failure of the station's temporal systems. It is an evolution, a transformation into a different mode of existence. The station has adapted to temporal multiplicity and found a way to function within it.
-      The researchers have developed new protocols, new ways of thinking about causality and sequence that work in a temporal field.
+      "I told you—I don't want to leave this version. Mira is here."
+      "I understand. But perception development doesn't respect our intentions. It follows its own patterns."
+      She shows you a chart. "These are the documented cases. Most reach the threshold within two years of initial onset. You're at eighteen months."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The researchers are not confused, not disoriented by the collapse of linear time. They are adapted, their consciousness restructured to accommodate temporal multiplicity. They move through temporal fields the way people in linear time move through temporal lines.
-      The adaptation is complete, the transformation successful.
+      "What happens at the threshold?"
+      "The multiplicity becomes fully accessible. You can see all versions simultaneously. You can move between them. You can choose which one to make your home."
+      She pauses. "Some people make the choice consciously. Others are pulled in by the version that feels most like home."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is what the Engine fears. Temporal multiplicity is not chaos, not the breakdown of order into disorder. It is a different way of existing that the Engine cannot control, a form of stability that does not require singularity.
-      The Engine's fear of multiplicity is based on the assumption that plural reality inevitably leads to collapse—but Geostation Three proves that plural reality can be stable.
+      "What happens to the people who stay?"
+      "They adapt. They learn to navigate the multiplicity without being overwhelmed by it. They become bridges between versions, able to access multiple realities while remaining anchored in one."
+      She meets your eyes. "That's the harder path. But it's also the more powerful one."
 choices:
-  - text: "Conclude the chapter"
-    goto: ch22_chapter_end
+  - text: "Ask about the adaptation process"
+    goto: ch22_adaptation_process
+    set:
+      sava_relationship: 1
+      adaptation_interest: 1
+  - text: "Ask about the choice to shift"
+    goto: ch22_shift_choice
+    set:
+      sava_relationship: 1
+      shift_interest: 1

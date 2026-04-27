@@ -1,0 +1,34 @@
+id: ch22_adaptation_process
+content:
+  - type: text
+    value: |
+      "Tell me about the adaptation process," you say. "How do people learn to navigate the multiplicity without being overwhelmed?"
+      Sava pulls another file from her stack. "It requires developing a new relationship with perception. Learning to see multiple realities without losing your anchor in one."
+      She opens the file. "The key is intentionality. You choose which version to prioritize, which version to make your home base."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But you can still access the others?"
+      "Yes. But you access them as a visitor, not as a resident. You maintain your primary residence in one version while visiting others as needed."
+      She pauses. "It's like having a home base and traveling to other places. You always return home, but you can visit other locations when you need to."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happens if you don't have a home base?"
+      "Then you become adrift. The multiplicity pulls you in different directions, and without an anchor, you can't maintain a coherent sense of self."
+      She meets your eyes. "That's what happened to the ones who broke. They couldn't establish a home base. They got lost in the multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "So the key is having an anchor."
+      "Exactly. And for you, that anchor is Mira."
+      She pauses. "She's your connection to this version. She's what makes this version feel like home. If you want to stay, you need to nurture that connection."
+choices:
+  - text: "Continue to Chapter 23"
+    goto: ch22_chapter_end
+    set:
+      sava_relationship: 1
+      adaptation_interest: 1
