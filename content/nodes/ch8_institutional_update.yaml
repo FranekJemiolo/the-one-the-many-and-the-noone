@@ -1,0 +1,46 @@
+id: ch8_institutional_update
+content:
+  - type: text
+    value: |
+      "I need to focus on the institutional situation," you say, pulling back from the emotional moment. "If termination is being discussed, I need to prepare for that possibility."
+      Mira nods, understanding your need to focus on the practical. "What do you need to do?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Document everything. Build a case. Prepare for the possibility that I'll need to find another job."
+      "And if Dr. Kaczmarek's offer is still on the table?"
+      "Then I need to decide whether to take it. Whether the risk of giving him information is worth the potential benefit of having an ally within the system."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira considers this. "I think you should take it. Not because you trust him, but because you need allies. Even allies you're not sure about."
+      She pauses. "But be careful. Document what you tell him. Keep records. Don't give him anything you can't afford to lose."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You nod. It's good advice. Practical, careful, exactly what you need right now.
+      The relationship between you is deepening, even if you're not putting it into words. The shared deja vu, the resonant perception, the way she anchors you while reality fractures—it's all there, building into something more than friendship.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'll call Dr. Kaczmarek tomorrow," you say. "Accept the partnership. But on my terms."
+      "What terms?"
+      "I'll document my perception, but I get copies of everything. I'll cooperate with tests, but I get to review the results before they go to HR."
+      She nods. "Good. Don't let him control the narrative."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The evening ends with a plan, with a way forward. The institutional pressure is still real, but you're not facing it blindly anymore.
+      You have Mira. You have a strategy. You have a chance.
+      And deep down, you know: whatever comes next, you'll face it together.
+choices:
+  - text: "Continue to Chapter 9"
+    goto: ch8_chapter_end
+    set:
+      dr_kaczmarek_trust: 45
+      institutional_pressure: 35

@@ -2,29 +2,49 @@ id: ch8_emotional_commitment
 content:
   - type: text
     value: |
-      "I commit to emotional resistance," you say, accepting the practice of preserving emotional multiplicity as part of your resistance to the Engine's compression.
-      The Passenger acknowledges your commitment. "This commitment will change how you experience emotions. You will become more aware of emotional multiplicity, more sensitive to contradiction, more capable of holding multiple feelings simultaneously."
+      The days following Dr. Kaczmarek's offer are tense. If you accepted the partnership, you're attending regular documentation sessions, tracking your perception, building a case for your value to the company.
+      If you refused, you're waiting for the other shoe to drop—knowing termination is being discussed, knowing the system is making moves.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The Engine will try to compress your emotional experience," the Passenger warns. "It will make singular feelings feel natural, multiple feelings feel wrong.
-      You will need to resist that bias, to trust emotional multiplicity even when it feels uncomfortable."
+      Through it all, Mira is your constant. She comes over every evening, reviews your documentation, offers perspectives you wouldn't have considered.
+      "You're doing the right thing," she says one night. "Whatever you chose, you're doing the right thing."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "I understand," you reply. "I've already experienced the Engine's bias in other domains. I know how it makes singularity feel natural.
-      I'm prepared to resist that bias in the emotional layer as well."
+      "I don't know that. If I accepted, I might be giving Dr. Kaczmarek information he'll use against me. If I refused, I might be throwing away my only chance at institutional support."
+      "You're making the best choice you can with the information you have. That's all anyone can do."
+      She pauses. "And you're not doing it alone."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "Then you are ready to begin," the Passenger says. "Continue developing emotional sensitivity. Perceive crystallizations. Communicate with the emotional resistance network.
-      Your practice will strengthen the network, and the network will support your practice."
+      The relationship between you is deepening. Not just friendship anymore—something more.
+      The shared deja vu from Chapter 5 changed things. The recognition that you're experiencing the same moment simultaneously, that your perceptions are resonating.
+      It created a bond that goes beyond ordinary connection.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't know what I'd do without you," you say.
+      "You'd survive. You're stronger than you think."
+      She meets your eyes. "But you wouldn't have anyone to remind you that you're not crazy. That what you're experiencing is real."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The moment feels significant. Like a threshold you're crossing together.
+      You want to say something—to put into words what's growing between you—but the words don't come.
+      Maybe they don't need to. Maybe she already knows.
 choices:
-  - text: "Return to analyzing emotional time with this commitment"
-    goto: ch8_emotional_inconsistency
+  - text: "Express your feelings to Mira"
+    goto: ch8_relationship_deepening
     set:
-      emotional_commitment: 1
-      network_joined: 1
+      mira_trust: 100
+      relationship_focus: true
+  - text: "Focus on the institutional situation"
+    goto: ch8_institutional_update
+    set:
+      institutional_pressure: 40

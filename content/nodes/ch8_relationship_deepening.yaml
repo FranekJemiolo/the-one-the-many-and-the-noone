@@ -1,0 +1,54 @@
+id: ch8_relationship_deepening
+content:
+  - type: text
+    value: |
+      "I think I'm falling in love with you," you say. The words come out before you can stop them, before you can second-guess yourself.
+      Mira doesn't react with surprise. Doesn't pull away. Just meets your eyes with a calm certainty that suggests she's been waiting for you to say this.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I know," she says. "I've known for a while."
+      "You have?"
+      "The way you look at me. The way you trust me. The way you let me see parts of yourself you don't show anyone else."
+      She pauses. "And the way I feel when I'm with you. Like I'm exactly where I'm supposed to be."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So you feel it too?"
+      "I've felt it since before the dreams. Since before the perception. Since before everything got complicated."
+      She takes your hands. "I love you, Aleksy. I have for a long time."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The words settle over you, warm and real. Not a revelation exactly—more like a confirmation of something you already knew.
+      You're in love with Mira. She's in love with you. And somehow, in the middle of reality fracturing around you, this feels like the most solid thing in the world.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Does this change anything?" you ask. "With everything that's happening—with my perception, with the institutional pressure, with Dr. Kaczmarek—does this change anything?"
+      "It changes everything," Mira says. "But not in the way you're worried about."
+      She squeezes your hands. "It means you're not facing this alone. It means we're in this together, not just as friends, but as partners."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Partners."
+      "Yes. Whatever comes next—termination, institutionalization, whatever the system throws at us—we face it together."
+      She pauses. "And if your perception continues to develop, if you continue to access multiple realities, then I'll be there to anchor you. To remind you who you are when reality tries to pull you apart."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You pull her into an embrace, and for the first time in weeks, you feel like you might actually be okay.
+      Not because the problems are solved. Not because the institutional pressure has disappeared.
+      But because you're not alone. Because you have someone who loves you, who believes in you, who will stand with you no matter what.
+choices:
+  - text: "Continue to Chapter 9"
+    goto: ch8_chapter_end
+    set:
+      mira_trust: 100
+      relationship_focus: true

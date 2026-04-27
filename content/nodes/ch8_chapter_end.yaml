@@ -2,32 +2,41 @@ id: ch8_chapter_end
 content:
   - type: text
     value: |
-      You arrive at your destination, the transport coming to a smooth halt at the station. The journey took forty minutes according to the clock, objective and unambiguous.
-      But emotionally, it was multiple journeys simultaneously—long and heavy in one iteration, short and light in another, as if the same duration contained multiple experiences of time.
+      The chapter ends with you and Mira in your apartment, the evening settling around you.
+      If you expressed your feelings, you've crossed a threshold—you're in love, and she loves you back. The relationship is now a partnership, not just friendship.
+      If you focused on the institutional situation, you've made a plan—you'll accept Dr. Kaczmarek's partnership on your terms, with conditions that protect you.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Passenger continues their transit, moving through the system with the ease of someone who has accepted the multiplicity of emotional time. They are not experiencing time incorrectly, not distorting reality through misperception.
-      They are experiencing emotional time as an independent system, valid in its own domain, operating according to principles that have nothing to do with clocks or objective measurement.
+      Either way, the relationship is deepening. The shared deja vu from Chapter 5 changed things—the recognition that you're experiencing the same moment simultaneously, that your perceptions are resonating.
+      It created a bond that goes beyond ordinary connection.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is how the Resistance operates—not by fighting causal time, not by denying the reality of objective measurement, but by expanding emotional time into a multiplicity system.
-      The Resistance ensures that emotional time remains independent, that the subjective experience of time is not collapsed into the objective measurement of time.
+      Mira is your anchor. The one who keeps you grounded while your perception fractures. The one who reminds you who you are when reality tries to pull you apart.
+      And now, possibly, the one you're building a life with.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The cracks continue to accumulate in the foundation of singular reality: memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory, compression pressure, contradiction injection, emotional time independence.
-      Each crack reveals another way reality can be multiple, another layer of truth that operates independently of the others.
+      The institutional pressure is still real. Dr. Kaczmarek is still a question mark. Termination is still being discussed.
+      But you're not facing it alone anymore. You have Mira. You have a plan. You have a chance.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Reality is not just breaking. It is revealing that time itself is multiple—causal time and emotional time, operating independently, each valid in its own domain, each describing a different aspect of how time is experienced.
-      The assumption that time must be singular, that objective and subjective time must agree, is being shattered by the very experience of living through multiple temporal realities.
+      This is the deepening of relationship building. The foundation for what comes next.
+      Whatever the system throws at you, whatever challenges arise, you'll face them together.
+      And that might be enough to get you through this.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But with Mira by your side, you're starting to think that might be enough.
+      That who you are—fractured perception and all—might be worth loving.
 choices:
   - text: "Continue to Chapter 9"
     goto: chapter_9
