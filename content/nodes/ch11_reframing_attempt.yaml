@@ -1,0 +1,47 @@
+id: ch11_reframing_attempt
+content:
+  - type: text
+    value: |
+      "How do we frame it as an asset?" you ask. "How do we make the company see this as beneficial rather than threatening?"
+      Dr. Kaczmarek considers this. "We need to demonstrate value. We need to show that your perception can do things normal people can't. That it can solve problems that normal perception can't."
+      He pauses. "What can you do that normal people can't?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can perceive multiple timelines. I can access memories from other versions of myself. I can feel the gaps between realities."
+      "Can you use those abilities to solve problems? To make predictions? To find solutions that normal perception would miss?"
+      You think about this. "Maybe. If I had the right context. If I understood what the company needed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then that's our strategy," Dr. Kaczmarek says. "We document your abilities. We demonstrate their value. We show the company that you're not a risk—you're a resource."
+      He looks at Mira. "And we need to document the resonance too. Show that it's not uncontrolled spreading, but selective connection. That it's a feature, not a bug."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira nods. "I can help with that. I've been documenting everything—the deja vu, the shared memories, the way the resonance feels."
+      "Good. Between the three of us, we might be able to build a case."
+      He closes his notebook. "This will take time. We'll need to be methodical. We'll need to be thorough."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving his office, you feel cautiously optimistic. The strategy makes sense—frame your perception as an asset rather than a threat, demonstrate value rather than risk.
+      But you also feel the weight of what you're up against. The company's primary concern is stability. If they see you as destabilizing, they will act.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira takes your hand. "We can do this. We can make them see the value."
+      "I hope so."
+      "I know so. Because your perception is valuable. It's real. It matters."
+      She smiles. "And I'm not going to let them erase you."
+choices:
+  - text: "Continue to Chapter 12"
+    goto: ch11_chapter_end
+    set:
+      dr_kaczmarek_trust: 85
+      institutional_pressure: 30

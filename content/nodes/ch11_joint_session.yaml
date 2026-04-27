@@ -1,0 +1,49 @@
+id: ch11_joint_session
+content:
+  - type: text
+    value: |
+      The joint documentation session takes place in Dr. Kaczmarek's office. You and Mira sit together, holding hands, while Dr. Kaczmarek takes notes.
+      "Tell me about the resonance," he says to Mira. "When did it start? What does it feel like?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "It started after Aleksy told me about the dreams," Mira says. "At first it was just deja vu—moments that felt familiar in a way that went beyond ordinary recognition."
+      "Then it got stronger. Shared memories. The sense that I was living through moments that had already happened. Perceiving things I shouldn't be able to perceive."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Dr. Kaczmarek writes this down, his expression thoughtful. "And the shared deja vu from Chapter 5? When you both experienced the same moment simultaneously?"
+      "That was the turning point," Mira says. "After that, the resonance became constant. I feel like I'm perceiving multiple versions of reality now, just like Aleksy."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is significant," Dr. Kaczmarek says. "If Aleksy's perception is transferable, if it can affect the people around him, then we're dealing with something fundamentally different than a single-person anomaly."
+      He looks at you. "This changes the institutional calculation. If your perception can spread, the company may view you as a risk rather than an asset."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What does that mean?"
+      "It means they may want to contain you. Isolate you. Prevent you from affecting other people."
+      He pauses. "I need to be honest with you, Aleksy. This complicates my ability to advocate for you. The company's primary concern is stability. If you're a destabilizing force, they will act to neutralize that threat."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira squeezes your hand. "We're not letting them isolate him. We're not letting them contain him."
+      "I understand your position. But you need to understand theirs. From their perspective, Aleksy is a risk. A person whose perception can spread, affecting the reality of everyone around him."
+      He meets your eyes. "We need to find a way to frame this as an asset rather than a threat. Otherwise, the institutional response will be severe."
+choices:
+  - text: "Work with Dr. Kaczmarek to reframe the perception as an asset"
+    goto: ch11_reframing_attempt
+    set:
+      dr_kaczmarek_trust: 80
+      institutional_pressure: 35
+  - text: "Prepare for institutional conflict, accept the risk"
+    goto: ch11_conflict_preparation
+    set:
+      institutional_pressure: 50
+      aleksy_detachment: 70

@@ -1,0 +1,46 @@
+id: ch11_conflict_preparation
+content:
+  - type: text
+    value: |
+      "If they're going to see me as a threat," you say, "then I need to prepare for that. I need to be ready for institutional conflict."
+      Dr. Kaczmarek nods. "That's a valid choice. But understand the risks. If the company decides to contain you, they have resources beyond what you can imagine."
+      "I'm not going to let them isolate me. I'm not going to let them erase who I am."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then you need to be strategic," he says. "You need to document everything. You need to build alliances. You need to have a plan for when they make their move."
+      He pauses. "I can help with that. I can warn you when the company is planning something. I can give you time to prepare."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Why would you help me if I'm preparing for conflict with the company?"
+      "Because I believe in understanding," he says. "Because I believe that your perception is real, that it's valuable, that it deserves to be studied rather than suppressed."
+      He meets your eyes. "And because I've seen what happens to people like you when the system decides they're a threat. I don't want that to happen to you."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Leaving his office, you feel the weight of what's coming. Institutional conflict is inevitable. The company will make a move. You need to be ready.
+      But you also feel grateful—grateful that Dr. Kaczmarek is willing to help, even if you're preparing to fight the system he works for.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira takes your hand. "We'll be ready. Whatever they throw at us, we'll be ready."
+      "I know."
+      She squeezes your hand. "And remember: you're not alone. You have me. You have Dr. Kaczmarek. You have allies."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You nod. She's right. You're not facing this alone.
+      But deep down, you know: institutional conflict is dangerous. The system has resources. The system has power.
+      And if you lose, the consequences will be severe.
+choices:
+  - text: "Continue to Chapter 12"
+    goto: ch11_chapter_end
+    set:
+      dr_kaczmarek_trust: 70
+      institutional_pressure: 55

@@ -2,32 +2,45 @@ id: ch11_chapter_end
 content:
   - type: text
     value: |
-      You leave the memory sanctuary, the boundaries of the constructed space fading as you return to the world outside. The contradictory memories remain inside, coexisting without conflict, demonstrating that the system can hold incompatible truths without breaking.
-      The sanctuary has shown you a different way of being with memory, a different approach to contradiction that does not require elimination.
+      The chapter ends with you leaving Dr. Kaczmarek's office, the joint documentation session complete.
+      If you chose to reframe your perception as an asset, you're cautiously optimistic—Dr. Kaczmarek has a strategy, a way to demonstrate value rather than risk.
+      But you also know the company's primary concern is stability. If they see you as destabilizing, they will act.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Sister Lys continues her work, maintaining the space where contradictory memories can coexist. She is not fighting the Engine's compression, not directly opposing Seraph Kline's enforcement of singularity.
-      She is providing an alternative: stabilization instead of elimination, coexistence instead of compression, a different way of achieving stability that does not require the elimination of multiplicity.
+      If you chose to prepare for institutional conflict, you're bracing for what's coming—you know the company will make a move, you know you need to be ready.
+      But you're also grateful for Dr. Kaczmarek's help, for his willingness to warn you even if you're preparing to fight the system.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the Resistance's method in practice. Not by attacking singularity, not by fighting the Engine directly, but by building spaces where multiplicity can exist without collapsing.
-      The Resistance does not need to destroy the Engine's approach—it simply needs to demonstrate that there is another way, that stability can be achieved through plural order rather than singular order.
+      Either way, the resonant perception is real. Mira is experiencing it too. The perception is spreading, affecting the people around you.
+      This changes the institutional calculation. You're no longer just a single-person anomaly—you're a potential vector for spreading multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The sanctuary is a microcosm of what the world could be if Rose's field became dominant: contradictory truths coexisting without conflict, complexity preserved instead of reduced, multiple versions of the past accessible without requiring elimination.
-      It is a preview of a reality where multiplicity is not a problem to be solved but a feature to be embraced.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's not just experiencing the resonance—she's embracing it, standing with you, refusing to let the system isolate you.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is another piece of the puzzle. The Engine wants compression, wants to eliminate multiplicity to achieve stability. Sister Lys offers stabilization, wants to preserve multiplicity to achieve a different kind of stability.
-      The conflict is not between order and chaos—it is between two different ways of handling multiplicity, two different approaches to achieving stability in a fundamentally plural reality.
+      Dr. Kaczmarek is becoming more than just a question mark—he's an ally, whether you're reframing or preparing for conflict.
+      He believes in understanding. He believes your perception is real. He's willing to help, even if it means going against the system he works for.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the escalation of Part II. The perception is spreading. The institutional pressure is intensifying. The choices are becoming more consequential.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But with Mira by your side and Dr. Kaczmarek in your corner, you're starting to think that who you are might be worth fighting for.
 choices:
   - text: "Continue to Chapter 12"
     goto: chapter_12

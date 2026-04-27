@@ -2,23 +2,46 @@ id: ch11_network_connection
 content:
   - type: text
     value: |
-      You accept the connection to the sanctuary network, feeling the network recognize you as an ally.
-      The connection is not verbal or physical—it's interpretive, a sense that the network is now aware of you and will provide support when you need it.
+      The weeks following the first documentation session settle into a rhythm. Weekly meetings with Dr. Kaczmarek, documenting your dreams, tracking your perception, building a case for your value to the company.
+      The institutional pressure eases slightly—HR is less concerned now that you're cooperating with a psychiatrist, less likely to push for termination.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The network will now appear to you when you have contradictory memories that need stabilization," Lys explains. "You will sense the sanctuary's presence as an interpretive space where your memories can be held."
-      "You will not need to seek it out. It will find you when you need it."
+      But your perception continues to develop. The dreams are getting more vivid. The temporal perception is getting more pronounced. The gaps between realities are getting wider.
+      And Mira is starting to experience the resonant effects more frequently—deja vu, shared memories, the sense that she's living through moments that have already happened.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "In return," she continues, "the network may occasionally request your assistance. When the sanctuary needs energy support, when the network needs temporal perception, when memory reconciliation requires enhanced capabilities."
-      "Your support will be voluntary, but the network hopes you will choose to help when asked."
+      "It's getting stronger," she says one evening. "The resonance. I feel like I'm perceiving things I shouldn't be able to perceive."
+      "I know. I'm sorry."
+      "Don't apologize. This isn't your fault. But we need to figure out what's happening before it gets worse."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You call Dr. Kaczmarek the next day. "It's spreading. My perception is affecting Mira. She's experiencing resonant effects."
+      "That's significant," he says. "If your perception is transferable, if it can affect the people around you, that changes everything."
+      "What do I do?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We need to document this. We need to understand how the resonance works, what triggers it, whether it can be controlled."
+      He pauses. "I want to meet with Mira too. To document her experience directly."
+      "She'll agree. She's been documenting everything."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The meeting is scheduled for the following week. Mira is nervous but willing.
+      "If this helps us understand what's happening, I'm in," she says. "Whatever it takes."
+      You squeeze her hand. "Together."
+      "Always together."
 choices:
-  - text: "Agree to help the network when asked"
-    goto: ch11_network_agreement
+  - text: "Continue with the joint documentation session"
+    goto: ch11_joint_session
     set:
-      network_connection: 1
-      agreement_made: 1
+      dr_kaczmarek_trust: 75
+      mira_resonance: 1
