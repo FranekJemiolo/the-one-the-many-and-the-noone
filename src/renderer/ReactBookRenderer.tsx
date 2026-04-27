@@ -515,7 +515,7 @@ export const ReactBookRenderer: React.FC<ReactBookRendererProps> = ({
 
         {/* End of Book - Show State Summary Button */}
         {(() => {
-          const isEndingsChapter = currentChapterId === 'chapter_endings';
+          const isEndingsChapter = currentChapterId === 'chapter_endings' || currentChapterId === 'chapter_47';
           console.log('[ReactBookRenderer] End of book check:', {
             choicesLength: choices.length,
             hasStateMappings: !!stateMappings,
