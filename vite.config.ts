@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/interactive-book-engine/',
+  base: '/the-one-the-many-and-the-noone/',
   build: {
     outDir: 'dist',
     sourcemap: true,
