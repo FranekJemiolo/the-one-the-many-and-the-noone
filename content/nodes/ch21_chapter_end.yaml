@@ -2,32 +2,40 @@ id: ch21_chapter_end
 content:
   - type: text
     value: |
-      You leave the conflict zone, the oscillation between Rose's coexistence and Nemesis's compression continuing in your absence. The tension between the two interpretation engines has become visible, active, and increasingly intense.
-      The zone is being pulled in two directions simultaneously, the system straining under the competing demands of incompatible approaches.
+      The chapter ends with your first meeting with Sava Illich. She's documented cases like yours—people with unusual perception who are accessing multiple versions of reality.
+      If you asked about other cases, you learned that some adapted, some broke, some shifted to alternate versions where their perception is the norm.
+      You're not alone. You're not the first. You won't be the last.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the beginning of the system collapse phase. The conflict between interpretation systems is no longer contained, no longer a subtle tension that can be managed through careful balance.
-      It is becoming visible and active, a direct confrontation that is reshaping reality.
+      If you asked about future implications, you learned that your perception will continue to develop, that eventually you'll have the ability to choose which version of reality to inhabit.
+      Sava warned that perception development doesn't respect our choices—it follows its own patterns.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the inevitable consequence of the stalemate. The system cannot oscillate indefinitely between coexistence and compression, cannot maintain the tension between incompatible approaches without eventually breaking down.
-      Something will break, the oscillation will fail, and the system will be forced to choose.
+      Either way, the meeting has opened new possibilities. Sava is a mirror—someone who understands your perception from the inside, who can help you navigate what's coming.
+      She's not a psychiatrist, not bound by institutional frameworks. She's an independent researcher who studies unusual perception without bias.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The next chapters will show how this break manifests. Geostation collapse, the fixed points of reality breaking down. Identity fragmentation, the self dissolving under the pressure of incompatible interpretations.
-      Emotional-causal split becoming permanent, the two approaches to interpretation separating into distinct layers that can no longer communicate. The system is moving toward a point where oscillation is no longer possible.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's your reason to stay in this version, your connection to the life you've built, the person who makes you want to fight for your right to exist here.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not the end. This is the beginning of the collapse that will force the system to choose between incompatible realities, that will break the stalemate and create a new configuration of interpretation.
-      The system cannot maintain the tension indefinitely—something must give.
+      Dr. Kaczmarek is still your ally—connecting you with Sava, supporting your exploration, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the beginning of Part III. The legal battle is won, but the personal journey continues.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And Sava Illich has entered your life—a mirror who can help you understand what you're becoming.
 choices:
   - text: "Continue to Chapter 22"
     goto: chapter_22

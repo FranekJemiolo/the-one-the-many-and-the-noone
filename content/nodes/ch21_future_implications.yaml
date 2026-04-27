@@ -1,0 +1,34 @@
+id: ch21_future_implications
+content:
+  - type: text
+    value: |
+      "What does this mean for my future?" you ask. "Where does this go?"
+      Sava considers this. "Your perception will continue to develop. The multiplicity will become more accessible. The gaps between realities will widen."
+      She pauses. "Eventually, you'll reach a point where you can choose which version of reality to inhabit."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Choose?"
+      "Reality is multiple. Your perception is developing to access that multiplicity. At some point, you'll have the ability to shift between versions—to choose which reality to make your home."
+      "This isn't theory. I've documented cases where people made that choice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't want to leave this version. Mira is here. My life is here."
+      "I understand. But you should know it's an option. Not a failure—a choice."
+      She meets your eyes. "The question isn't whether you'll have the ability. The question is whether you'll want to use it."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I don't think I will. I fought for my right to exist in this version. I'm not going to abandon it now."
+      "That's a valid choice. But perception development doesn't respect our choices. It follows its own patterns."
+      She pauses. "When the time comes, you may feel differently. Or you may not. Either way, you should be prepared."
+choices:
+  - text: "Continue to Chapter 22"
+    goto: ch21_chapter_end
+    set:
+      sava_introduction: 1
+      future_concern: 1

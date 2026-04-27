@@ -1,0 +1,34 @@
+id: ch21_other_cases
+content:
+  - type: text
+    value: |
+      "What other cases have you documented?" you ask.
+      Sava pulls a file from her stack. "Over the past decade, I've documented forty-seven cases of unusual perception. Yours is the forty-eighth."
+      She opens the file. "Most follow similar patterns. Animal POV dreams. Temporal perception. Access to alternate selves. Resonant perception spreading to close contacts."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What happened to the others?"
+      "Some adapted. Some broke. Some disappeared."
+      She pauses. "The ones who adapted learned to integrate their perception into their lives. The ones who broke couldn't handle the multiplicity—their sense of self fractured under the pressure of incompatible realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And the ones who disappeared?"
+      "They're still here. But they're not in this version of reality anymore. They shifted to alternate versions where their perception is the norm."
+      She meets your eyes. "That's a possibility for you too. If this version becomes too hostile, you could shift to a version where you belong."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I don't want to leave this version. Mira is here. My life is here."
+      "I understand. But you should know it's an option. Not a failure—a choice."
+      She closes the file. "The point is: you're not alone. You're not the first. You won't be the last."
+choices:
+  - text: "Continue to Chapter 22"
+    goto: ch21_chapter_end
+    set:
+      sava_introduction: 1
+      research_interest: 1

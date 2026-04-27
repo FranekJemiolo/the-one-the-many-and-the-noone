@@ -2,29 +2,37 @@ id: ch21_nemesis_origins
 content:
   - type: text
     value: |
-      "Who is Nemesis?" you ask, wanting to understand the nature of this compression field that opposes Rose's stabilization.
-      The answer emerges from the conflict itself: Nemesis is not a separate entity, not an individual with a distinct identity. Nemesis is the compression field itself, the force that makes singularity feel natural and correct.
+      The meeting with Sava Illich takes place in her office—a converted warehouse space filled with books, papers, and artifacts from years of research.
+      She's younger than you expected, with sharp eyes and an intensity that suggests she's seen things most people haven't.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Nemesis is the Engine's preference given form," you realize. "Just as Rose is the coherence field that allows contradictions to coexist, Nemesis is the compression field that forces contradictions into singularity."
-      "Both are structural features of reality, manifestations of the two approaches to stability."
+      "Aleksy Wrona," she says, shaking your hand. "Dr. Kaczmarek told me about your case. Your legal victory is significant."
+      "It established rights. But it didn't give me answers."
+      "No. The law can protect you, but it can't explain you. That's what I'm here for."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Nemesis is not malicious," you observe. "Like Rose, Nemesis is simply what exists when the system operates according to a particular approach to stability."
-      "Nemesis is not trying to destroy multiplicity out of malice—it is simply the manifestation of the system's preference for singularity."
+      She gestures to a chair. "Tell me about your perception. The dreams. The animal POV. The temporal perception."
+      You tell her everything—the hunt, the escape, the alternate selves, the resonant perception spreading to Mira.
+      She listens, taking notes, her expression thoughtful.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is a profound insight: the conflict is not between good and evil, not between a benevolent force and a malicious one. It is between two different approaches to stability, both valid in their own domains, both describing genuine aspects of how reality can be organized.
-      Rose and Nemesis are mirror images of each other, each representing a different way of achieving order in a multiple reality.
+      "This is consistent with other cases I've documented," she says when you finish. "Your perception is developing along predictable patterns. You're accessing multiple versions of reality, experiencing them as memory rather than imagination."
+      "What does that mean?"
+      "It means reality is multiple, and your perception is evolving to access that multiplicity. You're not broken—you're evolving."
 choices:
-  - text: "Ask if the conflict can be mediated"
-    goto: ch21_conflict_mediation
+  - text: "Ask about other cases she's documented"
+    goto: ch21_other_cases
     set:
-      nemesis_origins_known: 1
-      mediation_interest: 1
+      sava_introduction: 1
+      research_interest: 1
+  - text: "Ask about what this means for your future"
+    goto: ch21_future_implications
+    set:
+      sava_introduction: 1
+      future_concern: 1
