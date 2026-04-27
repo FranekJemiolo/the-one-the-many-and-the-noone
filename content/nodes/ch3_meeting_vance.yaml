@@ -1,0 +1,65 @@
+id: ch3_meeting_vance
+content:
+  - type: text
+    value: |
+      Mira arranges the meeting. Vance doesn't have an office, doesn't have a phone number, doesn't have a fixed location.
+      "She exists in the gaps," Mira explains. "You have to know where to look."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The meeting place is an abandoned warehouse on the edge of the city. Industrial, decaying, the kind of place where normal people don't go.
+      But as you approach, you feel something—a sense of spatial expansion, as if the building is larger on the inside than it appears from the outside.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira leads you through a door that shouldn't exist, into a space that feels like it's between other spaces.
+      Vance is waiting. She's difficult to look at directly—as if your eyes slide off her, as if she exists partially in a dimension you can't quite perceive.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Aleksy Wrona," she says. Her voice seems to come from everywhere at once. "Mira told me about your dreams. About the memories you're accessing."
+      "You know what they are?"
+      "I know what they could be. I know what they might mean. But I need to see for myself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She steps closer—or she seems to, though the distance doesn't actually change.
+      "You're developing temporal perception. The ability to perceive multiple timelines simultaneously. The ability to access memories from other versions of yourself."
+      She pauses. "This is rare. Most people can't do this. Most people's minds are too rigid, too committed to a single version of reality."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Is it dangerous?"
+      "Everything is dangerous. Living is dangerous. Developing abilities that normal people don't have is especially dangerous."
+      She studies you. "But you're already doing it. The question isn't whether it's dangerous. The question is whether you want to learn to control it, or whether you want it to control you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What would the training involve?"
+      "Learning to perceive the structural gaps between realities. Learning to navigate the void where normal rules don't apply. Learning to understand why you're accessing these memories and what they mean."
+      She pauses. "It will take time. Weeks. Maybe months. And it will change you. Once you can see the gaps, you can never unsee them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You look at Mira. She's watching you, her expression serious but supportive.
+      She's the one who brought you here. She's the one who believes in you.
+      If you do this, you're not just changing yourself—you're changing your relationship with her, with reality, with everything.
+choices:
+  - text: "Commit to the training"
+    goto: ch3_training_begins
+    set:
+      layer_training_commitment: 1
+      vance_mentor: 1
+      aleksy_fracture_level: 50
+      mira_trust: 85
+  - text: "Ask for more time to decide"
+    goto: ch3_clock_inconsistency
+    set:
+      layer_training_deferred: 1

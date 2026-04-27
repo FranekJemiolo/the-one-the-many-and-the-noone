@@ -1,0 +1,62 @@
+id: ch3_training_begins
+content:
+  - type: text
+    value: |
+      "I'll do it," you say. "I want to understand what's happening to me."
+      Vance nods—as much as she can nod, given the difficulty of looking at her directly.
+      "Good. Then we begin now."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training is unlike anything you've experienced. It's not intellectual—it's perceptual.
+      Vance teaches you to feel the gaps between realities, to sense where one timeline ends and another begins.
+      It's like learning to see a new color, or hear a new sound—something that was always there but you never noticed before.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Close your eyes," she says. "Feel the space around you. Not the physical space—the temporal space."
+      You try. At first, you feel nothing. Just the normal sensation of being in a room.
+      But then—something. A sense of expansion. A feeling that the space around you is larger than it should be.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "That's it," Vance says. "You're feeling the gap. The space between this version of reality and the next."
+      She pauses. "Most people can't feel this. Their minds are too rigid, too committed to a single version of reality. But you... you have flexibility. You can perceive multiple versions simultaneously."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The training continues for hours. By the time you finish, you're exhausted—mentally, emotionally, physically.
+      But you can feel it now. The gaps. The spaces between realities. The places where one timeline ends and another begins.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting when you emerge from the warehouse. She looks at you, her expression concerned.
+      "How was it?"
+      "Exhausting. But... I can feel it now. The gaps. The spaces between realities."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "And the dreams?"
+      "I don't know yet. Vance says the training will help me understand them. Help me control them instead of them controlling me."
+      She nods slowly. "Good. But be careful, Aleksy. This changes things. Once you can see the gaps, you can never unsee them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I know."
+      "Do you? Because this isn't just about understanding your dreams. This is about perceiving reality differently than everyone else. That's... isolating."
+      She takes your hand. "I'll be here. Whatever happens. I'm not going anywhere."
+choices:
+  - text: "Continue the training program"
+    goto: ch3_chapter_end
+    set:
+      layer_training_commitment: 1
+      vance_mentor: 1
+      aleksy_fracture_level: 55
+      mira_trust: 90

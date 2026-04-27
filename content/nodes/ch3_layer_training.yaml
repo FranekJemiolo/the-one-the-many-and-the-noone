@@ -2,53 +2,58 @@ id: ch3_layer_training
 content:
   - type: text
     value: |
-      "Train me to access the organization's layer," you say, accepting the risk to gain the ability to investigate the entity behind the anomalies.
-      Vance considers this, then nods slowly. "It's possible, but it will require extensive training. You'll need to develop abilities beyond simple temporal navigation."
+      A week passes. The dreams continue—sometimes every night, sometimes skipping a day.
+      Each dream is different, but they all share the same quality: the feeling that you're remembering something that wasn't human, accessing memories from other versions of yourself.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The organization operates in the gaps between realities," she explains. "To access their layer, you need to learn to perceive not just multiple timelines, but the structural gaps between them.
-      You need to develop the ability to navigate the void between realities, where normal rules don't apply."
+      You've been documenting everything. The patterns are becoming clearer.
+      Predator dreams and prey dreams. Hunting and being hunted. Moments that shift, emotions that anticipate events.
+      Your mind is accessing something real, something structured, something that operates by rules you don't understand.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Vance begins advanced training, teaching you techniques for perceiving the structural gaps between realities. The training is more difficult than temporal navigation, requiring you to perceive something that shouldn't exist—the spaces between different versions of reality.
+      Mira has been helping. She comes over most evenings, reviews your documentation, offers perspectives you wouldn't have considered.
+      "You're not just having dreams," she says one evening. "You're developing a new kind of perception. A way of seeing reality that most people don't have access to."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "You're making progress," she says after hours of practice. "You can feel the gaps now. You can sense where one reality ends and another begins.
-      But accessing the organization's layer requires more than perception—it requires the ability to enter those gaps and navigate them."
+      "Perception of what?"
+      "Of the gaps. The spaces between different versions of reality. The places where one timeline ends and another begins."
+      She pauses. "I know someone who might be able to help you understand this better. Someone who operates in those gaps."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "What happens if I enter the gaps?" you ask.
-      "You'll be in a space where normal causality doesn't apply," Vance warns. "Time may not flow linearly. Space may not follow normal geometry.
-      The organization uses these gaps for communication and coordination, protected by the very properties that make them inaccessible."
+      "Who?"
+      "Vance. She's... difficult to describe. She exists between realities, in a way. She teaches people how to navigate the gaps."
+      Mira studies your face. "It would be training. Extensive training. Weeks, maybe months. But if you want to understand what's happening to you, she might be the only one who can explain it."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The training will take weeks," she says. "Maybe months. Are you prepared to commit that much time to developing abilities that might make you a target of the organization?"
-      This is a significant commitment. Developing these abilities would require dedicating yourself to training, with the risk that the organization will notice your growing capabilities.
+      "Training to do what?"
+      "To perceive the structural gaps between realities. To navigate the void where normal rules don't apply. To understand why you're accessing these memories and what they mean."
+      She pauses. "But it's dangerous. The organization that operates in those gaps... they notice when people develop these abilities. You could become a target."
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You think about Aleksy and Mira. Aleksy would be skeptical of this training—he would want concrete evidence that the organization exists and is responsible for the anomalies before committing to such a dangerous path.
-      Mira would be more open to it, trusting your intuition about the gaps between realities, but she would worry about the personal cost of spending months in training.
+      You consider this. The dreams are getting more vivid. The patterns more clear. Whatever is happening to you, it's not going away on its own.
+      You could ignore it, try to suppress it, pretend it's not real.
+      Or you could learn to understand it, develop the ability to navigate it, figure out what it means.
 choices:
-  - text: "Commit to the full training program"
-    goto: ch3_advanced_training
+  - text: "Commit to the training with Vance"
+    goto: ch3_meeting_vance
     set:
       layer_training_commitment: 1
       vance_mentor: 1
-      long_term_training: 1
-  - text: "Postpone advanced training for now"
+      aleksy_fracture_level: 45
+  - text: "Decline for now, continue documenting on your own"
     goto: ch3_clock_inconsistency
     set:
       layer_training_deferred: 1
-      immediate_focus: 1
+      aleksy_detachment: 30

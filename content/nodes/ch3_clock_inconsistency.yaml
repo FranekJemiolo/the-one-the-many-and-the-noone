@@ -2,42 +2,57 @@ id: ch3_clock_inconsistency
 content:
   - type: text
     value: |
-      You stand before the clock array in the central monitoring station, three digital displays mounted side by side on the wall, each one showing a different sequence of time.
-      All three clocks are calibrated to the same standard, synchronized to the same reference signal, maintained by the same engineering protocols. Yet they show different sequences.
+      You decide not to commit to the training—not yet. You need more time to understand what's happening to you before you let someone like Vance reshape your perception.
+      Mira respects your decision, though you can tell she's disappointed. "Just... keep documenting. Keep watching for patterns. If it gets worse, reconsider."
   - type: pause
     duration: 800
   - type: text
     value: |
-      Clock A displays a linear progression: 14:03 → 14:05 → 14:07. Normal. Expected. This is how time should behave, moving forward in consistent increments.
-      Watching this clock, you feel a momentary reassurance, as if this one display represents how time is supposed to work.
+      The next day at work, you notice something strange. The clock on your wall—the one you've looked at a thousand times—seems to be behaving differently.
+      Not malfunctioning. Not broken. Just... different. As if time itself is operating by rules you never noticed before.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Clock B tells a different story: 14:04 → 14:03 → 14:06. The sequence reverses briefly, jumping backward one minute before continuing forward.
-      The reversal is not a glitch—the clock does not flicker or reset. It simply shows 14:03 after showing 14:04, as if this sequence is perfectly valid.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      Clock C is stranger still: 14:05 → 14:05 → 14:05. It remains stuck on one moment for three cycles, then jumps forward to 14:08 as if the intervening minutes never happened.
-      The clock is not frozen—it is actively displaying the same time repeatedly, as if that moment is being experienced multiple times before moving on.
+      You watch it for an hour. The hands move normally, the seconds ticking forward in the expected sequence.
+      But sometimes—just for a moment—the time seems to stutter. To hesitate. To exist in two states simultaneously before choosing one.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The engineer explains with a calm that disturbs you: "The clocks are not malfunctioning. They are measuring time differently. As if time itself has multiple valid sequences in this location.
-      Each clock is receiving the same time signal, but the interpretation of that signal produces different temporal sequences depending on which clock is doing the interpreting."
+      You check your phone. The time there matches the wall clock—most of the time.
+      But occasionally, there's a discrepancy. A second here, a minute there. Small differences that resolve themselves before you can be sure you actually saw them.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You check the calibration logs yourself, looking for the technical explanation that would make sense of this. All three clocks are receiving the same time signal from the same source.
-      They are not malfunctioning, not receiving corrupted data, not experiencing hardware failure. They are interpreting the same signal differently, as if the signal contains multiple valid temporal sequences.
+      This is new. The dreams were one thing—memories from other versions of yourself. But this is different.
+      This is your perception of time itself changing. The way you experience the present moment shifting.
+      If time is operating by rules you don't understand, then what else is different? What else have you been perceiving wrong your entire life?
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You call Mira during your lunch break. "I think time is behaving differently around me."
+      "How?"
+      "Stuttering. Hesitating. Existing in two states at once."
+      Silence on the line. Then: "That's temporal perception, Aleksy. That's what Vance was talking about."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I thought I had more time."
+      "You don't. Whatever is happening to you, it's accelerating. The dreams are getting more vivid. Now time is behaving differently. What's next?"
+      She pauses. "I think you need to reconsider the training. Before this gets beyond your ability to control."
 choices:
-  - text: "Speak with the station Guard"
-    goto: ch3_guard_interaction
-  - text: "Review researcher reports"
-    goto: ch3_researcher_reports
+  - text: "Reconsider and contact Vance"
+    goto: ch3_meeting_vance
     set:
-      aleksy_dominance: 1
+      layer_training_commitment: 1
+      vance_mentor: 1
+      aleksy_fracture_level: 50
+  - text: "Continue trying to handle it on your own"
+    goto: ch3_chapter_end
+    set:
+      aleksy_detachment: 35
+      layer_training_deferred: 1

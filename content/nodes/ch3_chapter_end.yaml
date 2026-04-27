@@ -2,26 +2,38 @@ id: ch3_chapter_end
 content:
   - type: text
     value: |
-      Your transport departs Geostation Three, the station receding in the viewport as you accelerate away, continuing its work in multiple timelines simultaneously.
-      From this distance, the station looks normal, a speck of light against the darkness of space, but you know now that it contains multiple temporal realities folded into the same physical location.
+      The week ends with you sitting in your apartment, the documentation spread out before you.
+      Dreams of hunting and being hunted. Memories from other versions of yourself. Time stuttering, hesitating, existing in two states at once.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You look at your own watch, the display showing a single sequence of time moving forward in linear progression. For now, at least, your personal timeline remains singular.
-      But you know this is a choice, not a necessity. Time could be multiple if you allowed it, if you opened yourself to the possibility of experiencing multiple sequences simultaneously.
+      If you committed to Vance's training, you can feel the gaps now—the spaces between realities, the places where one timeline ends and another begins.
+      It's a new kind of perception, one that changes how you see everything.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The cracks are accumulating in the foundation of your understanding. Memory divergence, where multiple versions of the same moment coexist. Emotional-causal split, where different ways of experiencing the present operate independently.
-      Temporal instability, where multiple timelines exist simultaneously. Reality is not just broken—it is reconfiguring itself into something plural, something that contains multiple layers of truth.
+      If you deferred the training, you're still noticing the temporal anomalies. The clock on your wall behaving differently. Time operating by rules you don't understand.
+      Whatever is happening to you, it's not going away. It's getting stronger.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira has been with you through all of this—helping you document, offering perspectives, supporting you even when you tried to push her away.
+      She's the anchor keeping you grounded while your perception of reality fractures.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The cracks are accumulating in the foundation of your understanding. Memory divergence, where multiple versions of the same moment coexist. Emotional-causal split, where feelings operate independently of events.
+      Temporal instability, where time itself behaves differently. Reality is not just broken—it is reconfiguring itself into something plural.
   - type: pause
     duration: 800
   - type: text
     value: |
       You don't know what the next crack will be, what new form of multiplicity will reveal itself. But you know it's coming. The pattern is clear: each anomaly reveals a new way reality can be multiple.
-      The question is no longer whether reality is singular. The question is how many versions it can sustain before the system cannot hold them all.
+      The question is no longer whether reality is singular. The question is how many versions of Aleksy Wrona can exist before the system cannot hold them all.
 choices:
   - text: "Continue to Chapter 4"
     goto: chapter_4
