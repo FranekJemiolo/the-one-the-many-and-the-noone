@@ -1,0 +1,40 @@
+id: ch20_sava_meeting
+content:
+  - type: text
+    value: |
+      "I'll meet her," you say. "I want to understand my perception better."
+      "Good. I'll arrange it. Sava Illich. Independent researcher. Studies unusual perception without institutional bias."
+      The meeting is set for the following week.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich meets you in a small office in a converted warehouse. The space is cluttered with books, papers, artifacts—evidence of years of research.
+      She's younger than you expected, with sharp eyes and an intensity that suggests she's seen things most people haven't.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Aleksy Wrona," she says, shaking your hand. "Dr. Kaczmarek told me about your case. Your legal victory is significant."
+      "It established rights. But it didn't give me answers."
+      "No. The law can protect you, but it can't explain you. That's what I'm here for."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      She gestures to a chair. "Tell me about your perception. The dreams. The animal POV. The temporal perception."
+      You tell her everything—the hunt, the escape, the alternate selves, the resonant perception spreading to Mira.
+      She listens, taking notes, her expression thoughtful.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is consistent with other cases I've documented," she says when you finish. "Your perception is developing along predictable patterns. You're accessing multiple versions of reality, experiencing them as memory rather than imagination."
+      "What does that mean?"
+      "It means reality is multiple, and your perception is developing to access that multiplicity. You're not broken—you're evolving."
+choices:
+  - text: "Continue to Part III"
+    goto: ch20_chapter_end
+    set:
+      dr_kaczmarek_trust: 95
+      sava_introduction: 1

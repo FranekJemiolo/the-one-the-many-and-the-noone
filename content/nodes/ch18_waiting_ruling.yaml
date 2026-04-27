@@ -1,0 +1,32 @@
+id: ch18_waiting_ruling
+content:
+  - type: text
+    value: |
+      You focus on the bigger picture. Mira is right—you've already forced the company to expose their process, to turn over internal documents, to reveal evidence of bias.
+      That's a victory regardless of the ruling.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The legal battle has changed you. You're more resilient now, more aware of your rights, more committed to fighting for the right to exist as who you are.
+      Your perception continues to develop, but you're integrating it into your life rather than letting it consume you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Two weeks after the motion is filed, the ruling arrives. The court grants the motion for summary judgment in your favor.
+      The evidence of bias is sufficient to show that the company discriminated against you based on your perception.
+      Elena calls immediately. "We won. The case is over. You've prevailed."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You feel a surge of relief, followed by disbelief. After months of legal battle, after invasive discovery, after uncertainty and anxiety—you've won.
+      The company will have to pay damages. They'll have to change their policies. They'll have to accommodate people with unusual perceptions.
+      You've set a precedent.
+choices:
+  - text: "Continue to Chapter 19"
+    goto: ch18_chapter_end
+    set:
+      legal_conflict: 1
+      case_won: 1

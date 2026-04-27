@@ -2,29 +2,46 @@ id: ch20_aleksy_approach
 content:
   - type: text
     value: |
-      You approach Aleksy about developing the possibility engine, explaining that a third interpretation engine might stabilize the oscillation between causal and emotional states.
-      Aleksy listens, his expression skeptical but attentive.
+      The final chapter of Part II brings reflection on everything that has happened.
+      You look back at the journey—from the first dreams, to meeting Mira, to Dr. Kaczmarek's involvement, to the legal battle, to the victory that established your rights.
+      It's been a long road, and you're not the same person who started it.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Possibility interpretation is not causal interpretation," Aleksy objects. "It focuses on what could happen rather than what did happen. This dilutes the importance of actual causal sequence."
-      "If we allow possibility interpretation, we're accepting that what might have happened is as important as what actually happened."
+      "You've changed," Mira observes one evening. "You're more confident. More sure of who you are."
+      "I had to be. The system tried to erase me. I had to fight back."
+      She nods. "And you won. But the fighting changed you too."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "But the current oscillation is unsustainable," you argue. "The system cannot maintain the tension between causal and emotional interpretation indefinitely."
-      "A third engine might provide the stability needed to prevent collapse."
+      "Is that bad?"
+      "No. It's necessary. Survival requires change."
+      She takes your hand. "But don't lose the parts of yourself that made you worth fighting for. The kindness. The curiosity. The capacity to love."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Aleksy considers this. "If the alternative is system collapse, then possibility interpretation might be acceptable as a stabilizing measure."
-      "But I will not accept possibility interpretation as equal to causal interpretation. Causal sequence must remain primary, with possibility interpretation serving a secondary role."
+      You think about this. The legal battle made you stronger, more resilient, more aware of your rights.
+      But it also made you more guarded, more strategic, more willing to see the world in terms of allies and adversaries.
+      You don't want to lose the parts of yourself that made you worth fighting for.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Dr. Kaczmarek calls to check in. "How are you doing after the victory?"
+      "Still processing. It feels significant, but also like there's more to come."
+      "There always is. Perception doesn't stop developing just because you've won a legal battle."
+      He pauses. "The offer to meet Sava Illich still stands. If you change your mind."
 choices:
-  - text: "Accept Aleksy's condition and begin possibility training"
-    goto: ch20_possibility_training
+  - text: "Accept the offer to meet Sava Illich"
+    goto: ch20_sava_meeting
     set:
-      aleksy_approach: 1
-      training_chosen: 1
+      dr_kaczmarek_trust: 95
+      sava_introduction: 1
+  - text: "Decline, focus on life with Mira without further exploration"
+    goto: ch20_life_focus
+    set:
+      aleksy_detachment: 50
+      mira_trust: 100

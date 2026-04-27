@@ -2,32 +2,46 @@ id: ch18_chapter_end
 content:
   - type: text
     value: |
-      You leave the expanding Clarity zone, the boundaries of singular interpretation continuing to grow across the system. The Engine's enforcement is increasing, singularity becoming the default in more areas of the system.
-      The expansion is systematic, targeted, and increasingly difficult to resist through normal means.
+      The chapter ends with the court granting your motion for summary judgment. You've won the case.
+      The evidence of bias was sufficient to show that the company discriminated against you based on your perception.
+      The company will have to pay damages, change their policies, and accommodate people with unusual perceptions.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Seraph Kline continues her work, maintaining and expanding the Clarity zones. She is not malicious, not acting out of desire for control. She genuinely believes she is preserving the system, that singularity is necessary for survival.
-      But she is refusing to acknowledge that multiplicity can be stable, insisting that the Engine's fear of plural reality is justified despite evidence to the contrary.
+      If you focused on the bigger picture during the waiting period, you recognize that you've already won something important—you've forced the company to expose their process, to reveal evidence of bias, to make it harder for them to do this to someone else.
+      The legal victory is significant, but the systemic change matters more.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the conflict is escalating. The Engine is expanding Clarity zones, systematically restructuring reality to make multiplicity impossible. The Resistance will need to respond, will need to expand contradiction injection to counter the Engine's compression.
-      The system is moving toward confrontation, the two approaches to stability becoming increasingly incompatible.
+      If you focused on strategic planning, your contingency planning paid off—you were already prepared for victory, ready to move forward with the next phase.
+      The legal battle is over, but the work of systemic change continues.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is the end of the interpretation systems emergence phase. The Engine, Rose, the Resistance, Sister Lys, Kai Rosen, Morrow Vale, Dr. Koval, Seraph Kline—all have appeared, each representing a different approach to handling multiplicity.
-      The full landscape of interpretation systems has been revealed, the different ways reality can be multiple now visible.
+      Either way, you've set a precedent. The law now protects people with unusual perceptions. Companies can no longer discriminate based on how someone experiences reality.
+      This is a victory not just for you, but for anyone who doesn't fit into the system's requirements.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next phase will be system collapse. The conflict between compression and multiplicity will intensify, the two approaches to stability becoming increasingly incompatible. Reality will begin to break down into multiple incompatible layers.
-      The system cannot sustain both approaches indefinitely—something will have to give.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's celebrating with you, reminding you that this victory is shared—that you fought together, won together.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Dr. Kaczmarek is still your ally—providing expert testimony, documenting your case off the books, going against the system he works for.
+      He risked his position to help you, and that risk paid off. The precedent you've set will make it easier for people like you to get the support they need.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      This is the climax of Part II. The legal battle is won. The precedent is set.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And you're starting to realize: this fight was never just about your perception. It was about the right to exist as who you are in a system that demands conformity.
 choices:
   - text: "Continue to Chapter 19"
     goto: chapter_19

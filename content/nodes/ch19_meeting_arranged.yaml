@@ -1,0 +1,36 @@
+id: ch19_meeting_arranged
+content:
+  - type: text
+    value: |
+      "I'll meet them," you say. "I want to understand my perception better."
+      "Good. I'll arrange it. Her name is Sava Illich. She's been studying unusual perception for years, documenting cases like yours."
+      "Is she a psychiatrist?"
+      "No. She's a researcher. Independent. Outside the institutional framework."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Why independent?"
+      "Because the institutional framework is designed to pathologize unusual perception. Sava wanted to study it without that bias."
+      He pauses. "She might be able to help you understand your perception in a way that I couldn't. Without the medical framework, without the disability narrative."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The meeting is arranged for the following week. Mira is curious but cautious.
+      "Another person to study your perception," she says. "Are you sure about this?"
+      "I want to understand. I want answers."
+      "Just be careful. Don't let anyone else define you."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I won't. This time, I'm going in with my eyes open. I'm not going to let anyone pathologize me."
+      She nods. "Good. Because you're not broken. You're different. And that's not the same thing."
+      The meeting with Sava Illich looms ahead—a new chapter in understanding your perception, a new potential ally or adversary.
+choices:
+  - text: "Continue to Chapter 20"
+    goto: ch19_chapter_end
+    set:
+      dr_kaczmarek_trust: 90
+      sava_introduction: 1

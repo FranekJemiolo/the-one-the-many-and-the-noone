@@ -2,35 +2,43 @@ id: ch19_oscillation_phenomenon
 content:
   - type: text
     value: |
-      "Study the oscillation phenomenon," you decide, wanting to understand the mechanics of how reality shifts between singular and multiple states.
-      You focus your temporal perception on an oscillating zone, observing the cycle of compression and contradiction injection. The zone shifts before your eyes, reality itself flickering between states.
+      The aftermath of the legal victory is strange. You expected to feel triumphant, to feel a sense of final closure.
+      Instead, you feel hollow. The battle is over, but the war continues—the war for your right to exist as who you are in a world that still doesn't understand your perception.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The oscillation follows a predictable pattern. The Engine establishes singularity, compressing the zone to eliminate multiplicity. The zone remains singular for a period, stable under the Engine's enforcement.
-      Then the Resistance injects contradiction, reintroducing multiplicity. The zone shifts to multiple interpretations, maintaining this state until the Engine responds with renewed compression.
+      The damages payment is substantial. You could live comfortably for years. But money doesn't change how people see you. It doesn't change the fact that your perception is still developing, still becoming more complex.
+      The legal victory established rights, but it didn't change reality.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The oscillation period is accelerating," you observe, alarm rising in your voice. "Initially, each state lasted for hours. Now, the states shift every few minutes."
-      "The conflict is intensifying, the system becoming more unstable as the oscillation frequency increases. People in these zones must be experiencing disorientation on a massive scale."
+      Mira is celebrating, but she senses your ambivalence. "You won. You should be happy."
+      "I am happy. But I also feel... unfinished. Like this was just one battle in a longer war."
+      She nods. "Because it was. The legal battle is over, but the personal journey continues."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This suggests the stalemate is not sustainable. As the oscillation accelerates, the system will eventually reach a point where it cannot maintain the conflict between the two states.
-      Something will break, forcing a resolution. The question is what will break—and what the resolution will look like when it comes.
+      Dr. Kaczmarek calls to congratulate you. "This is a significant victory. The precedent you've set will help countless people."
+      "I know. But I still feel like there's more to understand about my perception. More to figure out."
+      "There always is. Perception isn't static. It develops. It evolves. The legal victory gave you rights, but it didn't give you answers."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The implications are terrifying. If the oscillation becomes too rapid, the zone could experience a catastrophic collapse where neither state can establish itself. Reality itself could shatter in that zone, leaving nothing but void.
-      You need to predict when this will happen—and whether there's any way to prevent it.
+      He pauses. "If you want to continue exploring your perception, I can help. Off the books, outside the legal framework. Just research, understanding, exploration."
+      "I'm interested. What did you have in mind?"
+      "There's someone I want you to meet. Someone who experiences reality differently than most people. Someone who might help you understand what you're going through."
 choices:
-  - text: "Predict when the oscillation will become unsustainable"
-    goto: ch19_oscillation_prediction
+  - text: "Agree to meet Dr. Kaczmarek's contact"
+    goto: ch19_meeting_arranged
     set:
-      oscillation_phenomenon: 1
-      prediction_chosen: 1
+      dr_kaczmarek_trust: 90
+      sava_introduction: 1
+  - text: "Decline, focus on personal healing after the legal battle"
+    goto: ch19_healing_focus
+    set:
+      aleksy_detachment: 60
+      mira_trust: 100

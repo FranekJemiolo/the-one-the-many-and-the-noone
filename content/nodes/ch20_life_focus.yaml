@@ -1,0 +1,38 @@
+id: ch20_life_focus
+content:
+  - type: text
+    value: |
+      "I need to focus on my life with Mira," you tell Dr. Kaczmarek. "The legal battle is over. I want to move forward, not keep exploring my perception."
+      "I understand. The offer remains open if you change your mind."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Hanging up, you feel a sense of closure. The legal battle is won. The precedent is set. You have financial security.
+      Now you can focus on what matters—your relationship with Mira, building a future together, living without constant conflict.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira is supportive. "I'm glad you're choosing this. We've been fighting for so long. We deserve peace."
+      "I don't know if I'll ever have complete peace. My perception is still developing."
+      "Then we'll face that together too. Whatever comes next, we'll handle it together."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      She takes your hand. "I love you, Aleksy. Not despite your perception. Because of it. Because it's part of who you are."
+      "I love you too."
+      The words feel different now—more certain, more grounded, more real.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the victory you fought for—not just legal rights, but the right to exist as who you are, to love and be loved, to build a life without constant conflict.
+      The legal battle established your rights. Now you're establishing your life.
+choices:
+  - text: "Continue to Part III"
+    goto: ch20_chapter_end
+    set:
+      aleksy_detachment: 50
+      mira_trust: 100

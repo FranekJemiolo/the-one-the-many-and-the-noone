@@ -1,0 +1,37 @@
+id: ch19_healing_focus
+content:
+  - type: text
+    value: |
+      "I need time to heal," you tell Dr. Kaczmarek. "The legal battle was exhausting. I need to focus on myself, on my relationship with Mira, on living without constant conflict."
+      "I understand. Take the time you need. The offer remains open if you change your mind."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Hanging up, you feel a sense of relief. The legal battle is over. You have the financial security to take time for yourself.
+      You can focus on healing, on integrating your perception into your life, on building a future with Mira.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira is supportive. "I'm glad you're choosing to focus on healing. You've been fighting for so long. You deserve peace."
+      "I don't know if I'll ever have peace. My perception is still developing. But I can at least have a break from the fighting."
+      She takes your hand. "We'll figure it out together. Whatever comes next, we'll face it together."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The days that follow are focused on healing. You spend time with Mira, walking in the park, cooking together, just being together without the pressure of legal strategy or institutional conflict.
+      Your perception continues to develop, but you're learning to live with it, to integrate it into your daily life rather than letting it consume you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is a different kind of victory—not the triumph of winning a legal battle, but the peace of choosing yourself over the fight.
+      The legal battle established your rights. Now you're establishing your autonomy, your right to choose your own path forward.
+choices:
+  - text: "Continue to Chapter 20"
+    goto: ch19_chapter_end
+    set:
+      aleksy_detachment: 50
+      mira_trust: 100

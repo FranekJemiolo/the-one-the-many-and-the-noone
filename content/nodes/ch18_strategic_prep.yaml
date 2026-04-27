@@ -1,0 +1,33 @@
+id: ch18_strategic_prep
+content:
+  - type: text
+    value: |
+      You prepare for both outcomes. If the court grants the motion, you'll have won the case. If it denies it, you'll proceed to trial.
+      Elena approves. "Good thinking. Strategic planning is essential."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Two weeks after the motion is filed, the ruling arrives. The court grants the motion for summary judgment in your favor.
+      The evidence of bias is sufficient to show that the company discriminated against you based on your perception.
+      Elena calls immediately. "We won. The case is over. You've prevailed."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You feel a surge of relief, followed by focus. Your contingency planning paid off—you're already prepared for what comes next.
+      The company will have to pay damages. They'll have to change their policies. They'll have to accommodate people with unusual perceptions.
+      You've set a precedent.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is huge," Elena says. "Not just for you, but for anyone who perceives reality differently. You've established that the law protects people like you."
+      "I didn't do it alone. I had help. I had allies."
+      "And that matters too. This victory shows what's possible when people fight together."
+choices:
+  - text: "Continue to Chapter 19"
+    goto: ch18_chapter_end
+    set:
+      legal_conflict: 1
+      case_won: 1

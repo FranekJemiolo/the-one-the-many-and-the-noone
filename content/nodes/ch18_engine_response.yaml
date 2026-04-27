@@ -2,29 +2,38 @@ id: ch18_engine_response
 content:
   - type: text
     value: |
-      You observe the Engine's response to the central zone conversion, watching how the system reacts to the disruption of its enforcement strategy.
-      The Engine does not accept the conversion passively—it responds with intensified enforcement, attempting to re-establish singularity in the central zone.
+      Discovery continues for months. The legal battle is grueling, consuming your days with document review, depositions, and strategic planning.
+      But discovery also reveals something significant: the company's internal communications show they discussed termination before your official evaluation.
+      Elena believes this is evidence of bias, of pre-judgment, of discrimination.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The Engine is counterattacking," the Resistance reports. "It's deploying maximum enforcement to the central zone, trying to reverse the contradiction injection."
-      "The zone is under intense pressure to return to singularity."
+      "This changes everything," she says. "If they made up their mind before the evaluation, then the evaluation was a sham. They were looking for justification, not conducting a genuine assessment."
+      "Can we use this?"
+      "We can try. We'll file a motion for summary judgment, arguing that the evidence of bias is so strong that the case should be decided without a trial."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "We need to reinforce the central zone," you realize. "The contradiction must be maintained despite the Engine's counterattack."
-      "If the zone returns to singularity, the entire operation will be reversed."
+      The motion is filed. The company opposes it, arguing that the evidence is circumstantial, that the timing doesn't prove bias.
+      The judge will decide. This could end the case in your favor—or it could prolong the legal battle even further.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Resistance agrees. "We'll deploy additional resources to reinforce the central zone, maintaining the contradiction despite the Engine's pressure."
-      "This will require sustained effort, but the zone is worth defending."
+      The waiting is agonizing. Every day you check for the ruling, every day there's nothing.
+      Mira helps you stay grounded. "Whatever happens, you've already won something important."
+      "What?"
+      "You've forced them to turn over their internal documents. You've exposed their process. You've made it harder for them to do this to someone else."
 choices:
-  - text: "Support reinforcing the central zone"
-    goto: ch18_zone_reinforcement
+  - text: "Wait for the ruling, focus on the bigger picture"
+    goto: ch18_waiting_ruling
     set:
-      engine_response: 1
-      reinforcement_chosen: 1
+      legal_conflict: 1
+      perspective_shift: 1
+  - text: "Prepare for both outcomes, continue strategic planning"
+    goto: ch18_strategic_prep
+    set:
+      legal_conflict: 1
+      strategic_thinking: 1
