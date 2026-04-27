@@ -1,0 +1,37 @@
+id: ch14_letter_response
+content:
+  - type: text
+    value: |
+      You decide to respond to the letter. It feels important to maintain the connection, to acknowledge the kindness even if it doesn't change what happened.
+      "Thank you for reaching out," you write. "It means a lot to know that you tried to advocate for me. I appreciate your support."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't know what comes next. Legal action, or moving on, or something else entirely. But whatever happens, I wanted you to know that I valued working with you too."
+      You sign the letter and send it, feeling a small sense of closure.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira approves. "That was the right choice. Maintaining human connections matters, even in the middle of institutional conflict."
+      She pauses. "It reminds you that not everyone is the enemy. That there are good people within the system who just got caught up in something bigger than them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I know. But it doesn't change the fact that the system is still the enemy."
+      "No. But it changes how you fight it. You're not fighting faceless institutions anymore. You're fighting a system that contains people like your supervisor—people who tried to help, people who care."
+      She takes your hand. "That matters."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You nod. She's right. The letter humanizes the conflict. It reminds you that the system is made of people, not just faceless bureaucracy.
+      And that changes how you feel about fighting back. It's not about destroying the system anymore. It's about changing it.
+choices:
+  - text: "Continue to Chapter 15"
+    goto: ch14_chapter_end
+    set:
+      institutional_pressure: 50
+      human_connection: 1

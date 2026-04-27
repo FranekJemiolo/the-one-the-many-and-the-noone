@@ -1,0 +1,57 @@
+id: ch13_legal_strategy
+content:
+  - type: text
+    value: |
+      The attorney Dr. Kaczmarek connected you with is named Elena Vance—no relation to the Vance who trained you in temporal perception, or if there is, it's a coincidence you don't have time to investigate.
+      Elena is sharp, experienced, with a background in employment law and disability rights.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "This is an interesting case," she says, reviewing your documentation. "The company is framing you as a workplace hazard, but we can frame you as someone with a disability requiring accommodation."
+      "Is that how you want to frame it?"
+      "I don't want to be framed as disabled. My perception isn't a disability—it's a different way of experiencing reality."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I understand that. But legally, disability is the framework that gives us the most leverage. The Americans with Disabilities Act requires employers to provide reasonable accommodation for conditions that substantially limit major life activities."
+      She pauses. "Your perception—if it affects how you experience reality, how you interact with the world—could qualify."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I don't want to pathologize myself. I don't want to be labeled disabled just to get legal protection."
+      "Then we need another framework. Maybe discrimination based on unusual cognitive abilities. Maybe violation of privacy rights given the monitoring they're demanding."
+      She considers this. "But the disability framework is our strongest option. I want you to think about it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You leave the meeting conflicted. On one hand, using the disability framework feels like a betrayal of your perception—like accepting the system's narrative that you're broken.
+      On the other hand, it's the strongest legal option. It might be the only way to fight back effectively.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting outside. "How did it go?"
+      "She wants to frame me as disabled. To use the ADA as leverage."
+      "How do you feel about that?"
+      "I don't know. It feels like accepting their narrative. Like admitting there's something wrong with me."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Or it could be using their tools against them," she says. "Taking their framework and turning it to your advantage."
+      She takes your hand. "Whatever you decide, I support you. But remember: this isn't about who you are. It's about winning the fight."
+choices:
+  - text: "Accept the disability framework for legal leverage"
+    goto: ch13_chapter_end
+    set:
+      legal_conflict: 1
+      disability_framing: 1
+  - text: "Refuse, find another legal strategy"
+    goto: ch13_chapter_end
+    set:
+      legal_conflict: 1
+      self_acceptance: 1

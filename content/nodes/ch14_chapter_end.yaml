@@ -2,32 +2,40 @@ id: ch14_chapter_end
 content:
   - type: text
     value: |
-      You leave the administrative facility, the doors closing behind you as you return to the world where truth is expected to be absolute. Dr. Koval's controlled falsehood remains in the system, providing stability while the truth waits in the background.
-      The system continues to function, unaware that it is operating on a simplified version of reality rather than the full complexity of what actually happened.
+      The chapter ends with you reflecting on the letter from your former supervisor.
+      If you responded, you feel a sense of closure—a small human connection in the middle of institutional erasure.
+      It reminds you that the system is made of people, not just faceless bureaucracy. That changes how you feel about fighting back.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is a dangerous method. If the falsehoods become permanent, if the temporary compromises are never reversed, the truth will be lost. But Dr. Koval is careful, maintains precise control over the process.
-      She maintains the truth as an inactive layer, preserved even while it is not being actively used, ensuring that the falsehood never becomes permanent.
+      If you ignored the letter, you're focused on the legal fight—determined to win without compromise, but aware of Mira's warning about dehumanization.
+      Fighting the system can change you. It can make you see the other side as enemies rather than people.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is how the Resistance can work within the Engine's constraints. Not by fighting compression directly, not by opposing the Engine's preference for stability through open conflict.
-      By providing controlled compression that preserves multiplicity in the background, by satisfying the Engine's need for simplicity while keeping the complexity accessible.
+      Either way, the institutional conflict is established. The company has pushed you out, erased your presence, tried to control your narrative.
+      But you're still here. You still have allies. You still have the will to fight.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The interpretation engines are becoming clearer. The Engine wants compression, wants to eliminate multiplicity to achieve stability. Dr. Koval provides controlled compression, satisfies the Engine's need while preserving truth.
-      The Resistance preserves truth in the background, maintains multiplicity even while the system operates on simplified versions of reality.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's reminding you to maintain your humanity, to remember that the system is made of people, to not let the fight change who you are.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The conflict is not between truth and falsehood. It is between which interpretation is allowed to be active, which version of reality gets to shape the system's operation.
-      The Engine chooses simplicity, eliminates complexity to achieve stability. The Resistance preserves complexity, maintains multiplicity even when it cannot be actively processed.
+      Dr. Kaczmarek is still your ally—documenting your case off the books, connecting you with resources, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to risk his position to help you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part II escalation. The institutional conflict is humanized but unresolved.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And you're starting to realize: this fight is about more than your perception. It's about the right to exist as who you are in a system that demands conformity.
 choices:
   - text: "Continue to Chapter 15"
     goto: chapter_15

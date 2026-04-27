@@ -1,0 +1,48 @@
+id: ch13_personal_healing
+content:
+  - type: text
+    value: |
+      "I need to heal," you tell Dr. Kaczmarek. "I need to process what happened before I can think about fighting back."
+      "That's valid," he says. "Institutional erasure is traumatic. Being treated as a liability, having your existence erased—it takes a toll."
+      He pauses. "Take the time you need. Your case will still be here when you're ready."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The days that follow are focused on healing. You spend time with Mira, walking in the park, cooking together, just being together without the pressure of legal strategy or institutional conflict.
+      For the first time in weeks, you feel like yourself again—not as a liability, not as a risk, but as a person.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I missed this," you say one evening, as you're cooking dinner together. "Just being normal. Not thinking about perception or institutional pressure or legal battles."
+      "We can have this," Mira says. "Even with everything happening, we can still have moments like this."
+      She pauses. "But eventually, you'll need to decide what comes next. You can't hide from this forever."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I know. I'm just not ready yet."
+      "That's okay. Take the time you need. I'm not going anywhere."
+      She kisses you—soft, brief, full of love. "And when you are ready, we'll figure it out together."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      That night, you dream again—not about hunting or being hunted, but about the alternate self you saw in Chapter 9.
+      The version that faced the system alone. The version that was institutionalized, broken, erased.
+      But this time, the dream is different. This time, the alternate self looks at you and smiles.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You're doing better than I did," the alternate self says. "You have Mira. You have allies. You're not alone."
+      "I'm sorry for what happened to you."
+      "Don't be. My path led me here. Your path led you there. Neither is wrong. They're just different."
+      The dream fades, but the message remains: you're not alone, and that makes all the difference.
+choices:
+  - text: "Continue to Chapter 14"
+    goto: ch13_chapter_end
+    set:
+      aleksy_detachment: 50
+      mira_trust: 100

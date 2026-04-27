@@ -2,30 +2,44 @@ id: ch14_koval_method
 content:
   - type: text
     value: |
-      Dr. Koval explains her method, her voice calm as she describes an approach to truth that would be considered heretical in normal contexts. "The system cannot tolerate too much ambiguity. When truth is too complex, when the actual reality would cause the system to collapse, I provide a controlled falsehood that stabilizes the system."
-      She speaks as if this is the most natural thing in the world, as if managing truth is simply another form of system maintenance.
+      A week after you make your choice about legal strategy, you receive a letter from the company. It's not a legal document—it's a personal letter from your former supervisor.
+      "I wanted to reach out personally," she writes. "To say that I'm sorry about how this ended. I didn't want this to happen."
   - type: pause
     duration: 800
   - type: text
     value: |
-      She is not lying maliciously, not trying to deceive for personal gain or to hide wrongdoing. She is managing reality, making deliberate choices about which version of truth to allow into the system.
-      The falsehood is not random, not arbitrary—it is designed to produce system stability, to allow the system to continue functioning when the actual truth would be too complex to process.
+      "I tried to advocate for you. I tried to convince HR that you were an asset, not a liability. But they wouldn't listen. They were too focused on risk, too concerned about liability."
+      She pauses in the letter. "I don't know if this matters, but I wanted you to know. I respected your work. I still do."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The truth is still there," Dr. Koval says, and there is a certainty in her voice that suggests she has explained this many times. "It is just not the active interpretation. The system is running on the falsehood, but the truth remains accessible if needed.
-      I am not destroying truth. I am temporarily replacing it with something the system can handle."
+      You show the letter to Mira. "She tried to help."
+      "That's good. It means not everyone at the company saw you as a liability."
+      She pauses. "But it doesn't change what happened. They still pushed you out. They still erased you."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is a form of controlled distortion. Dr. Koval is not eliminating truth, not pretending that falsehood is reality. She is layering a stabilizing falsehood over a destabilizing truth, creating a temporary interpretation that allows the system to function.
-      The truth remains in the background, preserved even while it is not being actively used, accessible when the system is ready to handle its complexity.
+      "I know. But it helps to know that at least one person saw me as a person, not a risk."
+      You think about calling your former supervisor, but you don't. What would you say? What would it accomplish?
+      The letter is enough. It's a small kindness in the middle of institutional erasure.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Dr. Kaczmarek calls that evening. "I heard about the letter. It's good that someone reached out."
+      "It doesn't change anything."
+      "No. But it humanizes the conflict. It reminds you that the system is made of people, not just faceless institutions."
+      He pauses. "That's important. Because when you fight the system, it's easy to forget that there are real people on the other side."
 choices:
-  - text: "Understand truth as a variable"
-    goto: ch14_truth_as_variable
-  - text: "Ask about Koval's ethical framework"
-    goto: ch14_koval_ethics
+  - text: "Respond to the letter, maintain the connection"
+    goto: ch14_letter_response
     set:
-      ethics_interest: 1
+      institutional_pressure: 55
+      human_connection: 1
+  - text: "Ignore the letter, focus on the fight"
+    goto: ch14_fighting_focus
+    set:
+      institutional_pressure: 65
+      legal_conflict: 1

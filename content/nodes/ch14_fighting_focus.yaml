@@ -1,0 +1,39 @@
+id: ch14_fighting_focus
+content:
+  - type: text
+    value: |
+      You decide not to respond to the letter. It feels like a distraction—a small kindness that doesn't change the fundamental reality of what happened.
+      The system pushed you out. The system erased you. The system treated you as a liability. A letter from your supervisor doesn't change that.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira respects your choice. "If you want to focus on the fight, I support that. But don't lose sight of the human element."
+      "What human element? The system is the enemy."
+      "The system is made of people. Your supervisor tried to help. That matters."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "It doesn't change what happened."
+      "No. But it changes how you fight. If you forget that there are real people on the other side, you become something you don't want to be."
+      She meets your eyes. "Don't let the system turn you into something cruel."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You consider this. She's right—fighting the system can dehumanize the conflict, can make you see the other side as faceless enemies rather than real people.
+      But you also feel the anger, the injustice of being erased, the desire to fight back without compromise.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I'll try to remember that," you say finally. "But right now, I need to focus on the legal strategy. I need to figure out how to win."
+      "Then focus on winning. But don't lose yourself in the process."
+      She squeezes your hand. "I'm here to remind you who you are when the fight threatens to change you."
+choices:
+  - text: "Continue to Chapter 15"
+    goto: ch14_chapter_end
+    set:
+      institutional_pressure: 60
+      legal_conflict: 1

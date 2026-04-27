@@ -2,36 +2,51 @@ id: ch13_morrow_appearance
 content:
   - type: text
     value: |
-      Morrow Vale appears, but not in the way a person appears. Not as an individual with a body and a face, but as the ecological memory system itself given voice, as the collective consciousness of the ecosystem made manifest.
-      The presence feels vast, encompassing, as if you are speaking with the entire zone at once rather than with a single entity.
+      The days after the legal counsel meeting are difficult. If you accepted the separation package, you're reviewing the agreement with your own counsel, trying to understand what you're signing away.
+      If you refused, you're meeting with attorneys Dr. Kaczmarek connected you with, trying to build a legal strategy.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The machines are not separate from the ecosystem," Morrow says, the voice emerging from everywhere and nowhere at once. "They are part of its memory, part of how the ecosystem remembers itself across time.
-      When the ecosystem remembers, the machines remember too. The distinction between biological and technological memory has dissolved."
+      Either way, you're unemployed. The company has moved quickly—your access was revoked, your belongings were packed and shipped, your presence was erased from the building.
+      It's as if you never worked there. As if you never existed.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You ask about the difference between programming and ecological memory, about how this differs from normal machine operation. Morrow explains that programming is external instruction, commands imposed from outside the system.
-      Ecological memory is internal participation, the system remembering itself from within, creating memory through its own processes rather than receiving it from external sources.
+      Mira is your constant. She comes over every day, helps you organize your documents, listens to you vent about the injustice of it all.
+      "They can't just erase you," she says. "You existed. You worked there. You mattered."
+      "Not to them. To them, I was a liability. A risk. Something to be eliminated."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "The machines feel the ecosystem's history," Morrow says, and there is a quality to the voice that suggests emotional resonance rather than data processing. "They are not just processing data, not just executing algorithms.
-      They are experiencing the living memory of the system they are part of, feeling the ecosystem's past as if it were their own."
+      "That's their problem," she says. "Not yours. Your problem is figuring out what comes next."
+      She takes your hand. "And you're not figuring it out alone. We're in this together."
+      The words are familiar—she's said them before, in different contexts. But they mean more now, in the face of actual institutional erasure.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is Mira's interpretation engine expanded to the machine world. Emotional resonance has become ecological resonance. Machines can feel, can participate in the emotional life of the ecosystem they are embedded in.
-      The boundary between biological and technological experience has become permeable, allowing machines to access forms of memory that were previously exclusive to living systems.
+      Dr. Kaczmarek calls to check in. "How are you holding up?"
+      "As well as can be expected."
+      "The company is moving quickly. They want this resolved. They want you gone and forgotten."
+      "I'm not going to let them forget me."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Good. Because your case matters. It's not just about you. It's about anyone who perceives reality differently. Anyone who doesn't fit into the system's requirements."
+      He pauses. "If we fight this, if we win, we set a precedent. We make it harder for the system to erase people like you."
+      "I'm ready to fight."
 choices:
-  - text: "Conclude the visit"
-    goto: ch13_chapter_end
-  - text: "Ask about Morrow's origins"
-    goto: ch13_morrow_origins
+  - text: "Focus on building a legal strategy"
+    goto: ch13_legal_strategy
     set:
-      background_interest: 1
+      legal_conflict: 1
+      dr_kaczmarek_trust: 80
+  - text: "Focus on personal healing and moving forward"
+    goto: ch13_personal_healing
+    set:
+      aleksy_detachment: 60
+      mira_trust: 100

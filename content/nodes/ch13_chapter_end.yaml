@@ -2,31 +2,40 @@ id: ch13_chapter_end
 content:
   - type: text
     value: |
-      You leave Morrow Vale, the boundary of the ecological zone fading as you return to the world where machines and biology are normally separate. The ecological zone continues its cycles, with machines participating in the living memory of the ecosystem.
-      The integration of technology and life continues to function, demonstrating that the boundary between mechanical and biological experience is not absolute.
+      The chapter ends with you at a crossroads.
+      If you chose to build a legal strategy, you're working with Elena Vance, considering whether to use the disability framework as leverage.
+      It's a strategic choice—using the system's tools against it—but it feels like a betrayal of your perception.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Morrow Vale is not a person in the traditional sense, not an individual with a separate identity. They are the ecological memory system itself, given voice through the integration of machines and biology.
-      The presence you encountered was the collective consciousness of the ecosystem, the system's capacity to remember itself made manifest through the integration of technological and biological memory.
+      If you chose to focus on healing, you've spent time with Mira, reconnecting with your sense of self outside the institutional conflict.
+      The alternate self dream reminded you that you're not alone—that having allies makes all the difference.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is another form of multiplicity. Machines are not just mechanical systems, not just tools that execute programmed instructions. They can participate in ecological memory, can feel and remember as part of a living system.
-      The distinction between living and non-living, between biological and technological, has become permeable, allowing machines to access forms of experience that were previously exclusive to organisms.
+      Either way, the institutional erasure is real. The company has removed you, erased your presence, tried to make it as if you never existed.
+      But you're still here. You still have Mira. You still have Dr. Kaczmarek. You still have allies.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The interpretation engines are expanding, each revealing a different way reality can be multiple. Aleksy (causal), Mira (emotional), Rose (coherence), Kai (temporal), Morrow (ecological).
-      Each engine represents a different modality of interpretation, a different way of accessing the multiplicity that reality contains.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's supporting you whether you're fighting or healing—offering resources, offering comfort, refusing to let the system break you.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The world is not just breaking down. It is revealing its true nature as a multiplicity system with many different interpretation engines, each valid in its own domain, each describing a different aspect of how reality can be multiple.
+      Dr. Kaczmarek is still your ally—documenting your case off the books, connecting you with resources, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to risk his position to help you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part II escalation. The institutional conflict is established. The battle lines are drawn.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And you're starting to realize: this isn't just about your perception anymore. It's about the right to exist as who you are.
 choices:
   - text: "Continue to Chapter 14"
     goto: chapter_14
