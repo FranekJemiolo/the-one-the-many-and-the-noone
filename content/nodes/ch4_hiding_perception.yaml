@@ -1,0 +1,49 @@
+id: ch4_hiding_perception
+content:
+  - type: text
+    value: |
+      "I'll hide it," you say. "I'll get better at pretending. At acting normal."
+      Mira studies your face. "That's a choice. But it's going to be exhausting. You'll be constantly monitoring yourself, constantly suppressing what you're actually perceiving."
+      "I don't have another choice."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You do. You could embrace it. Accept that you're perceiving reality differently and deal with the consequences."
+      "What consequences? Being institutionalized? Losing my job? Being labeled insane?"
+      "Maybe. Or maybe people will surprise you. Maybe Mira will surprise you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She takes your hand. "I'm not saying it will be easy. I'm saying that hiding this—pretending to be someone you're not—that has consequences too.
+      You'll be lonely. You'll be isolated. You'll be carrying this alone because you can't tell anyone what's really happening."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I have you."
+      "You do. But I can't be with you at work. I can't be with you when you're meeting new people. I can't be with you when you're trying to navigate a world that doesn't understand what you're experiencing."
+      She pauses. "Think about it, Aleksy. Really think about what you're choosing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about it. You think about the exhaustion of constant pretending. The loneliness of carrying this alone. The fear of being discovered.
+      But you also think about the alternative—being institutionalized, losing everything, being labeled insane.
+      "I'll hide it," you say again. "For now."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira nods. She doesn't agree, but she respects your choice.
+      "Okay. But if it gets too hard—if the pretending becomes too much—you tell me. We'll figure something out together."
+      "I will."
+      She squeezes your hand. "I'm here. Whatever you choose, I'm here."
+choices:
+  - text: "Continue hiding your perception"
+    goto: ch4_chapter_end
+    set:
+      aleksy_detachment: 45
+      self_denial: 1
+      mira_trust: 85

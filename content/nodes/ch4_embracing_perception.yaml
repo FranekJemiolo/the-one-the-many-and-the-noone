@@ -1,0 +1,60 @@
+id: ch4_embracing_perception
+content:
+  - type: text
+    value: |
+      "I'll embrace it," you say. "I won't hide what I'm perceiving. I won't pretend to be someone I'm not."
+      Mira studies your face, surprised. "Are you sure? This could mean institutionalization. It could mean losing your job. It could mean consequences you can't anticipate."
+      "I know. But hiding it—pretending to be normal—that's its own kind of prison."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "It is," she agrees. "But at least it's a prison with walls you can see. Embracing this means walking into the unknown."
+      "I'd rather walk into the unknown than live a lie."
+      She nods slowly. "Okay. Then we do this together. We figure out what happens when you stop hiding."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The next day at work, you stop pretending. When you catch yourself watching exits, you don't try to hide it. When you react to sounds before they happen, you don't apologize. When you stare at something that isn't there, you don't look away.
+      People notice. They stare. They whisper.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Your supervisor calls you back into her office. "Aleksy, we need to talk about what's happening."
+      "I know."
+      "HR is concerned. They think you might need medical leave. They think there might be something... wrong."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "There's nothing wrong with me. I'm perceiving reality differently than most people. That's not a medical condition. It's a different way of seeing."
+      She looks at you with concern. "Aleksy, that's exactly the kind of thing someone who needs help would say."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I'm not saying it to be difficult. I'm saying it because it's true. I can perceive multiple timelines. I can access memories from other versions of myself. I can feel the gaps between realities."
+      She stares at you. "Aleksy, that's... that's not possible."
+      "It is for me. And I'm done pretending it's not."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The conversation doesn't go well. She calls HR. HR calls someone else.
+      By the end of the day, you're on mandatory medical leave. They want you to see a psychiatrist. They want you to get evaluated.
+      But you don't feel crazy. You feel clearer than you ever have.
+choices:
+  - text: "Accept the evaluation but maintain your position"
+    goto: ch4_chapter_end
+    set:
+      aleksy_fracture_level: 65
+      self_acceptance: 1
+      institutional_pressure: 20
+  - text: "Refuse the evaluation, accept the consequences"
+    goto: ch4_chapter_end
+    set:
+      aleksy_fracture_level: 70
+      self_acceptance: 1
+      institutional_pressure: 30

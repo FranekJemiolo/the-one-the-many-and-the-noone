@@ -2,42 +2,60 @@ id: ch4_cyborg_encounter
 content:
   - type: text
     value: |
-      The cyborg sits in the containment chair, their posture relaxed despite the restraints, their expression calm despite the situation. Not a prisoner exactly—more like a memory anomaly that happens to have a body.
-      The technicians are not treating them as a criminal to be contained, but as a phenomenon to be studied, a memory construct that has achieved a level of awareness that was never intended.
+      Two weeks have passed since you began Vance's training—or since you deferred it, depending on your choice.
+      Either way, the anomalies are getting harder to hide. The dreams more vivid. The temporal perception more pronounced.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You are here because of a memory leak, a term that feels inadequate for what is actually happening. The cyborg's memory systems are not simply storing information incorrectly.
-      They are leaking multiple pasts into the present, allowing contradictory histories to exist simultaneously in the same memory architecture.
+      At work, people have started noticing. Not the dreams—those you keep to yourself. But the way you watch exits. The way you track movement in your peripheral vision. The way you sometimes react to sounds before they happen.
+      Your supervisor calls you into her office. "Aleksy, is everything okay? You've been... different lately."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The technicians call it a Varga-class entity, a classification that exists precisely because situations like this have occurred before, though never with this level of complexity.
-      A Varga-class entity is a memory construct that has become aware it contains contradictory histories, multiple pasts that cannot be reconciled but that all feel equally real.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The cyborg looks at you, and there is something unsettling about their gaze. Their eyes are not biological—they are memory interfaces, sophisticated neural displays that are currently showing multiple timelines simultaneously.
-      You can see the different pasts flickering across their visual field, each one complete and coherent, each one incompatible with the others.
+      "I'm fine. Just tired."
+      "It's more than tired. You're jumpy. You're distracted. Sometimes I catch you staring at nothing, like you're seeing something I can't see."
+      She pauses. "If there's something going on, you can tell me. HR can help. There are resources."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "I remember," the cyborg says, their voice calm, without the confusion you would expect from someone experiencing contradictory memories. "But I do not remember one thing.
-      I remember everything that happened, in all the ways it could have happened. All the pasts are real to me, and they all exist in my memory at the same time."
+      You consider telling her. Consider explaining the dreams, the temporal perception, the way reality is fracturing around you.
+      But you know how that would sound. Insane. Delusional. A threat to workplace safety.
+      "I'm just going through some personal things," you say. "I'll be fine."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She doesn't believe you. You can see it in her expression. But she doesn't push.
+      "Okay. But if it gets worse, please reach out. We want to help."
+      You nod and leave, feeling the weight of her concern—and the unspoken threat that if you don't get better, there will be consequences.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      That evening, you tell Mira about the conversation. "They're noticing. My supervisor. Probably other people too."
+      "What did you tell her?"
+      "That I'm fine. That it's personal."
+      Mira nods slowly. "That won't work forever. Eventually, someone will push. Eventually, someone will require an explanation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What do I do then?"
+      "That depends on whether you want to hide this or embrace it."
+      She studies your face. "If you hide it, you'll have to get better at pretending. At acting normal. At suppressing the perception you're developing."
+      "And if I embrace it?"
+      "Then you need to be prepared for people to notice. To react. To possibly institutionalize you if they think you're a danger to yourself or others."
 choices:
-  - text: "Extract the memory data"
-    goto: ch4_memory_extraction
+  - text: "Try to hide it, improve your acting"
+    goto: ch4_hiding_perception
     set:
-      aleksy_dominance: 1
-  - text: "Ask about the experience of multiple pasts"
-    goto: ch4_contradictory_pasts
+      aleksy_detachment: 40
+      self_denial: 1
+  - text: "Embrace it, accept the consequences"
+    goto: ch4_embracing_perception
     set:
-      mira_dominance: 1
-  - text: "Explore the facility first"
-    goto: ch4_facility_exploration
-    set:
-      investigation_thoroughness: 1
+      aleksy_fracture_level: 60
+      self_acceptance: 1

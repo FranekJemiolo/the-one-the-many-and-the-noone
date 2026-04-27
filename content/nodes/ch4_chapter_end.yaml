@@ -2,32 +2,40 @@ id: ch4_chapter_end
 content:
   - type: text
     value: |
-      You leave the cybernetics facility, the doors closing behind you with a finality that feels inadequate for what you have witnessed. The cyborg remains in containment, holding multiple pasts that should be mutually exclusive but aren't.
-      The containment is not for the cyborg's safety—it is for the technicians' comfort, a way to maintain the illusion that memory must be singular.
+      The chapter ends with you at a crossroads.
+      If you chose to hide your perception, you're exhausted from constant pretending, from monitoring yourself, from suppressing what you're actually experiencing.
+      But you still have your job. You still have the appearance of normalcy. You still have the illusion of control.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The technicians will try to fix the cyborg. They will attempt to collapse the multiple pasts into one true history, to restore the singularity that they believe is necessary for normal functioning.
-      They will fail. The cyborg is not broken. The cyborg is what memory becomes when it is no longer constrained by singular causality, when it is allowed to access all possible histories.
+      If you chose to embrace your perception, you're on mandatory medical leave. HR is involved. There are talks of psychiatric evaluation.
+      But you feel clearer than you ever have. You're no longer living a lie. You're no longer pretending to be someone you're not.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You walk through the city, the streets crowded with people moving through their lives with the unexamined assumption that they have one past, one history, one causal chain that led them to this moment.
-      They assume their memory is a record of what actually happened, a singular truth that can be relied upon. They don't know that memory could be a library of all possible pasts, all equally accessible, all equally real.
+      Mira has been with you through all of this—supporting your choice even when she disagreed, staying by your side even when things got difficult.
+      She's the anchor keeping you grounded while your relationship with reality shifts.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You are now carrying a new secret that changes everything: causality is not fixed. The past is not a single line that determines the present. It is a field of possibilities that can be accessed simultaneously if you learn how.
-      The cyborg is not an anomaly—it is a preview of what memory could become for everyone, if the constraints of singular reality were released.
+      The institutional pressure is real now. Whether you hid or embraced, the system has noticed.
+      Your supervisor, HR, the machinery of normalcy that enforces conformity—they're all aware that something is different about you.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The cracks are deepening in the foundation of your understanding. Memory divergence, where multiple versions of the same moment coexist. Emotional-causal split, where different ways of experiencing the present operate independently.
-      Temporal instability, where multiple timelines exist simultaneously. Causal duplication, where a single entity can contain multiple contradictory pasts. Reality is not just breaking—it is revealing its true nature as a multiplicity system.
+      This is the beginning of institutional conflict. The first collision between your developing perception and the system that requires everyone to perceive reality the same way.
+      It won't be the last. The more you develop your abilities, the more the system will push back.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But the system is starting to ask questions about who you really are.
+      And for the first time, you're not sure you have an answer they'll accept.
 choices:
   - text: "Continue to Chapter 5"
     goto: chapter_5

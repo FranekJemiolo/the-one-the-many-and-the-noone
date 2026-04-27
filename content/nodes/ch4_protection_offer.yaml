@@ -2,44 +2,42 @@ id: ch4_protection_offer
 content:
   - type: text
     value: |
-      "I'll help you protect your terms," you offer. "If the organization tries to integrate you without respecting your multiplicity and autonomy, I'll help you resist."
-      The cyborg's displays show a momentary flicker of surprise, then stabilize with what you interpret as gratitude.
+      The chapter ends with you at a crossroads.
+      If you chose to hide your perception, you're exhausted from constant pretending, from monitoring yourself, from suppressing what you're actually experiencing.
+      But you still have your job. You still have the appearance of normalcy. You still have the illusion of control.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Why would you help me?" the cyborg asks. "I am a test subject in an experiment you are investigating. Helping me risks interfering with the organization's plans."
-      "Because I believe that consciousness should be built on consent," you reply. "Because I believe that multiplicity and autonomy are worth preserving.
-      Because I don't want the distributed consciousness to be built on the violation of its components."
+      If you chose to embrace your perception, you're on mandatory medical leave. HR is involved. There are talks of psychiatric evaluation.
+      But you feel clearer than you ever have. You're no longer living a lie. You're no longer pretending to be someone you're not.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Chen looks at you with concern. "This is dangerous. The organization has resources beyond our understanding. Interfering with their plans could have consequences."
-      "I know the risks," you say. "But I also know that if the consciousness awakens without these values, it could be catastrophic for everyone."
-      "Influencing the cyborg is the best chance we have to shape the consciousness's development."
+      Mira has been with you through all of this—supporting your choice even when she disagreed, staying by your side even when things got difficult.
+      She's the anchor keeping you grounded while your relationship with reality shifts.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "I accept your help," the cyborg says. "But understand that my resistance will be non-violent. I will not fight the organization with force.
-      I will simply refuse to participate in integration that violates my essential nature."
+      The institutional pressure is real now. Whether you hid or embraced, the system has noticed.
+      Your supervisor, HR, the machinery of normalcy that enforces conformity—they're all aware that something is different about you.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Non-violent resistance can be powerful," you reply. "If the cyborg refuses integration, the consciousness might not function properly without a memory node.
-      The organization might be forced to negotiate terms rather than forcing compliance."
+      This is the beginning of institutional conflict. The first collision between your developing perception and the system that requires everyone to perceive reality the same way.
+      It won't be the last. The more you develop your abilities, the more the system will push back.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You think about how Aleksy and Mira would react to this. Aleksy would likely be cautious—focused on understanding the organization's goals before interfering with their experiments.
-      Mira would be immediately supportive, seeing the cyborg's struggle for autonomy as parallel to her own fight for emotional truth to be respected.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But the system is starting to ask questions about who you really are.
+      And for the first time, you're not sure you have an answer they'll accept.
 choices:
-  - text: "Continue the investigation with the cyborg as an ally"
-    goto: ch4_cyborg_encounter
+  - text: "Continue to Chapter 5"
+    goto: chapter_5
     set:
-      chen_contact: 1
-      ally_cyborg: 1
-      protection_alliance: 1
+      chapter_4_completed: 1
