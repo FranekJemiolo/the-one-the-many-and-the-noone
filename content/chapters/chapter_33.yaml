@@ -1,5 +1,5 @@
 id: chapter_33
-title: "Drift"
+title: "Trajectory"
 arc: identity_crystallization
 nodes:
   - ch33_passenger_multiple_trajectories
