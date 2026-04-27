@@ -307,9 +307,179 @@ This walkthrough guides you through Aleksy Wrona's canonical path—the journey 
 
 **Recommended Path:**
 1. Choose "Conclude the story" → `ch30_story_concluded`
-2. Choose "Proceed to Ending" → `ch30_chapter_end`
+2. Choose "Proceed to Chapter 31" → `ch30_chapter_end`
 
 **Rationale:** Concluding the story shows completion of the journey.
+
+## Chapter 31: Null Zone Stabilized
+
+**Starting Node:** `ch31_null_zone_stabilized`
+
+**Recommended Path:**
+1. Choose "Observe the null zone stabilization" → `ch31_null_observed`
+2. Choose "Proceed to Chapter 32" → `ch31_chapter_end`
+
+**Rationale:** Observing the null zone stabilization shows understanding of interpretation failure zones.
+
+## Chapter 32: Parallel Realities Stabilized
+
+**Starting Node:** `ch32_parallel_realities_stabilized`
+
+**Recommended Path:**
+1. Choose "Observe parallel realities stabilization" → `ch32_parallel_observed`
+2. Choose "Proceed to Chapter 33" → `ch32_chapter_end`
+
+**Rationale:** Observing parallel realities shows understanding of coexisting incompatible interpretations.
+
+## Chapter 33: System Selects Plural
+
+**Starting Node:** `ch33_system_selects_plural`
+
+**Recommended Path:**
+1. Choose "Accept the system's choice" → `ch33_plural_accepted`
+2. Choose "Proceed to Chapter 34" → `ch33_chapter_end`
+
+**Rationale:** Accepting the system's choice shows alignment with plural stability.
+
+## Chapter 34: System Ready for Choice
+
+**Starting Node:** `ch34_system_ready_for_choice`
+
+**Recommended Path:**
+1. Choose "Prepare for the final choice" → `ch34_final_prepared`
+2. Choose "Proceed to Chapter 35" → `ch34_chapter_end`
+
+**Rationale:** Preparing for the final choice shows readiness for resolution.
+
+## Chapter 35: One Configuration Experienced
+
+**Starting Node:** `ch35_one_configuration_experienced`
+
+**Recommended Path:**
+1. Choose "Experience The One configuration" → `ch35_one_experienced`
+2. Choose "Proceed to Chapter 36" → `ch35_chapter_end`
+
+**Rationale:** Experiencing The One shows understanding of singular reality.
+
+## Chapter 36: Many Configuration Experienced
+
+**Starting Node:** `ch36_many_configuration_experienced`
+
+**Recommended Path:**
+1. Choose "Experience The Many configuration" → `ch36_many_experienced`
+2. Choose "Proceed to Chapter 37" → `ch36_chapter_end`
+
+**Rationale:** Experiencing The Many shows understanding of multiplicity.
+
+## Chapter 37: No-One Configuration Experienced
+
+**Starting Node:** `ch37_no_one_configuration_experienced`
+
+**Recommended Path:**
+1. Choose "Experience The No-One configuration" → `ch37_no_one_experienced`
+2. Choose "Proceed to Chapter 38" → `ch37_chapter_end`
+
+**Rationale:** Experiencing The No-One shows understanding of interpretation void.
+
+## Chapter 38: Overlap Configuration Experienced
+
+**Starting Node:** `ch38_overlap_configuration_experienced`
+
+**Recommended Path:**
+1. Choose "Experience The Overlap configuration" → `ch38_overlap_experienced`
+2. Choose "Proceed to Chapter 39" → `ch38_chapter_end`
+
+**Rationale:** Experiencing The Overlap shows understanding of balanced coexistence.
+
+## Chapter 39: Shifting Configuration Experienced
+
+**Starting Node:** `ch39_shifting_configuration_experienced`
+
+**Recommended Path:**
+1. Choose "Experience The Shifting World configuration" → `ch39_shifting_experienced`
+2. Choose "Proceed to Chapter 40" → `ch39_chapter_end`
+
+**Rationale:** Experiencing The Shifting World shows understanding of perpetual oscillation.
+
+## Chapter 40: System Deliberates
+
+**Starting Node:** `ch40_system_deliberates`
+
+**Recommended Path:**
+1. Choose "Observe the system's deliberation" → `ch40_deliberation_observed`
+2. Choose "Proceed to Chapter 41" → `ch40_chapter_end`
+
+**Rationale:** Observing the deliberation shows understanding of the system's decision process.
+
+## Chapter 41: System Complete
+
+**Starting Node:** `ch41_system_complete`
+
+**Recommended Path:**
+1. Choose "Accept the system's completion" → `ch41_completion_accepted`
+2. Choose "Proceed to Chapter 42" → `ch41_chapter_end`
+
+**Rationale:** Accepting completion shows understanding of the final state.
+
+## Chapter 42: Stay Resolution Path (Detailed)
+
+**Starting Node:** `ch42_stay_resolution_detailed`
+
+**Recommended Path:**
+1. Choose "Live with Mira in this version" → `ch42_stay_life_detailed`
+2. Choose "Proceed to Chapter 43" → `ch42_chapter_end`
+
+**Rationale:** This path details the stay resolution—building a life with Mira as bridges between realities.
+
+## Chapter 43: Shift Resolution Path (Detailed)
+
+**Starting Node:** `ch43_shift_resolution_detailed`
+
+**Recommended Path:**
+1. Choose "Live in the new version, connected to Mira" → `ch43_shift_life_detailed`
+2. Choose "Proceed to Chapter 44" → `ch43_chapter_end`
+
+**Rationale:** This path details the shift resolution—finding belonging in multiplicity, connected across versions.
+
+## Chapter 44: Reflection on Both Paths
+
+**Starting Node:** `ch44_reflection_both_paths`
+
+**Recommended Path:**
+1. Choose "Reflect on both resolution paths" → `ch44_both_reflected`
+2. Choose "Proceed to Chapter 45" → `ch44_chapter_end`
+
+**Rationale:** Reflecting on both paths shows understanding of the validity of each choice.
+
+## Chapter 45: Conclusion Beginning
+
+**Starting Node:** `ch45_conclusion_beginning`
+
+**Recommended Path:**
+1. Choose "Begin the conclusion" → `ch45_conclusion_started`
+2. Choose "Proceed to Chapter 46" → `ch45_chapter_end`
+
+**Rationale:** Beginning the conclusion shows readiness for final reflection.
+
+## Chapter 46: Near Conclusion
+
+**Starting Node:** `ch46_near_conclusion`
+
+**Recommended Path:**
+1. Choose "Approach the conclusion" → `ch46_conclusion_approached`
+2. Choose "Proceed to Chapter 47" → `ch46_chapter_end`
+
+**Rationale:** Approaching the conclusion shows near completion of the journey.
+
+## Chapter 47: Final Reflection
+
+**Starting Node:** `ch47_final_reflection`
+
+**Recommended Path:**
+1. Choose "Final reflection on identity and choice" → `ch47_final_reflection_complete`
+2. Choose "Proceed to Ending" → `ch47_chapter_end`
+
+**Rationale:** Final reflection shows deep self-understanding and acceptance of the journey.
 
 ## Ending: Stay Resolution Path
 
