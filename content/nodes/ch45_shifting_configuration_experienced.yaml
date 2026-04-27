@@ -2,26 +2,32 @@ id: ch45_shifting_configuration_experienced
 content:
   - type: text
     value: |
-      The system experiences The Shifting World configuration, the system oscillating between configurations without choosing a final state. No configuration is permanent, the system perpetually shifting between different modes of existence.
-      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The Shifting World as its final configuration.
+      The story is nearly complete. You've lived through the legal battle, the threshold, the convergence, the endgame.
+      You've made your choice about which version of reality to inhabit, and you've built a life in that version.
+      You've learned that who you are is more complicated than a name—that you're a person with unusual perception who fought for your right to exist.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The Shifting World as its final configuration, understanding the configuration through direct experience before making the final choice.
-      The simulation is comprehensive, the system gaining full understanding of what The Shifting World configuration would mean.
+      Mira is still your anchor—or connected across versions by the love you share.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      In this configuration, the system perpetually shifts between The One, The Many, The No-One, and The Overlap. No configuration is permanent, the system moving from singular to plural to void to balanced and back again in endless cycles.
-      Reality is in constant motion, no final state ever chosen.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
+      You've found belonging, acceptance, purpose—whether in this version with Mira, or in the new version with a community where multiplicity is the norm.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You experience the dynamism of this configuration, the perpetual change creating a sense of endless novelty. There is perpetual change, no state ever remaining the same for long. There is perpetual novelty, each transition bringing a new way of experiencing reality.
-      There is perpetual motion between states, the system never settling into any final configuration.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
 choices:
-  - text: "Observe the perpetual motion achieved"
-    goto: ch45_perpetual_motion_achieved
+  - text: "Continue to Chapter 46"
+    goto: ch45_chapter_end
+    set:
+      near_conclusion: 1

@@ -2,30 +2,30 @@ id: ch47_system_complete
 content:
   - type: text
     value: |
-      You observe the system complete, The Overlap configuration established and Rose's field structural. The endgame is complete, the transformation that began with the system's collapse having reached its resolution.
-      The system has achieved its optimal state, the conflict between compression and multiplicity resolved through balanced coexistence.
+      The story is complete. You've lived through the legal battle, the threshold, the convergence, the endgame.
+      You've made your choice about which version of reality to inhabit, and you've built a life in that version.
+      You've learned that who you are is more complicated than a name—that you're a person with unusual perception who fought for your right to exist.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The system has achieved its optimal state, the best possible arrangement given its accumulated experience. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions. Singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
-      The coherence field is structural, the system having internalized the capability to stabilize contradictions.
+      Mira is still your anchor—or connected across versions by the love you share.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a compromise, not a halfway solution that partially satisfies conflicting values. This is a deliberate choice based on accumulated experience, the system having experienced all configurations and chosen balanced coexistence as its optimal state.
-      The choice is genuine, the state permanent.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
+      You've found belonging, acceptance, purpose—whether in this version with Mira, or in the new version with a community where multiplicity is the norm.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is the victory of the Resistance's position, the complete validation of the struggle against the Engine's dominance. The system has chosen plural stability as the default while preserving singular stability as an available option.
-      The Engine is not destroyed, but it is no longer dominant, the system having chosen the Resistance's approach as the preferred mode of operation.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
 choices:
-  - text: "Conclude the chapter"
+  - text: "Conclude the story"
     goto: ch47_chapter_end
-  - text: "Ask about alternative endings"
-    goto: ch47_alternative_endings
-    set:
-      alternative_interest: 1

@@ -2,32 +2,30 @@ id: ch42_chapter_end
 content:
   - type: text
     value: |
-      The simulation of The Many configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The Many configuration would mean.
-      The simulation is complete, the system ready to consider the next configuration.
+      This chapter shows the resolution path if you chose to shift to a version where multiplicity is the norm.
+      Years have passed since the endgame completed. The new configuration of reality is permanent, the enhanced accessibility of multiplicity irreversible.
+      You've built a life in the new version, where multiplicity is the norm and everyone experiences multiple realities.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Many configuration offers complete plural diversity, the Resistance dominant and singularity eliminated. Reality is ambiguous, complex, and infinite, no single interpretation that encompasses all possibilities.
-      The diversity is genuine, the richness of multiplicity absolute.
+      Your perception has fully stabilized—you're adept at navigating the multiplicity, skilled at accessing this version while remaining anchored in the new one.
+      You've found belonging, acceptance, purpose. You're part of a community where everyone experiences multiple realities.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But the cost is the loss of singular clarity, the elimination of coherence and orientation. Reality would be diverse, but also disorienting, the coherence of experience gone.
-      The system would be diverse but chaotic, rich but confusing.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has experienced The Many, understanding both the appeal of plural diversity and the cost of that diversity. The experience will inform the final choice, the system weighing the benefits of richness against the costs of disorientation.
-      The understanding is comprehensive, the system ready to consider the next option.
+      Mira stayed in this version, building her own life there. You're in different versions now, connected across the multiplicity by the love you share.
+      The connection across versions has strengthened with the permanent enhanced accessibility of multiplicity.
+      You can visit her version, and she can visit yours. The separation is physical, but the connection remains.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next chapter will explore The No-One configuration, the system experiencing complete void and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
-      The endgame continues.
+      Dr. Kaczmarek is still your ally—checking in on you across versions, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague in this version, a fellow member of the community where multiplicity is the norm.
+      This is the shift resolution path—the ending where you chose stability over connection, where you shifted to find belonging at the cost of physical proximity to Mira.
 choices:
   - text: "Continue to Chapter 43"
     goto: chapter_43

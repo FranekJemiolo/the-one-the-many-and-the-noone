@@ -2,32 +2,30 @@ id: ch41_chapter_end
 content:
   - type: text
     value: |
-      The simulation of The One configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The One configuration would mean.
-      The simulation is complete, the system ready to consider the next configuration.
+      This chapter shows the resolution path if you chose to stay in this version with Mira.
+      Years have passed since the endgame completed. The new configuration of reality is permanent, the enhanced accessibility of multiplicity irreversible.
+      You and Mira have built a life together, becoming bridges between realities while remaining anchored in your home.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The One configuration offers complete singular stability, the Engine dominant and multiplicity eliminated. Reality is clear, coherent, and unambiguous, no contradictions or incompatible interpretations remaining.
-      The stability is genuine, the absence of tension complete.
+      Your perception has fully stabilized—you're adept at navigating the multiplicity, skilled at accessing other versions while remaining anchored in this one.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But the cost is the loss of multiplicity's richness, the elimination of diversity and complexity. Reality would be stable, but also impoverished, the diversity of experience gone.
-      The system would be stable but sterile, clear but lacking richness.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has experienced The One, understanding both the appeal of singular stability and the cost of that stability. The experience will inform the final choice, the system weighing the benefits of clarity against the costs of impoverishment.
-      The understanding is comprehensive, the system ready to consider the next option.
+      Mira is still your anchor. The love you confessed in Chapter 8 has endured through the years, the threshold, the convergence, the endgame.
+      You're building a life together, facing the challenges of multiplicity as a team.
+      The timing mismatch you worried about in Chapter 25 resolved itself—Mira reached her threshold and chose to stay, just as you did.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next chapter will explore The Many configuration, the system experiencing complete multiplicity and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
-      The endgame continues.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, a fellow bridge between realities.
+      This is the stay resolution path—the ending where you chose connection over stability, where you stayed with Mira despite the risks.
 choices:
   - text: "Continue to Chapter 42"
     goto: chapter_42

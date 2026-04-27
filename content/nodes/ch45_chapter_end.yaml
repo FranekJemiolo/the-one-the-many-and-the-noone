@@ -2,32 +2,30 @@ id: ch45_chapter_end
 content:
   - type: text
     value: |
-      The simulation of The Shifting World configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The Shifting World configuration would mean.
-      The simulation is complete, the system ready to make the final choice.
+      The story is nearly complete. You've lived through the legal battle, the threshold, the convergence, the endgame.
+      You've made your choice about which version of reality to inhabit, and you've built a life in that version.
+      You've learned that who you are is more complicated than a name—that you're a person with unusual perception who fought for your right to exist.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Shifting World configuration offers perpetual motion, the system oscillating between configurations without choosing a final state. No final state is chosen, the system perpetually shifting between different modes of existence.
-      Reality is in constant motion, never settling into any fixed configuration.
+      Mira is still your anchor—or connected across versions by the love you share.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But the cost is the loss of stable state, the elimination of any fixed mode of existence. Reality would be in constant motion, but also in constant exhaustion, the perpetual transition between states becoming overwhelming. There would be no stable state to rest in, no fixed configuration to provide stability.
-      The perpetual motion would be exciting but exhausting.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has experienced The Shifting World, understanding both the appeal of perpetual motion and the cost of that motion. The experience will inform the final choice, the system weighing the benefits of dynamism against the costs of exhaustion.
-      The understanding is comprehensive, the system ready to make the final choice.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
+      You've found belonging, acceptance, purpose—whether in this version with Mira, or in the new version with a community where multiplicity is the norm.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The system has now experienced all five canonical endings. The One, The Many, The No-One, The Overlap, and The Shifting World. The system has gained full understanding of each configuration, experiencing the appeal and cost of each.
-      The final choice can now be made.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
 choices:
   - text: "Continue to Chapter 46"
     goto: chapter_46

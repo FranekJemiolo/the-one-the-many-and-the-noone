@@ -2,26 +2,32 @@ id: ch44_overlap_configuration_experienced
 content:
   - type: text
     value: |
-      The system experiences The Overlap configuration, singular and plural stability coexisting in balance. This is not a simulation but the system's current state, the equilibrium that has been established through the adaptation phase.
-      The system is experiencing what it is like to maintain The Overlap as its configuration.
+      The story is approaching its conclusion. Years have passed since the endgame completed, and you've built a life in the version you chose.
+      If you chose to stay, you and Mira are building a life together as bridges between realities, helping others who are developing unusual perception understand what they're experiencing.
+      If you chose to shift, you're part of a community where multiplicity is the norm, connected across versions to Mira who stayed in this version.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a simulation, not a hypothetical exploration of a different configuration. This is the system's current state, the equilibrium that has been established through the adaptation to multiplicity.
-      The system is experiencing what it is like to maintain The Overlap as its configuration.
+      Either way, the legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      In this configuration, the Engine's compression layer and the Resistance's multiplicity layer operate in coexistence. Both are available, the system able to switch between them as needed. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions.
-      But singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You experience the balance of this configuration, the coexistence of clarity and diversity. There is both clarity, the singular interpretation available when needed, and diversity, the plural interpretation available as the default. There is both coherence, the stability of singular interpretation, and complexity, the richness of plural interpretation.
-      There is both stability and vitality.
+      The story of The One, The Many, and The No-One is not about choosing between singular reality, infinite multiplicity, or complete void.
+      It's about choosing which version of reality to inhabit, which relationships to prioritize, which life to build.
+      It's about the freedom to choose—and the responsibility to live with that choice.
 choices:
-  - text: "Observe the balance achieved"
-    goto: ch44_balance_achieved
+  - text: "Continue to Chapter 45"
+    goto: ch44_chapter_end
+    set:
+      conclusion_beginning: 1

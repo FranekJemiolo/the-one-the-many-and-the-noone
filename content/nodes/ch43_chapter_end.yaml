@@ -2,32 +2,28 @@ id: ch43_chapter_end
 content:
   - type: text
     value: |
-      The simulation of The No-One configuration ends, the system returning to the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The No-One configuration would mean.
-      The simulation is complete, the system ready to consider the next configuration.
+      This chapter reflects on both resolution paths—the stay path where you chose connection over stability, and the shift path where you chose stability over connection.
+      Both paths have costs and rewards. Both paths represent valid choices in a world where multiplicity is real.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The No-One configuration offers complete void peace, the Null Child dominant and interpretation failed. Reality is empty of meaning, no coherent descriptions possible anywhere in the system.
-      The peace is genuine, the absence of tension absolute.
+      The legal battle established your rights. The threshold gave you the freedom to choose. The convergence transformed reality. The endgame finalized everything.
+      You fought for your right to exist, made your choice about which version of reality to inhabit, and lived through the transformation of reality itself.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But the cost is the loss of experiential existence, the elimination of reality as experience. Reality would be peaceful, but also nonexistent, the experience of reality gone entirely.
-      The system would be peaceful but absent, tension-free but nonexistent.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has experienced The No-One, understanding both the appeal of void peace and the cost of that peace. The experience will inform the final choice, the system weighing the benefits of peace against the costs of nonexistence.
-      The understanding is comprehensive, the system ready to consider the next option.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next chapter will explore The Overlap configuration, the system experiencing the current equilibrium and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
-      The endgame continues.
+      The story of The One, The Many, and The No-One is not about choosing between singular reality, infinite multiplicity, or complete void.
+      It's about choosing which version of reality to inhabit, which relationships to prioritize, which life to build.
+      It's about the freedom to choose—and the responsibility to live with that choice.
 choices:
   - text: "Continue to Chapter 44"
     goto: chapter_44

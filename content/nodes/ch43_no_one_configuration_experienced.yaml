@@ -2,26 +2,31 @@ id: ch43_no_one_configuration_experienced
 content:
   - type: text
     value: |
-      The system experiences The No-One configuration, the Null Zone expanding to cover everything. Interpretation fails completely, meaning unable to crystallize anywhere in the system.
-      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The No-One as its final configuration.
+      Both resolution paths have their costs and their rewards.
+      If you chose to stay, you gained connection at the cost of stability—you risked fracturing at the threshold to remain with Mira, but you built a life together as bridges between realities.
+      If you chose to shift, you gained stability at the cost of connection—you left Mira behind to find belonging in a version where multiplicity is the norm, but you remain connected across versions by the love you share.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The No-One as its final configuration, understanding the configuration through direct experience before making the final choice.
-      The simulation is comprehensive, the system gaining full understanding of what The No-One configuration would mean.
+      Either way, the legal battle established your rights. The threshold gave you the freedom to choose. The convergence transformed reality. The endgame finalized everything.
+      You fought for your right to exist, made your choice about which version of reality to inhabit, and lived through the transformation of reality itself.
   - type: pause
     duration: 800
   - type: text
     value: |
-      In this configuration, there is no interpretation, the complete failure of meaning across the entire system. Objects exist but cannot be understood, their properties unable to crystallize into coherent descriptions. Memories exist but cannot become identity, recollection unable to form selfhood.
-      Meaning cannot crystallize, interpretation completely absent.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You experience the void of this configuration, the complete absence of interpretation and meaning. There is no ambiguity because there is no interpretation, no multiple ways to understand events. There is no contradiction because there is no meaning, no incompatible interpretations to conflict.
-      There is nothing to understand, nothing to experience.
+      The story of The One, The Many, and The No-One is not about choosing between singular reality, infinite multiplicity, or complete void.
+      It's about choosing which version of reality to inhabit, which relationships to prioritize, which life to build.
+      It's about the freedom to choose—and the responsibility to live with that choice.
 choices:
-  - text: "Observe the void achieved"
-    goto: ch43_void_achieved
+  - text: "Continue to Chapter 44"
+    goto: ch43_chapter_end
+    set:
+      reflection_complete: 1

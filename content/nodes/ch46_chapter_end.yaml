@@ -2,32 +2,30 @@ id: ch46_chapter_end
 content:
   - type: text
     value: |
-      The system has made its final choice, The Overlap configuration selected as the system's final state. The choice is permanent, the system having completed its deliberation and committed to balanced coexistence as its mode of operation.
-      The endgame is nearly complete, the final chapter approaching.
+      The story is complete. You've lived through the legal battle, the threshold, the convergence, the endgame.
+      You've made your choice about which version of reality to inhabit, and you've built a life in that version.
+      You've learned that who you are is more complicated than a name—that you're a person with unusual perception who fought for your right to exist.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a compromise, not a halfway solution that partially satisfies conflicting values. This is a deliberate choice based on accumulated experience, the system having experienced all configurations and preferring balanced coexistence based on that experience.
-      The choice is genuine, not forced.
+      Mira is still your anchor—or connected across versions by the love you share.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The Engine's compression layer and the Resistance's multiplicity layer will operate in coexistence, both available as structural capabilities of the system. Plural stability will be the default, the coherence field operating as the preferred mode of handling contradictions.
-      But singular stability will be available when needed, the compression layer functional for situations where singular interpretation is required.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has chosen the optimal configuration, the best possible resolution of the conflict between compression and multiplicity. It honors the richness of multiplicity while preserving the availability of singular clarity, the system able to access both approaches as needed.
-      It values experiential existence while maintaining balance, avoiding both the sterility of The One and the chaos of The Many.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
+      You've found belonging, acceptance, purpose—whether in this version with Mira, or in the new version with a community where multiplicity is the norm.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The final chapter will conclude the story, the system's choice finalized and the endgame complete. The transformation that began with the system's collapse will reach its resolution, the system having found its optimal mode of existence.
-      The story approaches its conclusion.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
 choices:
   - text: "Continue to Chapter 47"
     goto: chapter_47

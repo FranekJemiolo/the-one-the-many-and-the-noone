@@ -2,32 +2,30 @@ id: ch44_chapter_end
 content:
   - type: text
     value: |
-      The experience of The Overlap configuration ends, the system remaining in the current equilibrium. The experience is stored for the final choice, the system having gained full understanding of what The Overlap configuration means.
-      The experience is complete, the system ready to consider the final configuration.
+      The story is approaching its conclusion. Years have passed since the endgame completed, and you've built a life in the version you chose.
+      If you chose to stay, you and Mira are building a life together as bridges between realities, helping others who are developing unusual perception understand what they're experiencing.
+      If you chose to shift, you're part of a community where multiplicity is the norm, connected across versions to Mira who stayed in this version.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Overlap configuration offers balanced coexistence, the Engine and Resistance operating together without one dominating the other. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions.
-      But singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
+      Either way, the legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But the cost is ongoing maintenance, the balance not automatic but requiring continuous effort. The system must continually choose which mode to use, the coexistence not self-maintaining. The balance requires active management, the system must continually manage the tension between singular and plural approaches.
-      The optimal state requires ongoing attention.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      The system has experienced The Overlap, understanding both the appeal of balanced coexistence and the cost of that coexistence. The experience will inform the final choice, the system weighing the benefits of flexibility against the costs of ongoing maintenance.
-      The understanding is comprehensive, the system ready to consider the final option.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next chapter will explore The Shifting World configuration, the system experiencing perpetual oscillation and understanding its appeal and cost. The exploration will continue, the system gaining understanding of each canonical ending before making the final choice.
-      The endgame continues.
+      The story of The One, The Many, and The No-One is not about choosing between singular reality, infinite multiplicity, or complete void.
+      It's about choosing which version of reality to inhabit, which relationships to prioritize, which life to build.
+      It's about the freedom to choose—and the responsibility to live with that choice.
 choices:
   - text: "Continue to Chapter 45"
     goto: chapter_45

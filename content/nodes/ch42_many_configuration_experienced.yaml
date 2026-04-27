@@ -2,26 +2,33 @@ id: ch42_many_configuration_experienced
 content:
   - type: text
     value: |
-      The system experiences The Many configuration, all interpretation layers expanding into infinite plurality. Singularity is eliminated, all singular interpretations replaced by infinite incompatible versions.
-      This is a simulation, not a permanent change—the system is experiencing what it would be like to choose The Many as its final configuration.
+      If you chose to shift to a version where multiplicity is the norm, this is your resolution path.
+      Years have passed since the endgame completed. The new configuration of reality is permanent, the enhanced accessibility of multiplicity irreversible.
+      You've built a life in the new version, where multiplicity is the norm and everyone experiences multiple realities.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is a simulation, not a permanent change. The system is experiencing what it would be like to choose The Many as its final configuration, understanding the configuration through direct experience before making the final choice.
-      The simulation is comprehensive, the system gaining full understanding of what The Many configuration would mean.
+      Your perception has fully stabilized—you're adept at navigating the multiplicity, skilled at accessing this version while remaining anchored in the new one.
+      You've found belonging, acceptance, purpose. You're part of a community where everyone experiences multiple realities.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
   - type: pause
     duration: 800
   - type: text
     value: |
-      In this configuration, there are infinite versions of every event, no single interpretation that encompasses all possibilities. Causal sequences are multiple, events happening in infinite incompatible orders. Emotional interpretations diverge from causal interpretations, no alignment between different ways of understanding.
-      Time is a field, no linear sequence.
+      Mira stayed in this version, building her own life there. You're in different versions now, connected across the multiplicity by the love you share.
+      The connection across versions has strengthened with the permanent enhanced accessibility of multiplicity.
+      You can visit her version, and she can visit yours. The separation is physical, but the connection remains.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
-      You experience the richness of plural reality, the infinite diversity of incompatible interpretations. There is infinite ambiguity, no single way to understand any event. There is infinite contradiction, incompatible interpretations coexisting without resolution.
-      There are infinite ways to understand everything.
+      Dr. Kaczmarek is still your ally—checking in on you across versions, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      Now she's a colleague in this version, a fellow member of the community where multiplicity is the norm.
 choices:
-  - text: "Observe the infinite plurality achieved"
-    goto: ch42_infinite_plurality_achieved
+  - text: "Continue to Chapter 43"
+    goto: ch42_chapter_end
+    set:
+      shift_resolution: 1

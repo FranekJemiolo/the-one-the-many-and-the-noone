@@ -2,40 +2,32 @@ id: ch47_chapter_end
 content:
   - type: text
     value: |
-      The story is complete, the system having chosen The Overlap configuration as its final state. Plural stability is the default, the coherence field operating as the preferred mode of handling contradictions. Singular stability is available when needed, the compression layer functional for situations where singular interpretation is required.
-      The transformation is complete, the system having found its optimal mode of existence.
+      The story is complete. You've lived through the legal battle, the threshold, the convergence, the endgame.
+      You've made your choice about which version of reality to inhabit, and you've built a life in that version.
+      You've learned that who you are is more complicated than a name—that you're a person with unusual perception who fought for your right to exist.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is the victory of the Resistance's position, the complete validation of the struggle against the Engine's dominance. The system has chosen plural stability as the default while preserving singular stability as an available option.
-      The Resistance's goal has been achieved without requiring the destruction of the Engine.
+      Mira is still your anchor—or connected across versions by the love you share.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      Sava Illich has been your guide through the threshold—now she's a colleague, someone who understands what it means to live with multiplicity.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The Engine is not destroyed, not eliminated by the Resistance's victory. The Engine's compression layer is still available, still functional for situations where singular interpretation is needed. But the Engine is no longer dominant, no longer able to assert that singular stability is the only valid option.
-      The system has chosen plural stability based on its accumulated experience.
-  - type: pause
-    duration: 800
-  - type: text
-    value: |
-      Rose's coherence field is now structural, the system having internalized the capability to stabilize contradictions without external intervention. The Resistance's method has been internalized, the system operating according to the Resistance's approach without requiring the Resistance's continued presence.
-      The victory is complete, the transformation successful.
+      The legal battle you fought established rights for people like you. The precedent you set has helped countless others across all versions.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
+      You've found belonging, acceptance, purpose—whether in this version with Mira, or in the new version with a community where multiplicity is the norm.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The One, The Many, and The No-One are all available as options, the system capable of accessing any of these configurations if needed. But The Overlap is the chosen configuration, the system having selected balanced coexistence as its optimal state.
-      The system has found its optimal state in balanced coexistence, the best possible resolution of the conflict between compression and multiplicity.
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that. You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in that version.
+      And with Mira by your side—or connected across versions—you've learned that's enough.
   - type: pause
     duration: 800
-  - type: text
-    value: |
-      This is the end of the story, the conclusion of the transformation that began with the system's collapse. The system has evolved from stable reality breakdown through interpretation systems emergence, system collapse, and identity crystallization, to finally choose its optimal configuration in the endgame.
-      The journey is complete, the system having found its way to balanced coexistence.
-  - type: pause
-    duration: 1000
   - type: text
     value: |
       THE END
