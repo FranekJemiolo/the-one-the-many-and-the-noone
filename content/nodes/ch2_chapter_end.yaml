@@ -38,9 +38,8 @@ content:
     duration: 1000
   - type: text
     value: |
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
-      But for the second day in a row, you're not sure that's all you are.
-      And for the first time, you're not sure that's a bad thing.
+      The documentation sits before you like evidence of a crime you didn't commit but can't deny.
+      Two dreams. Two perspectives. The same event, experienced differently—and both equally true.
 choices:
   - text: "Continue to Chapter 3"
     goto: chapter_3

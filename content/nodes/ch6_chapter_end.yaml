@@ -33,9 +33,8 @@ content:
     duration: 800
   - type: text
     value: |
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
-      But the system is starting to ask questions about who you really are.
-      And for the first time, there's someone within the system who might actually listen to the answers.
+      Dr. Kaczmarek didn't dismiss you. He took your perception seriously.
+      That's something—maybe everything.
 choices:
   - text: "Continue to Chapter 7"
     goto: chapter_7

@@ -34,9 +34,8 @@ content:
     duration: 800
   - type: text
     value: |
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
-      But the system is demanding answers about who you really are.
-      And for the first time, you have to decide whether to give them.
+      The clock is ticking. The system is making moves.
+      And you have to decide: give them what they want, or keep your perception to yourself.
 choices:
   - text: "Continue to Chapter 8"
     goto: chapter_8

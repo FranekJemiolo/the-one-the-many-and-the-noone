@@ -22,6 +22,12 @@ content:
     duration: 800
   - type: text
     value: |
+      The machines of Morrow Vale have evolved.
+      They're no longer just synthetic—they're living, integrated into the ecological system.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
       Mira is still your anchor. If you stayed, she's building a life with you, celebrating your choice to remain.
       If you shifted, she's grieving your departure in this version, even though you still exist in another version.
   - type: pause

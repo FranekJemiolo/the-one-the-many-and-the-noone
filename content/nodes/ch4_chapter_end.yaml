@@ -33,9 +33,8 @@ content:
     duration: 800
   - type: text
     value: |
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
-      But the system is starting to ask questions about who you really are.
-      And for the first time, you're not sure you have an answer they'll accept.
+      The system has noticed. The machinery of normalcy is engaged.
+      Whether you hid or embraced, you're now on their radar.
 choices:
   - text: "Continue to Chapter 5"
     goto: chapter_5

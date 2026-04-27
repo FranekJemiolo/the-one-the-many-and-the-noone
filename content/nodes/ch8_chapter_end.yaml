@@ -34,9 +34,8 @@ content:
     duration: 800
   - type: text
     value: |
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
-      But with Mira by your side, you're starting to think that might be enough.
-      That who you are—fractured perception and all—might be worth loving.
+      You're not facing this alone anymore.
+      Whatever the system throws at you, you'll face it together.
 choices:
   - text: "Continue to Chapter 9"
     goto: chapter_9

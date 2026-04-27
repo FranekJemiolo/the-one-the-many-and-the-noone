@@ -21,10 +21,16 @@ content:
     duration: 1000
   - type: text
     value: |
+      Nemesis made its final attempt at unification—and failed.
+      The system has chosen plural stability over singular compression.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
       Mira is still your anchor. If you stayed, she's building a life with you, your love enduring through the years, the threshold, the convergence, the approaching endgame.
       If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
       Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.

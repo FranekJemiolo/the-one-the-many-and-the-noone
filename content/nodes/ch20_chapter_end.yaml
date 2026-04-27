@@ -35,8 +35,11 @@ content:
     value: |
       This is the conclusion of Part II. The institutional conflict is resolved in your favor. The precedent is set.
       The cracks in reality are widening. The system is responding. The convergence is approaching.
-      Part III will bring new challenges—deeper exploration of perception, the introduction of Sava Illich as a mirror, the convergence of multiple timelines.
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      Part III will bring new challenges—deeper exploration of perception, the introduction of Sava Illich as a mirror, the convergence of 
+  - type: text
+    value: |
+      Aleksy and Mira are at war—not with each other, but through each other.
+      Their interpretations have become incompatible weapons.
       But you're starting to realize that who you are is more complicated than that.
       And with Mira by your side, you're starting to think that might be okay.
 choices:

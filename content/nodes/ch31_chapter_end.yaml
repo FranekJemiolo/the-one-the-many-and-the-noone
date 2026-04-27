@@ -34,8 +34,7 @@ content:
     duration: 1000
   - type: text
     value: |
-      This is the continuation of the convergence phase. Identity is crystallizing. The cracks in reality are widening. The system is responding.
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      The Guard has crystallized into Barrier—a named multiplicity that protects the boundaries between realities.
       But you've learned that who you are is more complicated than that—and that's okay.
 choices:
   - text: "Continue to Chapter 32"

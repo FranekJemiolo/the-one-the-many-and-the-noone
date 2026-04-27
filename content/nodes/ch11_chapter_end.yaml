@@ -39,7 +39,8 @@ content:
     duration: 1000
   - type: text
     value: |
-      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      The memory sanctuary showed you something important:
+      contradictions can coexist without requiring resolution.
       But with Mira by your side and Dr. Kaczmarek in your corner, you're starting to think that who you are might be worth fighting for.
 choices:
   - text: "Continue to Chapter 12"

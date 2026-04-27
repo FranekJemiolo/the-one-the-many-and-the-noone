@@ -31,8 +31,3 @@ content:
   - type: text
     value: |
       THE END
-choices:
-  - text: "Return to beginning"
-    goto: chapter_1
-    set:
-      chapter_47_completed: 1

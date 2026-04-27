@@ -21,6 +21,12 @@ content:
     duration: 800
   - type: text
     value: |
+      The resistance counterwave is forming.
+      People are pushing back against compression, defending their right to experience reality in their own way.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
       Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
       She's supporting you whether you're exploring your perception or focusing on healing—reminding you that you're not broken, just different.
   - type: pause
