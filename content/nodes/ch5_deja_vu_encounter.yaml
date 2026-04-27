@@ -2,8 +2,8 @@ id: ch5_deja_vu_encounter
 content:
   - type: text
     value: |
-      You and Mira are sitting in the same room, the afternoon light filtering through the blinds in patterns that feel familiar in a way that goes beyond ordinary recognition.
-      This is not unusual—you and Mira have spent countless hours in this room, in conversation, in contemplation, in the comfortable silence of shared work. What is unusual is that you are both experiencing deja vu about the same moment simultaneously.
+      You and Mira are sitting in your apartment, the afternoon light filtering through the blinds in patterns that feel familiar in a way that goes beyond ordinary recognition.
+      This is not unusual—you and Mira have spent countless hours in this room, in conversation, in contemplation, in the comfortable silence of shared company. What is unusual is that you are both experiencing deja vu about the same moment simultaneously.
   - type: pause
     duration: 800
   - type: text
@@ -35,20 +35,32 @@ content:
     value: |
       Both memories feel equally authentic. Both describe the same moment in time. But they are incompatible—you cannot both be remembering correctly, unless the moment itself contains multiple versions that different observers access differently.
       And Mira's fear suggests this isn't just philosophical—it's becoming personal, affecting her sense of reality itself.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You're experiencing this too?" you ask, surprised. "I thought it was just me. Just my perception developing."
+      "It started after you told me about the dreams. After you started accessing those memories."
+      She meets your eyes. "I think whatever is happening to you... it's spreading. To me. To the people around you."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is terrifying. If your developing perception is affecting the people around you, then you're not just changing yourself—you're changing reality for everyone who comes into contact with you.
+      The institutional pressure from work is one thing. But this—this is something else entirely.
 choices:
-  - text: "Analyze from Aleksy's causal perspective"
-    goto: ch5_aleksy_perspective
+  - text: "Try to understand why it's spreading to Mira"
+    goto: ch5_spreading_investigation
     set:
-      aleksy_dominance: 1
-  - text: "Analyze from Mira's emotional perspective"
-    goto: ch5_mira_perspective
+      aleksy_fracture_level: 70
+      mira_fear: 20
+  - text: "Pull away from Mira to protect her"
+    goto: ch5_pulling_away
     set:
-      mira_dominance: 1
-  - text: "Reflect on your relationship with Mira"
-    goto: ch5_relationship_reflection
+      aleksy_detachment: 50
+      mira_fear: 30
+  - text: "Accept that you're in this together"
+    goto: ch5_accepting_together
     set:
-      relationship_focus: 1
-  - text: "Notice the organization's observation"
-    goto: ch5_organization_observation
-    set:
-      observation_awareness: 1
+      mira_trust: 95
+      relationship_focus: true

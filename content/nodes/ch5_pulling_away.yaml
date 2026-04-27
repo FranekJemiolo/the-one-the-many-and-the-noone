@@ -1,0 +1,48 @@
+id: ch5_pulling_away
+content:
+  - type: text
+    value: |
+      "I can't do this to you," you say, standing up. "I can't let this spread to you. If my perception is affecting you, then I need to stay away."
+      "Aleksy—"
+      "No, Mira. This is dangerous. If you start experiencing what I'm experiencing, if you start accessing multiple realities, then you'll be in the same position I am. Institutional pressure. The risk of being labeled insane. All of it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I made a choice," she says, her voice firm. "I chose to be here. I chose to help you. You don't get to make that choice for me."
+      "I'm trying to protect you."
+      "By leaving me alone? By making me deal with this without you? That's not protection, Aleksy. That's abandonment."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You want to argue. You want to explain that you're doing this for her own good.
+      But you can see the hurt in her eyes. The fear that you're going to leave her alone with something she doesn't understand.
+      And deep down, you know she's right. This isn't protection. It's fear.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I'm scared," you admit. "I'm scared that I'm going to hurt you. That I'm going to change your reality in ways you can't handle."
+      Mira stands up, walks over to you. Takes your hands.
+      "You already have. You've changed my reality by being in it. That's what relationships do. That's what love does."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The word hangs in the air between you. Love.
+      You've never said it. She's never said it. But it's there, has been there for a long time.
+      And now, in this moment of shared deja vu, of experiencing the same moment simultaneously, it feels more real than ever.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "I'm not going anywhere," she says. "Whatever this is, we face it together. That's the deal."
+      You look at her, really look at her. And you know: she means it.
+      "Okay," you say finally. "Together."
+choices:
+  - text: "Accept that you're in this together"
+    goto: ch5_accepting_together
+    set:
+      mira_trust: 100
+      relationship_focus: true

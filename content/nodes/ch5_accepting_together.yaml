@@ -1,0 +1,46 @@
+id: ch5_accepting_together
+content:
+  - type: text
+    value: |
+      "Together," you say. "Whatever this is, we face it together."
+      Mira nods, relief washing over her face. "Thank you. For not leaving me alone in this."
+      "I wouldn't. I couldn't."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You sit back down, the deja vu still lingering but less threatening now. The sense that this moment has happened before is still there, but it feels different now—less like a warning, more like a promise.
+      A promise that no matter how many versions of reality you access, no matter how fractured your perception becomes, you won't be alone.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So what do we do?" you ask. "If my perception is resonant, if I'm affecting the reality of people around me, how do I navigate that?"
+      "Carefully," Mira says. "You be careful about who you spend time with. You be aware that your presence changes things."
+      She pauses. "And you let me help you. I can be your anchor. I can help you stay grounded when reality starts to fracture."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "My anchor."
+      "Yes. That's what I'm here for. That's what I've always been here for, even before you knew you needed one."
+      She smiles, but it's small, careful. "You're the one who sees the gaps, Aleksy. I'm the one who keeps you from falling into them."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The description feels right. You are the observer, the one who perceives multiple realities, the one who accesses memories from other versions of yourself.
+      Mira is the anchor, the one who keeps you grounded, the one who ensures you don't lose yourself completely in the gaps.
+      Together, you might actually be able to navigate this.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The afternoon light continues to filter through the blinds, the shadows moving across the table in patterns that still feel familiar.
+      But the fear is gone now, replaced by something else—certainty. Certainty that whatever comes next, you'll face it together.
+choices:
+  - text: "Continue to Chapter 6"
+    goto: ch5_chapter_end
+    set:
+      mira_trust: 100
+      relationship_focus: true

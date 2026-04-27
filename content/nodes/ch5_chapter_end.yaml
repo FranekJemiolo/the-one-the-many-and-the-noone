@@ -2,8 +2,26 @@ id: ch5_chapter_end
 content:
   - type: text
     value: |
-      You and Mira sit in silence, the afternoon light continuing to shift across the room in patterns that now feel different—not because the light has changed, but because you both know the room can be multiple.
+      The chapter ends with you and Mira sitting in your apartment, the afternoon light continuing to shift across the room in patterns that now feel different—not because the light has changed, but because you both know reality can be multiple.
       The physical space is the same, but your experience of it has fundamentally shifted. You can no longer see reality as singular.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      If you chose to investigate the spreading, you understand now that your perception is resonant—that people close to you start accessing the multiple versions of reality you perceive.
+      This is a responsibility you didn't ask for, but it's one you have to accept.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      If you tried to pull away, you learned that Mira won't let you abandon her—that she chose to be here, chose to face this with you, and that love means not leaving someone alone when things get difficult.
+      You're in this together, whether you like it or not.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      If you accepted being together from the start, you've made a commitment—you're the observer who sees the gaps, and Mira is the anchor who keeps you from falling into them.
+      Together, you might actually be able to navigate this.
   - type: pause
     duration: 1000
   - type: text
@@ -14,20 +32,20 @@ content:
     duration: 800
   - type: text
     value: |
-      Memory divergence, where multiple versions of the same moment coexist. Emotional-causal split, where different ways of experiencing the present operate independently. Temporal instability, where multiple timelines exist simultaneously.
-      Causal duplication, where a single entity can contain multiple contradictory pasts. Shared dual-reality memory, where two observers experience the same moment differently together.
+      Memory divergence, where multiple versions of the same moment coexist. Emotional-causal split, where feelings operate independently of events. Temporal instability, where time itself behaves differently.
+      Resonant perception, where your developing perception affects the people around you. Shared dual-reality memory, where two observers experience the same moment differently together.
   - type: pause
-    duration: 800
+    duration: 1000
   - type: text
     value: |
       Reality is not just producing anomalies. It is reconfiguring itself into a multiplicity system, revealing its true nature as fundamentally plural.
       The breakdown of stable reality is not a problem to be fixed—it is a transformation to be understood.
   - type: pause
-    duration: 1000
+    duration: 800
   - type: text
     value: |
       You and Mira are no longer observers of the breakdown. You are participants in it. You have experienced the same moment differently, and you have accepted that both versions are true.
-      The next phase will not be about discovering anomalies. It will be about the systems that emerge to manage them. Interpretation engines are about to become visible.
+      The next phase will not be about discovering anomalies. It will be about the systems that emerge to manage them. Institutional pressure is about to intensify.
 choices:
   - text: "Continue to Chapter 6"
     goto: chapter_6

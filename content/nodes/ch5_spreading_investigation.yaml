@@ -1,0 +1,50 @@
+id: ch5_spreading_investigation
+content:
+  - type: text
+    value: |
+      "Why would it spread?" you ask. "How is that even possible?"
+      Mira thinks about this. "Maybe it's not spreading. Maybe I'm just... resonating with you. Like when two instruments are tuned to the same frequency, and one starts vibrating, the other does too."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "So I'm... contagious?"
+      "Not contagious. Resonant. Whatever frequency you're operating on now, whatever version of reality you're perceiving, I'm starting to perceive it too because I'm close to you."
+      She pauses. "The more time we spend together, the more I experience what you're experiencing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This makes sense in a terrifying way. If your perception is changing the way you experience reality, and if reality is multiple, then people close to you might start accessing those multiple versions too.
+      Not because you're infecting them, but because you're resonating with them.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Does that mean I should stay away from people?" you ask. "To protect them?"
+      Mira considers this. "Maybe. Or maybe it means you need to be careful about who you spend time with. Who you let get close to you."
+      She meets your eyes. "I'm not going anywhere, Aleksy. I made that choice. But you should think about what this means for other people."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about your coworkers. Your family. The people you interact with every day.
+      If your perception is resonant, then you're potentially changing their reality just by being near them.
+      The institutional pressure from work is suddenly more understandable—they're not just reacting to your behavior. They're reacting to the reality you're creating around them.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "This is bigger than I thought," you say. "It's not just about me. It's about everyone around me."
+      "Yes," Mira agrees. "And that's the real danger. Not that you'll go crazy. That you'll change reality for everyone you care about without meaning to."
+choices:
+  - text: "Accept this responsibility and continue"
+    goto: ch5_chapter_end
+    set:
+      aleksy_fracture_level: 75
+      mira_trust: 95
+  - text: "Pull away from everyone to protect them"
+    goto: ch5_chapter_end
+    set:
+      aleksy_detachment: 55
+      mira_fear: 40
