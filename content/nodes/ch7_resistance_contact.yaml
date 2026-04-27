@@ -2,42 +2,65 @@ id: ch7_resistance_contact
 content:
   - type: text
     value: |
-      You attempt to communicate with the presence, focusing your will on establishing a connection across the interpretive field.
-      The response is immediate and overwhelming: the presence notices your attention, and a ripple of something like curiosity spreads through its distributed consciousness. You feel exposed, as if something vast has just turned its attention toward you.
+      The medical tests begin the next day. MRI scans, cognitive assessments, neurological evaluations.
+      Dr. Kaczmarek is thorough, methodical, running every test he can think of to understand what's happening in your brain.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Communication is not verbal—it's informational, a direct transfer of concepts and possibilities that hits your mind with the force of a physical impact. The presence shows you its structure: multiple consciousnesses operating in coordination, each contributing to the injection of contradiction.
-      The presence is not a single entity but a network, a distributed system that preserves multiplicity by being multiple itself. The scale of it makes you dizzy.
+      "The MRI shows nothing unusual," Dr. Kaczmarek says, reviewing the results. "Your brain structure is normal. No tumors, no lesions, no abnormalities."
+      "I told you. There's nothing wrong with my brain."
+      "I believe you. But the tests should have shown something if this were neurological. They didn't."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Why inject contradiction?" you communicate, your mental voice feeling small against the vastness of the presence.
-      The response carries an edge of urgency: "The Engine compresses reality into singularity. Without deliberate injection, multiplicity fades. We preserve what the Engine tries to eliminate."
-      "We are not fighting. We are ensuring reality remains multiple. But time is running out."
+      He turns to the cognitive assessment results. "Your cognitive function is... interesting. Your memory is exceptional. Your pattern recognition is above average. Your ability to perceive multiple possibilities is significantly higher than the norm."
+      "Is that bad?"
+      "No. It's unusual, but not bad. It suggests your brain is processing information differently, not incorrectly."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "Who are you?" you ask, feeling the weight of the question.
-      "We are the Resistance," the presence responds, and you sense something like pride in the concept. "Not an organization, but a method. A practice of preserving multiplicity through deliberate contradiction.
-      Anyone who holds multiple truths, who refuses compression, who maintains divergence is part of the Resistance. Including you, if you choose."
+      "So what's the diagnosis?"
+      Dr. Kaczmarek considers this. "I don't have one. Not in the traditional sense. Your brain is healthy. Your cognitive function is enhanced, not impaired."
+      He pauses. "But your perception of reality is fundamentally different from the norm. That creates problems in a society that requires everyone to perceive reality the same way."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The implication lands hard: you are being recruited. Not into an organization, but into a way of being that puts you in direct opposition to the Engine's compression.
-      The presence waits for your response, and you feel the weight of the choice you're about to make.
+      "So the problem isn't me. It's society."
+      "The problem is the mismatch between your abilities and the system's requirements. You're perceiving multiple realities. The system requires singular perception."
+      He meets your eyes. "I want to help you find a way to work with your abilities rather than against them. But I need your cooperation."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What kind of cooperation?"
+      "I want to document your perception. I want to understand how it works, what it can do, whether it can be channeled productively."
+      He pauses. "In exchange, I'll advocate for you with the company. I'll argue that your abilities are an asset, not a liability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is unexpected. You expected dismissal, demands for conformity, threats of termination.
+      Instead, Dr. Kaczmarek is offering a partnership. A way to work within the system while developing your abilities.
+      "Why?" you ask. "Why help me instead of just dismissing me as delusional?"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Because I've seen this before," he says. "Not exactly like this. But similar. People whose perception of reality doesn't match the norm."
+      He writes something in his notebook. "Most of them were dismissed. Labeled insane. Institutionalized. Lost."
+      "But some... some found ways to use their perception. To do things normal people couldn't do."
 choices:
-  - text: "Ask how to join the Resistance"
-    goto: ch7_resistance_joining
+  - text: "Accept the partnership and cooperate with documentation"
+    goto: ch7_partnership_accepted
     set:
-      resistance_contacted: 1
-      joining_interest: 1
-  - text: "Ask about the Resistance's methods"
-    goto: ch7_resistance_methods
+      dr_kaczmarek_trust: 50
+      institutional_pressure: 30
+  - text: "Refuse, suspicious of his motives"
+    goto: ch7_partnership_refused
     set:
-      resistance_contacted: 1
-      methods_interest: 1
+      dr_kaczmarek_trust: 10
+      aleksy_detachment: 70

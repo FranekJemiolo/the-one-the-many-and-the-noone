@@ -2,32 +2,41 @@ id: ch7_chapter_end
 content:
   - type: text
     value: |
-      You leave the unstable reality zone, the boundary between multiple versions of reality fading as you move into more stable territory. The injected contradiction remains in your mind, coexisting with the official narrative.
-      Both versions of truth are still present, still accessible, still equally valid in their own domains. The injection was not temporary—it was permanent.
+      The chapter ends with you at a crossroads regarding Dr. Kaczmarek's partnership offer.
+      If you accepted, you're entering a period of documentation—regular sessions, tracking your perception, building a case for your value to the company.
+      But the question remains: what will Dr. Kaczmarek do with that information?
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Quiet Engine wants compression, wants to make singular reality feel natural, wants to eliminate ambiguity for the sake of stability. The Resistance wants divergence, wants to preserve multiplicity even when it feels uncomfortable.
-      The conflict is no longer abstract, no longer a theoretical possibility. It is active, happening now, operating through the very mechanisms of interpretation and perception.
+      If you refused, you're facing the system alone. The company is discussing termination. The institutional pressure is intensifying.
+      But you still have your autonomy. You still have control over who gets access to your perception.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize you have been experiencing the Resistance's work all along. The anomalies were not natural breakdowns of reality, not random occurrences of multiplicity.
-      They were interventions, deliberate injections of contradiction designed to preserve multiplicity against the Engine's pressure toward compression.
+      Either way, Dr. Kaczmarek is now a permanent presence in your story. The institutional mind, the rational integrator, the one who wants to understand rather than dismiss.
+      Whether he's an ally or an adversary remains to be seen.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This changes everything. You are not just observing reality's breakdown, not documenting anomalies as they occur. You are caught in a conflict between two interpretation systems: one that wants singularity, one that wants multiplicity.
-      The Engine and the Resistance are not abstract forces—they are active participants in shaping what counts as truth, what feels natural, what gets to be real.
+      Mira is still with you, still supporting you, still anchoring you while your perception fractures.
+      But the institutional pressure is intensifying. The system is making moves. The clock is ticking.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The question is no longer what is happening. The question is which system you will serve. Will you help the Engine compress reality into singularity, or will you help the Resistance preserve multiplicity?
-      The choice is not between truth and falsehood. It is between compression and divergence.
+      This is the deepening of institutional conflict. The system is no longer just watching—it's acting.
+      HR is involved. Dr. Kaczmarek is involved. Termination is being discussed.
+      The collision between your developing perception and the system's requirements is accelerating.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But the system is demanding answers about who you really are.
+      And for the first time, you have to decide whether to give them.
 choices:
   - text: "Continue to Chapter 8"
     goto: chapter_8

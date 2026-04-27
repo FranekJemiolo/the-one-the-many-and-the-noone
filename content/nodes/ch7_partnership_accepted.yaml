@@ -1,0 +1,49 @@
+id: ch7_partnership_accepted
+content:
+  - type: text
+    value: |
+      "I'll cooperate," you say. "I'll let you document my perception. I'll help you understand what I'm experiencing."
+      Dr. Kaczmarek nods. "Good. I'll set up regular sessions. We'll track your perception, document its development, see how it changes over time."
+      He pauses. "In exchange, I'll advocate for you with the company. I'll argue that your abilities are an asset, not a liability."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What if they don't listen?"
+      "Then we'll find another way. There are other institutions, other researchers who would be interested in what you can do."
+      He closes his notebook. "You're not alone in this, Aleksy. I'm going to make sure you get the support you need."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving his office, you feel something you haven't felt in weeks: hope.
+      Not just hope that this will end, but hope that you might actually be able to navigate this.
+      That there might be a place for you in the world, even with your developing perception.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting outside. "How did it go?"
+      "He wants to document my perception. In exchange, he'll advocate for me with the company."
+      She studies your face. "And you trust him?"
+      "I think so. He's seen this before. He knows what happens to people like me if they don't get support."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That's good," she says. "You need allies. Especially within the system."
+      She takes your hand. "But don't forget your other allies. The ones who've been with you from the beginning."
+      "I won't."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The partnership with Dr. Kaczmarek feels like a turning point. The first step toward finding a way to live with your perception instead of fighting it.
+      But you know it won't be easy. The system is still watching. The pressure is still real.
+      And deep down, you wonder: what if Dr. Kaczmarek's help comes with a cost you can't anticipate?
+choices:
+  - text: "Continue to Chapter 8"
+    goto: ch7_chapter_end
+    set:
+      dr_kaczmarek_trust: 60
+      institutional_pressure: 25

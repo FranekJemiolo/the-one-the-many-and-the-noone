@@ -1,0 +1,54 @@
+id: ch7_partnership_refused
+content:
+  - type: text
+    value: |
+      "I need to think about it," you say. "I need to understand why you're really offering this."
+      Dr. Kaczmarek doesn't react. Doesn't seem surprised by your hesitation.
+      "Fair enough. Take your time. But understand: the longer you wait, the harder it will be to advocate for you. The company is already discussing termination."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "They can discuss whatever they want. I'm not letting anyone document my perception without knowing what they're going to do with that information."
+      "I'm not asking you to trust me blindly. I'm asking you to consider whether working with me is better than working alone."
+      He stands. "The offer stands. For now."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving his office, you feel conflicted. Part of you wants to trust him—he took your perception seriously, he didn't dismiss you, he offered help.
+      But another part of you is suspicious. Why would someone within the system want to help you? What's in it for him?
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting outside. "How did it go?"
+      "He offered a partnership. Document my perception in exchange for advocating for me with the company."
+      "And you said?"
+      "I told him I need to think about it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She studies your face. "You don't trust him."
+      "I don't know if I should. Why would someone within the system want to help me?"
+      "Maybe because he's seen what happens to people like you when they don't get help. Maybe because he actually wants to make a difference."
+      She pauses. "Or maybe he has his own agenda. You won't know unless you work with him."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The question hangs in the air. Trust Dr. Kaczmarek and risk being used? Refuse and risk facing the system alone?
+      Either way, the institutional pressure is real. The company is discussing termination. The clock is ticking.
+      You need to make a choice soon.
+choices:
+  - text: "Accept the partnership"
+    goto: ch7_partnership_accepted
+    set:
+      dr_kaczmarek_trust: 40
+      institutional_pressure: 30
+  - text: "Continue refusing, face the system alone"
+    goto: ch7_chapter_end
+    set:
+      dr_kaczmarek_trust: 5
+      aleksy_detachment: 75
