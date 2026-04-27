@@ -1,0 +1,33 @@
+id: ch23_support_approach
+content:
+  - type: text
+    value: |
+      "How do I support her if she develops perception?" you ask. "I don't want to leave her to face this alone."
+      Sava nods. "That's the healthier approach. Accept that perception development is happening, and support her through it."
+      She pauses. "The key is communication. Talk to her about what she's experiencing. Help her understand what's happening. Be her guide through the multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "But what if her choice doesn't align with mine?"
+      "Then you'll have to accept that. Love doesn't mean choosing the same path. It means supporting each other's choices, even when they lead in different directions."
+      She meets your eyes. "The connection that anchors you to this version could become the connection that helps you both navigate the multiplicity."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "What if we end up in different versions?"
+      "Then you'll have to find ways to connect across versions. The multiplicity doesn't have to separate you—it can also connect you in new ways."
+      She pauses. "But that requires trust. Trust that your connection is strong enough to survive the multiplicity."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Leaving Sava's office, you feel resolved. You won't distance yourself from Mira to protect her. You'll stay close, support her through whatever comes, and trust that your connection is strong enough to survive the challenges ahead.
+      The path is uncertain, but at least you're facing it together.
+choices:
+  - text: "Continue to Chapter 24"
+    goto: ch23_chapter_end
+    set:
+      sava_relationship: 1
+      support_interest: 1

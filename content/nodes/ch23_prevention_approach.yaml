@@ -1,0 +1,33 @@
+id: ch23_prevention_approach
+content:
+  - type: text
+    value: |
+      "How do I prevent her from developing perception?" you ask. "I don't want her to go through this."
+      Sava considers this. "There's no guaranteed method. Resonant perception spreads through emotional connection. The stronger the bond, the more likely the spread."
+      She pauses. "But you can reduce the intensity of the connection. Spend less time together. Create emotional distance."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That would hurt her. It would hurt me too."
+      "I know. But it's the only way to reduce the risk of resonant perception spreading."
+      She meets your eyes. "The question is: are you willing to sacrifice your connection to protect her from perception development?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about this. The legal battle taught you that fighting for your rights requires sacrifice. But sacrificing your connection to Mira feels like losing the very thing you fought for.
+      "I don't know," you say finally. "I need to think about this."
+      "Take your time. But understand: the longer you wait, the more developed her perception becomes. The harder it is to reverse."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Leaving Sava's office, you feel conflicted. You want to protect Mira from the challenges of perception development. But you don't want to lose the connection that makes life worth living.
+      The choice feels impossible—protect her by distancing yourself, or stay close and risk pulling her into the multiplicity with you.
+choices:
+  - text: "Continue to Chapter 24"
+    goto: ch23_chapter_end
+    set:
+      sava_relationship: 1
+      protection_interest: 1

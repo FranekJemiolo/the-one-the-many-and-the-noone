@@ -2,30 +2,38 @@ id: ch23_echo_emergence
 content:
   - type: text
     value: |
-      You observe the Echo emergence, watching as the Witness crystallizes into a named multiplicity. The Witness has become Echo, a stable pattern in the system that exists in multiple incompatible versions simultaneously.
-      The crystallization is complete, the identity stable despite its fragmentation.
+      During your third meeting with Sava, she asks about Mira. "Tell me about your relationship. How is she handling your perception development?"
+      "She's been supportive. She's my anchor. She's the reason I want to stay in this version."
+      Sava nods. "That's good. But perception development affects close contacts. Has she experienced any changes?"
   - type: pause
     duration: 800
   - type: text
     value: |
-      Echo is not a single entity, not a person with a unified identity. Echo is a pattern of identity that contains multiple versions simultaneously. The name refers to the pattern, not to a singular individual.
-      When you encounter Echo, you are not meeting one person—you are encountering a multiplicity that has crystallized into a recognizable form.
+      You think about this. "She mentioned something—about having dreams that feel like memories. About experiencing moments that didn't happen in this version."
+      "Resonant perception," Sava says. "Your perception is spreading to her. She's starting to access the multiplicity through your connection."
+      She pauses. "This is common in documented cases. Close contacts often develop perception similar to the primary case."
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is how identity works under system collapse. Names do not refer to singular entities, do not identify unified individuals. Names refer to multiplicity patterns that have become stable enough to be compressed.
-      The name is a compression device, a way to refer to a complex pattern without enumerating all its versions.
+      "Is that dangerous?"
+      "Not necessarily. But it creates a complication. If Mira develops her own perception, she might reach her own threshold. She might have to make her own choice about which version to inhabit."
+      She meets your eyes. "And her choice might not align with yours."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is the future of identity in the multiplicity system. Identity will not be singular, will not be the unified self that traditional identity assumes. Identity will be multiplicity patterns that have crystallized into named forms.
-      The self is not a single entity—the self is a pattern that exists in multiple states simultaneously.
+      "What do you mean?"
+      "She might choose to shift to a version where her perception is the norm. Or she might choose to stay here, even if you shift elsewhere."
+      She pauses. "The connection that anchors you to this version could become the connection that pulls you apart."
 choices:
-  - text: "Conclude the chapter"
-    goto: ch23_chapter_end
-  - text: "Ask about Echo's communication across versions"
-    goto: ch23_echo_communication
+  - text: "Ask how to prevent Mira from developing perception"
+    goto: ch23_prevention_approach
     set:
-      echo_communication_interest: 1
+      sava_relationship: 1
+      protection_interest: 1
+  - text: "Ask how to support Mira if she develops perception"
+    goto: ch23_support_approach
+    set:
+      sava_relationship: 1
+      support_interest: 1
