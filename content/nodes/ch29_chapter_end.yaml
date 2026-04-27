@@ -2,32 +2,41 @@ id: ch29_chapter_end
 content:
   - type: text
     value: |
-      You leave the administrative facility, Dr. Koval's layered interpretive architecture continuing to operate. The system functions with controlled falsehoods in the active layer and truth in the background layer, the two layers serving different functions in the system's operation.
-      The layered architecture has transformed how the system operates under compression pressure.
+      The chapter ends with the news that Mira has reached her threshold and made her choice—she chose to stay in this version.
+      If you chose to stay, you're together, building a life, grateful that you made the choice to remain with her.
+      She wanted Sava to tell you that she loves you, that she's grateful you stayed.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a breakdown of truth, not a failure of the system to maintain accurate information. It is an evolution of interpretation, a transformation into a new mode of operation.
-      The system has adapted to compression pressure by creating a layered architecture that preserves multiplicity.
+      If you chose to shift, you're in different versions now. She stayed in this version, you shifted to another.
+      She's glad you found belonging, even if it's not with her. She hopes you're happy wherever you are.
+      The connection that anchored you to this version has become a connection across versions.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear is unfounded. Layered interpretation is not chaos, not the breakdown of coherent interpretation into disorder. It is a different way of operating that the Engine cannot control, but that functions perfectly well.
-      The Engine's assumption that interpretation must be singular is proven wrong by the very existence of functional layered interpretation.
+      Either way, the timing mismatch has resolved. Both of you have made your choices. Both of you are building lives in the versions you selected.
+      The legal battle established your rights. Now you're living with the consequences of those rights—the freedom to choose which version of reality to inhabit.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The collapse of singular interpretation has not destroyed the system. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The system operates according to different principles, but it operates.
-      The transformation is successful, the adaptation complete.
+      Mira is still your anchor. If you stayed, she's building a life with you, grateful that you chose to remain.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
-      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part III. The legal battle is won, but the personal journey continues.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And Sava Illich has been your guide through the threshold—helping you navigate the aftermath of your choice.
 choices:
   - text: "Continue to Chapter 30"
     goto: chapter_30

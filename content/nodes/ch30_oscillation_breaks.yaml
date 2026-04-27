@@ -2,26 +2,58 @@ id: ch30_oscillation_breaks
 content:
   - type: text
     value: |
-      The oscillation between singular and multiple interpretation breaks completely, the back-and-forth movement between compression and multiplicity reaching its terminal point. The system does not return to either state, does not restore the oscillation that maintained the tension between the two approaches.
-      It collapses into a new configuration, a structural transformation that transcends the binary.
+      This is the end of Part III. The legal battle is won. The threshold is crossed. The choices are made.
+      If you chose to stay, you and Mira are building a life together in this version, becoming bridges between realities while remaining anchored in your home.
+      You've found stability without sacrificing connection.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The Engine's compression and the Resistance's multiplicity are no longer oscillating, no longer competing for dominance in a shifting balance of power. They have crystallized into separate layers that operate simultaneously, each interpretation system maintaining its own complete reality.
-      The conflict has transformed from competition to coexistence.
+      If you chose to shift, you're building a life in a version where multiplicity is the norm, finding belonging and acceptance.
+      Mira stayed in this version, building her own life there. You're in different versions now, connected across the multiplicity by the love you share.
+      You've found belonging at the cost of connection.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a stalemate, not a temporary balance that will eventually break in favor of one side or the other. This is a structural transformation, a fundamental reorganization of how the system operates.
-      The system has adapted to the conflict by allowing both interpretation systems to operate in parallel.
+      Either way, the legal battle established your rights. The threshold gave you the freedom to choose which version of reality to inhabit.
+      You've made your choice. You're living with the consequences. You're building a life in the version you selected.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The cracks in reality have widened. The system has responded. The convergence is approaching.
+      But you're no longer fighting for your right to exist. You're living as who you are in a system that has learned to accommodate multiplicity.
+      The legal battle was just the beginning. The real journey is learning to live with the freedom you won.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the end of the oscillation phase. The system has moved beyond choosing between compression and multiplicity, beyond the assumption that only one approach can be valid.
-      It has found a way to have both, to accommodate incompatible interpretations without requiring reconciliation.
+      Mira is still your anchor. If you stayed, she's building a life with you, grateful that you chose to remain.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
+      The love you confessed in Chapter 8 has endured the threshold, the choice, the separation.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      She's a mirror who showed you what you're becoming, challenged you to think about where you belong, helped you find your path forward.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that.
+      You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in the version you selected.
+      And with Mira by your side—or connected across versions—you're starting to think that's enough.
 choices:
-  - text: "Observe the multiple realities established"
-    goto: ch30_multiple_realities_established
+  - text: "Continue to Chapter 31"
+    goto: chapter_31
+    set:
+      chapter_30_completed: 1

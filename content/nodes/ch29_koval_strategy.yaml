@@ -2,26 +2,35 @@ id: ch29_koval_strategy
 content:
   - type: text
     value: |
-      Dr. Koval explains the strategy, her voice calm as she describes a sophisticated approach to managing the Engine's compression. "The Engine demands compression, requires singular interpretation to maintain system stability.
-      The system needs truth, requires accurate information to function effectively. The solution is layered interpretation."
+      A year passes after your threshold choice. If you chose to stay, you and Mira have built a stable life together.
+      Your perception continues to develop—you're becoming more adept at navigating the multiplicity, more skilled at accessing other versions while remaining anchored in this one.
+      You've become a bridge between realities, helping others who are developing unusual perception understand what they're experiencing.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The active layer is a controlled falsehood that satisfies the Engine's need for compression, providing a single coherent narrative that the Engine can work with. The background layer contains the truth that the system needs for accuracy, preserving the full complexity of reality."
-      The two layers operate simultaneously, each serving a different function in the system.
+      If you chose to shift, you've built a stable life in the new version. You're part of a community where multiplicity is the norm, where everyone experiences multiple realities.
+      You've found belonging, acceptance, purpose. But you still think about Mira every day, wondering if she reached her own threshold and made her choice.
   - type: pause
     duration: 800
   - type: text
     value: |
-      She is not deceiving the Engine, not tricking the system into accepting false information. The Engine is aware of the layered structure, knows that the active interpretation is a compression while the background contains the full truth.
-      The Engine accepts the active layer as the operating interpretation while knowing the background layer exists.
+      Either way, Sava calls with an update. "I wanted to let you know—Mira reached her threshold."
+      Your heart stops. "What did she choose?"
+      "She chose to stay in this version. She's building a life there, working with others who are developing unusual perception."
+      She pauses. "She asked about you. She wanted to know if you were okay."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is a sophisticated form of resistance. Not by fighting the Engine's compression, not by attempting to prevent the Engine from compressing reality. By working within it to preserve multiplicity through layering.
-      The strategy uses the Engine's own mechanisms to protect the truth the Engine would otherwise eliminate.
+      If you stayed: "I'm here. I'm with her."
+      "I know. She wanted me to tell you that she's grateful you stayed. That she loves you."
+      If you shifted: "I'm okay. I'm building a life here."
+      "I told her. She said she's glad you found belonging. Even if it's not with her."
+      Sava pauses. "She also said she hopes you're happy. Wherever you are."
 choices:
-  - text: "Understand the interpretive architecture"
-    goto: ch29_interpretive_architecture
+  - text: "Continue to Chapter 30"
+    goto: ch29_chapter_end
+    set:
+      choice_aftermath: 1
+      mira_update: 1

@@ -2,32 +2,56 @@ id: ch30_chapter_end
 content:
   - type: text
     value: |
-      You observe the system operating in its new configuration, watching as multiple incompatible layers operate simultaneously. The Engine's compression layer and the Resistance's multiplicity layer are both functioning, each maintaining its own complete reality while coexisting with the other.
-      The transformation is complete, the system no longer oscillating between states but existing in all of them at once.
-  - type: pause
-    duration: 1000
-  - type: text
-    value: |
-      This is the end of Part III. System collapse is complete, the oscillation that maintained the tension between compression and multiplicity having broken completely. The system has crystallized into multiple incompatible layers that operate simultaneously.
-      The collapse has not led to chaos—it has led to a new configuration that accommodates incompatible interpretations.
+      This is the end of Part III. The legal battle is won. The threshold is crossed. The choices are made.
+      If you chose to stay, you and Mira are building a life together in this version, becoming bridges between realities while remaining anchored in your home.
+      You've found stability without sacrificing connection.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The Engine has not been destroyed, not eliminated by the Resistance's multiplicity. The Engine's layer is still functioning, still providing the stability that the Engine was designed to ensure.
-      But the Engine can no longer claim to control the entire system, can no longer assert that its interpretation is the only valid one. The multiplicity layer operates alongside it, equally real and equally stable.
+      If you chose to shift, you're building a life in a version where multiplicity is the norm, finding belonging and acceptance.
+      Mira stayed in this version, building her own life there. You're in different versions now, connected across the multiplicity by the love you share.
+      You've found belonging at the cost of connection.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is the proof the Engine was wrong. Multiplicity does not lead to chaos, not the breakdown of order into disorder. The system has proven that plural stability is possible without requiring singular control.
-      The Engine's ideology was based on a false premise, and the system has demonstrated that premise to be incorrect.
+      Either way, the legal battle established your rights. The threshold gave you the freedom to choose which version of reality to inhabit.
+      You've made your choice. You're living with the consequences. You're building a life in the version you selected.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next phase will be identity crystallization. Nameless roles will crystallize into named entities, the proto-identities that emerged from the multiplicity system becoming stable enough to require names for compression.
-      The Witness has become Echo. The Guard and Teacher will follow. Identity itself will adapt to the multiplicity system, crystallizing into named multiplicities rather than singular entities.
+      The cracks in reality have widened. The system has responded. The convergence is approaching.
+      But you're no longer fighting for your right to exist. You're living as who you are in a system that has learned to accommodate multiplicity.
+      The legal battle was just the beginning. The real journey is learning to live with the freedom you won.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira is still your anchor. If you stayed, she's building a life with you, grateful that you chose to remain.
+      If you shifted, she's building a life in this version while you build yours in another, connected across the multiplicity by the love you share.
+      The love you confessed in Chapter 8 has endured the threshold, the choice, the separation.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Dr. Kaczmarek is still your ally—checking in on you, supporting your journey, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Sava Illich has been your guide through the threshold—helping you understand your perception, navigate the choice, live with the consequences.
+      She's a mirror who showed you what you're becoming, challenged you to think about where you belong, helped you find your path forward.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you've learned that who you are is more complicated than that.
+      You're a person with unusual perception who fought for your right to exist, who made a choice about which version of reality to inhabit, who is building a life in the version you selected.
+      And with Mira by your side—or connected across versions—you're starting to think that's enough.
 choices:
   - text: "Continue to Chapter 31"
     goto: chapter_31

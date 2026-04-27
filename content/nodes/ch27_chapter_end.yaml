@@ -2,32 +2,41 @@ id: ch27_chapter_end
 content:
   - type: text
     value: |
-      You leave the temporal boundary zone, Kai remaining in the causal loop. The future continues to cause the present, which continues to cause the future, the circular causality maintaining coherence without requiring linear sequence.
-      The boundary zone has transformed completely, operating according to new principles of temporal relationship.
+      The chapter ends with the aftermath of your threshold choice.
+      If you chose to stay, your perception is stabilizing as you adapt to the multiplicity while remaining anchored in this version.
+      Mira is relieved, and you're building a life together despite the challenges of multiplicity.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is not a breakdown of time, not a failure of temporal systems. It is an evolution of time, a transformation into a different mode of temporality. The system has adapted to temporal multiplicity by allowing causality to operate in loops.
-      The adaptation is complete, the transformation successful.
+      If you chose to shift, your perception is stabilizing in the new version where multiplicity is the norm.
+      You're accepted, you belong, but Mira is grieving your departure even though you still exist in another version.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear is unfounded. Temporal fields are not chaos, not the breakdown of causality into disorder. They are a different way of experiencing time that the Engine cannot control, but that functions perfectly well.
-      The Engine's assumption that time must be linear is proven wrong by the very existence of functional temporal fields.
+      Either way, the choice has consequences. There's no perfect choice—you gain stability but pay with connection, or gain connection but pay with stability.
+      Sava reminded you that you have to live with your choice, that there's no going back.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The collapse of linear causality has not destroyed the boundary zone. It has transformed it into something the Engine cannot recognize as valid, but that works nonetheless. The boundary zone operates according to different principles, but it operates.
-      The transformation is successful, the adaptation complete.
+      Mira is still your anchor. If you stayed, she's celebrating your choice to remain with her.
+      If you shifted, she's grieving your departure, even though you still exist in another version.
+      The love you confessed in Chapter 8 remains, but the relationship has been transformed by your choice.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This continues the pattern. Oscillation breaks not into chaos, but into new states of multiplicity that the Engine cannot control but that function anyway.
-      The collapse of the old order is not a failure—it is the emergence of new configurations that the Engine cannot recognize but that are nonetheless valid.
+      Dr. Kaczmarek is still your ally—connecting you with Sava, supporting your exploration, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to help you find answers.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part III. The legal battle is won, but the personal journey continues.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And Sava Illich has been your guide through the threshold—helping you make the choice that will determine your future.
 choices:
   - text: "Continue to Chapter 28"
     goto: chapter_28

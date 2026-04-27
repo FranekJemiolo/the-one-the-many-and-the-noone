@@ -2,26 +2,33 @@ id: ch27_causal_loop
 content:
   - type: text
     value: |
-      You observe the causal loop, watching how causality has transformed in the boundary zone. The future causes the present, which then causes the future, which then causes the present again.
-      The linear sequence of cause and effect has been replaced by circular causality, events related through loops rather than lines.
+      The days after your choice are transformative. If you chose to stay, your perception stabilizes as you adapt to the multiplicity while remaining anchored in this version.
+      The dreams become less vivid. The temporal perception becomes manageable. The sense of self solidifies around your connection to Mira.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is not a paradox that creates instability, not a logical contradiction that breaks the system. The loop is stable, the circular causality maintaining coherence without requiring linear sequence.
-      The system has adapted to inverted causality and found a way to function within it.
+      If you chose to shift, your perception stabilizes in the new version. The multiplicity is the norm here—everyone experiences multiple realities, and your perception is no longer unusual.
+      You're accepted. You belong. But Mira is gone.
   - type: pause
     duration: 800
   - type: text
     value: |
-      Events happen, their causes located in the future rather than the past. Their effects create the future that caused them, the loop closing in on itself in a self-consistent pattern.
-      The causality is not broken—it is simply operating in a different structure.
+      Either way, the choice has consequences. Sava calls to check in. "How are you adapting?"
+      "Stabilizing. The perception is settling."
+      "Good. The adaptation takes time, but you'll find your rhythm."
+      She pauses. "And Mira? How is she handling the aftermath?"
   - type: pause
     duration: 1000
   - type: text
     value: |
-      You realize this is not a breakdown of causality, not a failure of temporal systems. It is an evolution of causality, a transformation into a different mode of temporal relationship.
-      The system has adapted to temporal multiplicity by allowing causality to operate in loops rather than lines.
+      If you stayed: "She's relieved. We're building a life together."
+      If you shifted: "She's grieving. I exist in another version, but to her I'm gone."
+      Sava nods. "That's the cost of the choice. You gain stability, but you pay with connection—or you gain connection, but you pay with stability."
+      "There's no perfect choice."
+      "No. But there's your choice. And you have to live with it."
 choices:
-  - text: "Observe Kai's adaptation"
-    goto: ch27_kai_adaptation
+  - text: "Continue to Chapter 28"
+    goto: ch27_chapter_end
+    set:
+      choice_aftermath: 1

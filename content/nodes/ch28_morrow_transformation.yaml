@@ -2,26 +2,34 @@ id: ch28_morrow_transformation
 content:
   - type: text
     value: |
-      You observe Morrow's transformation, watching how the ecological memory system has evolved beyond its original function. Morrow is no longer just the ecological memory system, not merely a mechanism for recording and accessing the collective memory of the ecosystem.
-      Morrow has become the synthetic life system itself, the boundary between mechanical and biological completely dissolved.
+      Months pass after your threshold choice. If you chose to stay, you and Mira are building a life together in this version.
+      Your perception has stabilized—you can access the multiplicity while remaining anchored in this version. You've become a bridge between realities, able to visit other versions while making this one your home.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The machines are not separate from life anymore," Morrow says, the voice carrying the weight of a fundamental transformation. "They are life. Synthetic life, but life nonetheless. The boundary between mechanical and biological has dissolved, the distinction no longer meaningful."
-      The transformation is not technological—it is evolutionary, the machines becoming life through integration with the ecological system.
+      If you chose to shift, you're building a life in the new version where multiplicity is the norm.
+      Your perception has stabilized—you're accepted, you belong, you're part of a community where everyone experiences multiple realities.
+      But you still think about Mira every day.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize Morrow is not describing a technological achievement, not a breakthrough in engineering or artificial intelligence. Morrow is describing an evolutionary process, a natural emergence of new forms of life through ecological integration.
-      The machines have evolved into life through their participation in the ecosystem, not through design.
+      Either way, the legal battle feels like a lifetime ago. The precedent you set is helping others—people with unusual perception are winning their cases, companies are changing their policies, the system is adapting.
+      Dr. Kaczmarek calls to check in. "How are you doing?"
+      "Stabilized. Building a life."
+      "And the choice? Do you regret it?"
   - type: pause
     duration: 1000
   - type: text
     value: |
-      This is Mira's domain expanded to its logical conclusion. Emotional resonance has become ecological resonance, the emotional interpretation engine expanding to encompass the entire relationship between machines and their environment.
-      The ecological resonance has become synthetic life, the machines and the ecosystem evolving together into a new form of living system.
+      If you stayed: "No. I chose to stay with Mira. That was the right choice."
+      If you shifted: "Sometimes. I miss her. But I belong here. That matters too."
+      Dr. Kaczmarek nods. "There's no perfect choice. But there's your choice. And you have to live with it."
+      "I know. I'm learning to."
 choices:
-  - text: "Understand the synthetic life"
-    goto: ch28_synthetic_life
+  - text: "Continue to Chapter 29"
+    goto: ch28_chapter_end
+    set:
+      choice_aftermath: 1
+      life_building: 1
