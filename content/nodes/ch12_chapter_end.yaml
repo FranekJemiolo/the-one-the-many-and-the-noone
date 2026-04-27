@@ -2,32 +2,40 @@ id: ch12_chapter_end
 content:
   - type: text
     value: |
-      You leave the temporal anomaly zone, the boundary between normal time and folded time fading as you return to the world where causality operates in a single direction. The future memory remains in your mind, coexisting with your past memories.
-      The memory of what has not yet happened feels as real as any memory of what has already happened, demonstrating that the distinction between past and future is not as absolute as normal causality assumes.
+      The chapter ends with you facing the consequences of your choice.
+      If you accepted the separation package, you're unemployed but financially secure—bound by confidentiality and monitoring conditions, but free from immediate legal threat.
+      But you also feel the weight of surrender, the knowledge that you let the system define the terms of your existence.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Kai Rosen remains in the leak, existing at the temporal boundary where normal time breaks down. He is not trapped there—he is adapted to it, has learned to exist in a relationship to time that would be impossible in normal zones.
-      He exists in the temporal boundary where causality is a field, not a line, where influence can move in multiple directions simultaneously.
+      If you refused the package, you're facing termination for cause and a potential legal battle—out of work, facing financial uncertainty, but holding onto your autonomy.
+      But you also have allies. Mira is offering her savings. Dr. Kaczmarek is connecting you with attorneys. You're not fighting alone.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is another crack in the assumption of linear time. The future is not ahead of you, not something that has not yet happened. In anomaly zones, it is already present as memory, accessible from the present moment.
-      The temporal boundary between past, present, and future has become permeable, allowing time to fold back on itself in ways that violate normal causality.
+      Either way, the institutional conflict has escalated. The company has made its move. They've pushed you out, framed you as a liability, tried to control your narrative.
+      This is no longer about documentation or understanding. This is about power.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The cracks continue to accumulate in the foundation of singular reality: memory divergence, emotional-causal split, temporal instability, causal duplication, dual-reality memory, compression pressure, contradiction injection, emotional time independence, causal breakdown, Clarity enforcement, memory reconciliation, future leak.
-      Each crack reveals another way reality can be multiple, another layer of truth that operates independently of the others.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's standing with you whether you surrendered or fought—offering support, offering resources, refusing to let the system break you.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Reality is not just breaking. It is revealing that time itself is multiple—linear in normal zones, where cause precedes effect in a single direction; folded in anomaly zones, where causality operates as a field rather than a line; leaking across boundaries, where the future is already present as memory.
-      The assumption that time must be singular, that it must flow in one direction, is being shattered by the very experience of living through multiple temporal realities.
+      Dr. Kaczmarek is becoming more than an ally—he's a co-conspirator, documenting your case off the books, connecting you with resources, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to risk his position to help you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the escalation of Part II. The institutional conflict is open now. The battle lines are drawn.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And for the first time, you're not just experiencing multiplicity—you're fighting for your right to exist within it.
 choices:
   - text: "Continue to Chapter 13"
     goto: chapter_13

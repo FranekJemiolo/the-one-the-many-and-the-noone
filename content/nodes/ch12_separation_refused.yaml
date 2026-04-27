@@ -1,0 +1,56 @@
+id: ch12_separation_refused
+content:
+  - type: text
+    value: |
+      "I won't accept that," you say. "I won't let you monitor me like a criminal. I won't sign away my right to speak about my own perception."
+      The legal counsel's expression doesn't change. She expected this. "Then we'll proceed with termination for cause. You'll receive formal notification within the week."
+      "And if I fight this?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Then you'll need legal representation. The company will vigorously defend its position. We have extensive documentation of your behavior, your statements, the risks you pose."
+      She stands. "I'd advise you to reconsider. The separation package is generous. Legal battles are expensive and uncertain."
+      "I'll take my chances."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving her office, you feel adrenaline mixed with fear. You've made a choice—a choice to fight rather than surrender.
+      But you also know what you're up against. The company has resources. The company has power. The company will not hesitate to use both.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is proud. "You did the right thing. You didn't let them bully you."
+      "Now I need to figure out how to pay for a lawyer. How to fight a legal battle I can't afford."
+      "We'll figure it out. Together."
+      She takes your hand. "I have some savings. Not much, but enough to start."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can't ask you to do that."
+      "You're not asking. I'm offering. Because this isn't just about you. This is about both of us. About the life we're building together."
+      She meets your eyes. "If they come after you, they're coming after us. And I'm not going to let them win."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      That evening, you call Dr. Kaczmarek. "I refused the separation package. They're proceeding with termination for cause."
+      "I expected you might," he says. "You're not someone who surrenders easily."
+      "Now I need to figure out how to fight them. How to pay for legal representation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I may be able to help with that," he says. "I know attorneys who specialize in employment law. Attorneys who might be willing to take your case pro bono or on contingency."
+      "Why would they do that?"
+      "Because your case is interesting. Because it raises important questions about disability rights, about workplace accommodations, about the rights of people with unusual perceptions."
+      He pauses. "Because it could set a precedent."
+choices:
+  - text: "Continue to Chapter 13"
+    goto: ch12_chapter_end
+    set:
+      institutional_pressure: 75
+      legal_conflict: 1

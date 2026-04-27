@@ -1,0 +1,56 @@
+id: ch12_separation_accepted
+content:
+  - type: text
+    value: |
+      "I'll accept the package," you say. "But I want to review the conditions with my own counsel first."
+      The legal counsel nods. "Reasonable. We'll have the agreement drafted by tomorrow. Take your time reviewing it."
+      She stands. "I hope you understand, Aleksy. This isn't personal. The company has to protect itself."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving her office, you feel hollow. The separation package is generous—enough to live on for months while you figure out what's next.
+      But the conditions are restrictive. Confidentiality. Non-disclosure. Regular monitoring.
+      It feels like surrender.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira is furious. "You shouldn't have accepted that. You should have fought them."
+      "I don't have the resources to fight a legal battle. They have lawyers, money, time. I have... what? A perception they don't understand?"
+      "You have me. You have Dr. Kaczmarek. You have allies."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "And what happens if we lose? If they sue me? If they drag this out for years?"
+      You shake your head. "I can't risk that. I need to protect myself. I need to protect us."
+      She's quiet for a long moment. Then: "I understand. I don't like it, but I understand."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      That evening, you call Dr. Kaczmarek. "They offered me a separation package. Generous terms, but restrictive conditions."
+      "I expected this," he says. "The company is risk-averse. They'll pay to eliminate uncertainty."
+      "I'm going to accept. I don't have the resources to fight them."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "That's a reasonable choice," he says. "But understand: once you sign that agreement, you're giving up control. You're letting them define the terms of your existence."
+      "I know. But I don't see another option."
+      "There's always another option. Just not always one you can afford."
+      He pauses. "I'll continue to document your case privately. Off the books. In case you ever need evidence."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Thank you."
+      "Don't thank me yet. This isn't over. The company may have pushed you out, but your perception is still developing. The cracks are still widening."
+      He pauses. "Whatever comes next, you'll need allies. I intend to be one of them."
+choices:
+  - text: "Continue to Chapter 13"
+    goto: ch12_chapter_end
+    set:
+      institutional_pressure: 65
+      employment_terminated: 1

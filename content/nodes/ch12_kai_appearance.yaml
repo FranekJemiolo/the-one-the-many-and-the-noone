@@ -2,37 +2,57 @@ id: ch12_kai_appearance
 content:
   - type: text
     value: |
-      Kai Rosen is not from your time, not from the present moment that you are experiencing. He is from the temporal boundary where the future is already present as memory, where time has folded back on itself in ways that normal causality cannot explain.
-      His presence feels displaced, as if he exists in a relationship to time that is fundamentally different from your own. There's an urgency in his manner, as if he's carrying knowledge that cannot wait.
+      Two weeks after the joint documentation session, you receive an unexpected call from HR. They want you to come in for a meeting with the company's legal counsel.
+      Mira insists on going with you. "I'm not letting you face this alone."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "I exist in the leak," Kai says, using a term that suggests a breach in the normal boundaries of temporal experience. "The place where the future bleeds into the present, where what has not yet happened from your perspective is already memory from mine.
-      I am not predicting anything. I am remembering what has already happened from a perspective you haven't reached yet."
+      The legal counsel's office is in a different building than Dr. Kaczmarek's—more formal, more imposing, with security at the entrance and a receptionist who checks your ID before letting you in.
+      The counsel herself is sharp, professional, with a manner that suggests she's handled cases like this before.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You ask about causality, about how cause and effect can operate when the future is already known. Kai explains that causality is not linear in the leak, does not flow only from past to future.
-      The future causes the present as much as the present causes the future, creating a causal field where influence moves in multiple directions simultaneously.
+      "Aleksy Wrona," she says, not looking up from her file. "We've been reviewing the documentation from Dr. Kaczmarek's sessions."
+      "And?"
+      "And we have concerns. Specifically about the transferability of your perception. About the possibility that it could affect other employees."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "This is not a paradox," Kai says, and there is a calm certainty in his voice that suggests he has explained this many times. "This is what time looks like when it is not constrained to a single direction.
-      Causality becomes a field, not a line. The future influences the present just as the present influences the future, and both are equally real."
-      He pauses, his expression grave. "But the leak is growing. The boundaries between temporal states are thinning. What I'm telling you isn't theoretical—it's what's coming."
+      "What kind of concerns?"
+      "Liability concerns. Safety concerns. Stability concerns."
+      She finally looks up. "If your perception can spread, if it can affect the reality of people around you, then you represent a potential risk to the company."
+      "I'm not a risk. I'm trying to understand what's happening to me."
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize this is another form of multiplicity. Time itself is multiple—linear time in normal zones, where cause precedes effect in a single direction; folded time in anomaly zones, where causality operates as a field rather than a line.
-      The leak represents a different temporal modality, a way time can work when it is not constrained by the requirement of unidirectional flow. And if the leak is growing, then this temporal modality is spreading.
+      "From the company's perspective, that doesn't matter. What matters is whether you're a liability."
+      She opens a folder on her desk. "We're prepared to offer you a separation package. Generous terms. In exchange for your agreement to certain conditions."
+      "What conditions?"
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Confidentiality. Non-disclosure. An agreement not to discuss your perception with anyone outside of approved medical professionals."
+      She pauses. "And an agreement to submit to regular monitoring. To ensure that your perception isn't spreading to other employees."
+      Mira speaks up for the first time. "That's not acceptable. You're asking him to let you monitor him like he's a criminal."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "We're asking him to accept reasonable conditions in exchange for a generous separation package," the counsel says. "The alternative is termination for cause. Based on the documentation, we have grounds to argue that your behavior constitutes a workplace hazard."
+      The threat is clear. Accept the package and the conditions, or be fired and potentially sued.
 choices:
-  - text: "Accept the temporal anomaly"
-    goto: ch12_chapter_end
-  - text: "Ask about Kai's background"
-    goto: ch12_kai_background
+  - text: "Accept the separation package and conditions"
+    goto: ch12_separation_accepted
     set:
-      background_interest: 1
+      institutional_pressure: 60
+      employment_terminated: 1
+  - text: "Refuse and prepare for legal battle"
+    goto: ch12_separation_refused
+    set:
+      institutional_pressure: 70
+      legal_conflict: 1
