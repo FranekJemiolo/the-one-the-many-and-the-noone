@@ -2,32 +2,40 @@ id: ch16_chapter_end
 content:
   - type: text
     value: |
-      You leave the Null Zone, the boundary of the interpretation void fading as you return to the world where meaning can crystallize. As you exit, interpretation begins to crystallize again, the capacity to assign meaning to perception returning.
-      Identity returns, the sense of self re-forming from the memories that remained even while they could not be unified. Meaning stabilizes, objects regaining their purpose and significance.
+      The chapter ends with the court's ruling denying the company's motion to dismiss. Your case will proceed to discovery.
+      If you focused on personal resilience during the waiting period, you've developed better balance with your perception, learning to integrate it into your daily life rather than letting it consume you.
+      But you're also anxious about discovery—the invasive process of turning over private documentation.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Null Child remains in the void, existing in the absence of interpretation. The Child is not trapped there, not suffering from the lack of meaning. The Child is simply what exists when interpretation cannot form.
-      The Child is the void of interpretation made manifest, the absence of meaning given form as presence.
+      If you focused on contingency planning, you're already prepared for discovery, having organized your documentation and anticipated what the company will request.
+      But you're also aware of the exposure—once you turn over evidence, it becomes part of the public record.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the Engine's fear is not entirely unfounded. If interpretation fails completely, reality becomes meaningless, objects exist without purpose, memories exist without identity. The void is a real danger, a genuine threat to the coherence of experience.
-      The Engine is right to fear the complete collapse of interpretation.
+      Either way, the legal battle has passed its first major test. The court denied the motion to dismiss, meaning your case has legal merit.
+      But discovery will be invasive. The company will see your private documentation. Your personal journals. The intimate details of your perception.
   - type: pause
     duration: 800
   - type: text
     value: |
-      But the Engine's solution is wrong. Compression is not the only way to prevent the void. Rose's stabilization preserves meaning without eliminating multiplicity, allowing incompatible truths to coexist without collapsing into meaninglessness.
-      The Resistance's managed contradiction keeps interpretation alive without forcing singularity, preserving complexity while maintaining the capacity to assign meaning.
+      Mira is still your anchor. The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
+      She's supporting you through the uncertainty, reminding you to maintain your resilience, to stay grounded in who you are outside the legal battle.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Null Zone is a warning, not a proof. It shows what happens when interpretation fails completely, when the capacity to assign meaning breaks down entirely. But it does not prove that multiplicity leads to failure.
-      Rose proves that multiplicity can be stable, that incompatible truths can coexist without collapsing into the void. The Engine's fear is real, but its solution is not the only way to address that fear.
+      Dr. Kaczmarek is still your ally—providing expert testimony, documenting your case off the books, going against the system he works for.
+      He believes in understanding. He believes your perception is real. He's willing to risk his position to help you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      This is the continuation of Part II escalation. The legal battle has passed its first test. Discovery looms ahead.
+      The cracks in reality are widening. The system is responding. The convergence is approaching.
+      And you're starting to realize: this fight is about more than your perception. It's about the right to exist as who you are in a system that demands conformity.
 choices:
   - text: "Continue to Chapter 17"
     goto: chapter_17

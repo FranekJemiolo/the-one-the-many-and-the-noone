@@ -1,0 +1,41 @@
+id: ch16_contingency_planning
+content:
+  - type: text
+    value: |
+      You decide to prepare for both outcomes. If the court grants the motion, you'll need to appeal or find another legal avenue. If it denies it, you'll proceed to discovery.
+      Elena approves. "Good thinking. Contingency planning is essential in litigation."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You spend the waiting period developing plans for both scenarios—researching appellate procedures, preparing for discovery, organizing your documentation.
+      Mira helps you stay organized. "You're being strategic. That's good."
+      "I can't control the outcome, but I can control how prepared I am."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Three weeks after the hearing, the ruling arrives. The court denies the company's motion to dismiss.
+      Your case will proceed to discovery.
+      Elena calls immediately. "This is huge. We passed the first major test. Now we get to see their internal documents, their communications, the evidence they've been hiding."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You feel a surge of relief, followed immediately by focus. Your contingency planning paid off—you're already prepared for discovery.
+      But you also feel the weight of what's coming. Discovery means the company will have to turn over evidence—but it also means you'll have to turn over yours.
+      Your private documentation. Your personal journals. The intimate details of your perception.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Discovery is invasive," Elena warns. "They'll want everything. Your medical records. Your personal journals. Your communications with Dr. Kaczmarek."
+      "I know. I'm prepared for that."
+      "Are you? Because once you turn something over, you can't take it back. It becomes part of the public record."
+      She pauses. "You need to be sure you're ready for that level of exposure."
+choices:
+  - text: "Continue to Chapter 17"
+    goto: ch16_chapter_end
+    set:
+      legal_conflict: 1
+      discovery_phase: 1

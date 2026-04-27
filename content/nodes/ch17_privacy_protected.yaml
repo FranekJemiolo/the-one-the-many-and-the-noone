@@ -1,0 +1,40 @@
+id: ch17_privacy_protected
+content:
+  - type: text
+    value: |
+      "I won't turn them over," you say. "Some things should remain private."
+      Elena considers this. "That's your right. But understand the risk. The company will argue we're hiding evidence. The court may agree."
+      "Then let them argue. I'll fight to protect my privacy."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I can file a motion to protect certain documents as privileged. But the journals aren't covered by attorney-client privilege."
+      "Then I'll argue they're irrelevant. That they contain personal thoughts, not evidence of disability."
+      She nods. "We can try. But the court may not agree."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The motion is filed. The company opposes it, arguing that the journals are relevant evidence that should be turned over.
+      The judge will decide. The uncertainty is agonizing.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is supportive. "You're doing the right thing. Protecting your privacy matters."
+      "Even if it costs me the case?"
+      "Then you'll have kept your integrity. And that matters too."
+      She takes your hand. "Whatever happens, you'll have stood up for yourself. That's not nothing."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You nod. She's right. This isn't just about winning. It's about maintaining your dignity, your autonomy, your right to keep parts of yourself private.
+      Even if the system demands total exposure, you have the right to say no.
+choices:
+  - text: "Continue to Chapter 18"
+    goto: ch17_chapter_end
+    set:
+      legal_conflict: 1
+      privacy_defended: 1

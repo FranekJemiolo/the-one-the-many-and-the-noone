@@ -1,0 +1,41 @@
+id: ch16_waiting_period
+content:
+  - type: text
+    value: |
+      The waiting period is difficult. Every day you check for the ruling, every day there's nothing. The uncertainty is agonizing.
+      Mira helps you stay grounded. "We can't control the timeline. We can only control how we respond to it."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You spend the time focusing on personal resilience—exercising, meditating, spending time with Mira, trying to maintain your sense of self outside the legal battle.
+      Your perception continues to develop. The dreams are getting more vivid. The temporal perception is getting more pronounced.
+      But you're learning to live with it, to integrate it into your daily life rather than letting it consume you.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "You're getting better at this," Mira observes one evening. "At living with your perception."
+      "I have to. It's not going away."
+      "No. But you're not letting it control you either. You're finding balance."
+      She pauses. "That's what resilience looks like."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Three weeks after the hearing, the ruling arrives. The court denies the company's motion to dismiss.
+      Your case will proceed to discovery.
+      Elena calls immediately. "This is huge. We passed the first major test. Now we get to see their internal documents, their communications, the evidence they've been hiding."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You feel a surge of relief, followed immediately by anxiety. Discovery means the company will have to turn over evidence—but it also means you'll have to turn over yours.
+      Your private documentation. Your personal journals. The intimate details of your perception.
+      The legal battle is about to get much more invasive.
+choices:
+  - text: "Continue to Chapter 17"
+    goto: ch16_chapter_end
+    set:
+      legal_conflict: 1
+      discovery_phase: 1

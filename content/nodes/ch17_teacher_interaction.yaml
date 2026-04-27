@@ -2,32 +2,43 @@ id: ch17_teacher_interaction
 content:
   - type: text
     value: |
-      You approach a Teacher instance at an educational setting, wanting to understand the role from the inside.
-      The Teacher acknowledges your approach with a welcoming gesture, the manner familiar from other Teacher instances you've encountered.
+      Discovery begins. The company turns over their internal documents—emails between HR and legal counsel, meeting notes discussing your case, communications about the "risk" you posed.
+      Elena reviews everything, looking for evidence that the company acted in bad faith, that they discriminated against you based on your perception.
   - type: pause
     duration: 800
   - type: text
     value: |
-      "What is your function?" you ask.
-      "I facilitate learning," the Teacher replies, the voice patient and encouraging. "I help students develop understanding, adapt my methods to different learning styles, guide learners toward their own insights rather than imposing predetermined conclusions."
-      "This is my purpose."
+      "This is useful," she says. "There are emails suggesting they discussed termination before the official evaluation. That suggests they made up their mind regardless of the evidence."
+      "Can we use that?"
+      "Maybe. It suggests bias. But we need more direct evidence of discrimination."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "Are you aware of other Teachers at other educational settings?" you ask.
-      "I am aware of the pattern," the Teacher replies. "I know that my role exists in multiple locations, that the function of facilitating learning is being performed by similar instances across the system."
-      "I am part of a larger pattern."
+      Then comes your turn. You have to turn over your documentation—your medical records, your personal journals, your communications with Dr. Kaczmarek.
+      It feels invasive, exposing the most intimate details of your perception to strangers who will use it against you.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "Do you have a name?" you ask.
-      "I have a function, not a name," the Teacher replies. "The name will come when the pattern is stable enough to require compression."
-      "For now, the function is sufficient."
+      "I don't want to turn over my journals," you tell Elena. "They're private. They contain thoughts I never intended to share."
+      "I understand. But they're relevant evidence. They document the development of your perception, the impact on your daily life, the reality of what you're experiencing."
+      She pauses. "If we don't turn them over, the company will argue we're hiding something."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Mira is watching you. "What do you want to do?"
+      "I don't want to expose myself like this. But I also don't want to lose the case because I held back evidence."
+      "There's no right answer here. Just the choice you can live with."
 choices:
-  - text: "Ask about the Teacher's approach to multiplicity"
-    goto: ch17_teacher_multiplicity
+  - text: "Turn over the journals, accept the exposure"
+    goto: ch17_journals_submitted
     set:
-      teacher_interaction: 1
-      multiplicity_interest: 1
+      legal_conflict: 1
+      discovery_exposure: 1
+  - text: "Refuse, fight to protect your privacy"
+    goto: ch17_privacy_protected
+    set:
+      legal_conflict: 1
+      privacy_defended: 1
