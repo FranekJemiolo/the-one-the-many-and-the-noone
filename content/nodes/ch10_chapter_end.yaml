@@ -2,32 +2,48 @@ id: ch10_chapter_end
 content:
   - type: text
     value: |
-      You leave the Clarity Administration facility, the doors closing behind you as you step back into the world outside. The environment returns to normal—or what passes for normal in a world of multiplicity.
-      The air feels thicker again, full of uninterpreted possibilities, full of the multiple versions of reality that the Clarity zone had eliminated.
+      The chapter ends with you leaving Dr. Kaczmarek's office, the first documentation session complete.
+      If you shared your theory about alternate selves, you feel lighter—Dr. Kaczmarek took it seriously, didn't dismiss you, seemed genuinely interested in understanding your perception.
+      The partnership feels like it might actually work.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Seraph Kline continues her work, maintaining the Clarity zone, enforcing singularity in the name of stability. She is not malicious, not acting out of desire for power or control.
-      She genuinely believes that singularity is necessary for stability, that she is saving reality from chaos. But she is wrong.
+      If you kept your theory private, you feel cautiously optimistic—Dr. Kaczmarek respected your boundaries, didn't push for information you weren't ready to share.
+      But you also feel the weight of what you're holding back, the risk of not being fully honest.
   - type: pause
     duration: 800
   - type: text
     value: |
-      The Engine's ideology is based on a false premise. Multiplicity does not lead to chaos. The Resistance proves that multiplicity can be stable, that systems containing multiple truths can function without collapsing.
-      Rose proves that contradiction can coexist, that incompatible truths can exist side by side without breaking the system.
+      Either way, the institutional relationship is developing. Dr. Kaczmarek is becoming a known quantity—methodical, respectful, genuinely interested in understanding your perception.
+      Whether he's an ally or an adversary remains to be seen, but he's at least someone you can work with.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You realize the conflict is not between order and chaos. It is between two different kinds of order: singular order and plural order.
-      The Engine wants singular order, where one truth eliminates all others. The Resistance wants plural order, where multiple truths coexist without requiring reconciliation.
+      Mira is still your constant. The anchor keeping you grounded while your perception fractures.
+      The love you confessed in Chapter 8 is solid, lasting, the foundation for everything that comes next.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The Engine wants singular order. The Resistance wants plural order. Both are valid forms of stability. Both can produce functional systems.
-      The Engine just refuses to acknowledge the plural option, insisting that singularity is the only way to prevent chaos.
+      This is the end of Part I. The foundation is complete.
+      Aleksy as protagonist, with animal POV memories and developing perception.
+      Mira as anchor, with resonant perception and deepening love.
+      Dr. Kaczmarek as institutional question mark, with genuine interest in understanding.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Part II will bring escalation—deeper institutional conflict, the introduction of Sava Illich as your mirror, the convergence of multiple timelines.
+      The cracks in reality are widening. The system is responding. The choices you make will determine what comes next.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you're starting to realize that who you are is more complicated than that.
+      And with Mira by your side, you're starting to think that might be okay.
 choices:
   - text: "Continue to Chapter 11"
     goto: chapter_11

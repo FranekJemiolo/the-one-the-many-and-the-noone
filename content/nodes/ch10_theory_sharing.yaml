@@ -1,0 +1,54 @@
+id: ch10_theory_sharing
+content:
+  - type: text
+    value: |
+      "I think they're memories from other versions of myself," you say. "From alternate realities where I made different choices."
+      Dr. Kaczmarek doesn't react with surprise. Doesn't dismiss it. Just writes it down.
+      "Alternate realities. Different choices. Can you elaborate?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I think reality is multiple. That there are different versions of the same moment, different versions of myself, all equally real."
+      You pause. "And I think my perception is developing to access those other versions. To remember what they experienced."
+      He nods, writing this down. "And the alternate self you saw last night?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You hesitate, then tell him about the version of yourself that faced the system alone. The version that was institutionalized, broken, erased.
+      "That's what happens without Mira," you say. "Without support. Without someone to anchor me."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Dr. Kaczmarek is quiet for a long moment. When he speaks, his voice is thoughtful.
+      "This is a compelling theory. It explains the consistency of the dreams, the emotional resonance, the sense of recognition."
+      He looks up. "But it also raises questions. If alternate realities exist, if alternate versions of yourself exist, then what does that mean for identity? For who you are?"
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "I don't know," you admit. "I'm still figuring that out."
+      "That's fair. These are big questions. Questions that don't have easy answers."
+      He closes his notebook. "For today, I think this is enough. We've made good progress."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "What happens next?"
+      "I'll document our session. I'll send you a copy before it goes to HR. I'll advocate for you with the company."
+      He stands. "Same time next week?"
+      "I'll be here."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving his office, you feel lighter than you expected. The session went well. Dr. Kaczmarek took your theory seriously. He didn't dismiss you.
+      Maybe this partnership will actually work. Maybe you can find a way to navigate this within the system.
+choices:
+  - text: "Continue to Chapter 11"
+    goto: ch10_chapter_end
+    set:
+      dr_kaczmarek_trust: 70
+      institutional_pressure: 25

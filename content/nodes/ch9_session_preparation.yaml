@@ -1,0 +1,45 @@
+id: ch9_session_preparation
+content:
+  - type: text
+    value: |
+      You push the memory away. You don't have time for alternate selves right now. You need to focus on tomorrow's session with Dr. Kaczmarek.
+      Mira is watching you, concerned. "What was that? You looked like you were somewhere else for a moment."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "Nothing. Just... another memory. From the gaps."
+      "Do you want to talk about it?"
+      "No. I need to focus on tomorrow. On what I'm going to tell Dr. Kaczmarek."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She nods, respecting your choice. "Okay. But if you change your mind, I'm here."
+      "I know."
+      She helps you finish organizing your documentation, reviewing what you're planning to share, what you want to hold back.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The preparation feels strategic, calculated. You're not just sharing information—you're managing a relationship, building trust while protecting yourself.
+      It's the kind of thing you've always been good at—reading people, understanding motivations, knowing what to reveal and what to conceal.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      But this is different. This isn't just about information. It's about your perception, your identity, your sense of self.
+      The stakes are higher than any negotiation you've ever been in.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "You're going to do great," Mira says, as you finish for the night. "You're smart, you're careful, and you have me backing you up."
+      "I know."
+      She kisses you—soft, brief, but full of meaning. "Now get some sleep. Tomorrow is going to be a long day."
+choices:
+  - text: "Sleep and prepare for tomorrow's session"
+    goto: ch9_chapter_end
+    set:
+      aleksy_detachment: 75
+      institutional_pressure: 40

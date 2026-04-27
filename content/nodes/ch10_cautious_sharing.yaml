@@ -1,0 +1,49 @@
+id: ch10_cautious_sharing
+content:
+  - type: text
+    value: |
+      "I'm still figuring that out," you say, keeping your theory private for now. "I need more time to understand what these memories mean."
+      Dr. Kaczmarek nods, accepting this without pushing. "That's fair. These are big questions. Questions that don't have easy answers."
+      He writes something in his notebook. "We can revisit this when you're ready."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "For today, I think this is enough," he says. "We've made good progress documenting the dreams."
+      He closes his notebook. "I'll document our session. I'll send you a copy before it goes to HR. I'll advocate for you with the company."
+      He stands. "Same time next week?"
+      "I'll be here."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Leaving his office, you feel cautiously optimistic. The session went well. Dr. Kaczmarek respected your boundaries. He didn't push for information you weren't ready to share.
+      But you also feel the weight of what you're holding back. The theory about alternate selves feels important, but sharing it feels risky.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      Mira is waiting outside. "How did it go?"
+      "Well. He respected my boundaries. He didn't push."
+      "Did you tell him about the alternate selves?"
+      "No. I'm not ready for that yet."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      She nods. "That's okay. You don't have to share everything at once. Build trust gradually."
+      She takes your hand. "How are you feeling?"
+      "Cautiously optimistic. I think this might actually work."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "Good. But stay careful. Keep documenting everything he tells you. Keep your own records."
+      "I will."
+      She smiles. "And remember: whatever happens, you have me. We're in this together."
+choices:
+  - text: "Continue to Chapter 11"
+    goto: ch10_chapter_end
+    set:
+      dr_kaczmarek_trust: 50
+      institutional_pressure: 30

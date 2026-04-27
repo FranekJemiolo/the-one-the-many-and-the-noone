@@ -1,0 +1,58 @@
+id: ch9_alternate_self
+content:
+  - type: text
+    value: |
+      You let the memory surface. It's vivid, immediate, as if you're living it right now.
+      In this version of reality, you didn't call Mira when the dreams started. You didn't accept her help. You tried to handle it alone.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The memory shows you sitting alone in your apartment, the documentation spread out before you. No Mira. No support. Just you and the impossible perception.
+      The institutional pressure came faster in this version. HR got involved sooner. Dr. Kaczmarek wasn't an option—he was brought in as an adversary, not a partner.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      In this version, you were terminated. Labeled delusional. Institutionalized.
+      The memory shows you in a sterile room, white walls, no windows. The doctors telling you that your perception was a symptom. That you needed treatment.
+      You fought them. You tried to explain that what you were experiencing was real. They didn't listen.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      The memory ends with you alone, broken, your perception suppressed by medication, your sense of self eroded by the system that couldn't tolerate your difference.
+      This is what happens without Mira. This is what happens when you face the system alone.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You wake up from the memory, gasping, your heart racing.
+      Mira is there immediately, her hand on your arm. "Aleksy? What happened?"
+      "I saw... another version. A version where I didn't have you. Where I faced this alone."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      She pulls you into an embrace, holding you while you shake off the memory.
+      "That's not this version," she says. "In this version, you have me. In this version, we're in this together."
+      "I know. But it was so real. So vivid."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      "That's what alternate selves feel like," she says. "Real. Vivid. But they're not you. They're possibilities you didn't choose."
+      She pulls back to look at you. "You chose this version. You chose to call me. You chose to let me help. That matters."
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      You nod. She's right. The memory was terrifying, but it was also a reminder—a reminder of how much you need her, of how different things are because she's in your life.
+      "I love you," you say. "I don't say it enough, but I love you."
+      She smiles. "I know. And I love you too. Now let's get some sleep. Tomorrow is going to be a long day."
+choices:
+  - text: "Sleep and prepare for tomorrow's session"
+    goto: ch9_chapter_end
+    set:
+      aleksy_fracture_level: 85
+      mira_trust: 100

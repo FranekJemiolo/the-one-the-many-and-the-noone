@@ -2,35 +2,50 @@ id: ch10_performance_reframing
 content:
   - type: text
     value: |
-      You reframe the expansion to emphasize performance benefits, documenting how multiplicity zones improve decision-making, problem-solving, and overall system performance.
-      Leadership responds positively to this framing, recognizing that multiplicity has value beyond cost savings.
+      The next morning, you arrive at Dr. Kaczmarek's office at 10 AM sharp. The corridors feel different today—less hostile, more neutral, as if the building itself is waiting to see how this session goes.
+      Dr. Kaczmarek is already there, his notebook open, his pen ready. "Aleksy. Good to see you."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "The reframing is accelerating the ideological shift," Seraph reports. "Leadership is now viewing multiplicity as an asset rather than a cost, as a capability rather than a risk.
-      They're becoming more receptive to complete conversion."
+      "You too."
+      "Before we begin, I want to reiterate our agreement. You get copies of everything. You review results before they go to HR. You have control over the narrative."
+      He pauses. "I intend to honor that agreement. I want you to trust that."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "This demonstrates an important principle," you observe. "Ideological change is easier when it's framed as benefit rather than sacrifice.
-      Leadership is more willing to embrace multiplicity when they see it as improving performance rather than just saving money."
+      "I'll trust when I see evidence."
+      "Fair enough. Let's begin."
+      He opens his notebook to a fresh page. "Tell me about the dreams. The first one. The hunt."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Seraph proposes complete conversion to leadership, framing it as an optimization of system performance rather than an ideological shift.
-      Leadership approves, and the remaining Clarity zones are converted to multiplicity zones.
+      You tell him about the animal POV—the cold, the height, the focus, the impossible miss when the moment itself changed.
+      He writes everything down, his pen moving across the page with precise, controlled strokes. He doesn't interrupt, doesn't judge, just documents.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You think about how Aleksy and Mira would react to this shift. Aleksy would be skeptical of the reframing, seeing it as a tactical move that doesn't address the fundamental question of whether reality should be singular or multiple.
-      Mira would be cautiously optimistic, seeing the reframing as evidence that emotional truth and multiplicity are gaining legitimacy, even if the motivations are pragmatic rather than philosophical.
+      "And the second dream?" he asks when you finish.
+      You tell him about being hunted—the fear, the escape, the emotional reversal where you felt relief before you were safe.
+      He writes that down too, his expression thoughtful.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      "These are remarkably consistent," he says when you finish. "The details are vivid. The emotional resonance is strong."
+      "They feel real."
+      "I believe they feel real to you. The question is whether they're memories from other versions of yourself, or whether they're something else entirely."
+      He looks up. "What do you think they are?"
 choices:
-  - text: "Support the complete conversion"
-    goto: ch10_complete_conversion
+  - text: "Share your theory about alternate selves"
+    goto: ch10_theory_sharing
     set:
-      performance_reframing: 1
-      complete_approved: 1
+      dr_kaczmarek_trust: 60
+  - text: "Keep your theory private for now"
+    goto: ch10_cautious_sharing
+    set:
+      dr_kaczmarek_trust: 40
+

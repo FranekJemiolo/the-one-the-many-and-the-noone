@@ -2,29 +2,50 @@ id: ch9_governance_presentation
 content:
   - type: text
     value: |
-      You support Seraph in presenting the case to the governance structures, demonstrating that the current system is failing and that reform is necessary.
-      The presentation is detailed, showing the gap's growth, the consciousness's success with multiplicity, and the projected consequences of inaction.
+      The next morning, you call Dr. Kaczmarek to accept his partnership offer—on your terms.
+      "I'll cooperate with documentation," you say. "I'll let you track my perception. But I want copies of everything. I want to review results before they go to HR. I want control over the narrative."
   - type: pause
     duration: 800
   - type: text
     value: |
-      The governance structures are skeptical but attentive. They recognize the evidence is compelling, but they are reluctant to authorize significant changes to a system that has operated for decades.
-      They request additional time to consider the proposal, to assess the risks, to consult with other stakeholders.
+      Dr. Kaczmarek considers this. "That's reasonable. I can agree to those terms."
+      "Good. When do we start?"
+      "Tomorrow. Come to my office at 10 AM. We'll begin the documentation process."
+      He pauses. "And Aleksy? Thank you for trusting me. I know that's not easy."
   - type: pause
     duration: 800
   - type: text
     value: |
-      "This is not a rejection," Seraph says after the presentation. "It's a delay. The governance structures are cautious, but they are taking the proposal seriously.
-      They may approve it, or they may request modifications, or they may reject it. But at least they're considering it."
+      Hanging up, you feel a mix of emotions. Relief that you have a plan. Anxiety about what Dr. Kaczmarek will do with the information. Hope that this might actually work.
+      Mira is watching you. "How did it go?"
+      "He accepted my terms. We start tomorrow."
   - type: pause
     duration: 1000
   - type: text
     value: |
-      "While we wait," she continues, "we should continue gathering evidence, monitoring the gap's growth, and preparing alternative approaches in case the official channels fail.
-      We cannot rely entirely on governance approval when the timeline to critical gap levels is so short."
+      "That's good," she says. "But be careful. Document everything he tells you. Keep your own records."
+      "I will."
+      She takes your hand. "And remember: whatever happens with Dr. Kaczmarek, whatever happens with the company, you have me. We'll figure this out together."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      The day passes quietly. You prepare for tomorrow's session—organizing your documentation, thinking about what you're willing to share, what you want to keep private.
+      Mira helps you review everything, offering perspectives on what information is safe to share and what should be held back.
+  - type: pause
+    duration: 1000
+  - type: text
+    value: |
+      That evening, as you're getting ready for bed, you feel something shift. A new dream memory surfacing—not from sleep, but from the gaps between realities.
+      This one is different. Not about hunting or being hunted. About something else entirely.
+      About a version of yourself that made different choices. A version that didn't have Mira. A version that faced the system alone.
 choices:
-  - text: "Continue preparing alternative approaches"
-    goto: ch9_alternative_preparation
+  - text: "Explore the alternate self memory"
+    goto: ch9_alternate_self
     set:
-      governance_presentation: 1
-      alternatives_prepared: 1
+      aleksy_fracture_level: 80
+  - text: "Push it away, focus on tomorrow's session"
+    goto: ch9_session_preparation
+    set:
+      aleksy_detachment: 70
+

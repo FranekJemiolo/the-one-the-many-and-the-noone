@@ -2,32 +2,41 @@ id: ch9_chapter_end
 content:
   - type: text
     value: |
-      You close the investigation file, the folder clicking shut with a sound that feels inadequate for what you have discovered. The sequence cannot be resolved. The data contains multiple valid causal chains that cannot be reconciled.
-      The investigation has failed not because of insufficient data or flawed methodology, but because reality itself has become too multiple for the kind of truth that can be compressed into a single sequence.
+      The chapter ends with you going to sleep, the day of Dr. Kaczmarek's documentation session looming ahead.
+      If you explored the alternate self memory, you're shaken by the vision of a version of yourself that faced the system alone—a version that was institutionalized, broken, erased.
+      But you're also grateful—grateful that you chose differently, grateful that you have Mira, grateful that you're not facing this alone.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      Seraph Kline is disappointed, her expression conveying a judgment that goes beyond professional dissatisfaction. She expected you to choose a single sequence for system stability, to prioritize compatibility over truth.
-      You refused because the data does not support a single sequence, because choosing one would be a lie about what the data actually contains.
+      If you pushed the memory away, you're focused on strategy—on managing the relationship with Dr. Kaczmarek, on protecting yourself while building trust.
+      You're calculating, careful, prepared for whatever comes next.
   - type: pause
     duration: 800
   - type: text
     value: |
-      This is the end of Part I's final chapter. Stable reality has completely broken down. Causal investigation no longer works. Emotional time is independent of causal time. The Engine is compressing interpretation toward singularity.
-      The Resistance is injecting contradiction to preserve multiplicity. The cracks have become structural features rather than anomalies.
+      Either way, the relationship with Mira is solid. She's your anchor, your partner, the one who keeps you grounded while your perception fractures.
+      The love you confessed in Chapter 8 is real, lasting, the foundation for everything that comes next.
   - type: pause
     duration: 800
   - type: text
     value: |
-      You are no longer operating in a world where causality is singular, where moments happen one way, where truth can be compressed into a single narrative. You are operating in a world where causality is multiple, where the system is trying to force it back into singularity.
-      The conflict between the Engine and the Resistance is no longer abstract—it is the fundamental structure of your reality.
+      The institutional pressure is still real. Dr. Kaczmarek is still a question mark. The system is still watching.
+      But you're not facing it blindly anymore. You have a plan. You have allies. You have love.
   - type: pause
     duration: 1000
   - type: text
     value: |
-      The next phase will bring the interpretation systems into full visibility. Clarity Administration, with Seraph Kline enforcing singular causality. Sister Lys, representing a different approach to multiplicity. Kai Rosen, Morrow Vale.
-      The systems that manage multiplicity, the interpretation engines that shape what counts as truth—they are about to appear.
+      This is the end of Part I. The foundation is set. Aleksy as protagonist, Mira as anchor, Dr. Kaczmarek as institutional question mark.
+      The perception is developing. The relationship is deepening. The conflict is escalating.
+      Part II will bring the next phase—escalation, deeper institutional conflict, the introduction of Sava Illich as your mirror.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      Aleksy Wrona. That's your name. That's who you are supposed to be.
+      But you're starting to realize that who you are is more complicated than that.
+      And with Mira by your side, you're starting to think that might be okay.
 choices:
   - text: "Continue to Chapter 10"
     goto: chapter_10
