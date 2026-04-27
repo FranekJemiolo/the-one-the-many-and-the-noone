@@ -30,6 +30,12 @@ content:
     value: |
       "Non-violent resistance can be powerful," you reply. "If the cyborg refuses integration, the consciousness might not function properly without a memory node.
       The organization might be forced to negotiate terms rather than forcing compliance."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about how Aleksy and Mira would react to this. Aleksy would likely be cautious—focused on understanding the organization's goals before interfering with their experiments.
+      Mira would be immediately supportive, seeing the cyborg's struggle for autonomy as parallel to her own fight for emotional truth to be respected.
 choices:
   - text: "Continue the investigation with the cyborg as an ally"
     goto: ch4_cyborg_encounter

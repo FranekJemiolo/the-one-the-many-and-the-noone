@@ -18,6 +18,14 @@ content:
     duration: 1000
   - type: text
     value: "This is the second anomaly. First: memory divergence. Now: emotional misalignment. Reality is not just producing multiple pasts. It's producing incompatible feelings about the same present."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Mira would understand this immediately. She's been telling you from the beginning that emotional truth operates on its own logic, independent of causal sequence. This patient's experience would confirm everything she's been saying."
+  - type: pause
+    duration: 800
+  - type: text
+    value: "Aleksy would be deeply troubled. To him, if the facts are correct, then the emotional experience should align. The mismatch would feel like an error in the patient's perception—or worse, evidence that reality itself is breaking down in ways that make no sense."
 choices:
   - text: "Examine the patient directly"
     goto: ch2_patient_encounter

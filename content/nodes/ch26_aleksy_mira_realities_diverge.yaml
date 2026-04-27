@@ -10,18 +10,21 @@ content:
     value: |
       Aleksy's reality: Causal sequences are clear, events following a linear chain of cause and effect that makes sense according to the rules of logical progression. Events happen in specific orders, the timeline unambiguous and coherent.
       Interpretation follows logical chains, reality singular and coherent according to the principles of causal analysis.
+      Aleksy has found a version of reality that validates everything he believed from the beginning—but the cost is that he can no longer access Mira's perspective.
   - type: pause
     duration: 800
   - type: text
     value: |
       Mira's reality: Emotional sequences are clear, events following a pattern of feeling and meaning that makes sense according to the rules of emotional experience. Events feel specific ways, the emotional truth of the experience more significant than the temporal sequence.
       Interpretation follows emotional resonance, reality multiple and coherent according to the principles of emotional understanding.
+      Mira has found a version of reality that validates everything she believed from the beginning—but the cost is that she can no longer access Aleksy's perspective.
   - type: pause
     duration: 800
   - type: text
     value: |
       Both realities are internally coherent, each making complete sense within its own framework. Both are mutually incompatible, each requiring the other to be false in order to be fully true.
       Neither can access the other's interpretation of the same moment, each interpretation engine generating a complete world that excludes the other.
+      The friendship that began with their shared testimony in Chapter 1 has been broken by the very reality they helped reveal—each vindicated in their perspective, but separated by the victory.
 choices:
   - text: "Observe that reconciliation is no longer possible"
     goto: ch26_no_reconciliation_possible

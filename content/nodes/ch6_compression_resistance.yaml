@@ -18,6 +18,12 @@ content:
     value: |
       "Sabotage would be detected," you warn. "The organization would know someone is interfering, and they would investigate."
       "That's a risk we'd have to accept," Koval replies. "But if the alternative is a consciousness that enforces singularity, the risk might be worth taking."
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about Aleksy and Mira. Aleksy would be deeply conflicted about sabotage—he would resist the organization's compression but would oppose sabotage as too risky and unprincipled.
+      Mira would support resistance immediately, seeing sabotage as a necessary evil to prevent the consciousness from enforcing singularity, but she would worry about the personal cost to Koval if caught.
 choices:
   - text: "Proceed with sabotage despite the risks"
     goto: ch6_sabotage_attempt

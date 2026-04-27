@@ -34,6 +34,12 @@ content:
     value: |
       "The training will take weeks," she says. "Maybe months. Are you prepared to commit that much time to developing abilities that might make you a target of the organization?"
       This is a significant commitment. Developing these abilities would require dedicating yourself to training, with the risk that the organization will notice your growing capabilities.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about Aleksy and Mira. Aleksy would be skeptical of this training—he would want concrete evidence that the organization exists and is responsible for the anomalies before committing to such a dangerous path.
+      Mira would be more open to it, trusting your intuition about the gaps between realities, but she would worry about the personal cost of spending months in training.
 choices:
   - text: "Commit to the full training program"
     goto: ch3_advanced_training

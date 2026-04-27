@@ -22,6 +22,12 @@ content:
     value: |
       Seraph proposes complete conversion to leadership, framing it as an optimization of system performance rather than an ideological shift.
       Leadership approves, and the remaining Clarity zones are converted to multiplicity zones.
+  - type: pause
+    duration: 800
+  - type: text
+    value: |
+      You think about how Aleksy and Mira would react to this shift. Aleksy would be skeptical of the reframing, seeing it as a tactical move that doesn't address the fundamental question of whether reality should be singular or multiple.
+      Mira would be cautiously optimistic, seeing the reframing as evidence that emotional truth and multiplicity are gaining legitimacy, even if the motivations are pragmatic rather than philosophical.
 choices:
   - text: "Support the complete conversion"
     goto: ch10_complete_conversion
