@@ -1,7 +1,7 @@
 {
   "name": "the-one-the-many-and-the-noone",
   "version": "1.0.0",
-  "description": "The One, The Many, and The No-One - An interactive novel about distributed consciousness and interpretive ambiguity",
+  "description": "An interactive story about consciousness and how different people can interpret the same events in completely different ways.",
   "main": "dist/app.js",
   "scripts": {
     "dev": "vite",
